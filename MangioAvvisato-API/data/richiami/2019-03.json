@@ -1,0 +1,261 @@
+{
+ "citterino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/citterino/",
+  "titolo": "Citterino",
+  "data_pubblicazione": "2019-03-08",
+  "marca": "Giuseppe Citterio Salumificio spa",
+  "denominazione": "Citterino",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Citterio_1_1761178656.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo Citterio_1_1761178656.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Citterio_1_1761178656.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "citterino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:59+00:00"
+ },
+ "citterino-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/citterino-0/",
+  "titolo": "Citterino",
+  "data_pubblicazione": "2019-03-12",
+  "marca": "Giuseppe Citterio Salumificio spa",
+  "denominazione": "Citterino",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Citterio_integrato_1761178659.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_Citterio_integrato_1761178659.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Citterio_integrato_1761178659.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "citterino-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:56+00:00"
+ },
+ "dolcetti-marshmallow-sotsak-skumtopp": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dolcetti-marshmallow-sotsak-skumtopp/",
+  "titolo": "dolcetti marshmallow SÖTSAK SKUMTOPP",
+  "data_pubblicazione": "2019-03-13",
+  "marca": "IKEA",
+  "denominazione": "dolcetti marshmallow SÖTSAK SKUMTOPP",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministero_1761178662.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello ministero_1761178662.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministero_1761178662.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "dolcetti-marshmallow-sotsak-skumtopp",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:54+00:00"
+ },
+ "fagiolini-finissimi-surgelati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagiolini-finissimi-surgelati/",
+  "titolo": "Fagiolini finissimi surgelati",
+  "data_pubblicazione": "2019-03-20",
+  "marca": "Delizia del Sole - Eurospin Italia Spa",
+  "denominazione": "Fagiolini finissimi surgelati",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20fagiolini%20600g%20Eurospin_1761178669.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo fagiolini 600g Eurospin_1761178669.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20fagiolini%20600g%20Eurospin_1761178669.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fagiolini-finissimi-surgelati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:47+00:00"
+ },
+ "farina-di-grano-tenero-tipo-00-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-00-0/",
+  "titolo": "FARINA DI GRANO TENERO TIPO 00",
+  "data_pubblicazione": "2019-03-04",
+  "marca": "SELEX",
+  "denominazione": "FARINA DI GRANO TENERO TIPO 00",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/385786_Richiamo_Selex_1761178653.pdf",
+  "allegati": [
+   {
+    "titolo": "385786_Richiamo_Selex_1761178653.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/385786_Richiamo_Selex_1761178653.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "farina-di-grano-tenero-tipo-00-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FARINA DI GRANO TENERO TIPO 00",
+   "operatore": "SELEX Via C.Colombo, 51 20090 Trezzano s/N MI",
+   "lotti": [
+    "L 19 009"
+   ],
+   "produttore": "MOLINO ROSSETTO",
+   "sede_stabilimento": "Via San Fausto 98 Pontelongo PD",
+   "scadenza": "09-02-2020",
+   "peso_volume": "sacchetto carta 1 kg, cod. ean 8003100250018",
+   "motivo_esteso": "presenza dell'allergene soia, quale sostanza allergizzante, non dichiarata in etichetta, sebbene sulla confezione sia riportata la dicitura: \"può contenere tracce di soia\"",
+   "avvertenze": "il prodotto non è idoneo al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori a non consumarlo e riportarlo presso il luogo d'acquisto, dove sarà rimborsato e sostituito con un altro",
+   "campi_extra": {
+    "Data": "27/02/2019 Marchio del prodotto: SELEX",
+    "confezione sia riportata la dicitura": "\"può contenere tracce di soia\"",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 27/02/2019 Marchio del prodotto: SELEX\nDenominazione di vendita: FARINA DI GRANO TENERO TIPO 00\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX Via C.Colombo, 51 20090 Trezzano s/N MI\ncommercializzato:\nLotto di produzione: L 19 009\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: MOLINO ROSSETTO\nSede dello stabilimento: Via San Fausto 98 Pontelongo PD\nData di scadenza o termine minimo di conservazione: 09-02-2020\nDescrizione peso/volume unità di vendita: sacchetto carta 1 kg, cod. ean 8003100250018\nMotivo del richiamo:\npresenza dell'allergene soia, quale sostanza allergizzante, non dichiarata in etichetta, sebbene sulla\nconfezione sia riportata la dicitura: \"può contenere tracce di soia\"\nAvvertenze:\nil prodotto non è idoneo al consumo da parte di persone allergiche alla soia. Si invitano tali consumatori\na non consumarlo e riportarlo presso il luogo d'acquisto, dove sarà rimborsato e sostituito con un altro\nlotto\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:40:02+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:40:02+00:00"
+ },
+ "farina-di-grano-tenero-tipo-00-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-00-1/",
+  "titolo": "FARINA DI GRANO TENERO TIPO 00",
+  "data_pubblicazione": "2019-03-20",
+  "marca": "SELEX",
+  "denominazione": "FARINA DI GRANO TENERO TIPO 00",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20revoca%20_1761178672.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di revoca _1761178672.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20revoca%20_1761178672.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-grano-tenero-tipo-00-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:49+00:00"
+ },
+ "nuvole-di-drago-prawn-crackers": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nuvole-di-drago-prawn-crackers/",
+  "titolo": "NUVOLE DI DRAGO - PRAWN CRACKERS",
+  "data_pubblicazione": "2019-03-29",
+  "marca": "DALIAN NEW CENTURY HUIHONG TRADING CO LTD",
+  "denominazione": "NUVOLE DI DRAGO - PRAWN CRACKERS",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ASIANTRADE_SRL_Cartello%20Richiamo_1761178679.pdf",
+  "allegati": [
+   {
+    "titolo": "ASIANTRADE_SRL_Cartello Richiamo_1761178679.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ASIANTRADE_SRL_Cartello%20Richiamo_1761178679.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "nuvole-di-drago-prawn-crackers",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:42+00:00"
+ },
+ "tzatziki-zorbas-salsa-tradizionale-base-di-yogurt-greco": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tzatziki-zorbas-salsa-tradizionale-base-di-yogurt-greco/",
+  "titolo": "Tzatziki Zorbas Salsa tradizionale a base di yogurt greco",
+  "data_pubblicazione": "2019-03-13",
+  "marca": "Zorbas",
+  "denominazione": "Tzatziki Zorbas Salsa tradizionale a base di yogurt greco",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_Tzatziki%20Zorbas%2004.05.2019_1761178665.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo_Tzatziki Zorbas 04.05.2019_1761178665.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_Tzatziki%20Zorbas%2004.05.2019_1761178665.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tzatziki-zorbas-salsa-tradizionale-base-di-yogurt-greco",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:52+00:00"
+ },
+ "zucchero-classico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/zucchero-classico/",
+  "titolo": "zucchero classico",
+  "data_pubblicazione": "2019-03-27",
+  "marca": "Sudzuccheri",
+  "denominazione": "zucchero classico",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20zucchero_1761178675.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo zucchero_1761178675.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20zucchero_1761178675.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "zucchero-classico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:39:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:39:45+00:00"
+ }
+}

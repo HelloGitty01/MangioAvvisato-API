@@ -1,0 +1,438 @@
+{
+ "barrette-noci-del-brasile": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-noci-del-brasile/",
+  "titolo": "BARRETTE NOCI DEL BRASILE",
+  "data_pubblicazione": "2020-08-25",
+  "marca": "EAT NATURAL",
+  "denominazione": "BARRETTE NOCI DEL BRASILE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Noci%20del%20Brasile_1761181474.pdf",
+  "allegati": [
+   {
+    "titolo": "Noci del Brasile_1761181474.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Noci%20del%20Brasile_1761181474.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "barrette-noci-del-brasile",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:12:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:12:09+00:00"
+ },
+ "barrette-noci-del-brasile-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-noci-del-brasile-0/",
+  "titolo": "BARRETTE NOCI DEL BRASILE",
+  "data_pubblicazione": "2020-08-25",
+  "marca": "EAT NATURAL",
+  "denominazione": "BARRETTE NOCI DEL BRASILE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Noci%20del%20Brasile_1761181479.pdf",
+  "allegati": [
+   {
+    "titolo": "Noci del Brasile_1761181479.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Noci%20del%20Brasile_1761181479.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "barrette-noci-del-brasile-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:12+00:00"
+ },
+ "cozze": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze/",
+  "titolo": "COZZE",
+  "data_pubblicazione": "2020-08-14",
+  "marca": "EFFELLE PESCA SRL",
+  "denominazione": "COZZE",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_MBV%20RETE_1761181441.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO_MBV RETE_1761181441.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_MBV%20RETE_1761181441.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "cozze",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:37+00:00"
+ },
+ "farina-di-riso-senza-glutine-500g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-riso-senza-glutine-500g/",
+  "titolo": "FARINA DI RISO SENZA GLUTINE 500G",
+  "data_pubblicazione": "2020-08-20",
+  "marca": "Il Molino Chiavazza",
+  "denominazione": "FARINA DI RISO SENZA GLUTINE 500G",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20riso%20senza%20glutine%20500g%20_%2019082020_1761181450.pdf",
+  "allegati": [
+   {
+    "titolo": "Farina di riso senza glutine 500g _ 19082020_1761181450.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20riso%20senza%20glutine%20500g%20_%2019082020_1761181450.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-riso-senza-glutine-500g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FARINA DI RISO SENZA GLUTINE 500G",
+   "operatore": "Molino F.lli Chiavazza S.p.A.",
+   "lotti": [
+    "025360"
+   ],
+   "marchio_identificazione": "IL MOLINO CHIAVAZZA",
+   "produttore": "Molino F.lli CHIAVAZZA S.p.A. Via Racconigi 5 - 12030 Casalgrasso CN",
+   "sede_stabilimento": "Pancalieri TO Via Pinerolo 75",
+   "scadenza": "15-03-2021",
+   "peso_volume": "500g",
+   "motivo_esteso": "Presenza contaminazione da soia",
+   "avvertenze": "I clienti allergici alla soia che avessero acquistato il lotto 025360 sono pregati di non consumare il prodotto e restituirlo al punto vendita per la sostituzione o rimborso entro il 06/09/2020. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà.",
+   "campi_extra": {
+    "Data": "19/08/2020 Marchio del prodotto: Il Molino Chiavazza"
+   },
+   "testo": "RICHIAMO\nData: 19/08/2020 Marchio del prodotto: Il Molino Chiavazza\nDenominazione di vendita:FARINA DI RISO SENZA GLUTINE 500G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Molino F.lli Chiavazza S.p.A.\ncommercializzato:\nLotto di produzione: 025360\nMarchio di identificazione dello stabilimento/del produttore: IL MOLINO CHIAVAZZA\nNome del produttore: Molino F.lli CHIAVAZZA S.p.A. Via Racconigi 5 - 12030 Casalgrasso CN\nSede dello stabilimento: Pancalieri TO Via Pinerolo 75\nData di scadenza o termine minimo di conservazione: 15-03-2021\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPresenza contaminazione da soia\nAvvertenze:\nI clienti allergici alla soia che avessero acquistato il lotto 025360 sono pregati di non consumare il prodotto\ne restituirlo al punto vendita per la sostituzione o rimborso entro il 06/09/2020.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà."
+  },
+  "prima_rilevazione": "2026-10-25T09:24:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:30+00:00"
+ },
+ "misto-scoglio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/misto-scoglio/",
+  "titolo": "MISTO SCOGLIO",
+  "data_pubblicazione": "2020-08-14",
+  "marca": "EFFELLE PESCA SRL",
+  "denominazione": "MISTO SCOGLIO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_MBV%20IN%20ATP_1761181446.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO_MBV IN ATP_1761181446.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO_MBV%20IN%20ATP_1761181446.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "misto-scoglio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:41+00:00"
+ },
+ "mytilus-galloprovincialis": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mytilus-galloprovincialis/",
+  "titolo": "MYTILUS GALLOPROVINCIALIS",
+  "data_pubblicazione": "2020-08-21",
+  "marca": "MITILI O COZZE",
+  "denominazione": "MYTILUS GALLOPROVINCIALIS",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20S.A.Angelo%20Mancin_20_43_A_1761181455.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo RICHIAMO S.A.Angelo Mancin_20_43_A_1761181455.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20S.A.Angelo%20Mancin_20_43_A_1761181455.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mytilus-galloprovincialis",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:15+00:00"
+ },
+ "mytilus-galloprovincialis-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mytilus-galloprovincialis-0/",
+  "titolo": "MYTILUS GALLOPROVINCIALIS",
+  "data_pubblicazione": "2020-08-21",
+  "marca": "MITILI O COZZE",
+  "denominazione": "MYTILUS GALLOPROVINCIALIS",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20S.A.Angelo%20Mancin_20_43_A_1761181460.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo RICHIAMO S.A.Angelo Mancin_20_43_A_1761181460.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20S.A.Angelo%20Mancin_20_43_A_1761181460.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mytilus-galloprovincialis-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:19+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:19+00:00"
+ },
+ "mytilus-galloprovincialis-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mytilus-galloprovincialis-1/",
+  "titolo": "MYTILUS GALLOPROVINCIALIS",
+  "data_pubblicazione": "2020-08-21",
+  "marca": "MITILI O COZZE",
+  "denominazione": "MYTILUS GALLOPROVINCIALIS",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20Ittica%20Allevamenti%20C%C3%A0%20Pellestrina%20Srl_20_43_A_1761181465.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo RICHIAMO Ittica Allevamenti Cà Pellestrina Srl_20_43_A_1761181465.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20Ittica%20Allevamenti%20C%C3%A0%20Pellestrina%20Srl_20_43_A_1761181465.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mytilus-galloprovincialis-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:23+00:00"
+ },
+ "nodo-del-saio-vaccino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nodo-del-saio-vaccino/",
+  "titolo": "Nodo del Saio Vaccino",
+  "data_pubblicazione": "2020-08-21",
+  "marca": "Caseificio Francesco Rabbia",
+  "denominazione": "Nodo del Saio Vaccino",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMONODODELSAIOVACCINO_1761181469.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMONODODELSAIOVACCINO_1761181469.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMONODODELSAIOVACCINO_1761181469.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "nodo-del-saio-vaccino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "NODO DEL SAIO VACCINO",
+   "operatore": "CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.",
+   "lotti": [
+    "200507"
+   ],
+   "marchio_identificazione": "IT 01 417 CE",
+   "produttore": "CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.",
+   "sede_stabilimento": "IT 01 417 CE",
+   "scadenza": "31-10-2020",
+   "peso_volume": "2,5KG",
+   "motivo_esteso": "RISCHIO MICROBIOLOGICO - E. coli/STEC",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "21/08/2020 Marchio del prodotto: CASEIFICIO FRANCESCO RABBIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 21/08/2020 Marchio del prodotto: CASEIFICIO FRANCESCO RABBIA\nDenominazione di vendita:NODO DEL SAIO VACCINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.\ncommercializzato:\nLotto di produzione: 200507\nMarchio di identificazione dello stabilimento/del produttore: IT 01 417 CE\nNome del produttore: CASEIFICIO RABBIA FRANCESCO S.N.C. DI RABBIA FRATELLI & C.\nSede dello stabilimento: IT 01 417 CE\nData di scadenza o termine minimo di conservazione: 31-10-2020\nDescrizione peso/volume unità di vendita: 2,5KG\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO - E. coli/STEC\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:24:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:26+00:00"
+ },
+ "pesto-vegan-biologico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-vegan-biologico/",
+  "titolo": "Pesto Vegan (biologico)",
+  "data_pubblicazione": "2020-08-06",
+  "marca": "La Selva SARLU (Società agricola a responsabilità limitata uninominale)",
+  "denominazione": "Pesto Vegan (biologico)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ministeriale_1761181427.pdf",
+  "allegati": [
+   {
+    "titolo": "modello ministeriale_1761181427.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ministeriale_1761181427.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-vegan-biologico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:51+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:51+00:00"
+ },
+ "ravioli-di-borragine": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ravioli-di-borragine/",
+  "titolo": "ravioli di borragine",
+  "data_pubblicazione": "2020-08-03",
+  "marca": "Il pastaio Ligure - Sublimis Srl - Sanremo IM",
+  "denominazione": "ravioli di borragine",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC300720_30072020135052_1761181423.pdf",
+  "allegati": [
+   {
+    "titolo": "DOC300720_30072020135052_1761181423.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC300720_30072020135052_1761181423.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ravioli-di-borragine",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:54+00:00"
+ },
+ "salame-lardellato-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-lardellato-0/",
+  "titolo": "salame lardellato",
+  "data_pubblicazione": "2020-08-01",
+  "marca": "salumificio cardinali",
+  "denominazione": "salame lardellato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20MINISTERO_000051_1761181418.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO RICHIAMO MINISTERO_000051_1761181418.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20MINISTERO_000051_1761181418.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-lardellato-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:57+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:57+00:00"
+ },
+ "salsa-di-soia-salsa-di-soia-meno-43-sale-salsa-di-soia-dolce": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-soia-salsa-di-soia-meno-43-sale-salsa-di-soia-dolce/",
+  "titolo": "Salsa di soia, Salsa di soia meno 43 sale, Salsa di soia dolce",
+  "data_pubblicazione": "2020-08-28",
+  "marca": "SUZI WAN",
+  "denominazione": "Salsa di soia, Salsa di soia meno 43 sale, Salsa di soia dolce",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20salsa%20di%20soia%20SUZI%20WAN_1761181484.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo salsa di soia SUZI WAN_1761181484.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20salsa%20di%20soia%20SUZI%20WAN_1761181484.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsa-di-soia-salsa-di-soia-meno-43-sale-salsa-di-soia-dolce",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:12:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:12:06+00:00"
+ },
+ "salsiccia-sv": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-sv/",
+  "titolo": "SALSICCIA S/V",
+  "data_pubblicazione": "2020-08-11",
+  "marca": "SALUMIFICIO RAVECCA SRL\nAPPROVAL NUMBER IT C 9681 CE",
+  "denominazione": "SALSICCIA S/V",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salsiccia%20metro%20con%20foto_1761181436.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo salsiccia metro con foto_1761181436.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20salsiccia%20metro%20con%20foto_1761181436.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salsiccia-sv",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:24:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:44+00:00"
+ },
+ "tartare-di-bovino-adulto-scottona-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-di-bovino-adulto-scottona-200g/",
+  "titolo": "TARTARE DI BOVINO ADULTO - SCOTTONA 200g",
+  "data_pubblicazione": "2020-08-10",
+  "marca": "--",
+  "denominazione": "TARTARE DI BOVINO ADULTO - SCOTTONA 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_Notifica_437657_1761181432.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello Richiamo_Notifica_437657_1761181432.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_Notifica_437657_1761181432.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tartare-di-bovino-adulto-scottona-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n07/08/20 --\nTARTARE DI BOVINO ADULTO - SCOTTONA 200g\nLidl Italia s.r.l. a socio unico\n507007\nIT 2533/S CE\nMarfisi Carni srl\nContrada Paglieroni snc.- 60030 Treglio (CH)\n14/08/2020\n200g\nPresenza di Salmonella spp.\nSi invitano i consumatori che avessero acquistato il prodotto con questo lotto e scadenza, a non consumarlo ed a\nriportarlo al punto vendita per il rimborso, anche senza presentazione dello scontrino."
+  },
+  "prima_rilevazione": "2026-10-25T09:24:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:24:48+00:00"
+ }
+}

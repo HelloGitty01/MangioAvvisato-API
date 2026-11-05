@@ -1,0 +1,792 @@
+{
+ "bigger-cotoletta-di-tacchino-xxl-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bigger-cotoletta-di-tacchino-xxl-0/",
+  "titolo": "BIGGER COTOLETTA DI TACCHINO XXL",
+  "data_pubblicazione": "2019-06-11",
+  "marca": "AIA",
+  "denominazione": "BIGGER COTOLETTA DI TACCHINO XXL",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20B3973_10_06_19_2%20_1_19_17_B_1761179399.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca B3973_10_06_19_2 _1_19_17_B_1761179399.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20B3973_10_06_19_2%20_1_19_17_B_1761179399.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bigger-cotoletta-di-tacchino-xxl-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "B3973 BIGGER COTOLETTA DI TACCHINO XXL",
+   "operatore": "AIA Spa",
+   "lotti": [
+    "07258011"
+   ],
+   "marchio_identificazione": "IT 752L CE",
+   "produttore": "Agricola Tre Valli Soc. Coop",
+   "sede_stabilimento": "Via Speranza 7 Santa Maria di Zevio (VR)",
+   "scadenza": "08/06/2019",
+   "peso_volume": "280g",
+   "motivo_esteso": "Possibile presenza di frammenti di plastica bianca",
+   "avvertenze": "Richiamo revocato per prodotto giunto a scadenza. B3973 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "10/06/2019 Marchio del prodotto: AIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 10/06/2019 Marchio del prodotto: AIA\nDenominazione di vendita:B3973 BIGGER COTOLETTA DI TACCHINO XXL\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AIA Spa\ncommercializzato:\nLotto di produzione: 07258011\nMarchio di identificazione dello stabilimento/del produttore: IT 752L CE\nNome del produttore: Agricola Tre Valli Soc. Coop\nSede dello stabilimento: Via Speranza 7 Santa Maria di Zevio (VR)\nData di scadenza o termine minimo di conservazione: 08/06/2019\nDescrizione peso/volume unità di vendita: 280g\nMotivo del richiamo:\nPossibile presenza di frammenti di plastica bianca\nAvvertenze:\nRichiamo revocato per prodotto giunto a scadenza.\nB3973\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:56+00:00"
+ },
+ "bisu-formaggio-morbido-latte-crudo-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bisu-formaggio-morbido-latte-crudo-0/",
+  "titolo": "BISU' formaggio morbido a latte crudo",
+  "data_pubblicazione": "2019-06-26",
+  "marca": "PE.RA. FORMAGGI S.A.S.",
+  "denominazione": "BISU' formaggio morbido a latte crudo",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_BISU_%20formaggio%20morbido%20a%20latte%20crudi_PE.RA.%20FORMAGGI%20S.A.S._240619_1761179413.pdf",
+  "allegati": [
+   {
+    "titolo": "REVOCA RICHIAMO_BISU_ formaggio morbido a latte crudi_PE.RA. FORMAGGI S.A.S._240619_1761179413.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_BISU_%20formaggio%20morbido%20a%20latte%20crudi_PE.RA.%20FORMAGGI%20S.A.S._240619_1761179413.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bisu-formaggio-morbido-latte-crudo-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:26+00:00"
+ },
+ "bombardino-liquore-alluovo": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bombardino-liquore-alluovo/",
+  "titolo": "Bombardino liquore all'uovo",
+  "data_pubblicazione": "2019-06-11",
+  "marca": "Psenner",
+  "denominazione": "Bombardino liquore all'uovo",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bombardino%20Psenner%20_%20L%2018325_1761179403.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Bombardino Psenner _ L 18325_1761179403.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Bombardino%20Psenner%20_%20L%2018325_1761179403.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "bombardino-liquore-alluovo",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bombardino liquore all'uovo / Bombardino Likör mit Eizusatz",
+   "operatore": "Distilleria L. Psenner s.r.l, 39040 Termeno (BZ), via Stazione, 1",
+   "lotti": [
+    "L 18325"
+   ],
+   "marchio_identificazione": "L. Psenner s.r.l.",
+   "produttore": "L. Psenner s.r.l., 39040 Termeno (BZ), via Stazione, 1",
+   "sede_stabilimento": "39040 Termeno (BZ), via Stazione, 1",
+   "scadenza": "///",
+   "peso_volume": "0,7 L - Bottiglia in vetro",
+   "motivo_esteso": "Allergene latte (proteine del latte) NON dichiarato in alcune bottiglie del lotto L 18325 per errore d'etichettatura / confezionamento",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "11/06/2019 Marchio del prodotto: PSENNER",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 11/06/2019 Marchio del prodotto: PSENNER\nDenominazione di vendita:Bombardino liquore all'uovo / Bombardino Likör mit Eizusatz\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Distilleria L. Psenner s.r.l, 39040 Termeno (BZ), via Stazione, 1\ncommercializzato:\nLotto di produzione: L 18325\nMarchio di identificazione dello stabilimento/del produttore: L. Psenner s.r.l.\nNome del produttore: L. Psenner s.r.l., 39040 Termeno (BZ), via Stazione, 1\nSede dello stabilimento: 39040 Termeno (BZ), via Stazione, 1\nData di scadenza o termine minimo di conservazione: ///\nDescrizione peso/volume unità di vendita: 0,7 L - Bottiglia in vetro\nMotivo del richiamo:\nAllergene latte (proteine del latte) NON dichiarato in alcune bottiglie del lotto L 18325 per errore\nd'etichettatura / confezionamento\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:38:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:38:05+00:00"
+ },
+ "crcmn-p-180-compresse": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crcmn-p-180-compresse/",
+  "titolo": "CRCMN-P 180 compresse",
+  "data_pubblicazione": "2019-06-26",
+  "marca": "HB",
+  "denominazione": "CRCMN-P 180 compresse",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCRCMN_P%20_2__1761179418.pdf",
+  "allegati": [
+   {
+    "titolo": "20190620RichiamoCRCMN_P _2__1761179418.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCRCMN_P%20_2__1761179418.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crcmn-p-180-compresse",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CRCMN-P 180 compresse",
+   "operatore": "A.I.F. S.N.C. Di Destro Franco e Masetto Loretta",
+   "lotti": [
+    "18M858"
+   ],
+   "marchio_identificazione": "FRAMA",
+   "produttore": "FRAMA S.R.L.",
+   "sede_stabilimento": "VIA PANA', 56/A ESTERNO 7 35027 NOVENTA PADOVANA (PD)",
+   "scadenza": "30-11-2021",
+   "peso_volume": "144 g",
+   "motivo_esteso": "(DGISAN 0041277-P-20/06/2019) Segnalazione di un caso di sofferenza epatica acuta correlata all'uso del prodotto CURCUMINA PLUS 95% + PIPERINA & VITAMINE B1, B2, B6 LINE@",
+   "avvertenze": "Del lotto interessato provvedere con la massima urgenza, in via precauzionale, al ritiro/richiamo, messa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i controlli a cui vengono sottoposte e le iniziative messe in atto per garantire la sicurezza dei prodotti immessi sul mercato. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "20/06/2019 Marchio del prodotto: HB",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 20/06/2019 Marchio del prodotto: HB\nDenominazione di vendita:CRCMN-P 180 compresse\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.I.F. S.N.C. Di Destro Franco e Masetto Loretta\ncommercializzato:\nLotto di produzione: 18M858\nMarchio di identificazione dello stabilimento/del produttore: FRAMA\nNome del produttore: FRAMA S.R.L.\nSede dello stabilimento: VIA PANA', 56/A ESTERNO 7 35027 NOVENTA PADOVANA (PD)\nData di scadenza o termine minimo di conservazione: 30-11-2021\nDescrizione peso/volume unità di vendita: 144 g\nMotivo del richiamo:\n(DGISAN 0041277-P-20/06/2019) Segnalazione di un caso di sofferenza epatica acuta correlata all'uso del\nprodotto CURCUMINA PLUS 95% + PIPERINA & VITAMINE B1, B2, B6 LINE@\nAvvertenze:\nDel lotto interessato provvedere con la massima urgenza, in via precauzionale, al ritiro/richiamo,\nmessa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i\ncontrolli a cui vengono sottoposte e le iniziative messe in atto per garantire la sicurezza dei prodotti\nimmessi sul mercato.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:34+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:34+00:00"
+ },
+ "curcuma-fitosoma-ed-echinacea": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-fitosoma-ed-echinacea/",
+  "titolo": "CURCUMA FITOSOMA ED ECHINACEA",
+  "data_pubblicazione": "2019-06-16",
+  "marca": "FARMACEUTICI PROCEMSA",
+  "denominazione": "CURCUMA FITOSOMA ED ECHINACEA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Movart_lotto_M70349_1761179408.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO_DI_RICHIAMO_Movart_lotto_M70349_1761179408.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Movart_lotto_M70349_1761179408.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "curcuma-fitosoma-ed-echinacea",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:46+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:46+00:00"
+ },
+ "curcuma-fitosoma-ed-echinacea-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-fitosoma-ed-echinacea-0/",
+  "titolo": "CURCUMA FITOSOMA ED ECHINACEA",
+  "data_pubblicazione": "2019-06-28",
+  "marca": "PROCEMSA",
+  "denominazione": "CURCUMA FITOSOMA ED ECHINACEA",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MOVART%2013_06_19_1761179428.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo MOVART 13_06_19_1761179428.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MOVART%2013_06_19_1761179428.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "curcuma-fitosoma-ed-echinacea-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:18+00:00"
+ },
+ "curcuma-fitosoma-ed-echinacea-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-fitosoma-ed-echinacea-1/",
+  "titolo": "CURCUMA FITOSOMA ED ECHINACEA",
+  "data_pubblicazione": "2019-06-28",
+  "marca": "SCHARPER SPA VIALE ORTLES, 12 - 20139 MILANO",
+  "denominazione": "CURCUMA FITOSOMA ED ECHINACEA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MOVART_1761179430.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo MOVART_1761179430.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20MOVART_1761179430.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "curcuma-fitosoma-ed-echinacea-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:21+00:00"
+ },
+ "curcuma-piperina-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcuma-piperina-0/",
+  "titolo": "CURCUMA &PIPERINA",
+  "data_pubblicazione": "2019-06-11",
+  "marca": "RUBIGEN",
+  "denominazione": "CURCUMA &PIPERINA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMinSanCurcumaPiperinaRubigenL.210219NATUR_FARMAscan_1761179401.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoMinSanCurcumaPiperinaRubigenL.210219NATUR_FARMAscan_1761179401.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMinSanCurcumaPiperinaRubigenL.210219NATUR_FARMAscan_1761179401.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "curcuma-piperina-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:38:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:38:01+00:00"
+ },
+ "curcumina-piperina-60-compresse-90-compresse": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcumina-piperina-60-compresse-90-compresse/",
+  "titolo": "CURCUMINA PIPERINA+ - 60 compresse - 90 compresse",
+  "data_pubblicazione": "2019-06-26",
+  "marca": "AIF",
+  "denominazione": "CURCUMINA PIPERINA+ - 60 compresse - 90 compresse",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCurcumimnaPiperinaAif%20_3__1761179417.pdf",
+  "allegati": [
+   {
+    "titolo": "20190620RichiamoCurcumimnaPiperinaAif _3__1761179417.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCurcumimnaPiperinaAif%20_3__1761179417.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "curcumina-piperina-60-compresse-90-compresse",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CURCUMINA PIPERINA+ - 60 compresse - 90 compresse",
+   "operatore": "NI.VA di Destro Franco & Masetto Loretta S.N.C.",
+   "lotti": [
+    "18M858"
+   ],
+   "marchio_identificazione": "FRAMA",
+   "produttore": "FRAMA S.R.L.",
+   "sede_stabilimento": "VIA PANA', 56/A ESTERNO 7 35027 NOVENTA PADOVANA (PD)",
+   "scadenza": "30-11-2021",
+   "peso_volume": "48 g - 72 g",
+   "motivo_esteso": "(DGISAN 0041277-P-20/06/2019) Segnalazione di un caso di sofferenza epatica acuta correlata all'uso del prodotto CURCUMINA PLUS 95% + PIPERINA & VITAMINE B1, B2, B6 LINE@",
+   "avvertenze": "Del lotto interessato provvedere con la massima urgenza, in via precauzionale, al ritiro/richiamo, messa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i controlli a cui vengono sottoposte e le iniziative messe in atto per garantire la sicurezza dei prodotti immessi sul mercato. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "20/06/2019 Marchio del prodotto: AIF",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 20/06/2019 Marchio del prodotto: AIF\nDenominazione di vendita:CURCUMINA PIPERINA+ - 60 compresse - 90 compresse\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NI.VA di Destro Franco & Masetto Loretta S.N.C.\ncommercializzato:\nLotto di produzione: 18M858\nMarchio di identificazione dello stabilimento/del produttore: FRAMA\nNome del produttore: FRAMA S.R.L.\nSede dello stabilimento: VIA PANA', 56/A ESTERNO 7 35027 NOVENTA PADOVANA (PD)\nData di scadenza o termine minimo di conservazione: 30-11-2021\nDescrizione peso/volume unità di vendita: 48 g - 72 g\nMotivo del richiamo:\n(DGISAN 0041277-P-20/06/2019) Segnalazione di un caso di sofferenza epatica acuta correlata all'uso del\nprodotto CURCUMINA PLUS 95% + PIPERINA & VITAMINE B1, B2, B6 LINE@\nAvvertenze:\nDel lotto interessato provvedere con la massima urgenza, in via precauzionale, al ritiro/richiamo,\nmessa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i\ncontrolli a cui vengono sottoposte e le iniziative messe in atto per garantire la sicurezza dei prodotti\nimmessi sul mercato.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:32+00:00"
+ },
+ "curcumina-plus-95-60-compresse-30-compresse-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curcumina-plus-95-60-compresse-30-compresse-1/",
+  "titolo": "CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+  "data_pubblicazione": "2019-06-26",
+  "marca": "LINEA@",
+  "denominazione": "CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCurcumimnaPlus%20_4__1761179415.pdf",
+  "allegati": [
+   {
+    "titolo": "20190620RichiamoCurcumimnaPlus _4__1761179415.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/20190620RichiamoCurcumimnaPlus%20_4__1761179415.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "curcumina-plus-95-60-compresse-30-compresse-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CURCUMINA PLUS 95% - 60 compresse - 30 compresse",
+   "operatore": "NI.VA di Destro Franco & Masetto Loretta S.N.C.",
+   "lotti": [
+    "18M858"
+   ],
+   "marchio_identificazione": "FRAMA",
+   "produttore": "FRAMA S.R.L.",
+   "sede_stabilimento": "VIA PANA', 56/A ESTERNO 7 35027 NOVENTA PADOVANA (PD)",
+   "scadenza": "30-11-2021",
+   "peso_volume": "48 g - 24 g",
+   "motivo_esteso": "(DGISAN 0041277-P-20/06/2019) Segnalazione di un caso di sofferenza epatica acuta correlata all'uso del prodotto CURCUMINA PLUS 95% + PIPERINA & VITAMINE B1, B2, B6 LINE@",
+   "avvertenze": "Del lotto interessato provvedere con la massima urgenza, in via precauzionale, al ritiro/richiamo, messa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i controlli a cui vengono sottoposte e le iniziative messe in atto per garantire la sicurezza dei prodotti immessi sul mercato. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "20/06/2019 Marchio del prodotto: LINEA@",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 20/06/2019 Marchio del prodotto: LINEA@\nDenominazione di vendita:CURCUMINA PLUS 95% - 60 compresse - 30 compresse\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NI.VA di Destro Franco & Masetto Loretta S.N.C.\ncommercializzato:\nLotto di produzione: 18M858\nMarchio di identificazione dello stabilimento/del produttore: FRAMA\nNome del produttore: FRAMA S.R.L.\nSede dello stabilimento: VIA PANA', 56/A ESTERNO 7 35027 NOVENTA PADOVANA (PD)\nData di scadenza o termine minimo di conservazione: 30-11-2021\nDescrizione peso/volume unità di vendita: 48 g - 24 g\nMotivo del richiamo:\n(DGISAN 0041277-P-20/06/2019) Segnalazione di un caso di sofferenza epatica acuta correlata all'uso del\nprodotto CURCUMINA PLUS 95% + PIPERINA & VITAMINE B1, B2, B6 LINE@\nAvvertenze:\nDel lotto interessato provvedere con la massima urgenza, in via precauzionale, al ritiro/richiamo,\nmessa a disposizione di tutte le indicazioni utili sulle caratteristiche delle materie prime impiegate, i\ncontrolli a cui vengono sottoposte e le iniziative messe in atto per garantire la sicurezza dei prodotti\nimmessi sul mercato.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:29+00:00"
+ },
+ "gelatino-alla-stracciatella-di-nocciole": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatino-alla-stracciatella-di-nocciole/",
+  "titolo": "Gelatino alla stracciatella di nocciole",
+  "data_pubblicazione": "2019-06-26",
+  "marca": "Italiamo",
+  "denominazione": "Gelatino alla stracciatella di nocciole",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_396413_Modello%20di%20Richiamo_1761179420.pdf",
+  "allegati": [
+   {
+    "titolo": "Notifica_396413_Modello di Richiamo_1761179420.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_396413_Modello%20di%20Richiamo_1761179420.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gelatino-alla-stracciatella-di-nocciole",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n25/06/19 Italiamo\nGelatino alla stracciatella di nocciole\nLidl Italia Srl\nTonitto 1939\nVia NS di Lourdes 5, Genova\n16/05/21\n80g\nDurante una analisi in autocontrollo per il monitoraggio degli allergeni sono state riscontrate tracce di mandorle.\nIl prodotto non è idoneo per il consumo da parte degli allergici alla frutta a guscio. Si invitano i consumatori allergici\nalla frutta a guscio a non consumare il prodotto e a riportarlo al punto vendita per il rimborso"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:37+00:00"
+ },
+ "gucosammina-cloridrato-condroitin-solfato-bio-curcumin-bcm-95": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gucosammina-cloridrato-condroitin-solfato-bio-curcumin-bcm-95/",
+  "titolo": "Gucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+  "data_pubblicazione": "2019-06-06",
+  "marca": "CARTIJOINT FORTE 20 CPR",
+  "denominazione": "Gucosammina cloridrato, Condroitin solfato, Bio-Curcumin BCM-95",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761179398.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_1761179398.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761179398.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "gucosammina-cloridrato-condroitin-solfato-bio-curcumin-bcm-95",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:38:08+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:38:08+00:00"
+ },
+ "mais-pop-corn": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn/",
+  "titolo": "Mais per pop corn",
+  "data_pubblicazione": "2019-06-28",
+  "marca": "Cerreto amanti del biologico",
+  "denominazione": "Mais per pop corn",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20per%20pop%20corn%20bio_Cerreto_27_06_2019_1761179423.pdf",
+  "allegati": [
+   {
+    "titolo": "Mais per pop corn bio_Cerreto_27_06_2019_1761179423.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20per%20pop%20corn%20bio_Cerreto_27_06_2019_1761179423.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mais-pop-corn",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:09+00:00"
+ },
+ "mais-pop-corn-biologico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-biologico/",
+  "titolo": "Mais pop corn biologico",
+  "data_pubblicazione": "2019-06-28",
+  "marca": "Carrefour bio",
+  "denominazione": "Mais pop corn biologico",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20pop%20corn%20Carrefour%20bio_27_06_2019%20_1761179425.pdf",
+  "allegati": [
+   {
+    "titolo": "Mais pop corn Carrefour bio_27_06_2019 _1761179425.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20pop%20corn%20Carrefour%20bio_27_06_2019%20_1761179425.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mais-pop-corn-biologico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:13+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:13+00:00"
+ },
+ "mais-pop-corn-biologico-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-pop-corn-biologico-0/",
+  "titolo": "MAIS POP CORN BIOLOGICO",
+  "data_pubblicazione": "2019-06-28",
+  "marca": "CARREFOUR BIO",
+  "denominazione": "MAIS POP CORN BIOLOGICO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20pop%20corn%20Carrefour%20bio_27_06_2019%20_1761179426.pdf",
+  "allegati": [
+   {
+    "titolo": "Mais pop corn Carrefour bio_27_06_2019 _1761179426.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mais%20pop%20corn%20Carrefour%20bio_27_06_2019%20_1761179426.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mais-pop-corn-biologico-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:16+00:00"
+ },
+ "mix-di-formaggi-grattugiati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-formaggi-grattugiati/",
+  "titolo": "Mix di formaggi grattugiati",
+  "data_pubblicazione": "2019-06-14",
+  "marca": "Gran Soresina mix formaggi grattugiati",
+  "denominazione": "Mix di formaggi grattugiati",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/latteria%20Soresina_cartello_clienti_richiamo%20grattugiato%20mix%20lotto%2000%209114_1761179407.pdf",
+  "allegati": [
+   {
+    "titolo": "latteria Soresina_cartello_clienti_richiamo grattugiato mix lotto 00 9114_1761179407.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/latteria%20Soresina_cartello_clienti_richiamo%20grattugiato%20mix%20lotto%2000%209114_1761179407.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mix-di-formaggi-grattugiati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:49+00:00"
+ },
+ "movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-0/",
+  "titolo": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+  "data_pubblicazione": "2019-06-19",
+  "marca": "Scharper spa- vle Ortis , 12- 20139 Milano",
+  "denominazione": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Movart%20M80315%20_003__1761179411.pdf",
+  "allegati": [
+   {
+    "titolo": "Movart M80315 _003__1761179411.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Movart%20M80315%20_003__1761179411.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:42+00:00"
+ },
+ "movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-echinacea": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-echinacea/",
+  "titolo": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+  "data_pubblicazione": "2019-06-03",
+  "marca": "Scharper spa- viale Orltes 12 mIlano",
+  "denominazione": "Movart- integratore alimentare a base di curcuma fitosoma ed echinacea",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Movart_1761179398.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo Movart_1761179398.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Movart_1761179398.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "movart-integratore-alimentare-base-di-curcuma-fitosoma-ed-echinacea",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:38:10+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:38:10+00:00"
+ },
+ "nic-nacs-original-125g-con-sticker-promo": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nic-nacs-original-125g-con-sticker-promo/",
+  "titolo": "NIC NAC'S ORIGINAL 125g con sticker Promo",
+  "data_pubblicazione": "2019-06-27",
+  "marca": "LORENZ SNACK-WORLD",
+  "denominazione": "NIC NAC'S ORIGINAL 125g con sticker Promo",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloRichiamoNicNacs20190625_it_1761179421.pdf",
+  "allegati": [
+   {
+    "titolo": "ModelloRichiamoNicNacs20190625_it_1761179421.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModelloRichiamoNicNacs20190625_it_1761179421.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "nic-nacs-original-125g-con-sticker-promo",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "NIC NAC’S ORIGINAL 125g con sticker Promo",
+   "operatore": "THE LORENZ BAHLSEN SNACK-WORLD GMBH & CO KG GERMANY, RATHENAUSTR. 54, D-63263 NEU-ISENBURG, GERMANY",
+   "lotti": [
+    "9205",
+    "9222",
+    "9232",
+    "9252"
+   ],
+   "marchio_identificazione": "LORENZ SNACK-WORLD",
+   "produttore": "LORENZ NUSS GMBH, BOXBERGERSTR. 23, 02906 KREBA-NEUDORF, GERMANY",
+   "sede_stabilimento": "LORENZ NUSS GMBH, BOXBERGERSTR. 23, 02906 KREBA-NEUDORF, GERMANY",
+   "scadenza": "16-02-2020; 27-02-2020; 03-03-2020; 17-03-2020",
+   "peso_volume": "Sacchetti da 125g",
+   "motivo_esteso": "Il prodotto è stato prodotto erroneamente senza la necessaria dichiarazione degli ingredienti in lingua italiana e quindi senza indicazione degli allergeni.",
+   "avvertenze": "Per ricevere ulteriori informazioni i consumatori si possono rivolgere al servizio clienti al numero gratuito 800-835859 da lunedì a venerdì dalle ore 08:00 alle ore 13:00 e dalle ore 14:00 alle ore 17:00 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "25-06-2019 Marchio del prodotto: LORENZ SNACK-WORLD",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 25-06-2019 Marchio del prodotto: LORENZ SNACK-WORLD\nDenominazione di vendita: NIC NAC’S ORIGINAL 125g con sticker Promo\nNome o ragione sociale dell’OSA\nTHE LORENZ BAHLSEN SNACK-WORLD GMBH & CO KG GERMANY,\na nome del quale il prodotto è\nRATHENAUSTR. 54, D-63263 NEU-ISENBURG, GERMANY\ncommercializzato:\nLotto di produzione: 9205; 9222; 9232; 9252\nMarchio di identificazione dello stabilimento/del produttore: LORENZ SNACK-WORLD\nNome del produttore: LORENZ NUSS GMBH, BOXBERGERSTR. 23, 02906 KREBA-NEUDORF, GERMANY\nSede dello stabilimento: LORENZ NUSS GMBH, BOXBERGERSTR. 23, 02906 KREBA-NEUDORF, GERMANY\nData di scadenza o termine minimo di conservazione: 16-02-2020; 27-02-2020; 03-03-2020; 17-03-2020\nDescrizione peso/volume unità di vendita: Sacchetti da 125g\nMotivo del richiamo:\nIl prodotto è stato prodotto erroneamente senza la necessaria dichiarazione degli ingredienti in lingua\nitaliana e quindi senza indicazione degli allergeni.\nAvvertenze:\nPer ricevere ulteriori informazioni i consumatori si possono rivolgere al servizio clienti al numero gratuito\n800-835859 da lunedì a venerdì dalle ore 08:00 alle ore 13:00 e dalle ore 14:00 alle ore 17:00\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:23+00:00"
+ },
+ "salame-san-lorenzo": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-san-lorenzo/",
+  "titolo": "Salame San lorenzo",
+  "data_pubblicazione": "2019-06-17",
+  "marca": "Santini",
+  "denominazione": "Salame San lorenzo",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salumificio_Santini_Cartello_richiamo%20_1761179409.pdf",
+  "allegati": [
+   {
+    "titolo": "Salumificio_Santini_Cartello_richiamo _1761179409.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salumificio_Santini_Cartello_richiamo%20_1761179409.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-san-lorenzo",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:44+00:00"
+ },
+ "salametto-classicosalame-mignon": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-classicosalame-mignon/",
+  "titolo": "SALAMETTO CLASSICO/SALAME MIGNON",
+  "data_pubblicazione": "2019-06-25",
+  "marca": "SALUMIFICIO ALIPRANDI SPA",
+  "denominazione": "SALAMETTO CLASSICO/SALAME MIGNON",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20salametto%20Aliprandi%20Gussago%20BS_1761179412.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo salametto Aliprandi Gussago BS_1761179412.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20salametto%20Aliprandi%20Gussago%20BS_1761179412.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salametto-classicosalame-mignon",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:39+00:00"
+ },
+ "salsiccia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia/",
+  "titolo": "Salsiccia",
+  "data_pubblicazione": "2019-06-12",
+  "marca": "F.B.M. LAVORAZIONE CARNI",
+  "denominazione": "Salsiccia",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_2_1761179404.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO DI RICHIAMO_2_1761179404.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_2_1761179404.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salsiccia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:37:51+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:51+00:00"
+ },
+ "shal-cur-curcumina-boswellia-bromelina": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shal-cur-curcumina-boswellia-bromelina/",
+  "titolo": "SHAL-CUR (Curcumina, Boswellia), Bromelina",
+  "data_pubblicazione": "2019-06-11",
+  "marca": "VERSALIS",
+  "denominazione": "SHAL-CUR (Curcumina, Boswellia), Bromelina",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Versalis_1761179402.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Versalis_1761179402.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Versalis_1761179402.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "shal-cur-curcumina-boswellia-bromelina",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:38:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:38:03+00:00"
+ },
+ "spinacine-e-4-spinacine-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacine-e-4-spinacine-0/",
+  "titolo": "SPINACINE E 4 SPINACINE",
+  "data_pubblicazione": "2019-06-11",
+  "marca": "AIA",
+  "denominazione": "SPINACINE E 4 SPINACINE",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_A2926_B4003_10_06_19_2%20_2__19_17_B_1761179400.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca_A2926_B4003_10_06_19_2 _2__19_17_B_1761179400.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_A2926_B4003_10_06_19_2%20_2__19_17_B_1761179400.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spinacine-e-4-spinacine-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Spinacine",
+   "operatore": "AIA Spa",
+   "lotti": [
+    "07258020"
+   ],
+   "marchio_identificazione": "IT 752L CE",
+   "produttore": "Agricola Tre Valli Soc. Coop",
+   "sede_stabilimento": "Via Speranza 7 Santa Maria di Zevio (VR)",
+   "scadenza": "08/06/2019",
+   "peso_volume": "confezione 2 pezzi peso 220g e confezione 4 pezzi 440 g.",
+   "motivo_esteso": "Possibile presenza di frammenti di plastica bianca",
+   "avvertenze": "Richiamo revocato per prodotto giunto a scadenza Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "10/06/2019 Marchio del prodotto: AIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 10/06/2019 Marchio del prodotto: AIA\nDenominazione di vendita:Spinacine\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AIA Spa\ncommercializzato:\nLotto di produzione: 07258020\nMarchio di identificazione dello stabilimento/del produttore: IT 752L CE\nNome del produttore: Agricola Tre Valli Soc. Coop\nSede dello stabilimento: Via Speranza 7 Santa Maria di Zevio (VR)\nData di scadenza o termine minimo di conservazione: 08/06/2019\nDescrizione peso/volume unità di vendita: confezione 2 pezzi peso 220g e confezione 4 pezzi 440 g.\nMotivo del richiamo:\nPossibile presenza di frammenti di plastica bianca\nAvvertenze:\nRichiamo revocato per prodotto giunto a scadenza\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:58+00:00"
+ },
+ "tartare-bovino-adulto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-bovino-adulto/",
+  "titolo": "TARTARE BOVINO ADULTO",
+  "data_pubblicazione": "2019-06-12",
+  "marca": "LIDL ITALIA SRL",
+  "denominazione": "TARTARE BOVINO ADULTO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_tartare_1761179406.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO_DI_RICHIAMO_tartare_1761179406.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_tartare_1761179406.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tartare-bovino-adulto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n12/06/19\nTartare di bovino adulto\nLidl Italia Srl\n1071215\nIT 1859 S CE\nRosso SPA\nVia Traves 43 I Torino\n13/06/19\n200g\nNon conformità microbiologica (Presenza di Listeria monocytogenes su una unità campionaria, <10ufc/g)"
+  },
+  "prima_rilevazione": "2026-10-25T09:37:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:37:54+00:00"
+ }
+}

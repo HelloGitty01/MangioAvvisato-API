@@ -1,0 +1,771 @@
+{
+ "acqua-minerale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale/",
+  "titolo": "Acqua Minerale",
+  "data_pubblicazione": "2017-09-19",
+  "marca": "Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues",
+  "denominazione": "Acqua Minerale",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_%20Cutolo%20Rionero%20in%20Vulture_1761175312.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo di Richiamo_ Cutolo Rionero in Vulture_1761175312.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_%20Cutolo%20Rionero%20in%20Vulture_1761175312.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "acqua-minerale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues",
+   "operatore": "Fonte Cutolo Rionero in Vulture SrL LR7248C; LR7249C; LR7250C; LR7251C; LR7252C; LR7253C",
+   "lotti": [
+    "LR7254C",
+    "LR7255C"
+   ],
+   "marchio_identificazione": "Fonte Cutolo Rionero in Vulture SrL",
+   "produttore": "Fonte Cutolo Rionero in Vulture SrL",
+   "sede_stabilimento": "Contrada Santa Maria degli Angeli, 85020 Atella (PZ)",
+   "scadenza": "05-09-2018; 06-09-2018; 07-09-2018; 08-09-2018; 09-09-2018; 10-09-2018; 11-09-2018; 12-09-2018 LR7254C; LR7255C; LR7256C",
+   "peso_volume": "1,5 PET/X6 Bottiglie; 1L PET/X12 Bottiglie unita di vendita: 1/2",
+   "motivo_esteso": "Comunicazione di Non Conformità : superamento dei limiti per il parametro Ps. aerugunosa, come previsto dal D.M. 10 febbraio 2015. Punto: Serbatoio n.3",
+   "avvertenze": "Possibile rischio per la salute dei consumatori. Non Consumare e restituire al punto vendita. Inserire Immagine uno: Inserire Immagine due: 2/2",
+   "campi_extra": {
+    "Data": "13/09/2017",
+    "Commercializzato": "Fonte Cutolo Rionero in Vulture SrL",
+    "Stabilimento/ del produttore": "Fonte Cutolo Rionero in Vulture SrL",
+    "Comunicazione di Non Conformità": "superamento dei limiti per il parametro Ps. aerugunosa,",
+    "come previsto dal D.M. 10 febbraio 2015. Punto": "Serbatoio n.3",
+    "Inserire Immagine uno": "Inserire Immagine due:"
+   },
+   "testo": "Data: 13/09/2017\nMarchio del prodotto : Acqua Effervescente Naturale Cutolo Rionero; Acqua Effervescente Naturale Blues\nNome o ragione sociale dell’OSA\nA nome del quale il prodotto è\nCommercializzato: Fonte Cutolo Rionero in Vulture SrL\nLR7248C; LR7249C; LR7250C; LR7251C; LR7252C; LR7253C\nLotto di Produzione:\nLR7254C; LR7255C;\nMarchio di Identificazione dello\nStabilimento/ del produttore: Fonte Cutolo Rionero in Vulture SrL\nNome del produttore: Fonte Cutolo Rionero in Vulture SrL\nSede dello stabilimento: Contrada Santa Maria degli Angeli, 85020 Atella (PZ)\nData di scadenza o termine\n05-09-2018; 06-09-2018; 07-09-2018; 08-09-2018; 09-09-2018;\n10-09-2018; 11-09-2018; 12-09-2018\nminimo di conservazione:\nLR7254C; LR7255C; LR7256C\nDescrizione peso/volume\n1,5 PET/X6 Bottiglie; 1L PET/X12 Bottiglie\nunita di vendita:\n1/2\nMotivo del richiamo:\nComunicazione di Non Conformità : superamento dei limiti per il parametro Ps. aerugunosa,\ncome previsto dal D.M. 10 febbraio 2015. Punto: Serbatoio n.3\nAvvertenze:\nPossibile rischio per la salute dei consumatori.\nNon Consumare e restituire al punto vendita.\nInserire Immagine uno: Inserire Immagine due:\n2/2"
+  },
+  "prima_rilevazione": "2026-10-25T09:57:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:12+00:00"
+ },
+ "bonta-viva-bifidus-fibre-avena-noci-bonta-viva-bifidus-fibre": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bonta-viva-bifidus-fibre-avena-noci-bonta-viva-bifidus-fibre/",
+  "titolo": "Bontà viva bifidus fibre \"Avena -noci\" Bontà viva bifidus fibre \"Cereali\" Bontà viva \"kiwi-cereali\"",
+  "data_pubblicazione": "2017-09-07",
+  "marca": "Bontà viva",
+  "denominazione": "Bontà viva bifidus fibre \"Avena -noci\" Bontà viva bifidus fibre \"Cereali\" Bontà viva \"kiwi-cereali\"",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/NC_Senoble_1761175296.pdf",
+  "allegati": [
+   {
+    "titolo": "NC_Senoble_1761175296.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/NC_Senoble_1761175296.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bonta-viva-bifidus-fibre-avena-noci-bonta-viva-bifidus-fibre",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "BONTA’ VIVA a- BONTA’ VIVA BIFIDUS FIBRE “AVENA-NOCI” Denominazione vendita b- BONTA’ VIVA BIFIDUS FIBRE “CEREALI” c- BONTA’ VIVA BIFIDUS FIBRE “KIWI-CEREALI”",
+   "lotti": [
+    "/scadenza V.Allegato I Peso unità di vendita 500g Approval number IT 05 87 CE Avena-noci 8005377005322 EAN Cereali 8005377005308 Kiwi cereali 8005377005346 Motivo: ETICHETTATURA NON CONFORME Presenza dicitura “senza glutine” con conseguente rischio per i soggetti allergici Annotazioni: Per i consumatori è attivo il numero verde 800-910290 Il ritiro rientra nelle fattispecie previste dal Reg.(CE)178/2002",
+    "quindi X SI con possibile rischio alla salute dei consumatori",
+    "o nelle fattispecie □ NO previste dal Codice del Consumo (D.to L.vo 206/2005) Foto Referente interno Giovanni Bernardi gbernardi@senoble.com Senoble Italia Spa Via Molinetto",
+    "76 - 31030 Borso del Grappa (TV) tel.0423/910222 – fax 0423/542000 – info@senoble.com Allegato I ELENCO PRODOTTO NON CONFORME Articolo Codice Scadenza BONTA’ VIVA BIFIDUS FIBRE “AVENA-NOCI” 14262651 31/08/2017 07/09/2017 15/09/2017 26/09/2017 02/10/2017 08/10/2017 12/10/2017 BONTA’ VIVA BIFIDUS FIBRE “CEREALI” 14261851 31/08/2017 07/09/2017 15/09/2017 21/09/2017 26/09/2017 01/10/2017 07/10/2017 12/10/2017 BONTA’ VIVA BIFIDUS FIBRE “KIWI-CEREALI” 14262251 31/08/2017 15/09/2017 26/09/2017 12/10/2017 BONTA’ VIVA CT.ASSORTITO “PRUGNA” – “AVENA NOCI” 14262451 31/08/2017 07/09/2017 15/09/2017 26/09/2017 02/10/2017 07/10/2017 08/10/2017 12/10/2017 BONTA’ VIVA CT.ASSORTITO “BIANCO” – “CEREALI” 14261751 31/08/2017 07/09/2017 15/09/2017 21/09/2017 26/09/2017 01/10/2017 07/10/2017 12/10/2017 Senoble Italia Spa Via Molinetto",
+    "76 - 31030 Borso del Grappa (TV) tel.0423/910222 – fax 0423/542000 – info@senoble.com"
+   ],
+   "testo": "M 01 PRO 18\nMODULO DI RITIRO-RICHIAMO Rev. 1 del 24/08/2016\nPag. 1/2\nRITIRO/RICHIAMO\nMOTIVO:\nDATA 30 / 08 / 2017\nDestinatario TUTTI I CLIENTI\nIndirizzo Loro sedi\nReferente / Recapito /\na- LATTE FERMENTATO gusto “AVENA-NOCI”\nProdotto/tipologia b- LATTE FERMENTATO gusto “CEREALI”\nc- LATTE FERMENTATO gusto “KIWI-CEREALI”\nMarchio del prodotto BONTA’ VIVA\na- BONTA’ VIVA BIFIDUS FIBRE “AVENA-NOCI”\nDenominazione vendita b- BONTA’ VIVA BIFIDUS FIBRE “CEREALI”\nc- BONTA’ VIVA BIFIDUS FIBRE “KIWI-CEREALI”\nLotto/scadenza V.Allegato I\nPeso unità di vendita 500g Approval number IT 05 87 CE\nAvena-noci 8005377005322\nEAN Cereali 8005377005308\nKiwi cereali 8005377005346\nMotivo:\nETICHETTATURA NON CONFORME\nPresenza dicitura “senza glutine” con conseguente rischio per i soggetti allergici\nAnnotazioni:\nPer i consumatori è attivo il numero verde 800-910290\nIl ritiro rientra nelle fattispecie previste dal Reg.(CE)178/2002, e quindi\nX SI\ncon possibile rischio alla salute dei consumatori, o nelle fattispecie\n□ NO\npreviste dal Codice del Consumo (D.to L.vo 206/2005)\nFoto\nReferente interno Giovanni Bernardi\ngbernardi@senoble.com\nSenoble Italia Spa\nVia Molinetto, 76 - 31030 Borso del Grappa (TV)\ntel.0423/910222 – fax 0423/542000 – info@senoble.com\nAllegato I\nELENCO PRODOTTO NON CONFORME\nArticolo Codice Scadenza\nBONTA’ VIVA BIFIDUS FIBRE “AVENA-NOCI” 14262651 31/08/2017\n07/09/2017\n15/09/2017\n26/09/2017\n02/10/2017\n08/10/2017\n12/10/2017\nBONTA’ VIVA BIFIDUS FIBRE “CEREALI” 14261851 31/08/2017\n07/09/2017\n15/09/2017\n21/09/2017\n26/09/2017\n01/10/2017\n07/10/2017\n12/10/2017\nBONTA’ VIVA BIFIDUS FIBRE “KIWI-CEREALI” 14262251 31/08/2017\n15/09/2017\n26/09/2017\n12/10/2017\nBONTA’ VIVA CT.ASSORTITO “PRUGNA” – “AVENA NOCI” 14262451 31/08/2017\n07/09/2017\n15/09/2017\n26/09/2017\n02/10/2017\n07/10/2017\n08/10/2017\n12/10/2017\nBONTA’ VIVA CT.ASSORTITO “BIANCO” – “CEREALI” 14261751 31/08/2017\n07/09/2017\n15/09/2017\n21/09/2017\n26/09/2017\n01/10/2017\n07/10/2017\n12/10/2017\nSenoble Italia Spa\nVia Molinetto, 76 - 31030 Borso del Grappa (TV)\ntel.0423/910222 – fax 0423/542000 – info@senoble.com"
+  },
+  "prima_rilevazione": "2026-10-25T09:57:36+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:36+00:00"
+ },
+ "cubetti-di-pancetta-dolce-cubetti-di-pancetta-affumicata": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cubetti-di-pancetta-dolce-cubetti-di-pancetta-affumicata/",
+  "titolo": "CUBETTI DI PANCETTA DOLCE / CUBETTI DI PANCETTA AFFUMICATA",
+  "data_pubblicazione": "2017-09-05",
+  "marca": "VALTIDONE INDUSTRIA ALIMENTARE",
+  "denominazione": "CUBETTI DI PANCETTA DOLCE / CUBETTI DI PANCETTA AFFUMICATA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VALTIDONE%20ALLEGATO%204%20_%20MODELLO%20RICHIAMO_1761175266.PDF",
+  "allegati": [
+   {
+    "titolo": "VALTIDONE ALLEGATO 4 _ MODELLO RICHIAMO_1761175266.PDF",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/VALTIDONE%20ALLEGATO%204%20_%20MODELLO%20RICHIAMO_1761175266.PDF"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "cubetti-di-pancetta-dolce-cubetti-di-pancetta-affumicata",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CUBETTI DI PANCETTA DOLCE / CUBETTI DI PANCETTA AFFUMICATA",
+   "operatore": "VALTIDONE SALUMI SRL - V.le Frascati 27 - 27040 Rovescala (PV)",
+   "lotti": [
+    "5575 - 5576"
+   ],
+   "marchio_identificazione": "IT 755 L CE",
+   "produttore": "SALUMIFICIO PIANELLESE SRL",
+   "sede_stabilimento": "VIA DEL SANTUARIO, 38 - 29010 FRA STA' NIBBIANO V.T. (PC)",
+   "scadenza": "03-04/11/2017",
+   "peso_volume": "160g (2x80g) - 100g (2x50g)",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "05/09/20107 Marchio del prodotto: VALTIDONE INDUSTRIA ALIMENTARE",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 05/09/20107 Marchio del prodotto: VALTIDONE INDUSTRIA ALIMENTARE\nDenominazione di vendita:CUBETTI DI PANCETTA DOLCE / CUBETTI DI PANCETTA AFFUMICATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è VALTIDONE SALUMI SRL - V.le Frascati 27 - 27040 Rovescala (PV)\ncommercializzato:\nLotto di produzione: 5575 - 5576\nMarchio di identificazione dello stabilimento/del produttore: IT 755 L CE\nNome del produttore: SALUMIFICIO PIANELLESE SRL\nSede dello stabilimento: VIA DEL SANTUARIO, 38 - 29010 FRA STA' NIBBIANO V.T. (PC)\nData di scadenza o termine minimo di conservazione: 03-04/11/2017\nDescrizione peso/volume unità di vendita: 160g (2x80g) - 100g (2x50g)\nMotivo del richiamo:\nLOTTO 5576 - RILEVATA PRESENZA DI SALMONELLA DERBY E SALMONELLA TYPHIMURIUM\nLOTTO 5575 - RILEVATA PRESENZA DI SALMONELLA TYPHIMURIUM\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:57:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:39+00:00"
+ },
+ "curry": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/curry/",
+  "titolo": "Curry",
+  "data_pubblicazione": "2017-09-22",
+  "marca": "QUEEN VICTORIA",
+  "denominazione": "Curry",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Curry%20QUEEN%20VICTORIA_1761175333.pdf",
+  "allegati": [
+   {
+    "titolo": "Curry QUEEN VICTORIA_1761175333.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Curry%20QUEEN%20VICTORIA_1761175333.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "curry",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:45+00:00"
+ },
+ "pesto-vegetal-bio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-vegetal-bio/",
+  "titolo": "PESTO VEGETAL BIO",
+  "data_pubblicazione": "2017-09-28",
+  "marca": "LA FINESTRA SUL CIELO SPA",
+  "denominazione": "PESTO VEGETAL BIO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pesto%20Bio%2028_09_17_1761175965.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_Pesto Bio 28_09_17_1761175965.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Pesto%20Bio%2028_09_17_1761175965.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-vegetal-bio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:40+00:00"
+ },
+ "salame-norcia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-norcia/",
+  "titolo": "Salame Norcia",
+  "data_pubblicazione": "2017-09-08",
+  "marca": "Lanzi Srl",
+  "denominazione": "Salame Norcia",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod%202%20Richiamo%20Lanzi%20srl_1761175301.pdf",
+  "allegati": [
+   {
+    "titolo": "Mod 2 Richiamo Lanzi srl_1761175301.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod%202%20Richiamo%20Lanzi%20srl_1761175301.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-norcia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:57:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:23+00:00"
+ },
+ "specialita-con-yogurt-magro-nocciola-250-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/specialita-con-yogurt-magro-nocciola-250-g/",
+  "titolo": "SPECIALITA' CON YOGURT MAGRO NOCCIOLA - 250 g",
+  "data_pubblicazione": "2017-09-28",
+  "marca": "FATTORIA SCALDASOLE",
+  "denominazione": "SPECIALITA' CON YOGURT MAGRO NOCCIOLA - 250 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20specialita%20con%20yogurt%20magro%20nocciola_1761175962.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo specialita con yogurt magro nocciola_1761175962.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20specialita%20con%20yogurt%20magro%20nocciola_1761175962.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "specialita-con-yogurt-magro-nocciola-250-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:35+00:00"
+ },
+ "spinacio-500-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g/",
+  "titolo": "spinacio 500 g",
+  "data_pubblicazione": "2017-09-07",
+  "marca": "buongiorno freschezza",
+  "denominazione": "spinacio 500 g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5.Richiamo%20prodotto%20L.24211071M2_1761175276.pdf",
+  "allegati": [
+   {
+    "titolo": "5.Richiamo prodotto L.24211071M2_1761175276.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/5.Richiamo%20prodotto%20L.24211071M2_1761175276.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spinacio-500-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:57:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:25+00:00"
+ },
+ "spinacio-500-g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g-0/",
+  "titolo": "spinacio 500 g",
+  "data_pubblicazione": "2017-09-07",
+  "marca": "buongiorno freschezza",
+  "denominazione": "spinacio 500 g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.%2023910773M2_1761175281.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo prodotto L. 23910773M2_1761175281.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.%2023910773M2_1761175281.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spinacio-500-g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:57:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:28+00:00"
+ },
+ "spinacio-500-g-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g-1/",
+  "titolo": "spinacio 500 g",
+  "data_pubblicazione": "2017-09-07",
+  "marca": "buongiorno freschezza",
+  "denominazione": "spinacio 500 g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.%2024110968M2_1761175285.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo prodotto L. 24110968M2_1761175285.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.%2024110968M2_1761175285.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spinacio-500-g-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:57:31+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:31+00:00"
+ },
+ "spinacio-500-g-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinacio-500-g-2/",
+  "titolo": "spinacio 500 g",
+  "data_pubblicazione": "2017-09-07",
+  "marca": "buongiorno freschezza",
+  "denominazione": "spinacio 500 g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.24010864M2_1761175291.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo prodotto L.24010864M2_1761175291.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20L.24010864M2_1761175291.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spinacio-500-g-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:57:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:33+00:00"
+ },
+ "taleggio-dop-latte-crudo-incp-naturale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-latte-crudo-incp-naturale/",
+  "titolo": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+  "data_pubblicazione": "2017-09-21",
+  "marca": "CAROZZI FORMAGGI SRL",
+  "denominazione": "TALEGGIO DOP LATTE CRUDO INC.P. NATURALE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761175317.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_1761175317.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761175317.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "taleggio-dop-latte-crudo-incp-naturale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "TALEGGIO DOP LATTE CRUDO INC. P. NATURALE",
+   "operatore": "CAROZZI FORMAGGI srl",
+   "lotti": [
+    "04827"
+   ],
+   "marchio_identificazione": "IT 03 1880",
+   "produttore": "CAROZZI FORMAGGI srl",
+   "sede_stabilimento": "BARZIO (LC), LOC. PRATO BUSCANTE",
+   "peso_volume": "FORMA INTERA",
+   "motivo_esteso": "PRESENZA LISTERIA MONOCYTOGENES",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO, RICHIAMARE DAL CONSUMO  ",
+   "campi_extra": {
+    "Data": "15/09/2017 Marchio del prodotto: TALEGGIO DOP LATTE CRUDO INC.P. NATURALE"
+   },
+   "testo": "\nMinistero della Salute\nRICHIAMO\nData: 15/09/2017 Marchio del prodotto: TALEGGIO DOP LATTE CRUDO INC.P. NATURALE\nDenominazione di vendita:TALEGGIO DOP LATTE CRUDO INC. P. NATURALE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CAROZZI FORMAGGI srl\ncommercializzato:\nLotto di produzione: 04827\nMarchio di identificazione dello stabilimento/del produttore: IT 03 1880\nNome del produttore: CAROZZI FORMAGGI srl\nSede dello stabilimento: BARZIO (LC), LOC. PRATO BUSCANTE\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: FORMA INTERA\nMotivo del richiamo:\nPRESENZA LISTERIA MONOCYTOGENES\nAvvertenze:\nNON CONSUMARE IL PRODOTTO, RICHIAMARE DAL CONSUMO\n "
+  },
+  "prima_rilevazione": "2026-10-25T09:56:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:53+00:00"
+ },
+ "taleggio-latte-crudo": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-latte-crudo/",
+  "titolo": "TALEGGIO LATTE CRUDO",
+  "data_pubblicazione": "2017-09-05",
+  "marca": "TALEGGIO LATTE CRUDO - IPERAL/CAROZZI",
+  "denominazione": "TALEGGIO LATTE CRUDO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761175271.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_1761175271.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761175271.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "taleggio-latte-crudo",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "TALEGGIO LATTE CRUDO",
+   "operatore": "IPERAL SpA - PREICARTATO DOPO PORZIONATURA",
+   "lotti": [
+    "04 190"
+   ],
+   "marchio_identificazione": "IT 03 1880 CE",
+   "produttore": "CAROZZI FORMAGGI srl",
+   "sede_stabilimento": "BARZIO (LC), LOC. PRATO BUSCANTE",
+   "scadenza": "28-09-2017",
+   "peso_volume": "PORZIONATO E PREINCARTATO IL 22-08-2017",
+   "motivo_esteso": "LISTERIA MOCYTOGENES",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO DESCRITTO E RIPORTARLO AL PUNTO VENDITA  ",
+   "campi_extra": {
+    "Data": "04/09/2017 Marchio del prodotto:"
+   },
+   "testo": "\nMinistero della Salute\nRICHIAMO\nData: 04/09/2017 Marchio del prodotto:\nDenominazione di vendita:TALEGGIO LATTE CRUDO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IPERAL SpA - PREICARTATO DOPO PORZIONATURA\ncommercializzato:\nLotto di produzione: 04 190\nMarchio di identificazione dello stabilimento/del produttore: IT 03 1880 CE\nNome del produttore: CAROZZI FORMAGGI srl\nSede dello stabilimento: BARZIO (LC), LOC. PRATO BUSCANTE\nData di scadenza o termine minimo di conservazione: 28-09-2017\nDescrizione peso/volume unità di vendita: PORZIONATO E PREINCARTATO IL 22-08-2017\nMotivo del richiamo:\nLISTERIA MOCYTOGENES\nAvvertenze:\nNON CONSUMARE IL PRODOTTO DESCRITTO E RIPORTARLO AL PUNTO VENDITA\n "
+  },
+  "prima_rilevazione": "2026-10-25T09:57:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:41+00:00"
+ },
+ "uova-categoria-fresche": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-categoria-fresche/",
+  "titolo": "Uova categoria A Fresche",
+  "data_pubblicazione": "2017-09-21",
+  "marca": "Uova rosse \nAzienda Agricola Tomaino Rosina",
+  "denominazione": "Uova categoria A Fresche",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ETICHETTA%20LOTTO%20CAMPIONATURA_1761175323.pdf",
+  "allegati": [
+   {
+    "titolo": "ETICHETTA LOTTO CAMPIONATURA_1761175323.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ETICHETTA%20LOTTO%20CAMPIONATURA_1761175323.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-categoria-fresche",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:56+00:00"
+ },
+ "uova-di-gallina-guscio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio/",
+  "titolo": "UOVA DI GALLINA IN GUSCIO",
+  "data_pubblicazione": "2017-09-11",
+  "marca": "FATTORIE VALLE DEL MISA",
+  "denominazione": "UOVA DI GALLINA IN GUSCIO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PRODOTTO%20ALIMENTARE%20FATTORIE%20VALLE%20DEL%20MISA_1761175306.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO PRODOTTO ALIMENTARE FATTORIE VALLE DEL MISA_1761175306.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PRODOTTO%20ALIMENTARE%20FATTORIE%20VALLE%20DEL%20MISA_1761175306.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-di-gallina-guscio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "lotti": [
+    "31/17",
+    "32/17",
+    "33/17",
+    "34/17. NOME E SEDE STABILIMENTO: FATTORIE VALLE DEL MISA - VIA BAROCCO",
+    "14 – OSTRA VETERE (AN)"
+   ],
+   "motivo_esteso": "FIPRONIL PRESENZA DI PER UN VALORE > 0,72 mg/Kg. AVVERTENZA IMPORTANTE: LE UOVA NON CONSUMATE VANNO RICONSEGNATE AL PUNTO DI ACQUISTO.",
+   "campi_extra": {
+    "NOME E SEDE STABILIMENTO": "FATTORIE"
+   },
+   "testo": "RICHIAMO PRODOTTO ALIMENTARE NON\nCONFORME:\nPRODOTTO:\nUOVA DI GALLINA IN GUSCIO\nPRODOTTE DALLA “FATTORIE VALLE DEL MISA”\nLOTTI DI PRODUZIONE:\n31/17;32/17;33/17;34/17.\nNOME E SEDE STABILIMENTO: FATTORIE\nVALLE DEL MISA\n- VIA BAROCCO, 14 –\nOSTRA VETERE (AN)\nMOTIVO DEL RICHIAMO:\nFIPRONIL\nPRESENZA DI PER UN VALORE >\n0,72 mg/Kg.\nAVVERTENZA IMPORTANTE:\nLE UOVA NON CONSUMATE\nVANNO RICONSEGNATE AL\nPUNTO DI ACQUISTO."
+  },
+  "prima_rilevazione": "2026-10-25T09:57:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:20+00:00"
+ },
+ "uova-di-gallina-guscio-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio-0/",
+  "titolo": "Uova di gallina in guscio",
+  "data_pubblicazione": "2017-09-22",
+  "marca": "vari marchi",
+  "denominazione": "Uova di gallina in guscio",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175952.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo cisam 22_09_2017_1761175952.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175952.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-di-gallina-guscio-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA IN GUSCIO VARIE CONF.",
+   "operatore": "CISAM Società agricola a.r.l. s",
+   "lotti": [
+    "dal 22-09-2017 al 17-10-2017"
+   ],
+   "marchio_identificazione": "IT061017-COD. AZ. 051CE001-A.N.CE IT UY8L",
+   "produttore": "CISAM Società agricola a.r.l.",
+   "sede_stabilimento": "S.S. Casilina-km.158+620 Mignano Monte Lungo 81049",
+   "peso_volume": "VARIE TIPOLOGIE",
+   "motivo_esteso": "RISCHIO GRAVE: valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg.",
+   "avvertenze": "Le uova vanno riconsegnate al punto di acquisto",
+   "campi_extra": {
+    "Data": "22/09/2017 Marchio del prodotto: VARI:CISAM-AGRIOVO-OVIBON -SACCOCCIO",
+    "RISCHIO GRAVE": "valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg."
+   },
+   "testo": "Ministero della Salute\nRICHIAMO\nData: 22/09/2017 Marchio del prodotto: VARI:CISAM-AGRIOVO-OVIBON -SACCOCCIO\nDenominazione di vendita:UOVA DI GALLINA IN GUSCIO VARIE CONF.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CISAM Società agricola a.r.l. s\ncommercializzato:\nLotto di produzione: dal 22-09-2017 al 17-10-2017\nMarchio di identificazione dello stabilimento/del produttore: IT061017-COD. AZ. 051CE001-A.N.CE IT UY8L\nNome del produttore: CISAM Società agricola a.r.l.\nSede dello stabilimento: S.S. Casilina-km.158+620 Mignano Monte Lungo 81049\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: VARIE TIPOLOGIE\nMotivo del richiamo:\nRISCHIO GRAVE: valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg.\nAvvertenze:\nLe uova vanno riconsegnate al punto di acquisto"
+  },
+  "prima_rilevazione": "2026-10-25T09:56:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:48+00:00"
+ },
+ "uova-di-gallina-guscio-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio-1/",
+  "titolo": "Uova di gallina in guscio",
+  "data_pubblicazione": "2017-09-22",
+  "marca": "CISAM Società agricola a.r.l. s",
+  "denominazione": "Uova di gallina in guscio",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175954.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo cisam 22_09_2017_1761175954.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20cisam%2022_09_2017_1761175954.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-di-gallina-guscio-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA IN GUSCIO VARIE CONF.",
+   "operatore": "CISAM Società agricola a.r.l. s",
+   "lotti": [
+    "dal 22-09-2017 al 17-10-2017"
+   ],
+   "marchio_identificazione": "IT061017-COD. AZ. 051CE001-A.N.CE IT UY8L",
+   "produttore": "CISAM Società agricola a.r.l.",
+   "sede_stabilimento": "S.S. Casilina-km.158+620 Mignano Monte Lungo 81049",
+   "peso_volume": "VARIE TIPOLOGIE",
+   "motivo_esteso": "RISCHIO GRAVE: valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg.",
+   "avvertenze": "Le uova vanno riconsegnate al punto di acquisto",
+   "campi_extra": {
+    "Data": "22/09/2017 Marchio del prodotto: VARI:CISAM-AGRIOVO-OVIBON -SACCOCCIO",
+    "RISCHIO GRAVE": "valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg."
+   },
+   "testo": "Ministero della Salute\nRICHIAMO\nData: 22/09/2017 Marchio del prodotto: VARI:CISAM-AGRIOVO-OVIBON -SACCOCCIO\nDenominazione di vendita:UOVA DI GALLINA IN GUSCIO VARIE CONF.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CISAM Società agricola a.r.l. s\ncommercializzato:\nLotto di produzione: dal 22-09-2017 al 17-10-2017\nMarchio di identificazione dello stabilimento/del produttore: IT061017-COD. AZ. 051CE001-A.N.CE IT UY8L\nNome del produttore: CISAM Società agricola a.r.l.\nSede dello stabilimento: S.S. Casilina-km.158+620 Mignano Monte Lungo 81049\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: VARIE TIPOLOGIE\nMotivo del richiamo:\nRISCHIO GRAVE: valore di fipronil pari a 0.82 mg./kg.,superiore al limite di tossicità acuta di 0.72 mg./kg.\nAvvertenze:\nLe uova vanno riconsegnate al punto di acquisto"
+  },
+  "prima_rilevazione": "2026-10-25T09:56:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:50+00:00"
+ },
+ "uova-di-gallina-guscio-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-guscio-2/",
+  "titolo": "Uova di gallina in guscio",
+  "data_pubblicazione": "2017-09-24",
+  "marca": "CISAM Società agricola a.r.l.",
+  "denominazione": "Uova di gallina in guscio",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato%202%20Richiamo%20CISAM_1761175955.pdf",
+  "allegati": [
+   {
+    "titolo": "allegato 2 Richiamo CISAM_1761175955.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato%202%20Richiamo%20CISAM_1761175955.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-di-gallina-guscio-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:43+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:43+00:00"
+ },
+ "uova-fresche-categoria": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria/",
+  "titolo": "UOVA FRESCHE CATEGORIA A",
+  "data_pubblicazione": "2017-09-21",
+  "marca": "UOVA ROSSE Az. Agricola TOMAINO ROSINA",
+  "denominazione": "UOVA FRESCHE CATEGORIA A",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SARAM%20339161_1761175328.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo SARAM 339161_1761175328.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20SARAM%20339161_1761175328.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-categoria",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T09:57:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:57:04+00:00"
+ },
+ "yogurt-intero-all-albicocca-2-x-115-g-teddi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-all-albicocca-2-x-115-g-teddi/",
+  "titolo": "YOGURT INTERO ALL' ALBICOCCA - 2 x 115 g - Teddi",
+  "data_pubblicazione": "2017-09-28",
+  "marca": "FATTORIA SCALDASOLE",
+  "denominazione": "YOGURT INTERO ALL' ALBICOCCA - 2 x 115 g - Teddi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20albicocca%20teddi_1761175963.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo yogurt intero albicocca teddi_1761175963.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20albicocca%20teddi_1761175963.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "yogurt-intero-all-albicocca-2-x-115-g-teddi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:37+00:00"
+ },
+ "yogurt-intero-alla-banana-2-x-115-g-teddi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-alla-banana-2-x-115-g-teddi/",
+  "titolo": "YOGURT INTERO ALLA BANANA - 2 x 115 g Teddi",
+  "data_pubblicazione": "2017-09-28",
+  "marca": "FATTORIA SCALDASOLE",
+  "denominazione": "YOGURT INTERO ALLA BANANA - 2 x 115 g Teddi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20banana%20teddi_1761175956.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo yogurt intero banana teddi_1761175956.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20banana%20teddi_1761175956.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "yogurt-intero-alla-banana-2-x-115-g-teddi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:24+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:24+00:00"
+ },
+ "yogurt-intero-alla-pera-2-x-115-g-teddi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-intero-alla-pera-2-x-115-g-teddi/",
+  "titolo": "YOGURT INTERO ALLA PERA - 2 x 115 g - Teddi",
+  "data_pubblicazione": "2017-09-28",
+  "marca": "FATTORIA SCALDASOLE",
+  "denominazione": "YOGURT INTERO ALLA PERA - 2 x 115 g - Teddi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20pera%20teddi_1761175958.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo yogurt intero pera teddi_1761175958.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20intero%20pera%20teddi_1761175958.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "yogurt-intero-alla-pera-2-x-115-g-teddi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:27+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:27+00:00"
+ },
+ "yogurt-magro-mela-e-cannella-250-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-mela-e-cannella-250-g/",
+  "titolo": "YOGURT MAGRO MELA E CANNELLA - 250 g",
+  "data_pubblicazione": "2017-09-28",
+  "marca": "FATTORIA SCALDASOLE",
+  "denominazione": "YOGURT MAGRO MELA E CANNELLA - 250 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20magro%20mela%20e%20cannella%20250g_1761175959.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo yogurt magro mela e cannella 250g_1761175959.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20magro%20mela%20e%20cannella%20250g_1761175959.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "yogurt-magro-mela-e-cannella-250-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:29+00:00"
+ },
+ "yogurt-magro-mela-e-cannella-senza-lattosio-2-x-115-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-magro-mela-e-cannella-senza-lattosio-2-x-115-g/",
+  "titolo": "YOGURT MAGRO MELA E CANNELLA SENZA LATTOSIO - 2 x 115 g",
+  "data_pubblicazione": "2017-09-28",
+  "marca": "FATTORIA SCALDASOLE",
+  "denominazione": "YOGURT MAGRO MELA E CANNELLA SENZA LATTOSIO - 2 x 115 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20magro%20mela%20e%20cannella%20senza%20lattosio_1761175960.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo yogurt magro mela e cannella senza lattosio_1761175960.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20yogurt%20magro%20mela%20e%20cannella%20senza%20lattosio_1761175960.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "yogurt-magro-mela-e-cannella-senza-lattosio-2-x-115-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:56:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:56:32+00:00"
+ }
+}

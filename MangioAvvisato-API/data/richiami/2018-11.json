@@ -1,0 +1,876 @@
+{
+ "biscottini-prime-pappe": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscottini-prime-pappe/",
+  "titolo": "BISCOTTINI PRIME PAPPE",
+  "data_pubblicazione": "2018-11-23",
+  "marca": "PRIME PAPPE",
+  "denominazione": "BISCOTTINI PRIME PAPPE",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Biscotti%20infanzia%20bio%20376360_1761177916.pdf",
+  "allegati": [
+   {
+    "titolo": "Biscotti infanzia bio 376360_1761177916.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Biscotti%20infanzia%20bio%20376360_1761177916.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "biscottini-prime-pappe",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:30+00:00"
+ },
+ "ciauscolo-di-visso-ciauscolo-igp": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciauscolo-di-visso-ciauscolo-igp/",
+  "titolo": "CIAUSCOLO di VISSO CIAUSCOLO IGP",
+  "data_pubblicazione": "2018-11-23",
+  "marca": "vissana salumi srl",
+  "denominazione": "CIAUSCOLO di VISSO CIAUSCOLO IGP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORICHIAMO_1761177912.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLORICHIAMO_1761177912.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORICHIAMO_1761177912.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ciauscolo-di-visso-ciauscolo-igp",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:28+00:00"
+ },
+ "coop": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coop/",
+  "titolo": "COOP",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "821159/0010 COOP SCAMORZA BIANCA A FETTE 140X10",
+  "denominazione": "COOP",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_REVOCA_RICHIAMO_SCAMORZA_19.11.18_1761177880.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO_REVOCA_RICHIAMO_SCAMORZA_19.11.18_1761177880.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_REVOCA_RICHIAMO_SCAMORZA_19.11.18_1761177880.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "coop",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:36+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:36+00:00"
+ },
+ "coppa-di-testa-maiale-farcita": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-testa-maiale-farcita/",
+  "titolo": "coppa di testa maiale farcita",
+  "data_pubblicazione": "2018-11-23",
+  "marca": "antica gastronomia srl",
+  "denominazione": "coppa di testa maiale farcita",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20coppa%20di%20testa%20farcita_1761177920.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo coppa di testa farcita_1761177920.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20coppa%20di%20testa%20farcita_1761177920.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "coppa-di-testa-maiale-farcita",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:32+00:00"
+ },
+ "fumetto-di-mais-8-file": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fumetto-di-mais-8-file/",
+  "titolo": "FUMETTO DI MAIS 8 FILE",
+  "data_pubblicazione": "2018-11-29",
+  "marca": "BONGIOVANNI",
+  "denominazione": "FUMETTO DI MAIS 8 FILE",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Bongiovanni%20_%20Fumetto%20di%20mais%208%20file%2029_11_18_1761177937.pdf",
+  "allegati": [
+   {
+    "titolo": "Bongiovanni _ Fumetto di mais 8 file 29_11_18_1761177937.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Bongiovanni%20_%20Fumetto%20di%20mais%208%20file%2029_11_18_1761177937.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fumetto-di-mais-8-file",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:21+00:00"
+ },
+ "gelatina-fogli-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-fogli-0/",
+  "titolo": "gelatina in fogli",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "Paneangeli",
+  "denominazione": "gelatina in fogli",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177888.pdf",
+  "allegati": [
+   {
+    "titolo": "REVOCA RICHIAMO_1761177888.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177888.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "gelatina-fogli-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gelatina in fogli",
+   "operatore": "Cameo S.p.a.",
+   "lotti": [
+    "24052/3"
+   ],
+   "marchio_identificazione": "DE RP-EV11-001G EG",
+   "produttore": "Ewald-Gelatine GmbH",
+   "sede_stabilimento": "Meddersheimer Str. 50 - D-55566 Bad Sobernheim",
+   "scadenza": "05-06-2021",
+   "peso_volume": "12 g",
+   "motivo_esteso": "sospetta presenza di salmonella",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/11/2018 Marchio del prodotto: Paneangeli",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nREVOCA DI RICHIAMO\nData: 22/11/2018 Marchio del prodotto: Paneangeli\nDenominazione di vendita:Gelatina in fogli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cameo S.p.a.\ncommercializzato:\nLotto di produzione: 24052/3\nMarchio di identificazione dello stabilimento/del produttore: DE RP-EV11-001G EG\nNome del produttore: Ewald-Gelatine GmbH\nSede dello stabilimento: Meddersheimer Str. 50 - D-55566 Bad Sobernheim\nData di scadenza o termine minimo di conservazione: 05-06-2021\nDescrizione peso/volume unità di vendita: 12 g\nMotivo del richiamo:\nsospetta presenza di salmonella\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:40+00:00"
+ },
+ "gelatina-fogli-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-fogli-1/",
+  "titolo": "Gelatina in fogli",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "Paneangeli",
+  "denominazione": "Gelatina in fogli",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177892.pdf",
+  "allegati": [
+   {
+    "titolo": "REVOCA RICHIAMO_1761177892.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20RICHIAMO_1761177892.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gelatina-fogli-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gelatina in fogli",
+   "operatore": "Cameo S.p.a.",
+   "lotti": [
+    "24052/3"
+   ],
+   "marchio_identificazione": "DE RP-EV11-001G EG",
+   "produttore": "Ewald-Gelatine GmbH",
+   "sede_stabilimento": "Meddersheimer Str. 50 - D-55566 Bad Sobernheim",
+   "scadenza": "05-06-2021",
+   "peso_volume": "12 g",
+   "motivo_esteso": "sospetta presenza di salmonella",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/11/2018 Marchio del prodotto: Paneangeli",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/11/2018 Marchio del prodotto: Paneangeli\nDenominazione di vendita:Gelatina in fogli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cameo S.p.a.\ncommercializzato:\nLotto di produzione: 24052/3\nMarchio di identificazione dello stabilimento/del produttore: DE RP-EV11-001G EG\nNome del produttore: Ewald-Gelatine GmbH\nSede dello stabilimento: Meddersheimer Str. 50 - D-55566 Bad Sobernheim\nData di scadenza o termine minimo di conservazione: 05-06-2021\nDescrizione peso/volume unità di vendita: 12 g\nMotivo del richiamo:\nsospetta presenza di salmonella\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:43+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:43+00:00"
+ },
+ "gelatina-fogli-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-fogli-2/",
+  "titolo": "Gelatina in fogli",
+  "data_pubblicazione": "2018-11-26",
+  "marca": "Paneangeli",
+  "denominazione": "Gelatina in fogli",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20revoca%20_salmonella_1761177925.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello revoca _salmonella_1761177925.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20revoca%20_salmonella_1761177925.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gelatina-fogli-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:24+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:24+00:00"
+ },
+ "marshmallow-palla-rossa": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/marshmallow-palla-rossa/",
+  "titolo": "MARSHMALLOW PALLA ROSSA",
+  "data_pubblicazione": "2018-11-15",
+  "marca": "Le Monelle",
+  "denominazione": "MARSHMALLOW PALLA ROSSA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20NSIS_1761177869.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo NSIS_1761177869.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20NSIS_1761177869.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "marshmallow-palla-rossa",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:44:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:04+00:00"
+ },
+ "panettone-il-gran-nocciolato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panettone-il-gran-nocciolato/",
+  "titolo": "PANETTONE IL GRAN NOCCIOLATO",
+  "data_pubblicazione": "2018-11-21",
+  "marca": "MAINA PANETTONI",
+  "denominazione": "PANETTONE IL GRAN NOCCIOLATO",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maina%20_%20Panettone%20Il%20Gran%20Nocciolato%2019_11_18_1761177872.pdf",
+  "allegati": [
+   {
+    "titolo": "Maina _ Panettone Il Gran Nocciolato 19_11_18_1761177872.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maina%20_%20Panettone%20Il%20Gran%20Nocciolato%2019_11_18_1761177872.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "panettone-il-gran-nocciolato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PANETTONE IL GRAN NOCCIOLATO",
+   "operatore": "MAINA PANETTONI S.P.A.",
+   "lotti": [
+    "801077-881077-891077"
+   ],
+   "marchio_identificazione": "MAINA PANETTONI S.P.A.",
+   "produttore": "MAINA PANETTONI S.P.A.",
+   "sede_stabilimento": "Via Bra (Tagliata), 109 - 12045 Fossano (CN) IT",
+   "scadenza": "30-06-2019",
+   "peso_volume": "1 KG cod. EAN 8005190401011",
+   "motivo_esteso": "possibile contaminazione da filamenti metallici",
+   "avvertenze": "Invitiamo il consumatore a riportare il prodotto al punto vendita per la sostituzione. E-mail: gestionereclami@mainapanettoni.com N. verde: 800-617781 (lu-ve 8,00-12,00 e 14,00-18,00) Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "19/11/2018 Marchio del prodotto: MAINA PANETTONI",
+    "E-mail": "gestionereclami@mainapanettoni.com",
+    "N. verde": "800-617781 (lu-ve 8,00-12,00 e 14,00-18,00)",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 19/11/2018 Marchio del prodotto: MAINA PANETTONI\nDenominazione di vendita:PANETTONE IL GRAN NOCCIOLATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MAINA PANETTONI S.P.A.\ncommercializzato:\nLotto di produzione: 801077-881077-891077\nMarchio di identificazione dello stabilimento/del produttore: MAINA PANETTONI S.P.A.\nNome del produttore: MAINA PANETTONI S.P.A.\nSede dello stabilimento: Via Bra (Tagliata), 109 - 12045 Fossano (CN) IT\nData di scadenza o termine minimo di conservazione: 30-06-2019\nDescrizione peso/volume unità di vendita: 1 KG cod. EAN 8005190401011\nMotivo del richiamo:\npossibile contaminazione da filamenti metallici\nAvvertenze:\nInvitiamo il consumatore a riportare il prodotto al punto vendita per la sostituzione.\nE-mail: gestionereclami@mainapanettoni.com\nN. verde: 800-617781 (lu-ve 8,00-12,00 e 14,00-18,00)\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:56+00:00"
+ },
+ "prodotti-di-gastronomia-vari": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prodotti-di-gastronomia-vari/",
+  "titolo": "prodotti di gastronomia vari",
+  "data_pubblicazione": "2018-11-29",
+  "marca": "Marche International Food",
+  "denominazione": "prodotti di gastronomia vari",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModellidirichiamoIFM_1761177933.pdf",
+  "allegati": [
+   {
+    "titolo": "ModellidirichiamoIFM_1761177933.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModellidirichiamoIFM_1761177933.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "prodotti-di-gastronomia-vari",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:19+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:19+00:00"
+ },
+ "salmone-affumicato-scottish-pride": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-affumicato-scottish-pride/",
+  "titolo": "SALMONE AFFUMICATO \"SCOTTISH PRIDE\"\"",
+  "data_pubblicazione": "2018-11-30",
+  "marca": "FOODS OF SCOTLAND SRL",
+  "denominazione": "SALMONE AFFUMICATO \"SCOTTISH PRIDE\"\"",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20FOODS%20OF%20SCOTLAND%20SRL_1761177942.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo FOODS OF SCOTLAND SRL_1761177942.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20FOODS%20OF%20SCOTLAND%20SRL_1761177942.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salmone-affumicato-scottish-pride",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:14+00:00"
+ },
+ "salsiccia-stagionata-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-1/",
+  "titolo": "SALSICCIA STAGIONATA",
+  "data_pubblicazione": "2018-11-08",
+  "marca": "COMACAR - TERREMERSE Soc Coop",
+  "denominazione": "SALSICCIA STAGIONATA",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20SALSICCIA_1761177851.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO RICHIAMO SALSICCIA_1761177851.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20SALSICCIA_1761177851.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:44:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:20+00:00"
+ },
+ "tris-caldaie-allatd-marte-202428-ean-8003512811685": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tris-caldaie-allatd-marte-202428-ean-8003512811685/",
+  "titolo": "TRIS CALDAIE ALL/ATD MARTE 20/24/28 EAN 8003512811685",
+  "data_pubblicazione": "2018-11-29",
+  "marca": "HOME",
+  "denominazione": "TRIS CALDAIE ALL/ATD MARTE 20/24/28 EAN 8003512811685",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_117_C_Richiamo_1761177929.pdf",
+  "allegati": [
+   {
+    "titolo": "18_117_C_Richiamo_1761177929.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_117_C_Richiamo_1761177929.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tris-caldaie-allatd-marte-202428-ean-8003512811685",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:43:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:16+00:00"
+ },
+ "uova-di-gallina-fresche-da-allevamento-batteria-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-batteria-1/",
+  "titolo": "Uova di Gallina fresche da allevamento in batteria",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "avicola sagittario di Galante & C.",
+  "denominazione": "Uova di Gallina fresche da allevamento in batteria",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20avicola%20sagittario%201_1761177895.pdf",
+  "allegati": [
+   {
+    "titolo": "modello  revoca richiamo avicola sagittario 1_1761177895.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20avicola%20sagittario%201_1761177895.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-di-gallina-fresche-da-allevamento-batteria-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA",
+   "operatore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+   "lotti": [
+    "081118/3-111118/3-131118/3"
+   ],
+   "marchio_identificazione": "IT E508V CE",
+   "produttore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+   "sede_stabilimento": "C.DA STRANGOLATA - 67030 BUGNARA (AQ)",
+   "scadenza": "08/11/18-11/11/18-13/11/18",
+   "peso_volume": "UOVA SFUSE IN TRIS DA 30",
+   "motivo_esteso": "REVOCA DI RICHIAMO PER SCADENZA DEL PRODOTTO",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "14/11/2018 Marchio del prodotto: AVICOLA SAGITTARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 14/11/2018 Marchio del prodotto: AVICOLA SAGITTARIO\nDenominazione di vendita:UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA SAGITTARIO DI GALANTE & C.\ncommercializzato:\nLotto di produzione: 081118/3-111118/3-131118/3\nMarchio di identificazione dello stabilimento/del produttore: IT E508V CE\nNome del produttore: AVICOLA SAGITTARIO DI GALANTE & C.\nSede dello stabilimento: C.DA STRANGOLATA - 67030 BUGNARA (AQ)\nData di scadenza o termine minimo di conservazione: 08/11/18-11/11/18-13/11/18\nDescrizione peso/volume unità di vendita: UOVA SFUSE IN TRIS DA 30\nMotivo del richiamo:\nREVOCA DI RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:45+00:00"
+ },
+ "uova-di-gallina-fresche-da-allevamento-terra-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-terra-3/",
+  "titolo": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+  "data_pubblicazione": "2018-11-02",
+  "marca": "AZIENDA AGRICOLA BOSI LUIGI",
+  "denominazione": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Bosi%20Luigi_31.10.2018_1761177845.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Bosi Luigi_31.10.2018_1761177845.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Bosi%20Luigi_31.10.2018_1761177845.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-di-gallina-fresche-da-allevamento-terra-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+   "operatore": "AZIENDA AGRICOLA \"BOSI LUIGI\" DI BOSI COSTANZA - CORFINIO AQ",
+   "lotti": [
+    "DA CONSUMARSI ENTRO IL 31/10/2018"
+   ],
+   "marchio_identificazione": "IT X8HOM CE",
+   "produttore": "AZIENDA AGRICOLA BOSI LUIGI DI BOSI COSTANZA",
+   "sede_stabilimento": "CORFINIO (AQ)",
+   "scadenza": "31-10-2018",
+   "peso_volume": "CONFEZIONI DA 6 UNITA'",
+   "motivo_esteso": "REVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "02/11/2018 Marchio del prodotto: AZIENDA AGRICOLA BOSI LUIGI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 02/11/2018 Marchio del prodotto: AZIENDA AGRICOLA BOSI LUIGI\nDenominazione di vendita:UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA \"BOSI LUIGI\" DI BOSI COSTANZA - CORFINIO AQ\ncommercializzato:\nLotto di produzione: DA CONSUMARSI ENTRO IL 31/10/2018\nMarchio di identificazione dello stabilimento/del produttore: IT X8HOM CE\nNome del produttore: AZIENDA AGRICOLA BOSI LUIGI DI BOSI COSTANZA\nSede dello stabilimento: CORFINIO (AQ)\nData di scadenza o termine minimo di conservazione: 31-10-2018\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 6 UNITA'\nMotivo del richiamo:\nREVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:44:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:23+00:00"
+ },
+ "uova-di-gallina-fresche-da-allevamento-terra-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-terra-4/",
+  "titolo": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+  "data_pubblicazione": "2018-11-02",
+  "marca": "AZIENDA AGRICOLA BOSI LUIGI",
+  "denominazione": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Bosi%20Luigi_01.11.2018_1761177848.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Bosi Luigi_01.11.2018_1761177848.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Bosi%20Luigi_01.11.2018_1761177848.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-di-gallina-fresche-da-allevamento-terra-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+   "operatore": "AZIENDA AGRICOLA \"BOSI LUIGI\" DI BOSI COSTANZA - CORFINIO AQ",
+   "lotti": [
+    "DA CONSUMARSI ENTRO IL 01/11/2018"
+   ],
+   "marchio_identificazione": "IT X8HOM CE",
+   "produttore": "AZIENDA AGRICOLA BOSI LUIGI DI BOSI COSTANZA",
+   "sede_stabilimento": "CORFINIO (AQ)",
+   "scadenza": "01-11-2018",
+   "peso_volume": "CONFEZIONI DA 6 UNITA'",
+   "motivo_esteso": "REVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "02/11/2018 Marchio del prodotto: AZIENDA AGRICOLA BOSI LUIGI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 02/11/2018 Marchio del prodotto: AZIENDA AGRICOLA BOSI LUIGI\nDenominazione di vendita:UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA \"BOSI LUIGI\" DI BOSI COSTANZA - CORFINIO AQ\ncommercializzato:\nLotto di produzione: DA CONSUMARSI ENTRO IL 01/11/2018\nMarchio di identificazione dello stabilimento/del produttore: IT X8HOM CE\nNome del produttore: AZIENDA AGRICOLA BOSI LUIGI DI BOSI COSTANZA\nSede dello stabilimento: CORFINIO (AQ)\nData di scadenza o termine minimo di conservazione: 01-11-2018\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 6 UNITA'\nMotivo del richiamo:\nREVOCA DEL RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:44:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:26+00:00"
+ },
+ "uova-di-gallina-fresche-da-allevamento-terra-5": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-terra-5/",
+  "titolo": "Uova di gallina fresche da allevamento a terra",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "GALANTUOVO",
+  "denominazione": "Uova di gallina fresche da allevamento a terra",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20avicola%20sagittario%203_1761177903.pdf",
+  "allegati": [
+   {
+    "titolo": "modello  revoca richiamo avicola sagittario 3_1761177903.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20avicola%20sagittario%203_1761177903.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-di-gallina-fresche-da-allevamento-terra-5",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+   "operatore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+   "lotti": [
+    "08111-1211-1511-1911"
+   ],
+   "marchio_identificazione": "IT E508V CE",
+   "produttore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+   "sede_stabilimento": "C.DA STRANGOLATA - 67030 BUGNARA (AQ)",
+   "scadenza": "08/11/18-12/11/18-15/11/18-19/11/2018",
+   "peso_volume": "CONF. DA 6 UOVA E SFUSE IN TRIS DA 30 UOVA E 20 UOVA",
+   "motivo_esteso": "REVOCA DI RICHIAMO PER SCADENZA DEL PRODOTTO",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "20/11/2018 Marchio del prodotto: GALANTUOVO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 20/11/2018 Marchio del prodotto: GALANTUOVO\nDenominazione di vendita:UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA SAGITTARIO DI GALANTE & C.\ncommercializzato:\nLotto di produzione: 08111-1211-1511-1911\nMarchio di identificazione dello stabilimento/del produttore: IT E508V CE\nNome del produttore: AVICOLA SAGITTARIO DI GALANTE & C.\nSede dello stabilimento: C.DA STRANGOLATA - 67030 BUGNARA (AQ)\nData di scadenza o termine minimo di conservazione: 08/11/18-12/11/18-15/11/18-19/11/2018\nDescrizione peso/volume unità di vendita: CONF. DA 6 UOVA E SFUSE IN TRIS DA 30 UOVA E 20 UOVA\nMotivo del richiamo:\nREVOCA DI RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:50+00:00"
+ },
+ "uova-di-gallina-fresche-da-allevamento-terra-6": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-di-gallina-fresche-da-allevamento-terra-6/",
+  "titolo": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "AZIENDA AGRICOLA \"BOSI LUIGI\" DI BOSI COSTANZA - CORFINIO AQ",
+  "denominazione": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20Bosi%2003.11.2018_1761177907.pdf",
+  "allegati": [
+   {
+    "titolo": "modello  revoca richiamo Bosi 03.11.2018_1761177907.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20Bosi%2003.11.2018_1761177907.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-di-gallina-fresche-da-allevamento-terra-6",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA",
+   "operatore": "AZIENDA AGRICOLA \"BOSI LUIGI\" DI BOSI COSTANZA - CORFINIO AQ",
+   "lotti": [
+    "DA CONSUMARSI ENTRO IL 2/11/2018"
+   ],
+   "marchio_identificazione": "IT X8HOM CE",
+   "produttore": "AZIENDA AGRICOLA BOSI LUIGI DI BOSI COSTANZA",
+   "sede_stabilimento": "CORFINIO AQ",
+   "scadenza": "02-11-2018",
+   "peso_volume": "CONFEZIONI DA 6 UNITA'",
+   "motivo_esteso": "REVOCA RICHIAMO PER SCADENZA DEL PRODOTTO",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "03/11/2018 Marchio del prodotto: AZIENDA AGRICOLA BOSI LUIGI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 03/11/2018 Marchio del prodotto: AZIENDA AGRICOLA BOSI LUIGI\nDenominazione di vendita:UOVA DI GALLINA FRESCHE DA ALLEVAMENTO A TERRA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AZIENDA AGRICOLA \"BOSI LUIGI\" DI BOSI COSTANZA - CORFINIO AQ\ncommercializzato:\nLotto di produzione: DA CONSUMARSI ENTRO IL 2/11/2018\nMarchio di identificazione dello stabilimento/del produttore: IT X8HOM CE\nNome del produttore: AZIENDA AGRICOLA BOSI LUIGI DI BOSI COSTANZA\nSede dello stabilimento: CORFINIO AQ\nData di scadenza o termine minimo di conservazione: 02-11-2018\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 6 UNITA'\nMotivo del richiamo:\nREVOCA RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:52+00:00"
+ },
+ "uova-fresche-da-allevamento-batteria": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-batteria/",
+  "titolo": "Uova fresche da allevamento in batteria",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "AVICOLA SAGITTARIO",
+  "denominazione": "Uova fresche da allevamento in batteria",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20avicola%20sagittario%202_1761177899.pdf",
+  "allegati": [
+   {
+    "titolo": "modello  revoca richiamo avicola sagittario 2_1761177899.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20%20revoca%20richiamo%20avicola%20sagittario%202_1761177899.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-da-allevamento-batteria",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA",
+   "operatore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+   "lotti": [
+    "151118/3-171118/3-191118/3"
+   ],
+   "marchio_identificazione": "IT E508V CE",
+   "produttore": "AVICOLA SAGITTARIO DI GALANTE & C.",
+   "sede_stabilimento": "C.DA STRANGOLATA - 67030 BUGNARA (AQ)",
+   "scadenza": "08/11/18-11/11/18-13/11/18",
+   "peso_volume": "UOVA SFUSE IN TRIS DA 30",
+   "motivo_esteso": "REVOCA DI RICHIAMO PER SCADENZA DEL PRODOTTO",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "20/11/2018 Marchio del prodotto: AVICOLA SAGITTARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 20/11/2018 Marchio del prodotto: AVICOLA SAGITTARIO\nDenominazione di vendita:UOVA DI GALLINA FRESCHE DA ALLEVAMENTO IN BATTERIA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA SAGITTARIO DI GALANTE & C.\ncommercializzato:\nLotto di produzione: 151118/3-171118/3-191118/3\nMarchio di identificazione dello stabilimento/del produttore: IT E508V CE\nNome del produttore: AVICOLA SAGITTARIO DI GALANTE & C.\nSede dello stabilimento: C.DA STRANGOLATA - 67030 BUGNARA (AQ)\nData di scadenza o termine minimo di conservazione: 08/11/18-11/11/18-13/11/18\nDescrizione peso/volume unità di vendita: UOVA SFUSE IN TRIS DA 30\nMotivo del richiamo:\nREVOCA DI RICHIAMO PER SCADENZA DEL PRODOTTO\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:48+00:00"
+ },
+ "vitello-tonnato-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-0/",
+  "titolo": "VITELLO TONNATO",
+  "data_pubblicazione": "2018-11-21",
+  "marca": "GASTRONOMIA D'ITALIA",
+  "denominazione": "VITELLO TONNATO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177876.pdf",
+  "allegati": [
+   {
+    "titolo": "LA SORGENTE_richiamo_Vit tonnato_ 21.11.18_1761177876.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177876.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "vitello-tonnato-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "VITELLO TONNATO 230 g",
+   "operatore": "SMA SPA, STRADA 8, PALAZZO N, 20089 ROZZANO (MI)",
+   "lotti": [
+    "18048"
+   ],
+   "marchio_identificazione": "BOLLO CE IT358L CE",
+   "produttore": "LA SORGENTE SRL",
+   "sede_stabilimento": "VIA ALDO MORO, 6- 20060 PESSANO CON BORNAGO (MI)",
+   "scadenza": "24 e 26/11/18",
+   "peso_volume": "230 g",
+   "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+   "avvertenze": "Non consumare il prodotto e riportarlo presso il punto vendita. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "21/11/2018 Marchio del prodotto: GASTRONOMIA D'ITALIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 21/11/2018 Marchio del prodotto: GASTRONOMIA D'ITALIA\nDenominazione di vendita:VITELLO TONNATO 230 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMA SPA, STRADA 8, PALAZZO N, 20089 ROZZANO (MI)\ncommercializzato:\nLotto di produzione: 18048\nMarchio di identificazione dello stabilimento/del produttore: BOLLO CE IT358L CE\nNome del produttore: LA SORGENTE SRL\nSede dello stabilimento: VIA ALDO MORO, 6- 20060 PESSANO CON BORNAGO (MI)\nData di scadenza o termine minimo di conservazione: 24 e 26/11/18\nDescrizione peso/volume unità di vendita: 230 g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo presso il punto vendita.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:44:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:00+00:00"
+ },
+ "vitello-tonnato-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato-1/",
+  "titolo": "VITELLO TONNATO",
+  "data_pubblicazione": "2018-11-22",
+  "marca": "GASTRONOMIA D'ITALIA",
+  "denominazione": "VITELLO TONNATO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177884.pdf",
+  "allegati": [
+   {
+    "titolo": "LA SORGENTE_richiamo_Vit tonnato_ 21.11.18_1761177884.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LA%20SORGENTE_richiamo_Vit%20tonnato_%2021.11.18_1761177884.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vitello-tonnato-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:43:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:43:38+00:00"
+ },
+ "wellness-mix": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wellness-mix/",
+  "titolo": "WELLNESS MIX",
+  "data_pubblicazione": "2018-11-13",
+  "marca": "WELLNESS MIX",
+  "denominazione": "WELLNESS MIX",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_Mix_1761177865.pdf",
+  "allegati": [
+   {
+    "titolo": "Wellness_Mix_1761177865.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_Mix_1761177865.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wellness-mix",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:44:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:17+00:00"
+ },
+ "wellness-mix-alla-frutta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wellness-mix-alla-frutta/",
+  "titolo": "WELLNESS MIX ALLA FRUTTA",
+  "data_pubblicazione": "2018-11-13",
+  "marca": "SUNY - FRUTTA SECCA",
+  "denominazione": "WELLNESS MIX ALLA FRUTTA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_gr_100_12_1761177858.pdf",
+  "allegati": [
+   {
+    "titolo": "Wellness_gr_100_12_1761177858.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_gr_100_12_1761177858.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wellness-mix-alla-frutta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:44:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:11+00:00"
+ },
+ "wellness-mix-alla-frutta-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wellness-mix-alla-frutta-0/",
+  "titolo": "WELLNESS MIX ALLA FRUTTA",
+  "data_pubblicazione": "2018-11-13",
+  "marca": "WELLNESS GR. 100/12",
+  "denominazione": "WELLNESS MIX ALLA FRUTTA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_gr_100_12_1761177862.pdf",
+  "allegati": [
+   {
+    "titolo": "Wellness_gr_100_12_1761177862.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_gr_100_12_1761177862.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wellness-mix-alla-frutta-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:44:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:14+00:00"
+ },
+ "wellness-mix-vassoio-gr-130": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wellness-mix-vassoio-gr-130/",
+  "titolo": "WELLNESS MIX VASSOIO GR. 130",
+  "data_pubblicazione": "2018-11-13",
+  "marca": "WELLNESS MIX",
+  "denominazione": "WELLNESS MIX VASSOIO GR. 130",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_Mix_130_gr_1761177854.pdf",
+  "allegati": [
+   {
+    "titolo": "Wellness_Mix_130_gr_1761177854.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Wellness_Mix_130_gr_1761177854.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wellness-mix-vassoio-gr-130",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:44:07+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:44:07+00:00"
+ }
+}

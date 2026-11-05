@@ -1,0 +1,655 @@
+{
+ "acqua-oligominerale-santa-croce": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-oligominerale-santa-croce/",
+  "titolo": "ACQUA OLIGOMINERALE SANTA CROCE",
+  "data_pubblicazione": "2018-08-10",
+  "marca": "SANTA CROCE",
+  "denominazione": "ACQUA OLIGOMINERALE SANTA CROCE",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20santa%20croce%20_%20sorgente%20fiuggino_1761177707.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo santa croce _ sorgente fiuggino_1761177707.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20santa%20croce%20_%20sorgente%20fiuggino_1761177707.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "acqua-oligominerale-santa-croce",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:23+00:00"
+ },
+ "dolci-misti-pabassini": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dolci-misti-pabassini/",
+  "titolo": "DOLCI MISTI - PABASSINI",
+  "data_pubblicazione": "2018-08-11",
+  "marca": "SARRIA - I DOLCI DELLA SARDEGNA s.n.c.",
+  "denominazione": "DOLCI MISTI - PABASSINI",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1761177709.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo_1761177709.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1761177709.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "dolci-misti-pabassini",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:21+00:00"
+ },
+ "missoltino-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/missoltino-1/",
+  "titolo": "MISSOLTINO",
+  "data_pubblicazione": "2018-08-09",
+  "marca": "MISULTIN STORE SRL",
+  "denominazione": "MISSOLTINO",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761177705.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Richiamo_1761177705.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761177705.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "missoltino-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "MISSOLTINO",
+   "operatore": "MISULTIN STORE SRL",
+   "lotti": [
+    "1903/03"
+   ],
+   "marchio_identificazione": "IT 409 CE",
+   "produttore": "MISULTIN STORE SRL",
+   "sede_stabilimento": "OLGINATE (LC), VIA ALBEGNO 22",
+   "peso_volume": "CONFEZIONI SOTTOVUOTO DA 250 gr CA",
+   "motivo_esteso": "RITIRO CONCLUSO",
+   "avvertenze": " ",
+   "campi_extra": {
+    "Data": "09/08/2018 Marchio del prodotto: MISULTIN STORE"
+   },
+   "testo": "\nMinistero della Salute\nREVOCA DI RICHIAMO\nData: 09/08/2018 Marchio del prodotto: MISULTIN STORE\nDenominazione di vendita:MISSOLTINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MISULTIN STORE SRL\ncommercializzato:\nLotto di produzione: 1903/03\nMarchio di identificazione dello stabilimento/del produttore: IT 409 CE\nNome del produttore: MISULTIN STORE SRL\nSede dello stabilimento: OLGINATE (LC), VIA ALBEGNO 22\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: CONFEZIONI SOTTOVUOTO DA 250 gr CA\nMotivo del richiamo:\nRITIRO CONCLUSO\nAvvertenze:\n "
+  },
+  "prima_rilevazione": "2026-10-25T09:47:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:26+00:00"
+ },
+ "papassini-alle-noci": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/papassini-alle-noci/",
+  "titolo": "PAPASSINI ALLE NOCI",
+  "data_pubblicazione": "2018-08-14",
+  "marca": "SARRIA - I DOLCI DELLA SARDEGNA",
+  "denominazione": "PAPASSINI ALLE NOCI",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/papassini%20alle%20noci_13082018_173131_1761177713.pdf",
+  "allegati": [
+   {
+    "titolo": "papassini alle noci_13082018_173131_1761177713.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/papassini%20alle%20noci_13082018_173131_1761177713.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "papassini-alle-noci",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:18+00:00"
+ },
+ "papassini-dolci-misti": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/papassini-dolci-misti/",
+  "titolo": "PAPASSINI - DOLCI MISTI",
+  "data_pubblicazione": "2018-08-14",
+  "marca": "SARRIA - I DOLCI DELLA SARDEGNA SNC",
+  "denominazione": "PAPASSINI - DOLCI MISTI",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/dolci%20misti%20_%20papassini%20_13082018_173235_1761177711.pdf",
+  "allegati": [
+   {
+    "titolo": "dolci misti _ papassini _13082018_173235_1761177711.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/dolci%20misti%20_%20papassini%20_13082018_173235_1761177711.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "papassini-dolci-misti",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:15+00:00"
+ },
+ "salmone-affumicato-norvegese-kv-nordic": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-affumicato-norvegese-kv-nordic/",
+  "titolo": "Salmone affumicato norvegese KV NORDIC",
+  "data_pubblicazione": "2018-08-17",
+  "marca": "KV NORDIC",
+  "denominazione": "Salmone affumicato norvegese KV NORDIC",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_0137_1761177715.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello_0137_1761177715.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_0137_1761177715.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salmone-affumicato-norvegese-kv-nordic",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:12+00:00"
+ },
+ "salsiccia-stagionata-la-casareccia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-la-casareccia/",
+  "titolo": "Salsiccia stagionata \"La Casareccia\"",
+  "data_pubblicazione": "2018-08-20",
+  "marca": "COMACAR - TERREMERSE SOC. COOP",
+  "denominazione": "Salsiccia stagionata \"La Casareccia\"",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20ministero%20da%20inviare%20all_AUSL_1761177717.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo ministero da inviare all_AUSL_1761177717.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20ministero%20da%20inviare%20all_AUSL_1761177717.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-la-casareccia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:47:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:04+00:00"
+ },
+ "salsiccia-stagionata-la-casareccia-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-la-casareccia-0/",
+  "titolo": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+  "data_pubblicazione": "2018-08-20",
+  "marca": "COMACAR - TERREMERSE SOC. COOP",
+  "denominazione": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20ministero%20da%20inviare%20all_AUSL_1761177719.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo ministero da inviare all_AUSL_1761177719.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20ministero%20da%20inviare%20all_AUSL_1761177719.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-la-casareccia-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:47:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:06+00:00"
+ },
+ "salsiccia-stagionata-la-casareccia-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-la-casareccia-1/",
+  "titolo": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+  "data_pubblicazione": "2018-08-20",
+  "marca": "TERREMERSE SOC. COOP",
+  "denominazione": "SALSICCIA STAGIONATA \"LA CASARECCIA\"",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20senza%20data%20scadenza_1761177721.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo senza data scadenza_1761177721.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20senza%20data%20scadenza_1761177721.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salsiccia-stagionata-la-casareccia-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:10+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:10+00:00"
+ },
+ "uova-fresche": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche/",
+  "titolo": "UOVA FRESCHE",
+  "data_pubblicazione": "2018-08-08",
+  "marca": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+  "denominazione": "UOVA FRESCHE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20UOVA%20LOTTO%201_1761177701.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo UOVA LOTTO 1_1761177701.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20UOVA%20LOTTO%201_1761177701.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE",
+   "operatore": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+   "lotti": [
+    "17-18-0718"
+   ],
+   "marchio_identificazione": "077AQ082",
+   "produttore": "MARGIOTTA MARIO",
+   "sede_stabilimento": "C.DA SAN MARTINO RAIANO AQ",
+   "scadenza": "15-08-2018",
+   "peso_volume": "21600 KG",
+   "motivo_esteso": "PRESENZA DI SALMONELLA ENTERITIDIS",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "07/08/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 07/08/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA MARIO\ncommercializzato:\nLotto di produzione: 17-18-0718\nMarchio di identificazione dello stabilimento/del produttore: 077AQ082\nNome del produttore: MARGIOTTA MARIO\nSede dello stabilimento: C.DA SAN MARTINO RAIANO AQ\nData di scadenza o termine minimo di conservazione: 15-08-2018\nDescrizione peso/volume unità di vendita: 21600 KG\nMotivo del richiamo:\nPRESENZA DI SALMONELLA ENTERITIDIS\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:47:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:28+00:00"
+ },
+ "uova-fresche-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-0/",
+  "titolo": "UOVA FRESCHE",
+  "data_pubblicazione": "2018-08-08",
+  "marca": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+  "denominazione": "UOVA FRESCHE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20%20UOVA%20LOTTO%202_1761177702.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo  UOVA LOTTO 2_1761177702.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20%20UOVA%20LOTTO%202_1761177702.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE",
+   "operatore": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+   "lotti": [
+    "19-20-0718"
+   ],
+   "marchio_identificazione": "077AQ082",
+   "produttore": "MARGIOTTA MARIO",
+   "sede_stabilimento": "C.DA SAN MARTINO RAIANO AQ",
+   "scadenza": "17-08-2018",
+   "peso_volume": "21600 KG",
+   "motivo_esteso": "PRESENZA DI SALMONELLA ENTERITIDIS",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "07/08/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 07/08/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA MARIO\ncommercializzato:\nLotto di produzione: 19-20-0718\nMarchio di identificazione dello stabilimento/del produttore: 077AQ082\nNome del produttore: MARGIOTTA MARIO\nSede dello stabilimento: C.DA SAN MARTINO RAIANO AQ\nData di scadenza o termine minimo di conservazione: 17-08-2018\nDescrizione peso/volume unità di vendita: 21600 KG\nMotivo del richiamo:\nPRESENZA DI SALMONELLA ENTERITIDIS\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:47:31+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:31+00:00"
+ },
+ "uova-fresche-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-1/",
+  "titolo": "UOVA FRESCHE",
+  "data_pubblicazione": "2018-08-08",
+  "marca": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+  "denominazione": "UOVA FRESCHE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20%20UOVA%20LOTTO%203_1761177704.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo  UOVA LOTTO 3_1761177704.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20%20UOVA%20LOTTO%203_1761177704.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE",
+   "operatore": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+   "lotti": [
+    "21-22-0718"
+   ],
+   "marchio_identificazione": "077AQ082",
+   "produttore": "MARGIOTTA MARIO",
+   "sede_stabilimento": "C.DA SAN MARTINO RAIANO AQ",
+   "scadenza": "19-08-2018",
+   "peso_volume": "21600 KG",
+   "motivo_esteso": "PRESENZA DI SALMONELLA ENTERITIDIS",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "07/08/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 07/08/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA MARIO\ncommercializzato:\nLotto di produzione: 21-22-0718\nMarchio di identificazione dello stabilimento/del produttore: 077AQ082\nNome del produttore: MARGIOTTA MARIO\nSede dello stabilimento: C.DA SAN MARTINO RAIANO AQ\nData di scadenza o termine minimo di conservazione: 19-08-2018\nDescrizione peso/volume unità di vendita: 21600 KG\nMotivo del richiamo:\nPRESENZA DI SALMONELLA ENTERITIDIS\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:47:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:33+00:00"
+ },
+ "uvetta-ricoperta-di-cioccolato-fondente": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente/",
+  "titolo": "Uvetta ricoperta di cioccolato fondente",
+  "data_pubblicazione": "2018-08-24",
+  "marca": "Passioni - Auchan",
+  "denominazione": "Uvetta ricoperta di cioccolato fondente",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017207_1761177723.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO LOTTO 17207_1761177723.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017207_1761177723.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uvetta-ricoperta-di-cioccolato-fondente",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "RICOPERTA DI CIOCCOLATO FONDENTE",
+   "operatore": "AUCHAN SPA",
+   "lotti": [
+    "17207"
+   ],
+   "marchio_identificazione": "INO CORSINI SPA",
+   "produttore": "DOLCEAMARO SRL",
+   "sede_stabilimento": ".S. 85 Km 32.896 MONTERODUNI 86075 (IS)",
+   "scadenza": "r-02-2079",
+   "peso_volume": "140 g",
+   "motivo_esteso": "Presenza di allergene (anidride solforosa) non dichiarata in etichetta Awertenze: 'i- i §l'. og §'r uno: due",
+   "campi_extra": {
+    "Data": "23lOB/20L8 Marchio del prodotto: PASSIONI AUCHAN",
+    "uno": "due:"
+   },
+   "testo": "RICHIAMO\n.\nData: 23lOB/20L8 Marchio del prodotto: PASSIONI AUCHAN\n.A\nDenominazione di vendita: RICOPERTA DI CIOCCOLATO FONDENTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AUCHAN SPA\ncommercializzato:\nLotto di produzione: 17207\nMarchio di identificazione dello stabilimento/del produttore: INO CORSINI SPA\nNome del produttore: DOLCEAMARO SRL\nSede dello stabilimento: .S. 85 Km 32.896 MONTERODUNI 86075 (IS)\nData di scadenza o termine minimo di conservazione: r-02-2079\nDescrizione peso/volume unità di vendita: 140 g\nMotivo del richiamo:\nPresenza di allergene (anidride solforosa) non dichiarata in etichetta\nAwertenze:\n'i-\ni\n§l'. og\n§'r\nuno: due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:46+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:46+00:00"
+ },
+ "uvetta-ricoperta-di-cioccolato-fondente-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-0/",
+  "titolo": "Uvetta ricoperta di cioccolato fondente",
+  "data_pubblicazione": "2018-08-24",
+  "marca": "Passioni - Auchan",
+  "denominazione": "Uvetta ricoperta di cioccolato fondente",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017251_1761177724.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO LOTTO 17251_1761177724.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017251_1761177724.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uvetta-ricoperta-di-cioccolato-fondente-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "A RICOPERTA DI CIOCCOLATO FONDENTE",
+   "operatore": "SPA commercializzalo",
+   "lotti": [
+    "725t"
+   ],
+   "marchio_identificazione": "INO CORSINI SPA",
+   "produttore": "OLCEAMARO SRL",
+   "sede_stabilimento": ". 85 Km 32.896 MONTERODUNI 86075 (IS)",
+   "scadenza": "1-03-2019",
+   "peso_volume": "t4O g",
+   "motivo_esteso": "Presenza di allergene (anidride solforosa) non dichiarata in etichetta",
+   "avvertenze": "uno: due",
+   "campi_extra": {
+    "Data": "23/OBl2OL8 Marchio del prodotto: PASSIONI - AUCHAN",
+    "uno": "due:"
+   },
+   "testo": "CHIAMO\nData: 23/OBl2OL8 Marchio del prodotto: PASSIONI - AUCHAN\nDenominazione di vendita: A RICOPERTA DI CIOCCOLATO FONDENTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SPA\ncommercializzalo:\nLotto di produzione: 725t\nMarchio di identificazione dello stabilimento/del produttore: INO CORSINI SPA\nNome del produttore: OLCEAMARO SRL\nSede dello stabilimento: . 85 Km 32.896 MONTERODUNI 86075 (IS)\nData di scadenza o termine minimo di conservazione: 1-03-2019\nDescrizione peso/volume unità di vendita: t4O g\nMotivo del richiamo:\nPresenza di allergene (anidride solforosa) non dichiarata in etichetta\nAvvertenze:\nuno: due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:49+00:00"
+ },
+ "uvetta-ricoperta-di-cioccolato-fondente-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-1/",
+  "titolo": "Uvetta ricoperta di cioccolato fondente",
+  "data_pubblicazione": "2018-08-24",
+  "marca": "Passioni - Auchan",
+  "denominazione": "Uvetta ricoperta di cioccolato fondente",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017287_1761177726.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO LOTTO 17287_1761177726.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2017287_1761177726.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uvetta-ricoperta-di-cioccolato-fondente-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ETTA RICOPERTA DI CIOCCOLATO FONDENTE",
+   "operatore": "AN SPA",
+   "lotti": [
+    "77287"
+   ],
+   "marchio_identificazione": "INO CORSINI SPA",
+   "produttore": "DOLCEAMARO SRL",
+   "sede_stabilimento": ".S. 85 Km 32.896 MONTERODUNI 86075 (IS)",
+   "scadenza": "2019",
+   "peso_volume": "L4O g",
+   "motivo_esteso": "Presenza di allergene (anidride solforosa) non dichiarata in etichetta",
+   "avvertenze": "immagine uno: immagine due",
+   "campi_extra": {
+    "Data": "23/0812018 Marchio del prodotto: PASSIONI - AUCHAN",
+    "immagine uno": "immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 23/0812018 Marchio del prodotto: PASSIONI - AUCHAN\nDenominazione di vendita: ETTA RICOPERTA DI CIOCCOLATO FONDENTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AN SPA\ncommercializzato:\nLotto di produzione: 77287\nMarchio di identificazione dello stabilimento/del produttore: INO CORSINI SPA\nNome del produttore: DOLCEAMARO SRL\nSede dello stabilimento: .S. 85 Km 32.896 MONTERODUNI 86075 (IS)\nData di scadenza o termine minimo di conservazione: -2019\nDescrizione peso/volume unità di vendita: L4O g\nMotivo del richiamo:\nPresenza di allergene (anidride solforosa) non dichiarata in etichetta\nAvvertenze:\nimmagine uno: immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:52+00:00"
+ },
+ "uvetta-ricoperta-di-cioccolato-fondente-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-2/",
+  "titolo": "Uvetta ricoperta di cioccolato fondente",
+  "data_pubblicazione": "2018-08-24",
+  "marca": "Passioni - Auchan",
+  "denominazione": "Uvetta ricoperta di cioccolato fondente",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018058_1761177728.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO LOTTO 18058_1761177728.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018058_1761177728.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uvetta-ricoperta-di-cioccolato-fondente-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UVETTA RICOPERTA DI CIOCCOLATO FONDENTE",
+   "operatore": "CHAN SPA",
+   "lotti": [
+    "1BO5B"
+   ],
+   "marchio_identificazione": "INO CORSINI SPA",
+   "produttore": "SRL",
+   "sede_stabilimento": ".S. 85 Km 32.896 MONTERODUNI 86075 (IS)",
+   "scadenza": "1-08-2019",
+   "peso_volume": "L40 g",
+   "motivo_esteso": "Presenza di allergene (anidride solforosa) non dichlarata in etichetta",
+   "avvertenze": "aail otr \\.: :v-! i: 45 2:: .: -E il 1_ .o 6 <l uno: due",
+   "campi_extra": {
+    "Data": "23/08/2078 Marchio del prodotto: AUCHAN",
+    "uno": "due:"
+   },
+   "testo": "RI\n.\nData: 23/08/2078 Marchio del prodotto: AUCHAN\nDenominazione di vendita: UVETTA RICOPERTA DI CIOCCOLATO FONDENTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CHAN SPA\ncommercializzato:\nLotto di produzione: 1BO5B\nMarchio di identificazione dello stabilimento/del produttore: INO CORSINI SPA\nNome del produttore: SRL\nSede dello stabilimento: .S. 85 Km 32.896 MONTERODUNI 86075 (IS)\nData di scadenza o termine minimo di conservazione: 1-08-2019\nDescrizione peso/volume unità di vendita: L40 g\nMotivo del richiamo:\nPresenza di allergene (anidride solforosa) non dichlarata in etichetta\nAvvertenze:\naail\notr\n\\.: :v-! i:\n45 2::\n.:\n-E\nil 1_\n.o 6\n<l\nuno: due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:55+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:55+00:00"
+ },
+ "uvetta-ricoperta-di-cioccolato-fondente-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-3/",
+  "titolo": "Uvetta ricoperta di cioccolato fondente",
+  "data_pubblicazione": "2018-08-24",
+  "marca": "Passioni - Auchan",
+  "denominazione": "Uvetta ricoperta di cioccolato fondente",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018087_1761177729.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO LOTTO 18087_1761177729.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018087_1761177729.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uvetta-ricoperta-di-cioccolato-fondente-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "A RICOPERTA DI CIOCCOLATO FONDENTE",
+   "operatore": "UCHAN SPA",
+   "lotti": [
+    "18087"
+   ],
+   "marchio_identificazione": "NO CORSINI SPA",
+   "produttore": "DOLCEAMARO SRL",
+   "sede_stabilimento": ".S. 85 Km 32.896 MONTERODUNI 85075 (IS)",
+   "scadenza": "2019",
+   "peso_volume": "L4O g",
+   "motivo_esteso": "Presenza di allergene (anidride solforosa) non dichiarata in etichetta",
+   "avvertenze": "uno: due",
+   "campi_extra": {
+    "Data": "08/2018 Marchio del prodotto: IASSIONI - AUCHAN",
+    "uno": "due:"
+   },
+   "testo": "ICHIAMO\nData: 08/2018 Marchio del prodotto: IASSIONI - AUCHAN\nDenominazione di vendita: A RICOPERTA DI CIOCCOLATO FONDENTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è UCHAN SPA\ncommercializzato:\nLotto di produzione: 18087\nMarchio di identificazione dello stabilimento/del produttore: NO CORSINI SPA\nNome del produttore: DOLCEAMARO SRL\nSede dello stabilimento: .S. 85 Km 32.896 MONTERODUNI 85075 (IS)\nData di scadenza o termine minimo di conservazione: 2019\nDescrizione peso/volume unità di vendita: L4O g\nMotivo del richiamo:\nPresenza di allergene (anidride solforosa) non dichiarata in etichetta\nAvvertenze:\nuno: due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:58+00:00"
+ },
+ "uvetta-ricoperta-di-cioccolato-fondente-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-ricoperta-di-cioccolato-fondente-4/",
+  "titolo": "Uvetta ricoperta di cioccolato fondente",
+  "data_pubblicazione": "2018-08-24",
+  "marca": "Passioni - Auchan",
+  "denominazione": "Uvetta ricoperta di cioccolato fondente",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018163_1761177731.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO LOTTO 18163_1761177731.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20LOTTO%2018163_1761177731.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uvetta-ricoperta-di-cioccolato-fondente-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UVETTA RICOPERTA DI CIOCCOLATO FONDENTE",
+   "operatore": "CHAN SPA",
+   "lotti": [
+    "18163"
+   ],
+   "marchio_identificazione": "CORSINI SPA",
+   "produttore": "LCEAMARO SRL",
+   "sede_stabilimento": ".S. 85 Km 32.896 MONTERODUNI 86075 (IS)",
+   "scadenza": "1-L2-20L9",
+   "peso_volume": "L4O g",
+   "motivo_esteso": "Presenza di allergene (anidride solforosa) non dichiarata in etichetta",
+   "avvertenze": "ì. 01 à11 \\§\" il uno: due",
+   "campi_extra": {
+    "Data": "23/OB/2018 Marchio del prodotto: PASSIONI - AUCHAN",
+    "uno": "due:"
+   },
+   "testo": "RICHIAMO\nData: 23/OB/2018 Marchio del prodotto: PASSIONI - AUCHAN\nDenominazione di vendita UVETTA RICOPERTA DI CIOCCOLATO FONDENTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CHAN SPA\ncommercializzato:\nLotto di produzione: 18163\nMarchio di identificazione dello stabilimento/del produttore: CORSINI SPA\nNome del produttore: LCEAMARO SRL\nSede dello stabilimento: .S. 85 Km 32.896 MONTERODUNI 86075 (IS)\nData di scadenza o termine minimo di conservazione: 1-L2-20L9\nDescrizione peso/volume unità di vendita: L4O g\nMotivo del richiamo:\nPresenza di allergene (anidride solforosa) non dichiarata in etichetta\nAvvertenze:\nì.\n: 01\nà11\n\\§\" il\nuno: due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:47:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:01+00:00"
+ }
+}
