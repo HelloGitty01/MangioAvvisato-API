@@ -1,0 +1,60 @@
+"""Configurazione dello scraper MangioAvvisato.
+
+Gli URL del portale del Ministero cambiano di tanto in tanto: se lo scraper
+smette di trovare richiami, il primo posto da controllare è questo file.
+"""
+
+BASE_URL = "https://www.salute.gov.it"
+
+# Feed RSS dei "Richiami di prodotti alimentari da parte degli operatori".
+FEED_URLS = [
+    "https://www.salute.gov.it/new/rss/RSS_avvisi_richiami_osa.xml",
+]
+
+# Pagine elenco usate come rete di sicurezza se il feed non risponde.
+LISTING_URLS = [
+    "https://www.salute.gov.it/new/it/avvisi/avvisi-e-richiami-di-prodotti-alimentari/",
+]
+
+# Le pagine di dettaglio dei richiami contengono questo frammento nel percorso.
+DETAIL_PATH_MARKER = "/ext-avviso-sicurezza-alimentare/"
+
+# User-agent identificabile: chi gestisce il sito deve poter capire chi siamo.
+USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/126.0 Safari/537.36 MangioAvvisatoBot/1.0 "
+    "(+https://github.com/HelloGitty01/MangioAvvisato-API)"
+)
+
+# User-agent del browser usato per superare la verifica anti-bot: un normale
+# Chrome desktop. Un user-agent con "Bot" verrebbe respinto dalla verifica.
+BROWSER_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+)
+
+# Pausa tra una richiesta e l'altra, in secondi. Siamo ospiti: niente fretta.
+REQUEST_DELAY = 2.0
+REQUEST_TIMEOUT = 30
+
+# Tempo massimo per estrarre il testo di un PDF, in secondi.
+PDF_TIMEOUT = 60
+
+# Numero massimo di nuovi richiami elaborati in una singola esecuzione.
+MAX_NEW_PER_RUN = 40
+
+# Recupero dello storico (--backfill): numero massimo di pagine dell'elenco da
+# sfogliare e nome del parametro di paginazione usato come riserva se la pagina
+# non contiene un link "successiva" riconoscibile (Drupal usa ?page=N, da 0).
+BACKFILL_MAX_PAGES = 500
+PAGE_PARAM = "page"
+
+# Versione dei parser. Quando si migliora l'estrazione dei dati si incrementa:
+# i richiami elaborati con una versione precedente vengono rielaborati
+# automaticamente nelle esecuzioni successive (sempre entro MAX_NEW_PER_RUN).
+PARSER_VERSION = 5
+
+# Quanti richiami recenti finiscono in ultimi.json.
+LATEST_COUNT = 50
+
+SCHEMA_VERSION = 1

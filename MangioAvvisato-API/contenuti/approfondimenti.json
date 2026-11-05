@@ -1,0 +1,77 @@
+{
+  "versione": 1,
+  "voci": [
+    {
+      "id": "listeria",
+      "parole": ["listeria"],
+      "titolo": "Listeria e listeriosi",
+      "testo": "La Listeria monocytogenes è un batterio che può contaminare soprattutto alimenti pronti al consumo, come formaggi, salumi e prodotti ittici affumicati. In molte persone causa disturbi lievi, ma può essere grave per donne in gravidanza, neonati, anziani e persone con difese immunitarie ridotte.",
+      "fonte": "Istituto Superiore di Sanità – EpiCentro",
+      "url": "https://www.epicentro.iss.it/listeria/"
+    },
+    {
+      "id": "salmonella",
+      "parole": ["salmonell"],
+      "titolo": "Salmonella",
+      "testo": "La Salmonella è tra le cause più frequenti di infezioni trasmesse dagli alimenti. Di solito provoca febbre, diarrea e dolori addominali; la cottura completa degli alimenti la elimina.",
+      "fonte": "Istituto Superiore di Sanità – EpiCentro",
+      "url": "https://www.epicentro.iss.it/salmonella/"
+    },
+    {
+      "id": "botulino",
+      "parole": ["botulin", "botulism", "clostridium botulinum"],
+      "titolo": "Botulino e botulismo",
+      "testo": "Le tossine del Clostridium botulinum causano il botulismo, una malattia rara ma grave che colpisce il sistema nervoso. Se dopo aver consumato il prodotto compaiono disturbi come vista doppia, palpebre cadenti o difficoltà a deglutire o a parlare, rivolgiti subito al pronto soccorso.",
+      "fonte": "Istituto Superiore di Sanità – EpiCentro",
+      "url": "https://www.epicentro.iss.it/botulismo"
+    },
+    {
+      "id": "microbiologico",
+      "categorie": ["microbiologico"],
+      "titolo": "Rischio microbiologico",
+      "testo": "Il prodotto potrebbe contenere batteri, virus o muffe, oppure le loro tossine, in grado di causare tossinfezioni alimentari, con disturbi come nausea, vomito, diarrea e febbre.",
+      "fonte": "Istituto Superiore di Sanità – EpiCentro",
+      "url": "https://www.epicentro.iss.it/tossinfezioni/"
+    },
+    {
+      "id": "allergeni",
+      "categorie": ["allergeni"],
+      "titolo": "Allergeni non dichiarati",
+      "testo": "Il prodotto contiene un allergene che non è indicato correttamente in etichetta. Il rischio riguarda chi è allergico o intollerante a quella sostanza, che potrebbe consumarlo senza saperlo.",
+      "fonte": "Ministero della Salute",
+      "url": "https://www.salute.gov.it/new/sites/default/files/imported/C_17_pubblicazioni_2134_allegato.pdf"
+    },
+    {
+      "id": "materiali",
+      "parole": ["materiali destinati", "contatto con gli alimenti", "migrazione"],
+      "titolo": "Materiali a contatto con gli alimenti",
+      "testo": "La confezione o l'utensile può cedere al cibo sostanze in quantità superiori a quelle consentite.",
+      "fonte": "EFSA – Autorità europea per la sicurezza alimentare",
+      "url": "https://www.efsa.europa.eu/it/topics/topic/food-contact-materials"
+    },
+    {
+      "id": "chimico",
+      "categorie": ["chimico"],
+      "titolo": "Rischio chimico",
+      "testo": "Il prodotto contiene una sostanza chimica non autorizzata o oltre i limiti consentiti: per esempio residui di pesticidi, micotossine prodotte da muffe, metalli o additivi non ammessi. Non consumarlo e riportalo al punto vendita.",
+      "fonte": "Ministero della Salute",
+      "url": "https://www.salute.gov.it/new/it/tema/sistema-di-controllo-della-sicurezza-alimentare/richiami-osa-sistema-di-informazione-ai/"
+    },
+    {
+      "id": "fisico",
+      "categorie": ["fisico"],
+      "titolo": "Rischio fisico",
+      "testo": "Nel prodotto potrebbero esserci corpi estranei, come frammenti di vetro, metallo o plastica, che possono ferire la bocca o l'apparato digerente.",
+      "fonte": "Ministero della Salute",
+      "url": "https://www.salute.gov.it/new/it/tema/sistema-di-controllo-della-sicurezza-alimentare/richiami-osa-sistema-di-informazione-ai/"
+    },
+    {
+      "id": "generale",
+      "categorie": ["altro"],
+      "titolo": "Che cos'è un richiamo",
+      "testo": "Un richiamo è il ritiro di un prodotto già venduto perché potrebbe essere pericoloso. Se hai il prodotto con il lotto indicato, non consumarlo e riportalo al punto vendita.",
+      "fonte": "Ministero della Salute",
+      "url": "https://www.salute.gov.it/new/it/tema/sistema-di-controllo-della-sicurezza-alimentare/richiami-osa-sistema-di-informazione-ai/"
+    }
+  ]
+}
