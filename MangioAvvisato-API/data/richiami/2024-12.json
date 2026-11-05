@@ -1,0 +1,645 @@
+{
+ "biscotti-linfanzia-al-farro-swnza-lattte-e-senza-uova": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-linfanzia-al-farro-swnza-lattte-e-senza-uova/",
+  "titolo": "Biscotti per l'infanzia al farro swnza lattte e senza uova",
+  "data_pubblicazione": "2024-12-23",
+  "marca": "COOP",
+  "denominazione": "Biscotti per l'infanzia al farro swnza lattte e senza uova",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20_Biscotto%20farro%20Coop_19_12_24_pdf_1761206131.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo _Biscotto farro Coop_19_12_24_pdf_1761206131.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20_Biscotto%20farro%20Coop_19_12_24_pdf_1761206131.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "biscotti-linfanzia-al-farro-swnza-lattte-e-senza-uova",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:52:38+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:38+00:00"
+ },
+ "budino-prodotto-da-forno-farcito-e-ricoperto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/budino-prodotto-da-forno-farcito-e-ricoperto/",
+  "titolo": "BUDINO-PRODOTTO DA FORNO FARCITO E RICOPERTO",
+  "data_pubblicazione": "2024-12-19",
+  "marca": "BAULI SPA",
+  "denominazione": "BUDINO-PRODOTTO DA FORNO FARCITO E RICOPERTO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BUDINOMODELLODIRICHIAMO_1761206120.pdf",
+  "allegati": [
+   {
+    "titolo": "BUDINOMODELLODIRICHIAMO_1761206120.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BUDINOMODELLODIRICHIAMO_1761206120.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "budino-prodotto-da-forno-farcito-e-ricoperto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BUDINO - PRODOTTO DA FORNO FARCITO E RICOPERTO",
+   "operatore": "BAULI SPA",
+   "lotti": [
+    "LT451V"
+   ],
+   "produttore": "BAULI SPA",
+   "sede_stabilimento": "VIA VERDI 31 - 37060 CASTEL D'AZZANO (VR)",
+   "scadenza": "30-04-2025",
+   "peso_volume": "750g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA : ARACHIDE",
+   "avvertenze": "SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO E DI RICONSEGNARLO AL PUNTO VENDITA DI ACQUISTO.",
+   "campi_extra": {
+    "Data": "10/12/2024 Marchio del prodotto: BAULI",
+    "POSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA": "ARACHIDE"
+   },
+   "testo": "RICHIAMO\nData: 10/12/2024 Marchio del prodotto: BAULI\nDenominazione di vendita:BUDINO - PRODOTTO DA FORNO FARCITO E RICOPERTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BAULI SPA\ncommercializzato:\nLotto di produzione: LT451V\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BAULI SPA\nSede dello stabilimento: VIA VERDI 31 - 37060 CASTEL D'AZZANO (VR)\nData di scadenza o termine minimo di conservazione: 30-04-2025\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA : ARACHIDE\nAvvertenze:\nSI RACCOMANDA DI NON CONSUMARE IL PRODOTTO E DI RICONSEGNARLO AL PUNTO VENDITA DI\nACQUISTO."
+  },
+  "prima_rilevazione": "2026-10-24T22:52:45+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:45+00:00"
+ },
+ "ciambotta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciambotta/",
+  "titolo": "Ciambotta",
+  "data_pubblicazione": "2024-12-28",
+  "marca": "La Campagnola Srl",
+  "denominazione": "Ciambotta",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_vasetti_CIAMBOTTA_1761206142.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_vasetti_CIAMBOTTA_1761206142.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_vasetti_CIAMBOTTA_1761206142.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "ciambotta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CIAMBOTTA",
+   "operatore": "La Campagnola Società a Responsabilità Limitata",
+   "lotti": [
+    "26824"
+   ],
+   "marchio_identificazione": "Tipicilentani",
+   "produttore": "R&M S.r.l.s.",
+   "sede_stabilimento": "VIA LAMICELLE, 13 - 84033 - MONTESANO SULLA MARCELLANA (SA)",
+   "scadenza": "30-04-2026",
+   "peso_volume": "200 G",
+   "motivo_esteso": "SI PRESUME CHE NON TUTTI I VASETTI SIANO STATI SIGILLATI/TAPPATI CORRETTAMENTE",
+   "avvertenze": "IL PRODOTTO SI TROVA ALL'INTERNO DI UNA GIFT BOX A MARCHIO LA CAMPAGNOLA COMPOSTA DAI VASETTI RICHIAMATI E DA UNA CONF. DI SCHIACCIATINE CON CEREALI DA 300 G DI PRODUZIONE PROPRIA CONSUMABILE SENZA NESSUN RISCHIO PER LA SALUTE. RIVOLGERSI AI PUNTI VENDITA MENZIONATI NELLA MAIL PER LA RESTITUZIONE/RIMBORSO DEI VASETTI O DELL'INTERA GIFT BOX.",
+   "campi_extra": {
+    "Data": "23/12/2024 Marchio del prodotto: La Campagnola Srl"
+   },
+   "testo": "RICHIAMO\nData: 23/12/2024 Marchio del prodotto: La Campagnola Srl\nDenominazione di vendita:CIAMBOTTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è La Campagnola Società a Responsabilità Limitata\ncommercializzato:\nLotto di produzione: 26824\nMarchio di identificazione dello stabilimento/del produttore: Tipicilentani\nNome del produttore: R&M S.r.l.s.\nSede dello stabilimento: VIA LAMICELLE, 13 - 84033 - MONTESANO SULLA MARCELLANA (SA)\nData di scadenza o termine minimo di conservazione: 30-04-2026\nDescrizione peso/volume unità di vendita: 200 G\nMotivo del richiamo:\nSI PRESUME CHE NON TUTTI I VASETTI SIANO STATI SIGILLATI/TAPPATI CORRETTAMENTE\nAvvertenze:\nIL PRODOTTO SI TROVA ALL'INTERNO DI UNA GIFT BOX A MARCHIO LA CAMPAGNOLA COMPOSTA DAI\nVASETTI RICHIAMATI E DA UNA CONF. DI SCHIACCIATINE CON CEREALI DA 300 G DI PRODUZIONE\nPROPRIA CONSUMABILE SENZA NESSUN RISCHIO PER LA SALUTE. RIVOLGERSI AI PUNTI VENDITA\nMENZIONATI NELLA MAIL PER LA RESTITUZIONE/RIMBORSO DEI VASETTI O DELL'INTERA GIFT BOX."
+  },
+  "prima_rilevazione": "2026-10-24T22:52:28+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:28+00:00"
+ },
+ "cime-di-rapa-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cime-di-rapa-0/",
+  "titolo": "Cime di rapa",
+  "data_pubblicazione": "2024-12-28",
+  "marca": "La Campagnola Srl",
+  "denominazione": "Cime di rapa",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_vasetti_CIME_DI_RAPA_1761206145.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_vasetti_CIME_DI_RAPA_1761206145.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_vasetti_CIME_DI_RAPA_1761206145.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "cime-di-rapa-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CIME DI RAPA",
+   "operatore": "La Campagnola Società a Responsabilità Limitata",
+   "lotti": [
+    "26824"
+   ],
+   "marchio_identificazione": "Tipicilentani",
+   "produttore": "R&M S.r.l.s.",
+   "sede_stabilimento": "VIA LAMICELLE, 13 - 84033 - MONTESANO SULLA MARCELLANA (SA)",
+   "scadenza": "30-04-2026",
+   "peso_volume": "200 G",
+   "motivo_esteso": "SI PRESUME CHE NON TUTTI I VASETTI SIANO STATI SIGILLATI/TAPPATI CORRETTAMENTE",
+   "avvertenze": "IL PRODOTTO SI TROVA ALL'INTERNO DI UNA GIFT BOX A MARCHIO LA CAMPAGNOLA COMPOSTA DAI VASETTI RICHIAMATI E DA UNA CONF. DI SCHIACCIATINE CON CEREALI DA 300 G DI PRODUZIONE PROPRIA CONSUMABILE SENZA NESSUN RISCHIO PER LA SALUTE. RIVOLGERSI AI PUNTI VENDITA MENZIONATI NELLA MAIL PER LA RESTITUZIONE/RIMBORSO DEI VASETTI O DELL'INTERA GIFT BOX.",
+   "campi_extra": {
+    "Data": "23/12/2024 Marchio del prodotto: La Campagnola Srl"
+   },
+   "testo": "RICHIAMO\nData: 23/12/2024 Marchio del prodotto: La Campagnola Srl\nDenominazione di vendita:CIME DI RAPA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è La Campagnola Società a Responsabilità Limitata\ncommercializzato:\nLotto di produzione: 26824\nMarchio di identificazione dello stabilimento/del produttore: Tipicilentani\nNome del produttore: R&M S.r.l.s.\nSede dello stabilimento: VIA LAMICELLE, 13 - 84033 - MONTESANO SULLA MARCELLANA (SA)\nData di scadenza o termine minimo di conservazione: 30-04-2026\nDescrizione peso/volume unità di vendita: 200 G\nMotivo del richiamo:\nSI PRESUME CHE NON TUTTI I VASETTI SIANO STATI SIGILLATI/TAPPATI CORRETTAMENTE\nAvvertenze:\nIL PRODOTTO SI TROVA ALL'INTERNO DI UNA GIFT BOX A MARCHIO LA CAMPAGNOLA COMPOSTA DAI\nVASETTI RICHIAMATI E DA UNA CONF. DI SCHIACCIATINE CON CEREALI DA 300 G DI PRODUZIONE\nPROPRIA CONSUMABILE SENZA NESSUN RISCHIO PER LA SALUTE. RIVOLGERSI AI PUNTI VENDITA\nMENZIONATI NELLA MAIL PER LA RESTITUZIONE/RIMBORSO DEI VASETTI O DELL'INTERA GIFT BOX."
+  },
+  "prima_rilevazione": "2026-10-24T22:52:30+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:30+00:00"
+ },
+ "cremino-prodotto-da-forno-farcito-e-ricoperto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremino-prodotto-da-forno-farcito-e-ricoperto/",
+  "titolo": "CREMINO-PRODOTTO DA FORNO FARCITO E RICOPERTO",
+  "data_pubblicazione": "2024-12-19",
+  "marca": "BAULI SPA",
+  "denominazione": "CREMINO-PRODOTTO DA FORNO FARCITO E RICOPERTO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CREMINOMODELLODIRICHIAMO_1761206123.pdf",
+  "allegati": [
+   {
+    "titolo": "CREMINOMODELLODIRICHIAMO_1761206123.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CREMINOMODELLODIRICHIAMO_1761206123.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cremino-prodotto-da-forno-farcito-e-ricoperto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CREMINO- PRODOTTO DA FORNO FARCITO E RICOPERTO",
+   "operatore": "BAULI SPA",
+   "lotti": [
+    "LT451V"
+   ],
+   "produttore": "BAULI SPA",
+   "sede_stabilimento": "VIA VERDI 31 - 37060 CASTEL D'AZZANO (VR)",
+   "scadenza": "30-04-2025",
+   "peso_volume": "750g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA : ARACHIDE",
+   "avvertenze": "SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO E DI RICONSEGNARLO AL PUNTO VENDITA DI ACQUISTO.",
+   "campi_extra": {
+    "Data": "10/12/2024 Marchio del prodotto: BAULI",
+    "POSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA": "ARACHIDE"
+   },
+   "testo": "RICHIAMO\nData: 10/12/2024 Marchio del prodotto: BAULI\nDenominazione di vendita:CREMINO- PRODOTTO DA FORNO FARCITO E RICOPERTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BAULI SPA\ncommercializzato:\nLotto di produzione: LT451V\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BAULI SPA\nSede dello stabilimento: VIA VERDI 31 - 37060 CASTEL D'AZZANO (VR)\nData di scadenza o termine minimo di conservazione: 30-04-2025\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA : ARACHIDE\nAvvertenze:\nSI RACCOMANDA DI NON CONSUMARE IL PRODOTTO E DI RICONSEGNARLO AL PUNTO VENDITA DI\nACQUISTO."
+  },
+  "prima_rilevazione": "2026-10-24T22:52:47+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:47+00:00"
+ },
+ "cumino-macinato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cumino-macinato/",
+  "titolo": "Cumino macinato",
+  "data_pubblicazione": "2024-12-27",
+  "marca": "Al Arabia",
+  "denominazione": "Cumino macinato",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761206139.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo_1761206139.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761206139.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cumino-macinato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-24T22:52:33+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:33+00:00"
+ },
+ "diavoletti-angioletti-bastoncino-vastese-salsicce-secche": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/diavoletti-angioletti-bastoncino-vastese-salsicce-secche/",
+  "titolo": "Diavoletti, Angioletti, Bastoncino Vastese, salsicce secche",
+  "data_pubblicazione": "2024-12-23",
+  "marca": "Salumi Marzari",
+  "denominazione": "Diavoletti, Angioletti, Bastoncino Vastese, salsicce secche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Foto%20a%20pagina%20intera_1761206134.pdf",
+  "allegati": [
+   {
+    "titolo": "Foto a pagina intera_1761206134.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Foto%20a%20pagina%20intera_1761206134.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "diavoletti-angioletti-bastoncino-vastese-salsicce-secche",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:52:40+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:40+00:00"
+ },
+ "farina-gialla-di-storo": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-gialla-di-storo/",
+  "titolo": "Farina gialla di Storo",
+  "data_pubblicazione": "2024-12-06",
+  "marca": "Agri90",
+  "denominazione": "Farina gialla di Storo",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SKM_C300i24120608370_1761206107.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO SKM_C300i24120608370_1761206107.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20SKM_C300i24120608370_1761206107.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-gialla-di-storo",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:53:05+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:53:05+00:00"
+ },
+ "fichi-secchi-turchia-cal2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-turchia-cal2/",
+  "titolo": "Fichi secchi Turchia cal.2",
+  "data_pubblicazione": "2024-12-24",
+  "marca": "BENCIVENGA SRL",
+  "denominazione": "Fichi secchi Turchia cal.2",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod%20richiamo_1761206136.pdf",
+  "allegati": [
+   {
+    "titolo": "mod richiamo_1761206136.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/mod%20richiamo_1761206136.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fichi-secchi-turchia-cal2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:52:35+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:35+00:00"
+ },
+ "form-il-saporito-di-mlc-quarto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/form-il-saporito-di-mlc-quarto/",
+  "titolo": "FORM. il SAPORITO di M.L.C. QUARTO",
+  "data_pubblicazione": "2024-12-04",
+  "marca": "Tessaro",
+  "denominazione": "FORM. il SAPORITO di M.L.C. QUARTO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagnaQuarto_1761206103.pdf",
+  "allegati": [
+   {
+    "titolo": "RitiroSaporitoMontagnaQuarto_1761206103.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagnaQuarto_1761206103.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "form-il-saporito-di-mlc-quarto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FORM. il SAPORITO di M.L.C. QUARTO",
+   "operatore": "TESSARO SPA",
+   "lotti": [
+    "BT231224 - BT040125"
+   ],
+   "marchio_identificazione": "ITALIA 42/012 CEE",
+   "produttore": "CASEIFICIO SOCIALE PREDAZZO E MOENA",
+   "sede_stabilimento": "VIA FIAMME GIALLE, 48 - 38037 PREDAZZO",
+   "scadenza": "23.12.24-04.01.25",
+   "peso_volume": "FORME TAGLIATE A QUARTI 2,5 KG CIRCA",
+   "motivo_esteso": "CONTAMINAZIONE DA ESCHERICHIA COLI",
+   "avvertenze": "NON CONSUMARE. RENDERE AL FORNITORE Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "25/11/2024 Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 25/11/2024 Marchio del prodotto:\nDenominazione di vendita:FORM. il SAPORITO di M.L.C. QUARTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TESSARO SPA\ncommercializzato:\nLotto di produzione: BT231224 - BT040125\nMarchio di identificazione dello stabilimento/del produttore: ITALIA 42/012 CEE\nNome del produttore: CASEIFICIO SOCIALE PREDAZZO E MOENA\nSede dello stabilimento: VIA FIAMME GIALLE, 48 - 38037 PREDAZZO\nData di scadenza o termine minimo di conservazione: 23.12.24-04.01.25\nDescrizione peso/volume unità di vendita: FORME TAGLIATE A QUARTI 2,5 KG CIRCA\nMotivo del richiamo:\nCONTAMINAZIONE DA ESCHERICHIA COLI\nAvvertenze:\nNON CONSUMARE. RENDERE AL FORNITORE\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T00:54:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T00:54:33+00:00"
+ },
+ "form-il-saporito-di-montagna-lc": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/form-il-saporito-di-montagna-lc/",
+  "titolo": "FORM. IL SAPORITO di MONTAGNA L.C.",
+  "data_pubblicazione": "2024-12-04",
+  "marca": "Tessaro",
+  "denominazione": "FORM. IL SAPORITO di MONTAGNA L.C.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagna_1761206100.pdf",
+  "allegati": [
+   {
+    "titolo": "RitiroSaporitoMontagna_1761206100.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RitiroSaporitoMontagna_1761206100.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "form-il-saporito-di-montagna-lc",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FORM. il SAPORITO di MONTAGNA L.C.",
+   "operatore": "TESSARO SPA",
+   "lotti": [
+    "L.24197-L.24201-L.24205"
+   ],
+   "marchio_identificazione": "ITALIA 42/012 CEE",
+   "produttore": "CASEIFICIO SOCIALE PREDAZZO E MOENA",
+   "sede_stabilimento": "VIA FIAMME GIALLE, 48 - 38037 PREDAZZO",
+   "peso_volume": "FORME INTERE DA CIRCA 10 Kg.",
+   "motivo_esteso": "CONTAMINAZIONE DA ESCHERICHIA COLI",
+   "avvertenze": "NON CONSUMARE. RENDERE AL FORNITORE Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "25/11/2024 Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 25/11/2024 Marchio del prodotto:\nDenominazione di vendita:FORM. il SAPORITO di MONTAGNA L.C.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TESSARO SPA\ncommercializzato:\nLotto di produzione: L.24197-L.24201-L.24205\nMarchio di identificazione dello stabilimento/del produttore: ITALIA 42/012 CEE\nNome del produttore: CASEIFICIO SOCIALE PREDAZZO E MOENA\nSede dello stabilimento: VIA FIAMME GIALLE, 48 - 38037 PREDAZZO\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: FORME INTERE DA CIRCA 10 Kg.\nMotivo del richiamo:\nCONTAMINAZIONE DA ESCHERICHIA COLI\nAvvertenze:\nNON CONSUMARE. RENDERE AL FORNITORE\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T00:54:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T00:54:29+00:00"
+ },
+ "mitili-o-cozze-mytilus-galloprovincialis": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-o-cozze-mytilus-galloprovincialis/",
+  "titolo": "MITILI O COZZE (Mytilus galloprovincialis)",
+  "data_pubblicazione": "2024-12-16",
+  "marca": "MITILI OLBIA SOC. COOP.",
+  "denominazione": "MITILI O COZZE (Mytilus galloprovincialis)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERO_1761206118.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO MINISTERO_1761206118.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERO_1761206118.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mitili-o-cozze-mytilus-galloprovincialis",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "MITILI O COZZE (Mytilus galloprovincialis)",
+   "operatore": "MITILI OLBIA SOC. COOP., VIA ESTONIA 18 - OLBIA (SS)",
+   "lotti": [
+    "B5/10/12/24"
+   ],
+   "marchio_identificazione": "UE IT E5N7U",
+   "produttore": "ARSELLATORI E MITILICOLTORI OLBIESI S.N.C. DI GIUA IVAN E FAVINI COSIMO &",
+   "sede_stabilimento": "LOC. SA MARINEDDA - 07026 - OLBIA (SS)",
+   "peso_volume": "RETINA DA 2,00 kg",
+   "motivo_esteso": "Conta Escherichia coli ß-glucuronidasi positiva superiore ai limiti normativi",
+   "avvertenze": "PRODOTTO NON IDONEO AL CONSUMO. SI PREGA DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO PRESSO IL PUNTO VENDITA.",
+   "campi_extra": {
+    "Data": "14/12/2024 Marchio del prodotto: MITILI OLBIA SOC. COOP."
+   },
+   "testo": "RICHIAMO\nData: 14/12/2024 Marchio del prodotto: MITILI OLBIA SOC. COOP.\nDenominazione di vendita:MITILI O COZZE (Mytilus galloprovincialis)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MITILI OLBIA SOC. COOP., VIA ESTONIA 18 - OLBIA (SS)\ncommercializzato:\nLotto di produzione: B5/10/12/24\nMarchio di identificazione dello stabilimento/del produttore: UE IT E5N7U\nNome del produttore: ARSELLATORI E MITILICOLTORI OLBIESI S.N.C. DI GIUA IVAN E FAVINI COSIMO &\nSede dello stabilimento: LOC. SA MARINEDDA - 07026 - OLBIA (SS)\nData di scadenza o termine minimo di conservazione: ---\nDescrizione peso/volume unità di vendita: RETINA DA 2,00 kg\nMotivo del richiamo:\nConta Escherichia coli ß-glucuronidasi positiva superiore ai limiti normativi\nAvvertenze:\nPRODOTTO NON IDONEO AL CONSUMO.\nSI PREGA DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO PRESSO IL PUNTO VENDITA."
+  },
+  "prima_rilevazione": "2026-10-24T22:52:52+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:52+00:00"
+ },
+ "mitili-o-cozze-mytilus-galloprovincialis-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-o-cozze-mytilus-galloprovincialis-0/",
+  "titolo": "MITILI O COZZE (Mytilus galloprovincialis)",
+  "data_pubblicazione": "2024-12-20",
+  "marca": "MITILI OLBIA SOC. COOP.",
+  "denominazione": "MITILI O COZZE (Mytilus galloprovincialis)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20MINISTERIALE_LOTTO%20B5_16_12_24_1761206128.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO RICHIAMO MINISTERIALE_LOTTO B5_16_12_24_1761206128.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20MINISTERIALE_LOTTO%20B5_16_12_24_1761206128.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mitili-o-cozze-mytilus-galloprovincialis-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "MITILI O COZZE (Mytilus galloprovincialis)",
+   "operatore": "MITILI OLBIA SOC. COOP., VIA ESTONIA 18 - OLBIA (SS)",
+   "lotti": [
+    "B5/16/12/24"
+   ],
+   "marchio_identificazione": "UE IT E5N7U",
+   "produttore": "ARSELLATORI E MITILICOLTORI OLBIESI S.N.C. DI GIUA IVAN E FAVINI COSIMO &",
+   "sede_stabilimento": "LOC. SA MARINEDDA - 07026 - OLBIA (SS)",
+   "peso_volume": "RETINA DA 2,00 kg",
+   "motivo_esteso": "Conta Escherichia coli ß-glucuronidasi positiva superiore ai limiti normativi",
+   "avvertenze": "PRODOTTO NON IDONEO AL CONSUMO. SI PREGA DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO PRESSO IL PUNTO VENDITA.",
+   "campi_extra": {
+    "Data": "19/12/2024 Marchio del prodotto: MITILI OLBIA SOC. COOP."
+   },
+   "testo": "RICHIAMO\nData: 19/12/2024 Marchio del prodotto: MITILI OLBIA SOC. COOP.\nDenominazione di vendita:MITILI O COZZE (Mytilus galloprovincialis)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MITILI OLBIA SOC. COOP., VIA ESTONIA 18 - OLBIA (SS)\ncommercializzato:\nLotto di produzione: B5/16/12/24\nMarchio di identificazione dello stabilimento/del produttore: UE IT E5N7U\nNome del produttore: ARSELLATORI E MITILICOLTORI OLBIESI S.N.C. DI GIUA IVAN E FAVINI COSIMO &\nSede dello stabilimento: LOC. SA MARINEDDA - 07026 - OLBIA (SS)\nData di scadenza o termine minimo di conservazione: ---\nDescrizione peso/volume unità di vendita: RETINA DA 2,00 kg\nMotivo del richiamo:\nConta Escherichia coli ß-glucuronidasi positiva superiore ai limiti normativi\nAvvertenze:\nPRODOTTO NON IDONEO AL CONSUMO.\nSI PREGA DI NON CONSUMARE IL PRODOTTO E RESTITUIRLO PRESSO IL PUNTO VENDITA."
+  },
+  "prima_rilevazione": "2026-10-24T22:52:42+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:42+00:00"
+ },
+ "profiteroles-prodotto-da-forno": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/profiteroles-prodotto-da-forno/",
+  "titolo": "PROFITEROLES-PRODOTTO DA FORNO",
+  "data_pubblicazione": "2024-12-19",
+  "marca": "BAULI SPA",
+  "denominazione": "PROFITEROLES-PRODOTTO DA FORNO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PROFITEROLESMODELLODIRICHIAMO_1761206125.pdf",
+  "allegati": [
+   {
+    "titolo": "PROFITEROLESMODELLODIRICHIAMO_1761206125.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PROFITEROLESMODELLODIRICHIAMO_1761206125.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "profiteroles-prodotto-da-forno",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PROFITEROLES - PRODOTTO DA FORNO",
+   "operatore": "BAULI SPA",
+   "lotti": [
+    "LT452V"
+   ],
+   "produttore": "BAULI SPA",
+   "sede_stabilimento": "VIA VERDI 31 - 37060 CASTEL D'AZZANO (VR)",
+   "scadenza": "30-04-2025",
+   "peso_volume": "820g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA : ARACHIDE",
+   "avvertenze": "SI RACCOMANDA DI NON CONSUMARE IL PRODOTTO E DI RICONSEGNARLO AL PUNTO VENDITA DI ACQUISTO.",
+   "campi_extra": {
+    "Data": "10/12/2024 Marchio del prodotto: BAULI",
+    "POSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA": "ARACHIDE"
+   },
+   "testo": "RICHIAMO\nData: 10/12/2024 Marchio del prodotto: BAULI\nDenominazione di vendita:PROFITEROLES - PRODOTTO DA FORNO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BAULI SPA\ncommercializzato:\nLotto di produzione: LT452V\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BAULI SPA\nSede dello stabilimento: VIA VERDI 31 - 37060 CASTEL D'AZZANO (VR)\nData di scadenza o termine minimo di conservazione: 30-04-2025\nDescrizione peso/volume unità di vendita: 820g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI ALLERGENE NON DICHIARATO IN ETICHETTA : ARACHIDE\nAvvertenze:\nSI RACCOMANDA DI NON CONSUMARE IL PRODOTTO E DI RICONSEGNARLO AL PUNTO VENDITA DI\nACQUISTO."
+  },
+  "prima_rilevazione": "2026-10-24T22:52:49+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:49+00:00"
+ },
+ "salame-romagnolo-rustfilzetta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-romagnolo-rustfilzetta/",
+  "titolo": "SALAME ROMAGNOLO RUST.FILZETTA",
+  "data_pubblicazione": "2024-12-09",
+  "marca": "SOCIETA' AGRICOLA ZAVOLI S.S., VIA PULZONA,N.3818-SALUDECIO",
+  "denominazione": "SALAME ROMAGNOLO RUST.FILZETTA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Salame%20Romagnolo%20Societ%C3%A0%20Agricola%20Zavoli%20S.S._1761206110.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Salame Romagnolo Società Agricola Zavoli S.S._1761206110.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Salame%20Romagnolo%20Societ%C3%A0%20Agricola%20Zavoli%20S.S._1761206110.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-romagnolo-rustfilzetta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:53:02+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:53:02+00:00"
+ },
+ "whey-protein-30g-chocolate": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/whey-protein-30g-chocolate/",
+  "titolo": "WHEY PROTEIN 30G CHOCOLATE",
+  "data_pubblicazione": "2024-12-12",
+  "marca": "Decathlon",
+  "denominazione": "WHEY PROTEIN 30G CHOCOLATE",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_Decathlon_1761206112.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello_richiamo_Decathlon_1761206112.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo_Decathlon_1761206112.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "whey-protein-30g-chocolate",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:52:56+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:56+00:00"
+ },
+ "whey-protein-30g-chocolate-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/whey-protein-30g-chocolate-0/",
+  "titolo": "WHEY PROTEIN 30G CHOCOLATE",
+  "data_pubblicazione": "2024-12-12",
+  "marca": "Decathlon",
+  "denominazione": "WHEY PROTEIN 30G CHOCOLATE",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Decathlon%20Whey%20protein%2030%20g.%20lotto%202429700006_1761206115.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo Decathlon Whey protein 30 g. lotto 2429700006_1761206115.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Decathlon%20Whey%20protein%2030%20g.%20lotto%202429700006_1761206115.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "whey-protein-30g-chocolate-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SINGLE WHEY PROTEIN 30 G CHOCOLATE",
+   "operatore": "DECATHLON ITALIA SRL",
+   "lotti": [
+    "2429700006"
+   ],
+   "marchio_identificazione": "OLGA/DECATHLON SE",
+   "produttore": "DECATHLON SE",
+   "sede_stabilimento": "2 rue Julien Neveu35531 Noyal-sur-Vilaine, France",
+   "scadenza": "02/2026",
+   "peso_volume": "30 GRAMMI",
+   "motivo_esteso": "RISCHIO DI PRESENZA DI CORPI ESTRANEI METALLICI",
+   "avvertenze": "NON UTILIZZARE IL PRODOTTO E RESTITUIRLO AL NEGOZIO DECATHLON PIU' VICINO Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "18/11/2024 Marchio del prodotto: CORENGHT",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 18/11/2024 Marchio del prodotto: CORENGHT\nDenominazione di vendita:SINGLE WHEY PROTEIN 30 G CHOCOLATE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DECATHLON ITALIA SRL\ncommercializzato:\nLotto di produzione: 2429700006\nMarchio di identificazione dello stabilimento/del produttore: OLGA/DECATHLON SE\nNome del produttore: DECATHLON SE\nSede dello stabilimento: 2 rue Julien Neveu35531 Noyal-sur-Vilaine, France\nData di scadenza o termine minimo di conservazione: 02/2026\nDescrizione peso/volume unità di vendita: 30 GRAMMI\nMotivo del richiamo:\nRISCHIO DI PRESENZA DI CORPI ESTRANEI METALLICI\nAvvertenze:\nNON UTILIZZARE IL PRODOTTO E RESTITUIRLO AL NEGOZIO DECATHLON PIU' VICINO\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:52:58+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:52:58+00:00"
+ },
+ "whey-protein-chocolat-30g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/whey-protein-chocolat-30g/",
+  "titolo": "WHEY PROTEIN CHOCOLAT 30G",
+  "data_pubblicazione": "2024-12-05",
+  "marca": "Decathlon",
+  "denominazione": "WHEY PROTEIN CHOCOLAT 30G",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Decathlon_1761206105.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo Decathlon_1761206105.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Decathlon_1761206105.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "whey-protein-chocolat-30g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T00:54:27+00:00",
+  "ultimo_aggiornamento": "2026-10-25T00:54:27+00:00"
+ }
+}

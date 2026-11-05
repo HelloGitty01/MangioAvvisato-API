@@ -1,0 +1,2312 @@
+{
+ "acqua-idrae-gatto-vie-urinarie": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-idrae-gatto-vie-urinarie/",
+  "titolo": "ACQUA IDRAE GATTO – VIE URINARIE",
+  "data_pubblicazione": "2026-07-28",
+  "marca": "APALASOL",
+  "denominazione": "ACQUA IDRAE GATTO – VIE URINARIE",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1785240163.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Richiamo_1785240163.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1785240163.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "acqua-idrae-gatto-vie-urinarie",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ACQUA IDRAE GATTO – VIE URINARIE",
+   "operatore": "APALASOL SRL",
+   "lotti": [
+    "L25002IPH/3IPH/4IPH/5IPH/7IPH/8IPH"
+   ],
+   "marchio_identificazione": "ALFAIT000079PC",
+   "produttore": "APALASOL SRL",
+   "sede_stabilimento": "LOC.PAOLINI DI BACEDASCO ALTO -CASTELLARAQUATO (PC)",
+   "scadenza": "31-01-2028",
+   "peso_volume": "500 ml",
+   "motivo_esteso": "REVOCA PER COMPLETAMENTO OPERAZIONI DI RITIRO RICHIAMO",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: APALASOL"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 28/07/2026 Marchio del prodotto: APALASOL\nDenominazione di vendita:ACQUA IDRAE GATTO – VIE URINARIE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è APALASOL SRL\ncommercializzato:\nLotto di produzione: L25002IPH/3IPH/4IPH/5IPH/7IPH/8IPH\nMarchio di identificazione dello stabilimento/del produttore: ALFAIT000079PC\nNome del produttore: APALASOL SRL\nSede dello stabilimento: LOC.PAOLINI DI BACEDASCO ALTO -CASTELLARAQUATO (PC)\nData di scadenza o termine minimo di conservazione: 31-01-2028\nDescrizione peso/volume unità di vendita: 500 ml\nMotivo del richiamo:\nREVOCA PER COMPLETAMENTO OPERAZIONI DI RITIRO RICHIAMO\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:50+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:50+00:00"
+ },
+ "atio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/atio/",
+  "titolo": "Atio",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Atio",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Atio%20_%20cartello%20OSA_1788887355.pdf",
+  "allegati": [
+   {
+    "titolo": "_Atio _ cartello OSA_1788887355.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Atio%20_%20cartello%20OSA_1788887355.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "atio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:58+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:58+00:00"
+ },
+ "atio-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/atio-0/",
+  "titolo": "Atio",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Atio",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Atio%202%20_%20cartello%20OSA_1788887400.pdf",
+  "allegati": [
+   {
+    "titolo": "_Atio 2 _ cartello OSA_1788887400.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Atio%202%20_%20cartello%20OSA_1788887400.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "atio-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:01+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:01+00:00"
+ },
+ "caciocavallo-fresco-ingredienti-latte-di-vacca-crudo-caglio-sale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciocavallo-fresco-ingredienti-latte-di-vacca-crudo-caglio-sale/",
+  "titolo": "Caciocavallo Fresco Ingredienti: Latte di vacca crudo, caglio ,sale",
+  "data_pubblicazione": "2026-07-30",
+  "marca": "Azienda Agricola Renzini Sila",
+  "denominazione": "Caciocavallo Fresco Ingredienti: Latte di vacca crudo, caglio ,sale",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20Caciocavallo_1785404520.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo Caciocavallo_1785404520.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20Caciocavallo_1785404520.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "caciocavallo-fresco-ingredienti-latte-di-vacca-crudo-caglio-sale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Caciocavallo Fresco Ingredienti: Latte di vacca crudo, caglio ,sale Nome o ragione sociale Salvatore Renzo / Azienda Agricola Renzini sila di Renzo Salvatore dell'OSA a nome del quale il prodotto è commercializzato",
+   "lotti": [
+    "24.04/27.04/28.04/30.04/04.05/05.05/06.05/07.05/10.05/11.05/12.05/13.05/14.05/16.05/18.05/19.05/20.05 /21.05/22.05/23.05/25.05/26.05/27.05/28.05/29.05/30.05/31.05/01.06/03.06/04.06/08.06/09.06/10.06/11.0 6/13.06/14.06/15.06/16.06/17.06/18.06/20.06/22.06/23.06/24.06/25.06/27.06/29.06/30.06/01.07/02.07/03. 07/06.7/07.07/08.07/09.07/11.07/13.07/14.07/15.07/16.07"
+   ],
+   "marchio_identificazione": "018CS0981C",
+   "produttore": "Azienda Agricola Renzini di Renzo Salvatore",
+   "sede_stabilimento": "Loc. Canalicchi Bocchigliero (CS)",
+   "scadenza": "3 mesi",
+   "peso_volume": "1.5kg",
+   "motivo_esteso": "Rilevata presenza di COLI STEC/VTEC nel latte di massa prelevato in data 20.07.2026",
+   "avvertenze": "Si invitano tali consumatori a non consumare i lotti con scadenza tra il 23/04/2026 e il 23/07/2026 tali prodotti non vanno consumati e vanno riportati nel punto vendita",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: Azienda Agricola Renzini Sila"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: Azienda Agricola Renzini Sila\nDenominazione di vendita: Caciocavallo Fresco Ingredienti: Latte di vacca crudo, caglio ,sale\nNome o ragione sociale Salvatore Renzo / Azienda Agricola Renzini sila di Renzo Salvatore\ndell'OSA a nome del quale il\nprodotto è commercializzato:\nLotto di produzione:\n24.04/27.04/28.04/30.04/04.05/05.05/06.05/07.05/10.05/11.05/12.05/13.05/14.05/16.05/18.05/19.05/20.05\n/21.05/22.05/23.05/25.05/26.05/27.05/28.05/29.05/30.05/31.05/01.06/03.06/04.06/08.06/09.06/10.06/11.0\n6/13.06/14.06/15.06/16.06/17.06/18.06/20.06/22.06/23.06/24.06/25.06/27.06/29.06/30.06/01.07/02.07/03.\n07/06.7/07.07/08.07/09.07/11.07/13.07/14.07/15.07/16.07\nMarchio di identificazione dello stabilimento/del produttore: 018CS0981C\nNome del produttore: Azienda Agricola Renzini di Renzo Salvatore\nSede dello stabilimento: Loc. Canalicchi Bocchigliero (CS)\nData di scadenza o termine minimo di conservazione: 3 mesi\nDescrizione peso/volume unità di vendita: 1.5kg\nMotivo del richiamo:\nRilevata presenza di COLI STEC/VTEC nel latte di massa prelevato in data 20.07.2026\nAvvertenze:\nSi invitano tali consumatori a non consumare i lotti con scadenza tra il 23/04/2026 e il 23/07/2026 tali\nprodotti non vanno consumati e vanno riportati nel punto vendita"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:41+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:41+00:00"
+ },
+ "caciotta-fresca-ingredienti-latte-di-vacca-crudo-caglio-sale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-fresca-ingredienti-latte-di-vacca-crudo-caglio-sale/",
+  "titolo": "Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale",
+  "data_pubblicazione": "2026-07-30",
+  "marca": "Azienda Agricola Renzini Sila",
+  "denominazione": "Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20caciotta_1785404429.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo caciotta_1785404429.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%20caciotta_1785404429.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "caciotta-fresca-ingredienti-latte-di-vacca-crudo-caglio-sale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale Nome o ragione sociale Salvatore Renzo / Azienda Agricola Renzini sila di Renzo dell'OSA a nome del quale il Salvatore prodotto è commercializzato",
+   "lotti": [
+    "07.05.2026/ 10.05.2026"
+   ],
+   "marchio_identificazione": "018CS0981C",
+   "produttore": "Azienda Agricola Renzini",
+   "sede_stabilimento": "Loc. Canalicchi Bocchigliero (CS)",
+   "scadenza": "3 mesi",
+   "peso_volume": "900g",
+   "motivo_esteso": "Rilevata presenza di COLI STEC/VTEC nel latte di massa prelevato in data 20.07.2026",
+   "avvertenze": "Si invitano tali consumatori a non consumare i lotti con scadenza compresa tra il 23.04.2026 e il 23.07.2026 tali prodotti non vanno consumati e vanno riportati nel punto vendita",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: Azienda Agricola Renzini Sila"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: Azienda Agricola Renzini Sila\nDenominazione di vendita: Caciotta Fresca Ingredienti: Latte di vacca crudo, caglio, sale\nNome o ragione sociale\nSalvatore Renzo / Azienda Agricola Renzini sila di Renzo\ndell'OSA a nome del quale il\nSalvatore\nprodotto è commercializzato:\nLotto di produzione: 07.05.2026/ 10.05.2026\nMarchio di identificazione dello stabilimento/del produttore: 018CS0981C\nNome del produttore: Azienda Agricola Renzini\nSede dello stabilimento: Loc. Canalicchi Bocchigliero (CS)\nData di scadenza o termine minimo di conservazione: 3 mesi\nDescrizione peso/volume unità di vendita: 900g\nMotivo del richiamo:\nRilevata presenza di COLI STEC/VTEC nel latte di massa prelevato in data 20.07.2026\nAvvertenze:\nSi invitano tali consumatori a non consumare i lotti con scadenza compresa tra il 23.04.2026 e il\n23.07.2026 tali prodotti non vanno consumati e vanno riportati nel punto vendita"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:38+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:38+00:00"
+ },
+ "capreggio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capreggio/",
+  "titolo": "Capreggio",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Capreggio",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Capreggio%20_%20cartello%20OSA_1788887439.pdf",
+  "allegati": [
+   {
+    "titolo": "_Capreggio _ cartello OSA_1788887439.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Capreggio%20_%20cartello%20OSA_1788887439.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "capreggio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:04+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:04+00:00"
+ },
+ "carciofi-rustici-della-puglia-olio-di-semi-di-girasole": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofi-rustici-della-puglia-olio-di-semi-di-girasole/",
+  "titolo": "Carciofi rustici della Puglia in olio di semi di girasole",
+  "data_pubblicazione": "2026-07-07",
+  "marca": "Consilia Optima",
+  "denominazione": "Carciofi rustici della Puglia in olio di semi di girasole",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodiRichiamo_1783417221.pdf",
+  "allegati": [
+   {
+    "titolo": "CartellodiRichiamo_1783417221.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodiRichiamo_1783417221.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "carciofi-rustici-della-puglia-olio-di-semi-di-girasole",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Carciofi rustici della Puglia in olio di semi di girasole",
+   "operatore": "SUN soc. cons. a r.l. via Antonio da Recanate, 1 Milano",
+   "lotti": [
+    "158 R"
+   ],
+   "produttore": "Le Conserve Daune S.r.l.",
+   "sede_stabilimento": "Via G. Saragat Z.I. PAP 2° fase - 71042 Cerignola (FG)",
+   "scadenza": "15-06-2028",
+   "peso_volume": "280 g",
+   "motivo_esteso": "Possibile presenza di frammenti di vetro.",
+   "avvertenze": "SI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO DI NON CONSUMARLO E DI RIPORTARLO PRESSO IL PUNTO VENDITA. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "03.07.2026 Marchio del prodotto: Consilia Optima",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 03.07.2026 Marchio del prodotto: Consilia Optima\nDenominazione di vendita:Carciofi rustici della Puglia in olio di semi di girasole\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SUN soc. cons. a r.l. via Antonio da Recanate, 1 Milano\ncommercializzato:\nLotto di produzione: 158 R\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Le Conserve Daune S.r.l.\nSede dello stabilimento: Via G. Saragat Z.I. PAP 2° fase - 71042 Cerignola (FG)\nData di scadenza o termine minimo di conservazione: 15-06-2028\nDescrizione peso/volume unità di vendita: 280 g\nMotivo del richiamo:\nPossibile presenza di frammenti di vetro.\nAvvertenze:\nSI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO DI NON CONSUMARLO E DI\nRIPORTARLO PRESSO IL PUNTO VENDITA.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:07:07+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:07+00:00"
+ },
+ "ciauscolo-igp": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciauscolo-igp/",
+  "titolo": "Ciauscolo IGP",
+  "data_pubblicazione": "2026-07-21",
+  "marca": "Norcineria Alto Nera",
+  "denominazione": "Ciauscolo IGP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20compilato%20ciaus%20LM_1784644860.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo compilato ciaus LM_1784644860.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20compilato%20ciaus%20LM_1784644860.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "ciauscolo-igp",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:26+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:26+00:00"
+ },
+ "ciauscolo-igp-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciauscolo-igp-0/",
+  "titolo": "Ciauscolo IGP",
+  "data_pubblicazione": "2026-07-21",
+  "marca": "Norcineria Alto nera snc",
+  "denominazione": "Ciauscolo IGP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AST%20MC%20cartello%20richiamo%20compilato%20CON%20FOTO_1784645083.pdf",
+  "allegati": [
+   {
+    "titolo": "AST MC cartello richiamo compilato CON FOTO_1784645083.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/AST%20MC%20cartello%20richiamo%20compilato%20CON%20FOTO_1784645083.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ciauscolo-igp-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:35+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:35+00:00"
+ },
+ "cremoroso-al-tartufo-pistacchioprosecco-doc-rose-naturale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremoroso-al-tartufo-pistacchioprosecco-doc-rose-naturale/",
+  "titolo": "CREMORO/SO AL TARTUFO, PISTACCHIO,PROSECCO DOC ROSE', NATURALE",
+  "data_pubblicazione": "2026-07-03",
+  "marca": "LATTERIA MORO DI MORO SERGIO",
+  "denominazione": "CREMORO/SO AL TARTUFO, PISTACCHIO,PROSECCO DOC ROSE', NATURALE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20CESTINO_1783089571.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO CREMOSO CESTINO_1783089571.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20CESTINO_1783089571.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cremoroso-al-tartufo-pistacchioprosecco-doc-rose-naturale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:07:12+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:12+00:00"
+ },
+ "cremoso-al-tartufo": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremoso-al-tartufo/",
+  "titolo": "CREMOSO AL TARTUFO",
+  "data_pubblicazione": "2026-07-03",
+  "marca": "LATTERIA MORO DI MORO SERGIO",
+  "denominazione": "CREMOSO AL TARTUFO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20VASCHETTA%20_1__1783089646.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO CREMOSO VASCHETTA _1__1783089646.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20VASCHETTA%20_1__1783089646.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cremoso-al-tartufo",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:07:15+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:15+00:00"
+ },
+ "cremoso-al-tartufo-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremoso-al-tartufo-0/",
+  "titolo": "CREMOSO AL TARTUFO",
+  "data_pubblicazione": "2026-07-03",
+  "marca": "LATTERIA MORO DI MORO SERGIO",
+  "denominazione": "CREMOSO AL TARTUFO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20FORMA%20CON%20CROSTA%20_1__1783089721.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO CREMOSO FORMA CON CROSTA _1__1783089721.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20CREMOSO%20FORMA%20CON%20CROSTA%20_1__1783089721.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cremoso-al-tartufo-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:07:18+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:18+00:00"
+ },
+ "duble": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/duble/",
+  "titolo": "Dublè",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Dublè",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%20_%20cartello%20OSA_1784203367.pdf",
+  "allegati": [
+   {
+    "titolo": "_Dublè _ cartello OSA_1784203367.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%20_%20cartello%20OSA_1784203367.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "duble",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:07+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:07+00:00"
+ },
+ "duble-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/duble-0/",
+  "titolo": "Dublè",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Dublè",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%202%20_%20cartello%20OSA_1788887476.pdf",
+  "allegati": [
+   {
+    "titolo": "_Dublè 2 _ cartello OSA_1788887476.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%202%20_%20cartello%20OSA_1788887476.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "duble-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:09+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:09+00:00"
+ },
+ "duble-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/duble-1/",
+  "titolo": "Dublè",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Dublè",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%203%20_%20cartello%20OSA_1788887512.pdf",
+  "allegati": [
+   {
+    "titolo": "_Dublè 3 _ cartello OSA_1788887512.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%203%20_%20cartello%20OSA_1788887512.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "duble-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:12+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:12+00:00"
+ },
+ "duble-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/duble-2/",
+  "titolo": "Dublè",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Dublè",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%20OK%20_%20cartello%20OSA_1785517900.pdf",
+  "allegati": [
+   {
+    "titolo": "_Dublè OK _ cartello OSA_1785517900.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Dubl%C3%A8%20OK%20_%20cartello%20OSA_1785517900.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "duble-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:24+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:24+00:00"
+ },
+ "duble-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/duble-3/",
+  "titolo": "Dublè",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "CAPRISS",
+  "denominazione": "Dublè",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20duble%20scad%2024.07.26_1785517995.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca richiamo duble scad 24.07.26_1785517995.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20duble%20scad%2024.07.26_1785517995.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "duble-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:04:32+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:32+00:00"
+ },
+ "fagioli-allocchio-nero": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-allocchio-nero/",
+  "titolo": "FAGIOLI ALL'OCCHIO NERO",
+  "data_pubblicazione": "2026-07-27",
+  "marca": "FAGIOLI ALL'OCCHIO NERO PERÙ",
+  "denominazione": "FAGIOLI ALL'OCCHIO NERO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_o_revoca_di_richiamo_di_prodotto_commercializzato%20FAG%20OCCHIO_1785178687.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_o_revoca_di_richiamo_di_prodotto_commercializzato FAG OCCHIO_1785178687.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_o_revoca_di_richiamo_di_prodotto_commercializzato%20FAG%20OCCHIO_1785178687.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fagioli-allocchio-nero",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FAGIOLI ALL’OCCHIO NERO",
+   "operatore": "FAGIOLI ALL’OCCHIO NERO PERU’",
+   "lotti": [
+    "356/25"
+   ],
+   "marchio_identificazione": "CASILLO PASQUALE S.R.L. OTTAVIANO",
+   "produttore": "INTERLOOM SAC",
+   "sede_stabilimento": "IL COMMERCIALIZZATORE SI TROVA IN OTTAVIANO(NA) VIA FF SS 108",
+   "scadenza": "30/05/2027",
+   "peso_volume": "VENDUTO IN FORMATI DA 25 KG/5 KG/ 1 KG/ 0.5 KG",
+   "motivo_esteso": "IL PRODOTTO PRESENTA SUPERAMENTO DEL LIMITE MASSIMO DI RESIDUO (LMR) DI CLORPIRIFOS (CHLORPYRIFOS), RILEVATO NELL'AMBITO DI CONTROLLI UFFICIALI.",
+   "avvertenze": "SI PROCEDE PERTANTO A BLOCCARE E RITIRARE DAL MERCATO IL LOTTO IN GIACENZA ED A PROVVEDERE AD EFFETTUARE LA PROCEDURA DI RICHIAMO PER LE QUANTITA' GIA' VENDUTE. Ottaviano lì, 23/07/2026",
+   "campi_extra": {
+    "Data": "23 /07/2026 Marchio del prodotto: FAGIOLI ALL’OCCHIO NERO PERU’"
+   },
+   "testo": "RICHIAMO\nData: 23 /07/2026 Marchio del prodotto: FAGIOLI ALL’OCCHIO NERO PERU’\nDenominazione di vendita: FAGIOLI ALL’OCCHIO NERO\nNome o ragione sociale dell'OSA FAGIOLI ALL’OCCHIO NERO PERU’\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 356/25\nMarchio di identificazione dello stabilimento/del produttore: CASILLO PASQUALE S.R.L. OTTAVIANO\nNome del produttore: INTERLOOM SAC\nSede dello stabilimento: IL COMMERCIALIZZATORE SI TROVA IN OTTAVIANO(NA) VIA FF SS 108\nData di scadenza o termine minimo di conservazione: 30/05/2027\nDescrizione peso/volume unità di vendita: VENDUTO IN FORMATI DA 25 KG/5 KG/ 1 KG/ 0.5 KG\nMotivo del richiamo:\nIL PRODOTTO PRESENTA SUPERAMENTO DEL LIMITE MASSIMO DI RESIDUO (LMR) DI CLORPIRIFOS\n(CHLORPYRIFOS), RILEVATO NELL'AMBITO DI CONTROLLI UFFICIALI.\nAvvertenze:\nSI PROCEDE PERTANTO A BLOCCARE E RITIRARE DAL MERCATO IL LOTTO IN GIACENZA ED A\nPROVVEDERE AD EFFETTUARE LA PROCEDURA DI RICHIAMO PER LE QUANTITA' GIA' VENDUTE.\nOttaviano lì, 23/07/2026"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:59+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:59+00:00"
+ },
+ "fichi-essicati-biologici": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-essicati-biologici/",
+  "titolo": "Fichi essicati biologici",
+  "data_pubblicazione": "2026-07-29",
+  "marca": "NOBERASCO SPA",
+  "denominazione": "Fichi essicati biologici",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloRichiamo_1785345008.pdf",
+  "allegati": [
+   {
+    "titolo": "ModuloRichiamo_1785345008.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloRichiamo_1785345008.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fichi-essicati-biologici",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FICHI ESSICCATI BIOLOGICI",
+   "operatore": "NOBERASCO SPA",
+   "lotti": [
+    "L6075A"
+   ],
+   "marchio_identificazione": "NOBERASCO SPA",
+   "produttore": "NOBERASCO SPA",
+   "sede_stabilimento": "Loc. Paletta, 1 - 17043 Carcare (SV)",
+   "scadenza": "31-03-2027",
+   "peso_volume": "200g",
+   "motivo_esteso": "Valori di Ocratossina A oltre i limiti di legge",
+   "avvertenze": "Non consumare e restituire al punto vendita Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: NOBERASCO SPA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: NOBERASCO SPA\nDenominazione di vendita:FICHI ESSICCATI BIOLOGICI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NOBERASCO SPA\ncommercializzato:\nLotto di produzione: L6075A\nMarchio di identificazione dello stabilimento/del produttore: NOBERASCO SPA\nNome del produttore: NOBERASCO SPA\nSede dello stabilimento: Loc. Paletta, 1 - 17043 Carcare (SV)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nValori di Ocratossina A oltre i limiti di legge\nAvvertenze:\nNon consumare e restituire al punto vendita\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:47+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:47+00:00"
+ },
+ "formae-val-di-fiemme-stagionato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formae-val-di-fiemme-stagionato/",
+  "titolo": "FORMAE VAL DI FIEMME STAGIONATO",
+  "data_pubblicazione": "2026-07-01",
+  "marca": "CASEIFICIO SOCIALE VAL DI FIEMME - CAVALESE S.C.A.",
+  "denominazione": "FORMAE VAL DI FIEMME STAGIONATO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_1782916448.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_Richiamo_1782916448.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_1782916448.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formae-val-di-fiemme-stagionato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:07:22+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:22+00:00"
+ },
+ "formaggella-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-1/",
+  "titolo": "Formaggella",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Formaggella",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Formaggella%20_%20cartello%20OSA_1785517798.pdf",
+  "allegati": [
+   {
+    "titolo": "_Formaggella _ cartello OSA_1785517798.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Formaggella%20_%20cartello%20OSA_1785517798.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "formaggella-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:15+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:15+00:00"
+ },
+ "formaggella-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-2/",
+  "titolo": "Formaggella",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Formaggella",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Formaggella%202%20_%20cartello%20OSA_1788887548.pdf",
+  "allegati": [
+   {
+    "titolo": "_Formaggella 2 _ cartello OSA_1788887548.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Formaggella%202%20_%20cartello%20OSA_1788887548.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "formaggella-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:18+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:18+00:00"
+ },
+ "formaggella-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggella-3/",
+  "titolo": "Formaggella",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "CAPRISS",
+  "denominazione": "Formaggella",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20formaggella%20per%20scad%2019.07.26_1785518161.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca formaggella per scad 19.07.26_1785518161.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20formaggella%20per%20scad%2019.07.26_1785518161.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggella-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:04:35+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:35+00:00"
+ },
+ "hummus-salsa-base-di-ceci": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hummus-salsa-base-di-ceci/",
+  "titolo": "Hummus salsa a base di ceci",
+  "data_pubblicazione": "2026-07-17",
+  "marca": "Zorbas",
+  "denominazione": "Hummus salsa a base di ceci",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Zorbas%20Hummus%20200g._1784314714.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo Zorbas Hummus 200g._1784314714.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Zorbas%20Hummus%20200g._1784314714.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hummus-salsa-base-di-ceci",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Hummus salsa a base di ceci",
+   "operatore": "Manuzzi Import-Export s.r.l.",
+   "lotti": [
+    "110601"
+   ],
+   "produttore": "Amvrosia S.A.",
+   "sede_stabilimento": "Industrial Area of Sindos NB6 - 57022; Thessaloniki-Sindos (Grecia)",
+   "scadenza": "08/09/2026",
+   "peso_volume": "200g",
+   "motivo_esteso": "Richiamo precauzionale per possibile presenza di Salmonella spp.",
+   "avvertenze": "Si prega di non consumare il prodotto e riconsegnarlo presso il punto vendita.",
+   "campi_extra": {
+    "Data": "03/07/2026 Marchio del prodotto: Zorbas"
+   },
+   "testo": "RICHIAMO\nData: 03/07/2026 Marchio del prodotto: Zorbas\nDenominazione di vendita:Hummus salsa a base di ceci\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Manuzzi Import-Export s.r.l.\ncommercializzato:\nLotto di produzione: 110601\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Amvrosia S.A.\nSede dello stabilimento: Industrial Area of Sindos NB6 - 57022; Thessaloniki-Sindos (Grecia)\nData di scadenza o termine minimo di conservazione: 08/09/2026\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nRichiamo precauzionale per possibile presenza di Salmonella spp.\nAvvertenze:\nSi prega di non consumare il prodotto e riconsegnarlo presso il punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:05:52+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:52+00:00"
+ },
+ "hummus-salsa-base-di-ceci-e-tahini": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hummus-salsa-base-di-ceci-e-tahini/",
+  "titolo": "Hummus salsa a base di ceci e tahini",
+  "data_pubblicazione": "2026-07-21",
+  "marca": "CONAD",
+  "denominazione": "Hummus salsa a base di ceci e tahini",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Conad%20Hummus_1784626967.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo Conad Hummus_1784626967.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Conad%20Hummus_1784626967.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hummus-salsa-base-di-ceci-e-tahini",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "090601; 090602; 160601; 180601; 230601\n06/09/2026; 06/09/2026 13/09/2026;15/09/2026; 20/09/2026\nDigita qui il testo"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:29+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:29+00:00"
+ },
+ "hummus-salsa-senza-aglio-base-di-ceci": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hummus-salsa-senza-aglio-base-di-ceci/",
+  "titolo": "Hummus salsa senza aglio a base di ceci",
+  "data_pubblicazione": "2026-07-17",
+  "marca": "Zorbas",
+  "denominazione": "Hummus salsa senza aglio a base di ceci",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Zorbas%20hummus%20senza%20aglio%20200g_1784314808.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo Zorbas hummus senza aglio 200g_1784314808.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Zorbas%20hummus%20senza%20aglio%20200g_1784314808.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hummus-salsa-senza-aglio-base-di-ceci",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Hummus salsa senza aglio a base di ceci",
+   "operatore": "Manuzzi Import-Export s.r.l.",
+   "lotti": [
+    "110601"
+   ],
+   "produttore": "Amvrosia S.A.",
+   "sede_stabilimento": "Industrial Area of Sindos NB6 - 57022; Thessaloniki-Sindos (Grecia)",
+   "scadenza": "08/09/2026",
+   "peso_volume": "200g",
+   "motivo_esteso": "Richiamo precauzionale per possibile presenza di Salmonella spp.",
+   "avvertenze": "Si prega di non consumare il prodotto e riconsegnarlo presso il punto vendita.",
+   "campi_extra": {
+    "Data": "03/07/2026 Marchio del prodotto: Zorbas"
+   },
+   "testo": "RICHIAMO\nData: 03/07/2026 Marchio del prodotto: Zorbas\nDenominazione di vendita:Hummus salsa senza aglio a base di ceci\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Manuzzi Import-Export s.r.l.\ncommercializzato:\nLotto di produzione: 110601\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Amvrosia S.A.\nSede dello stabilimento: Industrial Area of Sindos NB6 - 57022; Thessaloniki-Sindos (Grecia)\nData di scadenza o termine minimo di conservazione: 08/09/2026\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nRichiamo precauzionale per possibile presenza di Salmonella spp.\nAvvertenze:\nSi prega di non consumare il prodotto e riconsegnarlo presso il punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:05:55+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:55+00:00"
+ },
+ "insalata-di-riso": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso/",
+  "titolo": "INSALATA DI RISO",
+  "data_pubblicazione": "2026-07-09",
+  "marca": "IL CEPPO",
+  "denominazione": "INSALATA DI RISO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_CEPPO_%20_1__1783607645.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO INSALATA DI RISO 250G SCADENZA 23.07.26 _CEPPO_ _1__1783607645.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_CEPPO_%20_1__1783607645.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-riso",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:52+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:52+00:00"
+ },
+ "insalata-di-riso-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-0/",
+  "titolo": "INSALATA DI RISO",
+  "data_pubblicazione": "2026-07-09",
+  "marca": "I PRONTISSIMI",
+  "denominazione": "INSALATA DI RISO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_SAIT_%20_1__1783607741.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO INSALATA DI RISO 250G SCADENZA 23.07.26 _SAIT_ _1__1783607741.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2023.07.26%20_SAIT_%20_1__1783607741.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-riso-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:55+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:55+00:00"
+ },
+ "insalata-di-riso-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-1/",
+  "titolo": "INSALATA DI RISO",
+  "data_pubblicazione": "2026-07-09",
+  "marca": "IL CEPPO",
+  "denominazione": "INSALATA DI RISO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2024.07.26%20_CEPPO_%20_1__1783607827.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO INSALATA DI RISO 250G SCADENZA 24.07.26 _CEPPO_ _1__1783607827.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20250G%20SCADENZA%2024.07.26%20_CEPPO_%20_1__1783607827.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-riso-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:57+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:57+00:00"
+ },
+ "insalata-di-riso-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-2/",
+  "titolo": "INSALATA DI RISO",
+  "data_pubblicazione": "2026-07-09",
+  "marca": "IL CEPPO",
+  "denominazione": "INSALATA DI RISO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%201000G%20SCADENZA%2027.07.26%20_CEPPO_%20_1__1783607918.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO INSALATA DI RISO 1000G SCADENZA 27.07.26 _CEPPO_ _1__1783607918.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%201000G%20SCADENZA%2027.07.26%20_CEPPO_%20_1__1783607918.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-riso-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:59+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:59+00:00"
+ },
+ "insalata-di-riso-con-tonno": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-con-tonno/",
+  "titolo": "INSALATA DI RISO CON TONNO",
+  "data_pubblicazione": "2026-07-09",
+  "marca": "I FRESCHISSIMI",
+  "denominazione": "INSALATA DI RISO CON TONNO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20CON%20TONNO%20250G%20SCADENZA%2023.07.26%20_ALI_%20_2__1783608020.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO INSALATA DI RISO CON TONNO 250G SCADENZA 23.07.26 _ALI_ _2__1783608020.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20INSALATA%20DI%20RISO%20CON%20TONNO%20250G%20SCADENZA%2023.07.26%20_ALI_%20_2__1783608020.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-riso-con-tonno",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:07:01+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:01+00:00"
+ },
+ "kawaii-fruity-assorted-jelly-straws-200-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kawaii-fruity-assorted-jelly-straws-200-g/",
+  "titolo": "Kawaii Fruity Assorted Jelly Straws 200 g",
+  "data_pubblicazione": "2026-07-08",
+  "marca": "Jelly's Kawaii",
+  "denominazione": "Kawaii Fruity Assorted Jelly Straws 200 g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/8_7_26%20cartello%20richiamo_1783530619.pdf",
+  "allegati": [
+   {
+    "titolo": "8_7_26 cartello richiamo_1783530619.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/8_7_26%20cartello%20richiamo_1783530619.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kawaii-fruity-assorted-jelly-straws-200-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "08.07.26 Jelly’s Kawaii\n(63741) Kawaii Fruity Assorted Jelly Straws 200 g\nPEPISCR s.r.o. (Praga, Repubblica Ceca) –\nImportatore/distributore europeo\n02072025\nCina\n01/07/2027\n200 g\nPresenza dell'additivo alimentare non autorizzato E 425 (Konjac)\nNon consumare il prodotto, distruggerlo e contattare l'Assistenza (hello@americanuncle.it o info@unclefood.com))"
+  },
+  "prima_rilevazione": "2026-10-24T22:07:04+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:04+00:00"
+ },
+ "noccioli-di-albicocca-biologici-250g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/noccioli-di-albicocca-biologici-250g/",
+  "titolo": "noccioli di albicocca biologici 250g",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "CiboCrudo",
+  "denominazione": "noccioli di albicocca biologici 250g",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Noccioli%20di%20Albicocca_DEF4_1785499708.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Noccioli di Albicocca_DEF4_1785499708.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Noccioli%20di%20Albicocca_DEF4_1785499708.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "noccioli-di-albicocca-biologici-250g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "INoccioli di Albicocca Biologici - 250g e",
+   "operatore": "ii prodotto I Ma-uro- G-iac-ob-be- --------------------- commercializzato",
+   "lotti": [
+    "LT 41203",
+    "LT2so71s",
+    "LT2602191",
+    "LT26030s3",
+    "LT26os1s"
+   ],
+   "marchio_identificazione": "lc_ib_o_C_r_u_d_o – _____________",
+   "produttore": "NI _e_u_la_b_sS_ _ r_l – ___________________________",
+   "sede_stabilimento": "S trada Empolitana Il'Km.1+950 Cerreto Laziale 00020 (RM)",
+   "scadenza": "minim o di conservazione: 1/12/2025, 30/06/202 , 30/06/2026, 30/06/2027, 31/05/2027",
+   "peso_volume": "unita di vendita: 2l _s_o_g_ra_ m_ _mi ------------------- – _",
+   "motivo_esteso": "Etichettatura non completa e informazioni non chiare nell'etichetta",
+   "avvertenze": "II richiamo riguarda tutti i lotti di produzione a causa informazioni non complete nell'etichetta del prodotto ✓o.oooi< ,1, ......, ./vooo• Otpn;<Apnto!Ko<..is/ d'Abri<otsllio/BioAprikosonl'IU<w/ Nmendr. . deAlbMi<:oque°'llnico/lliol •brikotenpitt\"\" lnserire immagine uno: lnserire immagine due",
+   "campi_extra": {
+    "Data": "127 /07 /2026 Marchio del prodotto: ICiboCrudo",
+    "Nmendr. . deAlbMi<": "oque°'llnico/lliol •brikotenpitt\"\"",
+    "lnserire immagine uno": "lnserire immagine due:"
+   },
+   "testo": "II\nIIRICHIAMO\nData: 127 /07 /2026 Marchio del prodotto: ICiboCrudo\nDenominazione di vendita:INoccioli di Albicocca Biologici - 250g\ne\nNome o ragione sociale dell'OSA\na nome del quale ii prodotto �I Ma-uro- G-iac-ob-be- ---------------------�\ncommercializzato:\nLotto di produzione: LT 41203, LT2so71s, LT2602191, LT26030s3, LT26os1s\nMarchio di identificazione dello stabilimento/del produttore: lc_ib_o_C_r_u_d_o\n� _____________�\nNome del produttore: NI _e_u_la_b_sS_ _ r_l\n� ___________________________�\nSede dello stabilimento:S trada Empolitana Il'Km.1+950 Cerreto Laziale 00020 (RM)\nData di scadenza o termine minim o di conservazione: 1/12/2025, 30/06/202 , 30/06/2026, 30/06/2027, 31/05/2027\nDescrizione peso/volume unita di vendita: 2l _s_o_g_ra_ m_ _mi -------------------\n� _ �\nMotivo del richiamo:\nEtichettatura non completa e informazioni non chiare nell'etichetta\nAvvertenze:\nII richiamo riguarda tutti i lotti di produzione a causa informazioni non complete nell'etichetta del prodotto\n✓o.oooi< ,1, ......, ./vooo•\nOtpn;<Apnto!Ko<..is/�d'Abri<otsllio/BioAprikosonl'IU<w/\nNmendr. . deAlbMi<:oque°'llnico/lliol�•brikotenpitt\"\"\nlnserire immagine uno: lnserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:26+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:26+00:00"
+ },
+ "pesto-rosso": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-rosso/",
+  "titolo": "Pesto Rosso",
+  "data_pubblicazione": "2026-07-01",
+  "marca": "F.lli De Cecco di Filippo Fara San Martino SpA",
+  "denominazione": "Pesto Rosso",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_PESTO%20ROSSO_07225288_1782907340.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo_PESTO ROSSO_07225288_1782907340.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_PESTO%20ROSSO_07225288_1782907340.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-rosso",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Pesto Rosso",
+   "operatore": "F.lli De Cecco di Filippo Fara San Martino SpA",
+   "lotti": [
+    "07225288 - prod. 15.10.2025"
+   ],
+   "produttore": "Delizie di riviera - per conto di De Cecco",
+   "sede_stabilimento": "Ceparana (SP)",
+   "scadenza": "05/27",
+   "peso_volume": "barattolo da 200 gr",
+   "motivo_esteso": "Presenza dell'allergene noci non dichiarato sull'etichetta adesiva in lingua olandese e portoghese (Brasile) applicata ai barattoli destinati alla commercializzazione nei rispettivi mercati.",
+   "avvertenze": "Si raccomanda ai consumatori allergici alle noci di non consumare il prodotto e di restituirlo al punto vendita presso cui è stato acquistato per il rimborso o la sostituzione.",
+   "campi_extra": {
+    "Data": "28/06/2026 Marchio del prodotto: De Cecco"
+   },
+   "testo": "RICHIAMO\nData: 28/06/2026 Marchio del prodotto: De Cecco\nDenominazione di vendita:Pesto Rosso\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è F.lli De Cecco di Filippo Fara San Martino SpA\ncommercializzato:\nLotto di produzione: 07225288 - prod. 15.10.2025\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Delizie di riviera - per conto di De Cecco\nSede dello stabilimento: Ceparana (SP)\nData di scadenza o termine minimo di conservazione: 05/27\nDescrizione peso/volume unità di vendita: barattolo da 200 gr\nMotivo del richiamo:\nPresenza dell'allergene noci non dichiarato sull'etichetta adesiva in lingua olandese e portoghese (Brasile)\napplicata ai barattoli destinati alla commercializzazione nei rispettivi mercati.\nAvvertenze:\nSi raccomanda ai consumatori allergici alle noci di non consumare il prodotto e di restituirlo al punto\nvendita presso cui è stato acquistato per il rimborso o la sostituzione."
+  },
+  "prima_rilevazione": "2026-10-24T22:07:20+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:20+00:00"
+ },
+ "quarti-di-pollo-congelati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/quarti-di-pollo-congelati/",
+  "titolo": "quarti di pollo congelati",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "FRESH TROPICAL SRL",
+  "denominazione": "quarti di pollo congelati",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20FRESH%20TROPICAL%20SRL_1785508805.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO DI RICHIAMO FRESH TROPICAL SRL_1785508805.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20FRESH%20TROPICAL%20SRL_1785508805.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "quarti-di-pollo-congelati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "FRESH TROPICAL SRL"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:29+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:29+00:00"
+ },
+ "rapunzel-rotklee-biosnacky": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rapunzel-rotklee-biosnacky/",
+  "titolo": "Rapunzel Rotklee bioSnacky",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "RAPUNZEL Naturkost GmbH & Co. KG",
+  "denominazione": "Rapunzel Rotklee bioSnacky",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelRotklee_1785490608.pdf",
+  "allegati": [
+   {
+    "titolo": "CartelloDiRichiamoRapunzelRotklee_1785490608.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelRotklee_1785490608.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "rapunzel-rotklee-biosnacky",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Rapunzel Rotklee bioSnacky",
+   "operatore": "RAPUNZEL Naturkost GmbH & Co. KG",
+   "lotti": [
+    "Art. 690280 EAN 4006040169871"
+   ],
+   "marchio_identificazione": "Rapunzel",
+   "produttore": "RAPUNZEL Naturkost GmbH & Co. KG",
+   "sede_stabilimento": "Rapunzelstraße 1 – 87764 Legau, Germania",
+   "scadenza": "12/2028",
+   "peso_volume": "30 g",
+   "motivo_esteso": "Escherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e piantine",
+   "avvertenze": "Il prodotto è stato distribuito soltanto in Provincia di Bolzano. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "31/07/2026 Marchio del prodotto: Rapunzel",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 31/07/2026 Marchio del prodotto: Rapunzel\nDenominazione di vendita:Rapunzel Rotklee bioSnacky\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RAPUNZEL Naturkost GmbH & Co. KG\ncommercializzato:\nLotto di produzione: Art. 690280 EAN 4006040169871\nMarchio di identificazione dello stabilimento/del produttore: Rapunzel\nNome del produttore: RAPUNZEL Naturkost GmbH & Co. KG\nSede dello stabilimento: Rapunzelstraße 1 – 87764 Legau, Germania\nData di scadenza o termine minimo di conservazione: 12/2028\nDescrizione peso/volume unità di vendita: 30 g\nMotivo del richiamo:\nEscherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e\npiantine\nAvvertenze:\nIl prodotto è stato distribuito soltanto in Provincia di Bolzano.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:17+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:17+00:00"
+ },
+ "rapunzel-vital-sprossen-mix-biosnacky": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rapunzel-vital-sprossen-mix-biosnacky/",
+  "titolo": "Rapunzel Vital Sprossen-Mix bioSnacky",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "RAPUNZEL Naturkost GmbH & Co. KG",
+  "denominazione": "Rapunzel Vital Sprossen-Mix bioSnacky",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelVitalSprossen_mix_1785490707.pdf",
+  "allegati": [
+   {
+    "titolo": "CartelloDiRichiamoRapunzelVitalSprossen_mix_1785490707.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelVitalSprossen_mix_1785490707.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "rapunzel-vital-sprossen-mix-biosnacky",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Rapunzel Vital Sprossen-Mix bioSnacky",
+   "operatore": "RAPUNZEL Naturkost GmbH & Co. KG",
+   "lotti": [
+    "Art. 690660 EAN 4006040169895"
+   ],
+   "marchio_identificazione": "Rapunzel",
+   "produttore": "RAPUNZEL Naturkost GmbH & Co. KG",
+   "sede_stabilimento": "Rapunzelstraße 1 – 87764 Legau, Germania",
+   "scadenza": "12/2028",
+   "peso_volume": "40 g",
+   "motivo_esteso": "Escherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e piantine",
+   "avvertenze": "Il prodotto è stato distribuito soltanto in Provincia di Bolzano. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "31/07/2026 Marchio del prodotto: Rapunzel",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 31/07/2026 Marchio del prodotto: Rapunzel\nDenominazione di vendita:Rapunzel Vital Sprossen-Mix bioSnacky\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RAPUNZEL Naturkost GmbH & Co. KG\ncommercializzato:\nLotto di produzione: Art. 690660 EAN 4006040169895\nMarchio di identificazione dello stabilimento/del produttore: Rapunzel\nNome del produttore: RAPUNZEL Naturkost GmbH & Co. KG\nSede dello stabilimento: Rapunzelstraße 1 – 87764 Legau, Germania\nData di scadenza o termine minimo di conservazione: 12/2028\nDescrizione peso/volume unità di vendita: 40 g\nMotivo del richiamo:\nEscherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e\npiantine\nAvvertenze:\nIl prodotto è stato distribuito soltanto in Provincia di Bolzano.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:20+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:20+00:00"
+ },
+ "rapunzel-wellness-sprossen-mix-biosnacky": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rapunzel-wellness-sprossen-mix-biosnacky/",
+  "titolo": "Rapunzel Wellness Sprossen-Mix bioSnacky",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "RAPUNZEL Naturkost GmbH & Co. KG",
+  "denominazione": "Rapunzel Wellness Sprossen-Mix bioSnacky",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelWelnessSprossen_mix_1785490820.pdf",
+  "allegati": [
+   {
+    "titolo": "CartelloDiRichiamoRapunzelWelnessSprossen_mix_1785490820.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloDiRichiamoRapunzelWelnessSprossen_mix_1785490820.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "rapunzel-wellness-sprossen-mix-biosnacky",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Rapunzel Wellness Sprossen-Mix bioSnacky",
+   "operatore": "RAPUNZEL Naturkost GmbH & Co. KG",
+   "lotti": [
+    "Art. 690320 EAN 4006040169574"
+   ],
+   "marchio_identificazione": "Rapunzel",
+   "produttore": "RAPUNZEL Naturkost GmbH & Co. KG",
+   "sede_stabilimento": "Rapunzelstraße 1 – 87764 Legau, Germania",
+   "scadenza": "12/2028",
+   "peso_volume": "40 g",
+   "motivo_esteso": "Escherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e piantine",
+   "avvertenze": "Il prodotto è stato distribuito soltanto in Provincia di Bolzano. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "31/07/2026 Marchio del prodotto: Rapunzel",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 31/07/2026 Marchio del prodotto: Rapunzel\nDenominazione di vendita:Rapunzel Wellness Sprossen-Mix bioSnacky\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RAPUNZEL Naturkost GmbH & Co. KG\ncommercializzato:\nLotto di produzione: Art. 690320 EAN 4006040169574\nMarchio di identificazione dello stabilimento/del produttore: Rapunzel\nNome del produttore: RAPUNZEL Naturkost GmbH & Co. KG\nSede dello stabilimento: Rapunzelstraße 1 – 87764 Legau, Germania\nData di scadenza o termine minimo di conservazione: 12/2028\nDescrizione peso/volume unità di vendita: 40 g\nMotivo del richiamo:\nEscherichia coli produttore di shigatossina (STEC) in semi di trifoglio rosso biologico per germogli e\npiantine\nAvvertenze:\nIl prodotto è stato distribuito soltanto in Provincia di Bolzano.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:23+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:23+00:00"
+ },
+ "riso-carnaroli-1-kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-1-kg/",
+  "titolo": "Riso Carnaroli 1 kg",
+  "data_pubblicazione": "2026-07-23",
+  "marca": "Riseria di Morano",
+  "denominazione": "Riso Carnaroli 1 kg",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13022036_1_kg_1784817762.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_L13022036_1_kg_1784817762.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13022036_1_kg_1784817762.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-carnaroli-1-kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Riso Carnaroli",
+   "operatore": "Riseria di Morano snc di Rossino M. e C.",
+   "lotti": [
+    "13022036"
+   ],
+   "marchio_identificazione": "Riseria di Morano",
+   "produttore": "Riseria di Morano snc di Rossino M. e C.",
+   "sede_stabilimento": "Viale Stazione 3 Morano sul Po (AL)",
+   "scadenza": "31-03-2027",
+   "peso_volume": "1 kg",
+   "motivo_esteso": "Presenza di tetrametrina oltre i limiti di legge",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "21-07-2026 Marchio del prodotto: Riseria di Morano",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 21-07-2026 Marchio del prodotto: Riseria di Morano\nDenominazione di vendita:Riso Carnaroli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Riseria di Morano snc di Rossino M. e C.\ncommercializzato:\nLotto di produzione: 13022036\nMarchio di identificazione dello stabilimento/del produttore: Riseria di Morano\nNome del produttore: Riseria di Morano snc di Rossino M. e C.\nSede dello stabilimento: Viale Stazione 3 Morano sul Po (AL)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nPresenza di tetrametrina oltre i limiti di legge\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:05+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:05+00:00"
+ },
+ "riso-carnaroli-1-kg-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-1-kg-0/",
+  "titolo": "Riso carnaroli 1 kg",
+  "data_pubblicazione": "2026-07-23",
+  "marca": "Riseria di Morano",
+  "denominazione": "Riso carnaroli 1 kg",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13023036_1_kg_1784818353.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_L13023036_1_kg_1784818353.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13023036_1_kg_1784818353.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-carnaroli-1-kg-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Riso Carnaroli",
+   "operatore": "Riseria di Morano snc di Rossino M. e C.",
+   "lotti": [
+    "13023036"
+   ],
+   "marchio_identificazione": "Riseria di Morano",
+   "produttore": "Riseria di Morano snc di Rossino M. e C.",
+   "sede_stabilimento": "Viale Stazione 3 Morano sul Po (AL)",
+   "scadenza": "31-10-2027",
+   "peso_volume": "1 kg",
+   "motivo_esteso": "Presenza di tetrametrina oltre i limiti di legge",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "21-07-2026 Marchio del prodotto: Riseria di Morano",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 21-07-2026 Marchio del prodotto: Riseria di Morano\nDenominazione di vendita:Riso Carnaroli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Riseria di Morano snc di Rossino M. e C.\ncommercializzato:\nLotto di produzione: 13023036\nMarchio di identificazione dello stabilimento/del produttore: Riseria di Morano\nNome del produttore: Riseria di Morano snc di Rossino M. e C.\nSede dello stabilimento: Viale Stazione 3 Morano sul Po (AL)\nData di scadenza o termine minimo di conservazione: 31-10-2027\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nPresenza di tetrametrina oltre i limiti di legge\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:11+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:11+00:00"
+ },
+ "riso-carnaroli-25-kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-25-kg/",
+  "titolo": "Riso Carnaroli 25 kg",
+  "data_pubblicazione": "2026-07-23",
+  "marca": "Riseria di Morano",
+  "denominazione": "Riso Carnaroli 25 kg",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13022036_25_kg_1784817891.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_L13022036_25_kg_1784817891.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13022036_25_kg_1784817891.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-carnaroli-25-kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Riso Carnaroli",
+   "operatore": "Riseria di Morano snc di Rossino M. e C.",
+   "lotti": [
+    "13022036"
+   ],
+   "marchio_identificazione": "Riseria di Morano",
+   "produttore": "Riseria di Morano snc di Rossino M. e C.",
+   "sede_stabilimento": "Viale Stazione 3 Morano sul Po (AL)",
+   "scadenza": "31-03-2027",
+   "peso_volume": "25 kg",
+   "motivo_esteso": "Presenza di tetrametrina oltre i limiti di legge",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "21-07-2026 Marchio del prodotto: Riseria di Morano",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 21-07-2026 Marchio del prodotto: Riseria di Morano\nDenominazione di vendita:Riso Carnaroli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Riseria di Morano snc di Rossino M. e C.\ncommercializzato:\nLotto di produzione: 13022036\nMarchio di identificazione dello stabilimento/del produttore: Riseria di Morano\nNome del produttore: Riseria di Morano snc di Rossino M. e C.\nSede dello stabilimento: Viale Stazione 3 Morano sul Po (AL)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 25 kg\nMotivo del richiamo:\nPresenza di tetrametrina oltre i limiti di legge\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:09+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:09+00:00"
+ },
+ "riso-carnaroli-5-kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-5-kg/",
+  "titolo": "Riso Carnaroli 5 kg.",
+  "data_pubblicazione": "2026-07-23",
+  "marca": "Riseria di Morano",
+  "denominazione": "Riso Carnaroli 5 kg.",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13021036_5_kg_1784817626.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_L13021036_5_kg_1784817626.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_L13021036_5_kg_1784817626.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-carnaroli-5-kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Riso Carnaroli",
+   "operatore": "Riseria di Morano snc di Rossino M. e C.",
+   "lotti": [
+    "13021036"
+   ],
+   "marchio_identificazione": "Riseria di Morano",
+   "produttore": "Riseria di Morano snc di Rossino M. e C.",
+   "sede_stabilimento": "Viale Stazione 3 Morano sul Po (AL)",
+   "scadenza": "31-03-2027",
+   "peso_volume": "5 kg",
+   "motivo_esteso": "Presenza di tetrametrina oltre i limiti di legge",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "21-07-2026 Marchio del prodotto: Riseria di Morano",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 21-07-2026 Marchio del prodotto: Riseria di Morano\nDenominazione di vendita:Riso Carnaroli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Riseria di Morano snc di Rossino M. e C.\ncommercializzato:\nLotto di produzione: 13021036\nMarchio di identificazione dello stabilimento/del produttore: Riseria di Morano\nNome del produttore: Riseria di Morano snc di Rossino M. e C.\nSede dello stabilimento: Viale Stazione 3 Morano sul Po (AL)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 5 kg\nMotivo del richiamo:\nPresenza di tetrametrina oltre i limiti di legge\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:02+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:02+00:00"
+ },
+ "riso-carnaroli-8": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-8/",
+  "titolo": "Riso Carnaroli",
+  "data_pubblicazione": "2026-07-21",
+  "marca": "Tenca Colombo & C S.r.l.",
+  "denominazione": "Riso Carnaroli",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1784644979.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo_1784644979.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1784644979.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-carnaroli-8",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Riso Carnaroli",
+   "operatore": "Tenca Colombo & C srl",
+   "lotti": [
+    "13022036"
+   ],
+   "marchio_identificazione": "Riseria di Morano snc",
+   "produttore": "Riseria di Morano snc",
+   "sede_stabilimento": "Viale Stazione 3 - 15025 Morano sul Po (AL)",
+   "scadenza": "31-03-2027",
+   "peso_volume": "sacchetti da 1 kg",
+   "motivo_esteso": "Valore della Tetramethrin oltre la soglia",
+   "avvertenze": "Ritiro immediato del prodotto",
+   "campi_extra": {
+    "Data": "20/07/2026 Marchio del prodotto: Tenca Colombo & C srl"
+   },
+   "testo": "RICHIAMO\nData: 20/07/2026 Marchio del prodotto: Tenca Colombo & C srl\nDenominazione di vendita:Riso Carnaroli\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Tenca Colombo & C srl\ncommercializzato:\nLotto di produzione: 13022036\nMarchio di identificazione dello stabilimento/del produttore: Riseria di Morano snc\nNome del produttore: Riseria di Morano snc\nSede dello stabilimento: Viale Stazione 3 - 15025 Morano sul Po (AL)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: sacchetti da 1 kg\nMotivo del richiamo:\nValore della Tetramethrin oltre la soglia\nAvvertenze:\nRitiro immediato del prodotto"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:32+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:32+00:00"
+ },
+ "riso-roma-integrale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-roma-integrale/",
+  "titolo": "Riso Roma Integrale",
+  "data_pubblicazione": "2026-07-22",
+  "marca": "Riso Vignola 1880",
+  "denominazione": "Riso Roma Integrale",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_RV_RISO_ROMA_INTEGRALE_1784731206.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_RV_RISO_ROMA_INTEGRALE_1784731206.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_RV_RISO_ROMA_INTEGRALE_1784731206.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-roma-integrale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:23+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:23+00:00"
+ },
+ "robiola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/robiola/",
+  "titolo": "Robiola",
+  "data_pubblicazione": "2026-07-16",
+  "marca": "CAPRISS",
+  "denominazione": "Robiola",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Robiola%20_%20cartello%20OSA_1788887583.pdf",
+  "allegati": [
+   {
+    "titolo": "_Robiola _ cartello OSA_1788887583.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Robiola%20_%20cartello%20OSA_1788887583.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "robiola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:21+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:21+00:00"
+ },
+ "salame-antico-spigaroli-senza-nitrati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-antico-spigaroli-senza-nitrati/",
+  "titolo": "Salame Antico Spigaroli senza nitrati",
+  "data_pubblicazione": "2026-07-13",
+  "marca": "Terre Verdi srl",
+  "denominazione": "Salame Antico Spigaroli senza nitrati",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20%20richiamo%20Antico%20Spigaroli%20L.%20280426A%20_1783953766.pdf",
+  "allegati": [
+   {
+    "titolo": "Ritiro  richiamo Antico Spigaroli L. 280426A _1783953766.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20%20richiamo%20Antico%20Spigaroli%20L.%20280426A%20_1783953766.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-antico-spigaroli-senza-nitrati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Salame Antico Spigaroli senza nitrati.",
+   "operatore": "Terre Verdi srl. via Sbrisi, 3 -43016 Polesine Parmense (PR)",
+   "lotti": [
+    "280426A"
+   ],
+   "marchio_identificazione": "IT 1819 L CE",
+   "produttore": "Terre Verdi srl.",
+   "sede_stabilimento": "via Sbrisi, 3 -43016 Polesine Parmense (PR)",
+   "scadenza": "NA",
+   "peso_volume": "Salame intero",
+   "motivo_esteso": "prodotto non conforme per rischio Microbiologico.",
+   "avvertenze": "Non consumare il prodotto e renderlo al punto vendita.",
+   "campi_extra": {
+    "Data": "10/07/2026 Marchio del prodotto: Antica Corte Pallavicina-Fratelli spigaroli"
+   },
+   "testo": "RICHIAMO\nData: 10/07/2026 Marchio del prodotto: Antica Corte Pallavicina-Fratelli spigaroli\nDenominazione di vendita:Salame Antico Spigaroli senza nitrati.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Terre Verdi srl. via Sbrisi, 3 -43016 Polesine Parmense (PR)\ncommercializzato:\nLotto di produzione: 280426A\nMarchio di identificazione dello stabilimento/del produttore: IT 1819 L CE\nNome del produttore: Terre Verdi srl.\nSede dello stabilimento: via Sbrisi, 3 -43016 Polesine Parmense (PR)\nData di scadenza o termine minimo di conservazione: NA\nDescrizione peso/volume unità di vendita: Salame intero\nMotivo del richiamo:\nprodotto non conforme per rischio Microbiologico.\nAvvertenze:\nNon consumare il prodotto e renderlo al punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:06:48+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:48+00:00"
+ },
+ "salame-cresponetto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-cresponetto/",
+  "titolo": "Salame Cresponetto",
+  "data_pubblicazione": "2026-07-13",
+  "marca": "Terre Verdi srl",
+  "denominazione": "Salame Cresponetto",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20richiamo%20Cresponetto%20L.%20280426A%20_2__1785949816.pdf",
+  "allegati": [
+   {
+    "titolo": "Ritiro richiamo Cresponetto L. 280426A _2__1785949816.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Ritiro%20richiamo%20Cresponetto%20L.%20280426A%20_2__1785949816.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salame-cresponetto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Salame Cresponetto",
+   "operatore": "Terre Verdi srl. via Sbrisi, 3 -43016 Polesine Parmense (PR)",
+   "lotti": [
+    "280426A"
+   ],
+   "marchio_identificazione": "IT 1819 L CE",
+   "produttore": "Terre Verdi srl",
+   "sede_stabilimento": "via Sbrisi, 3 -43016 Polesine Parmense (PR)",
+   "scadenza": "NA",
+   "peso_volume": "Salame intero",
+   "motivo_esteso": "prodotto non conforme per rischio Microbiologico.",
+   "avvertenze": "Non consumare il prodotto e renderlo al punto vendita.",
+   "campi_extra": {
+    "Data": "13/07/2026 Marchio del prodotto: Antica Corte Pallavicina-Fratelli spigaroli"
+   },
+   "testo": "RICHIAMO\nData: 13/07/2026 Marchio del prodotto: Antica Corte Pallavicina-Fratelli spigaroli\nDenominazione di vendita:Salame Cresponetto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Terre Verdi srl. via Sbrisi, 3 -43016 Polesine Parmense (PR)\ncommercializzato:\nLotto di produzione: 280426A\nMarchio di identificazione dello stabilimento/del produttore: IT 1819 L CE\nNome del produttore: Terre Verdi srl\nSede dello stabilimento: via Sbrisi, 3 -43016 Polesine Parmense (PR)\nData di scadenza o termine minimo di conservazione: NA\nDescrizione peso/volume unità di vendita: Salame intero\nMotivo del richiamo:\nprodotto non conforme per rischio Microbiologico.\nAvvertenze:\nNon consumare il prodotto e renderlo al punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:06:45+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:45+00:00"
+ },
+ "salame-nostrano-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-nostrano-3/",
+  "titolo": "SALAME NOSTRANO",
+  "data_pubblicazione": "2026-07-10",
+  "marca": "I VENETI",
+  "denominazione": "SALAME NOSTRANO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/20260710_Cartello%20di_richiamo_SALAME_1783694569.pdf",
+  "allegati": [
+   {
+    "titolo": "20260710_Cartello di_richiamo_SALAME_1783694569.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/20260710_Cartello%20di_richiamo_SALAME_1783694569.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-nostrano-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:06:50+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:50+00:00"
+ },
+ "salame-pepperino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-pepperino/",
+  "titolo": "SALAME PEPPERINO",
+  "data_pubblicazione": "2026-07-06",
+  "marca": "SALUMI BENVENUTI",
+  "denominazione": "SALAME PEPPERINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellodiRICHIAMO%20_3__1783357791.pdf",
+  "allegati": [
+   {
+    "titolo": "cartellodiRICHIAMO _3__1783357791.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartellodiRICHIAMO%20_3__1783357791.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-pepperino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALAME PEPPERINO",
+   "operatore": "SALUMI BENVENUTI SRL",
+   "lotti": [
+    "2602233"
+   ],
+   "marchio_identificazione": "IT 1184 LP",
+   "produttore": "SALUMI BENVENUTI SRL",
+   "sede_stabilimento": "SALUMI BENVENUTI SRL",
+   "scadenza": "VEDERE AVVERTENZE",
+   "peso_volume": "PESO VARIABILE (PESO COMPRESSIVO 152,47 KG)",
+   "motivo_esteso": "RISCHIO MICROBIOLOGICO-RILEVATA SALMONELLA",
+   "avvertenze": "DA NON CONSUMARE. RIPORTARE AL PUNTO VENDITA. DATE SCADENZA PRODOTTI:29/08/26; 08/09/26; 09/09/26; 10/09/26; 13/09/26; 14/09/26; 15/09/26; 16/09/26; 17/09/26; 20/09/26",
+   "campi_extra": {
+    "Data": "06/07/2026 Marchio del prodotto: SALUMI BENVENUTI"
+   },
+   "testo": "RICHIAMO\nData: 06/07/2026 Marchio del prodotto: SALUMI BENVENUTI\nDenominazione di vendita:SALAME PEPPERINO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMI BENVENUTI SRL\ncommercializzato:\nLotto di produzione: 2602233\nMarchio di identificazione dello stabilimento/del produttore: IT 1184 LP\nNome del produttore: SALUMI BENVENUTI SRL\nSede dello stabilimento: SALUMI BENVENUTI SRL\nData di scadenza o termine minimo di conservazione: VEDERE AVVERTENZE\nDescrizione peso/volume unità di vendita: PESO VARIABILE (PESO COMPRESSIVO 152,47 KG)\nMotivo del richiamo:\nRISCHIO MICROBIOLOGICO-RILEVATA SALMONELLA\nAvvertenze:\nDA NON CONSUMARE. RIPORTARE AL PUNTO VENDITA. DATE SCADENZA PRODOTTI:29/08/26; 08/09/26;\n09/09/26; 10/09/26; 13/09/26; 14/09/26; 15/09/26; 16/09/26; 17/09/26; 20/09/26"
+  },
+  "prima_rilevazione": "2026-10-24T22:07:09+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:07:09+00:00"
+ },
+ "stellato-kebab-pomodoro-cipolla": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stellato-kebab-pomodoro-cipolla/",
+  "titolo": "Stellato kebab pomodoro cipolla",
+  "data_pubblicazione": "2026-07-17",
+  "marca": "RIVA",
+  "denominazione": "Stellato kebab pomodoro cipolla",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20RIVA%20Tram%20Kebab_1784314417.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo RIVA Tram Kebab_1784314417.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20RIVA%20Tram%20Kebab_1784314417.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "stellato-kebab-pomodoro-cipolla",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:43+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:43+00:00"
+ },
+ "stellato-kebab-pomodoro-cipolla-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stellato-kebab-pomodoro-cipolla-0/",
+  "titolo": "Stellato kebab, pomodoro, cipolla.",
+  "data_pubblicazione": "2026-07-17",
+  "marca": "RIVA",
+  "denominazione": "Stellato kebab, pomodoro, cipolla.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20GALLIWAG_1784314507.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo GALLIWAG_1784314507.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20GALLIWAG_1784314507.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "stellato-kebab-pomodoro-cipolla-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:46+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:46+00:00"
+ },
+ "stellato-tramezzino-kebab": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/stellato-tramezzino-kebab/",
+  "titolo": "Stellato Tramezzino kebab",
+  "data_pubblicazione": "2026-07-17",
+  "marca": "RIVA",
+  "denominazione": "Stellato Tramezzino kebab",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20GALILEO_1784314323.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo GALILEO_1784314323.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20GALILEO_1784314323.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "stellato-tramezzino-kebab",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:40+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:40+00:00"
+ },
+ "tramezzino-kebab-di-pollo-arrosto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tramezzino-kebab-di-pollo-arrosto/",
+  "titolo": "Tramezzino Kebab di pollo arrosto",
+  "data_pubblicazione": "2026-07-17",
+  "marca": "PREMIUM tramezzino",
+  "denominazione": "Tramezzino Kebab di pollo arrosto",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20PRIX_1784314600.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo PRIX_1784314600.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20PRIX_1784314600.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tramezzino-kebab-di-pollo-arrosto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:49+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:49+00:00"
+ },
+ "tri-creatine-malate-gusto-lemon": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tri-creatine-malate-gusto-lemon/",
+  "titolo": "Tri Creatine Malate gusto lemon",
+  "data_pubblicazione": "2026-07-14",
+  "marca": "OstroVit",
+  "denominazione": "Tri Creatine Malate gusto lemon",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%204%20_%20Richiamo%20Limone_1784094146.pdf",
+  "allegati": [
+   {
+    "titolo": "ALLEGATO 4 _ Richiamo Limone_1784094146.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%204%20_%20Richiamo%20Limone_1784094146.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tri-creatine-malate-gusto-lemon",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tri Creatine Malate",
+   "operatore": "OSTROVIT SP.Z.O.O",
+   "lotti": [
+    "PR/0001287"
+   ],
+   "marchio_identificazione": "OstroVit",
+   "produttore": "OSTROVIT SP.Z.O.O",
+   "sede_stabilimento": "UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND",
+   "scadenza": "02.10.2028",
+   "peso_volume": "500g gusto Lemon",
+   "motivo_esteso": "novel food non autorizzato: tri-creatine malato negli integratori alimentari",
+   "campi_extra": {
+    "Data": "14/07/2026 Marchio del prodotto: OstroVit",
+    "novel food non autorizzato": "tri-creatine malato negli integratori alimentari"
+   },
+   "testo": "RICHIAMO\nData: 14/07/2026 Marchio del prodotto: OstroVit\nDenominazione di vendita:Tri Creatine Malate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OSTROVIT SP.Z.O.O\ncommercializzato:\nLotto di produzione: PR/0001287\nMarchio di identificazione dello stabilimento/del produttore: OstroVit\nNome del produttore: OSTROVIT SP.Z.O.O\nSede dello stabilimento: UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND\nData di scadenza o termine minimo di conservazione: 02.10.2028\nDescrizione peso/volume unità di vendita: 500g gusto Lemon\nMotivo del richiamo:\nnovel food non autorizzato: tri-creatine malato negli integratori alimentari\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:06:36+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:36+00:00"
+ },
+ "tri-creatine-malate-gusto-natural": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tri-creatine-malate-gusto-natural/",
+  "titolo": "Tri Creatine Malate gusto Natural",
+  "data_pubblicazione": "2026-07-14",
+  "marca": "gusto Natural",
+  "denominazione": "Tri Creatine Malate gusto Natural",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%203%20_%20%20Richiamo%20Natural_1784094068.pdf",
+  "allegati": [
+   {
+    "titolo": "ALLEGATO 3 _  Richiamo Natural_1784094068.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%203%20_%20%20Richiamo%20Natural_1784094068.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tri-creatine-malate-gusto-natural",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tri Creatine Malate",
+   "operatore": "OSTROVIT SP.Z.O.O",
+   "lotti": [
+    "PR/0001713"
+   ],
+   "marchio_identificazione": "OstroVit",
+   "produttore": "OSTROVIT SP.Z.O.O",
+   "sede_stabilimento": "UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND",
+   "scadenza": "14.06.2027",
+   "peso_volume": "500g gusto Natural",
+   "motivo_esteso": "novel food non autorizzato: tri-creatine malato negli integratori alimentari",
+   "campi_extra": {
+    "Data": "14/07/2026 Marchio del prodotto: OstroVit",
+    "novel food non autorizzato": "tri-creatine malato negli integratori alimentari"
+   },
+   "testo": "RICHIAMO\nData: 14/07/2026 Marchio del prodotto: OstroVit\nDenominazione di vendita:Tri Creatine Malate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OSTROVIT SP.Z.O.O\ncommercializzato:\nLotto di produzione: PR/0001713\nMarchio di identificazione dello stabilimento/del produttore: OstroVit\nNome del produttore: OSTROVIT SP.Z.O.O\nSede dello stabilimento: UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND\nData di scadenza o termine minimo di conservazione: 14.06.2027\nDescrizione peso/volume unità di vendita: 500g gusto Natural\nMotivo del richiamo:\nnovel food non autorizzato: tri-creatine malato negli integratori alimentari\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:06:33+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:33+00:00"
+ },
+ "tri-creatine-malate-gusto-natural-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tri-creatine-malate-gusto-natural-0/",
+  "titolo": "Tri Creatine Malate gusto natural",
+  "data_pubblicazione": "2026-07-14",
+  "marca": "OstroVit",
+  "denominazione": "Tri Creatine Malate gusto natural",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%203%20_%20%20Richiamo%20Natural_1784094332.pdf",
+  "allegati": [
+   {
+    "titolo": "ALLEGATO 3 _  Richiamo Natural_1784094332.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%203%20_%20%20Richiamo%20Natural_1784094332.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tri-creatine-malate-gusto-natural-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tri Creatine Malate",
+   "operatore": "OSTROVIT SP.Z.O.O",
+   "lotti": [
+    "PR/0001713"
+   ],
+   "marchio_identificazione": "OstroVit",
+   "produttore": "OSTROVIT SP.Z.O.O",
+   "sede_stabilimento": "UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND",
+   "scadenza": "14.06.2027",
+   "peso_volume": "500g gusto Natural",
+   "motivo_esteso": "novel food non autorizzato: tri-creatine malato negli integratori alimentari",
+   "campi_extra": {
+    "Data": "14/07/2026 Marchio del prodotto: OstroVit",
+    "novel food non autorizzato": "tri-creatine malato negli integratori alimentari"
+   },
+   "testo": "RICHIAMO\nData: 14/07/2026 Marchio del prodotto: OstroVit\nDenominazione di vendita:Tri Creatine Malate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OSTROVIT SP.Z.O.O\ncommercializzato:\nLotto di produzione: PR/0001713\nMarchio di identificazione dello stabilimento/del produttore: OstroVit\nNome del produttore: OSTROVIT SP.Z.O.O\nSede dello stabilimento: UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND\nData di scadenza o termine minimo di conservazione: 14.06.2027\nDescrizione peso/volume unità di vendita: 500g gusto Natural\nMotivo del richiamo:\nnovel food non autorizzato: tri-creatine malato negli integratori alimentari\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:06:42+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:42+00:00"
+ },
+ "tri-creatine-malate-gusto-orange": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tri-creatine-malate-gusto-orange/",
+  "titolo": "Tri Creatine Malate gusto orange",
+  "data_pubblicazione": "2026-07-14",
+  "marca": "OSTROVIT SP.Z.O.O",
+  "denominazione": "Tri Creatine Malate gusto orange",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%202%20_%20Richiamo%20Orange_1784093989.pdf",
+  "allegati": [
+   {
+    "titolo": "ALLEGATO 2 _ Richiamo Orange_1784093989.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%202%20_%20Richiamo%20Orange_1784093989.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tri-creatine-malate-gusto-orange",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tri Creatine Malate",
+   "operatore": "OSTROVIT SP.Z.O.O",
+   "lotti": [
+    "PR/0001742"
+   ],
+   "marchio_identificazione": "OstroVit",
+   "produttore": "OSTROVIT SP.Z.O.O",
+   "sede_stabilimento": "UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND",
+   "scadenza": "18.11.2028",
+   "peso_volume": "500g gusto Orange",
+   "motivo_esteso": "novel food non autorizzato: tri-creatine malato negli integratori alimentari",
+   "campi_extra": {
+    "Data": "14/07/2026 Marchio del prodotto: OstroVit",
+    "novel food non autorizzato": "tri-creatine malato negli integratori alimentari"
+   },
+   "testo": "RICHIAMO\nData: 14/07/2026 Marchio del prodotto: OstroVit\nDenominazione di vendita:Tri Creatine Malate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OSTROVIT SP.Z.O.O\ncommercializzato:\nLotto di produzione: PR/0001742\nMarchio di identificazione dello stabilimento/del produttore: OstroVit\nNome del produttore: OSTROVIT SP.Z.O.O\nSede dello stabilimento: UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND\nData di scadenza o termine minimo di conservazione: 18.11.2028\nDescrizione peso/volume unità di vendita: 500g gusto Orange\nMotivo del richiamo:\nnovel food non autorizzato: tri-creatine malato negli integratori alimentari\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:06:30+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:30+00:00"
+ },
+ "tri-creatine-malate-gusto-orange-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tri-creatine-malate-gusto-orange-0/",
+  "titolo": "Tri Creatine Malate gusto orange",
+  "data_pubblicazione": "2026-07-14",
+  "marca": "OstroVit",
+  "denominazione": "Tri Creatine Malate gusto orange",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%202%20_%20Richiamo%20Orange_1784094224.pdf",
+  "allegati": [
+   {
+    "titolo": "ALLEGATO 2 _ Richiamo Orange_1784094224.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALLEGATO%202%20_%20Richiamo%20Orange_1784094224.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tri-creatine-malate-gusto-orange-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tri Creatine Malate",
+   "operatore": "OSTROVIT SP.Z.O.O",
+   "lotti": [
+    "PR/0001742"
+   ],
+   "marchio_identificazione": "OstroVit",
+   "produttore": "OSTROVIT SP.Z.O.O",
+   "sede_stabilimento": "UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND",
+   "scadenza": "18.11.2028",
+   "peso_volume": "500g gusto Orange",
+   "motivo_esteso": "novel food non autorizzato: tri-creatine malato negli integratori alimentari",
+   "campi_extra": {
+    "Data": "14/07/2026 Marchio del prodotto: OstroVit",
+    "novel food non autorizzato": "tri-creatine malato negli integratori alimentari"
+   },
+   "testo": "RICHIAMO\nData: 14/07/2026 Marchio del prodotto: OstroVit\nDenominazione di vendita:Tri Creatine Malate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è OSTROVIT SP.Z.O.O\ncommercializzato:\nLotto di produzione: PR/0001742\nMarchio di identificazione dello stabilimento/del produttore: OstroVit\nNome del produttore: OSTROVIT SP.Z.O.O\nSede dello stabilimento: UL. SITARDSKA 16 | 18-300 ZAMBROW, POLAND\nData di scadenza o termine minimo di conservazione: 18.11.2028\nDescrizione peso/volume unità di vendita: 500g gusto Orange\nMotivo del richiamo:\nnovel food non autorizzato: tri-creatine malato negli integratori alimentari\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:06:39+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:39+00:00"
+ },
+ "uova-aia-aperto-220g-24-cf-x-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-220g-24-cf-x-4/",
+  "titolo": "Uova AIA aperto 220g 24 CF x 4",
+  "data_pubblicazione": "2026-07-30",
+  "marca": "AIA SPA",
+  "denominazione": "Uova AIA aperto 220g 24 CF x 4",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1785758939.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_1785758939.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1785758939.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-aia-aperto-220g-24-cf-x-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:04:44+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:44+00:00"
+ },
+ "uova-aia-aperto-220g-24cf-x4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-220g-24cf-x4/",
+  "titolo": "UOVA AIA APERTO 220G 24CF X4",
+  "data_pubblicazione": "2026-07-27",
+  "marca": "AIA",
+  "denominazione": "UOVA AIA APERTO 220G 24CF X4",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_%20UOVA%20AIA%20APERTO%20220G%2024CF%20X4_1786029406.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo _ UOVA AIA APERTO 220G 24CF X4_1786029406.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_%20UOVA%20AIA%20APERTO%20220G%2024CF%20X4_1786029406.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-aia-aperto-220g-24cf-x4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA AIA APERTO 220G 24CF X4",
+   "operatore": "A.I.A. S.p.A.",
+   "lotti": [
+    "1IT040VR006"
+   ],
+   "marchio_identificazione": "IT Q8C3N",
+   "produttore": "Agricola Tre Valli Soc.Coop.",
+   "sede_stabilimento": "Via Aeroporto 18 37060 Caselle di Sommacampagna",
+   "scadenza": "04/08/2026",
+   "peso_volume": "confezione 4 pezzi peso 220 g",
+   "motivo_esteso": "Rischio microbiologico salmonella enteritidis",
+   "avvertenze": "Il singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza 04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita per la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232",
+   "campi_extra": {
+    "Data": "23/07/2026 Marchio del prodotto: AIA"
+   },
+   "testo": "RICHIAMO\nData: 23/07/2026 Marchio del prodotto: AIA\nDenominazione di vendita: UOVA AIA APERTO 220G 24CF X4\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.I.A. S.p.A.\ncommercializzato:\nLotto di produzione: 1IT040VR006\nMarchio di identificazione dello stabilimento/del produttore: IT Q8C3N\nNome del produttore: Agricola Tre Valli Soc.Coop.\nSede dello stabilimento: Via Aeroporto 18 37060 Caselle di Sommacampagna\nData di scadenza o termine minimo di conservazione: 04/08/2026\nDescrizione peso/volume unità di vendita: confezione 4 pezzi peso 220 g\nMotivo del richiamo:\nRischio microbiologico salmonella enteritidis\nAvvertenze:\nIl singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza\n04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita\nper la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:53+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:53+00:00"
+ },
+ "uova-aia-aperto-330g-16cf-x6": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-330g-16cf-x6/",
+  "titolo": "UOVA AIA APERTO 330G 16CF X6",
+  "data_pubblicazione": "2026-07-27",
+  "marca": "AIA",
+  "denominazione": "UOVA AIA APERTO 330G 16CF X6",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_%20UOVA%20AIA%20APERTO%20330G%2016CF%20X6_1786029493.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo _ UOVA AIA APERTO 330G 16CF X6_1786029493.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_%20UOVA%20AIA%20APERTO%20330G%2016CF%20X6_1786029493.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-aia-aperto-330g-16cf-x6",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA AIA APERTO 330G 16CF X6",
+   "operatore": "A.I.A. S.p.A.",
+   "lotti": [
+    "1IT040VR006"
+   ],
+   "marchio_identificazione": "IT Q8C3N",
+   "produttore": "Agricola Tre Valli Soc.Coop.",
+   "sede_stabilimento": "Via Aeroporto 18 37060 Caselle di Sommacampagna",
+   "scadenza": "04/08/2026",
+   "peso_volume": "confezione 6 pezzi peso 330 g",
+   "motivo_esteso": "Rischio microbiologico salmonella enteritidis",
+   "avvertenze": "Il singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza 04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita per la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232",
+   "campi_extra": {
+    "Data": "23/07/ 2026 Marchio del prodotto: AIA"
+   },
+   "testo": "RICHIAMO\nData: 23/07/ 2026 Marchio del prodotto: AIA\nDenominazione di vendita: UOVA AIA APERTO 330G 16CF X6\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.I.A. S.p.A.\ncommercializzato:\nLotto di produzione: 1IT040VR006\nMarchio di identificazione dello stabilimento/del produttore: IT Q8C3N\nNome del produttore: Agricola Tre Valli Soc.Coop.\nSede dello stabilimento: Via Aeroporto 18 37060 Caselle di Sommacampagna\nData di scadenza o termine minimo di conservazione: 04/08/2026\nDescrizione peso/volume unità di vendita: confezione 6 pezzi peso 330 g\nMotivo del richiamo:\nRischio microbiologico salmonella enteritidis\nAvvertenze:\nIl singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza\n04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita\nper la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:56+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:56+00:00"
+ },
+ "uova-fresche-cata-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cata-1/",
+  "titolo": "UOVA FRESCHE Cat.A",
+  "data_pubblicazione": "2026-07-17",
+  "marca": "OVO MIO 1972 SNC",
+  "denominazione": "UOVA FRESCHE Cat.A",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20lot.S226%20TMC%2022.07.2026%20OVO%20MIO%201972%20n.%20di%20riconoscimento%20W4Y63_1784299225.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo lot.S226 TMC 22.07.2026 OVO MIO 1972 n. di riconoscimento W4Y63_1784299225.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20lot.S226%20TMC%2022.07.2026%20OVO%20MIO%201972%20n.%20di%20riconoscimento%20W4Y63_1784299225.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-cata-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:05:38+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:38+00:00"
+ },
+ "uova-fresche-da-agricoltura-biologica-categoria-30-uova": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-agricoltura-biologica-categoria-30-uova/",
+  "titolo": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A - 30 UOVA",
+  "data_pubblicazione": "2026-07-22",
+  "marca": "BIO FATTORIA",
+  "denominazione": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A - 30 UOVA",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA_richiamo%2030%20UOVA%20PARADELLO_1784713740.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_REVOCA_richiamo 30 UOVA PARADELLO_1784713740.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA_richiamo%2030%20UOVA%20PARADELLO_1784713740.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-da-agricoltura-biologica-categoria-30-uova",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A",
+   "operatore": "FATTORIA PARADELLO SOC. AGR. S.S.",
+   "lotti": [
+    "200526",
+    "210526",
+    "220526",
+    "230526",
+    "240526",
+    "250526",
+    "260526",
+    "270526",
+    "280526"
+   ],
+   "marchio_identificazione": "C.I. N. IT017084",
+   "produttore": "FATTORIA PARADELLO SOC.AGR. S.S.",
+   "sede_stabilimento": "VIA PARADELLO 9, RODENGO SAIANO (BS)",
+   "scadenza": "17/06/2026; 18/06/2026;19/06/2026; 20/06/2026; 21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026; 25/06/2026",
+   "peso_volume": "CONF. DA 30 Motivo della revoca: SCADENZA DEL PRODOTTO",
+   "campi_extra": {
+    "Data": "07/07/2026 Marchio del prodotto: BIO FATTORIA"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 07/07/2026 Marchio del prodotto: BIO FATTORIA\nDenominazione di vendita: UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FATTORIA PARADELLO SOC. AGR. S.S.\ncommercializzato:\nLotto di produzione: 200526; 210526; 220526; 230526; 240526; 250526; 260526; 270526; 280526\nMarchio di identificazione dello stabilimento/del produttore: C.I. N. IT017084\nNome del produttore: FATTORIA PARADELLO SOC.AGR. S.S.\nSede dello stabilimento: VIA PARADELLO 9, RODENGO SAIANO (BS)\nData di scadenza o termine minimo di conservazione: 17/06/2026; 18/06/2026;19/06/2026; 20/06/2026;\n21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026;\n25/06/2026\nDescrizione peso/volume unità di vendita: CONF. DA 30\nMotivo della revoca:\nSCADENZA DEL PRODOTTO\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:20+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:20+00:00"
+ },
+ "uova-fresche-da-agricoltura-biologica-categoria-conf-da-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-agricoltura-biologica-categoria-conf-da-4/",
+  "titolo": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A CONF. DA 4",
+  "data_pubblicazione": "2026-07-22",
+  "marca": "BIO FATTORIA",
+  "denominazione": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A CONF. DA 4",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA_richiamo%204%20UOVA%20PARADELLO_1784713540.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_REVOCA_richiamo 4 UOVA PARADELLO_1784713540.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA_richiamo%204%20UOVA%20PARADELLO_1784713540.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-da-agricoltura-biologica-categoria-conf-da-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A",
+   "operatore": "FATTORIA PARADELLO SOC. AGR. S.S.",
+   "lotti": [
+    "200526",
+    "210526",
+    "220526",
+    "230526",
+    "240526",
+    "250526",
+    "260526",
+    "270526",
+    "280526"
+   ],
+   "marchio_identificazione": "C.I. N. IT017084",
+   "produttore": "FATTORIA PARADELLO SOC.AGR. S.S.",
+   "sede_stabilimento": "VIA PARADELLO 9, RODENGO SAIANO (BS)",
+   "scadenza": "17/06/2026; 18/06/2026;19/06/2026; 20/06/2026; 21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026; 25/06/2026",
+   "peso_volume": "CONF. DA 4: 0.270 GR Motivo della revoca: SCADENZA del PRODOTTO",
+   "campi_extra": {
+    "Data": "07/07/2026 Marchio del prodotto: BIO FATTORIA"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 07/07/2026 Marchio del prodotto: BIO FATTORIA\nDenominazione di vendita: UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FATTORIA PARADELLO SOC. AGR. S.S.\ncommercializzato:\nLotto di produzione: 200526; 210526; 220526; 230526; 240526; 250526; 260526; 270526; 280526\nMarchio di identificazione dello stabilimento/del produttore: C.I. N. IT017084\nNome del produttore: FATTORIA PARADELLO SOC.AGR. S.S.\nSede dello stabilimento: VIA PARADELLO 9, RODENGO SAIANO (BS)\nData di scadenza o termine minimo di conservazione: 17/06/2026; 18/06/2026;19/06/2026; 20/06/2026;\n21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026;\n25/06/2026\nDescrizione peso/volume unità di vendita: CONF. DA 4: 0.270 GR\nMotivo della revoca:\nSCADENZA del PRODOTTO\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:14+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:14+00:00"
+ },
+ "uova-fresche-da-agricoltura-biologica-categoria-conf-da-6": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-agricoltura-biologica-categoria-conf-da-6/",
+  "titolo": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A CONF. DA 6",
+  "data_pubblicazione": "2026-07-22",
+  "marca": "BIO FATTORIA",
+  "denominazione": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A CONF. DA 6",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA_richiamo%206%20UOVA%20PARADELLO_1784713642.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_REVOCA_richiamo 6 UOVA PARADELLO_1784713642.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA_richiamo%206%20UOVA%20PARADELLO_1784713642.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-da-agricoltura-biologica-categoria-conf-da-6",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A",
+   "operatore": "FATTORIA PARADELLO SOC. AGR. S.S.",
+   "lotti": [
+    "200526",
+    "210526",
+    "220526",
+    "230526",
+    "240526",
+    "250526",
+    "260526",
+    "270526",
+    "280526"
+   ],
+   "marchio_identificazione": "C.I. N. IT017084",
+   "produttore": "FATTORIA PARADELLO SOC.AGR. S.S.",
+   "sede_stabilimento": "VIA PARADELLO 9, RODENGO SAIANO (BS)",
+   "scadenza": "17/06/2026; 18/06/2026;19/06/2026; 20/06/2026; 21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026; 25/06/2026",
+   "peso_volume": "CONF DA 6: 0.400 GR Motivo della revoca: SCADENZA DEL PRODOTTO",
+   "campi_extra": {
+    "Data": "07/07/2026 Marchio del prodotto: BIO FATTORIA"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 07/07/2026 Marchio del prodotto: BIO FATTORIA\nDenominazione di vendita: UOVA FRESCHE DA AGRICOLTURA BIOLOGICA CATEGORIA A\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FATTORIA PARADELLO SOC. AGR. S.S.\ncommercializzato:\nLotto di produzione: 200526; 210526; 220526; 230526; 240526; 250526; 260526; 270526; 280526\nMarchio di identificazione dello stabilimento/del produttore: C.I. N. IT017084\nNome del produttore: FATTORIA PARADELLO SOC.AGR. S.S.\nSede dello stabilimento: VIA PARADELLO 9, RODENGO SAIANO (BS)\nData di scadenza o termine minimo di conservazione: 17/06/2026; 18/06/2026;19/06/2026; 20/06/2026;\n21/06/2026; 22/06/2026; 23/06/2026; 24/06/2026;\n25/06/2026\nDescrizione peso/volume unità di vendita: CONF DA 6: 0.400 GR\nMotivo della revoca:\nSCADENZA DEL PRODOTTO\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:05:17+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:05:17+00:00"
+ },
+ "uova-fresche-da-allevamento-allaperto-selex-x6": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-da-allevamento-allaperto-selex-x6/",
+  "titolo": "UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO SELEX x6",
+  "data_pubblicazione": "2026-07-31",
+  "marca": "SELEX GRUPPO COMMERCIALE S.p.A.",
+  "denominazione": "UOVA FRESCHE DA ALLEVAMENTO ALL'APERTO SELEX x6",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Selex_1785490495.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo Selex_1785490495.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Selex_1785490495.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-da-allevamento-allaperto-selex-x6",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:04:14+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:14+00:00"
+ },
+ "uova-fresche-di-cat-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-di-cat-0/",
+  "titolo": "Uova fresche di Cat. A",
+  "data_pubblicazione": "2026-07-15",
+  "marca": "Avicola Emiliana",
+  "denominazione": "Uova fresche di Cat. A",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Avicola%20Emiliana_1784126393.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo Avicola Emiliana_1784126393.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20Avicola%20Emiliana_1784126393.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-di-cat-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:06:27+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:06:27+00:00"
+ }
+}

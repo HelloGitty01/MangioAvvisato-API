@@ -1,0 +1,198 @@
+{
+ "aldog-articafreedog-artica": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/aldog-articafreedog-artica/",
+  "titolo": "ALDOG ARTICA/FREEDOG ARTICA",
+  "data_pubblicazione": "2023-09-26",
+  "marca": "EUROCEREALI PESENTI SRL",
+  "denominazione": "ALDOG ARTICA/FREEDOG ARTICA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurocereali_1761197495.pdf",
+  "allegati": [
+   {
+    "titolo": "Eurocereali_1761197495.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurocereali_1761197495.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "aldog-articafreedog-artica",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:23:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:44+00:00"
+ },
+ "carne-alla-tartara": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carne-alla-tartara/",
+  "titolo": "Carne alla tartara",
+  "data_pubblicazione": "2023-09-22",
+  "marca": "Fiorani & C. S.p.a.",
+  "denominazione": "Carne alla tartara",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ritiro%20TARTARE%20EUROSPIN_1761197493.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello ritiro TARTARE EUROSPIN_1761197493.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ritiro%20TARTARE%20EUROSPIN_1761197493.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "carne-alla-tartara",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CARNE ALLA TARTARA",
+   "operatore": "FIORANI & C. S.P.A.",
+   "lotti": [
+    "36423TI"
+   ],
+   "marchio_identificazione": "IT 592 S CE",
+   "produttore": "FIORANI & C. S.P.A.",
+   "sede_stabilimento": "VIA COPPALATI, 52 PIACENZA 29122",
+   "scadenza": "23/09/2023",
+   "peso_volume": "210g",
+   "motivo_esteso": "POSSIBILE CONTAMINAZIONE DA SALMONELLA SPP",
+   "campi_extra": {
+    "Data": "22/09/2023 Marchio del prodotto: LE COLLINE DELLA BONTA’"
+   },
+   "testo": "RICHIAMO\nData: 22/09/2023 Marchio del prodotto: LE COLLINE DELLA BONTA’\nDenominazione di vendita: CARNE ALLA TARTARA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FIORANI & C. S.P.A.\ncommercializzato:\nLotto di produzione: 36423TI\nMarchio di identificazione dello stabilimento/del produttore: IT 592 S CE\nNome del produttore: FIORANI & C. S.P.A.\nSede dello stabilimento: VIA COPPALATI, 52 PIACENZA 29122\nData di scadenza o termine minimo di conservazione: 23/09/2023\nDescrizione peso/volume unità di vendita: 210g\nMotivo del richiamo:\nPOSSIBILE CONTAMINAZIONE DA SALMONELLA SPP\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:47+00:00"
+ },
+ "estratto-mela-spinaci-sedano": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-mela-spinaci-sedano/",
+  "titolo": "estratto mela spinaci sedano",
+  "data_pubblicazione": "2023-09-12",
+  "marca": "Orsero",
+  "denominazione": "estratto mela spinaci sedano",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Estratto%20Mela%20Sedano%20Spinacio%20rev1_1761197488.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Estratto Mela Sedano Spinacio rev1_1761197488.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Estratto%20Mela%20Sedano%20Spinacio%20rev1_1761197488.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "estratto-mela-spinaci-sedano",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "motivo_esteso": "Attenzione il richiamo interessa solo la referenza sopra specificata che riporta l'etichetta",
+   "avvertenze": "con la denominazione \"ARANCIA\" Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAttenzione il richiamo interessa solo la referenza sopra specificata che riporta l'etichetta\nAvvertenze\ncon la denominazione \"ARANCIA\"\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T07:24:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:24:01+00:00"
+ },
+ "fagioli-secchi-black-eye": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagioli-secchi-black-eye/",
+  "titolo": "Fagioli secchi black eye",
+  "data_pubblicazione": "2023-09-21",
+  "marca": "Ali Baba",
+  "denominazione": "Fagioli secchi black eye",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20Richiamo%20Fagioli_1761197491.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello Richiamo Fagioli_1761197491.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20Richiamo%20Fagioli_1761197491.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fagioli-secchi-black-eye",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BLACK EYE BEANS",
+   "operatore": "FRESH TROPICAL SRL BY JAWAD – Via A. da Giussano, 22 – Corbetta (MI)",
+   "lotti": [
+    "10/05/2025"
+   ],
+   "scadenza": "10-05-2025",
+   "peso_volume": "SACCHETTO DI PLASTICA DA 2 kg",
+   "motivo_esteso": "Presenza di pesticidi oltre il limite consentito",
+   "avvertenze": "Riportare indietro la confezione al negozio",
+   "campi_extra": {
+    "Data": "19.09.2023 Marchio del prodotto: ALI BABA"
+   },
+   "testo": "RICHIAMO\nData: 19.09.2023 Marchio del prodotto: ALI BABA\nDenominazione di vendita:BLACK EYE BEANS\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESH TROPICAL SRL BY JAWAD – Via A. da Giussano, 22 – Corbetta (MI)\ncommercializzato:\nLotto di produzione: 10/05/2025\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: 10-05-2025\nDescrizione peso/volume unità di vendita: SACCHETTO DI PLASTICA DA 2 kg\nMotivo del richiamo:\nPresenza di pesticidi oltre il limite consentito\nAvvertenze:\nRiportare indietro la confezione al negozio"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:50+00:00"
+ },
+ "uvetta-sultanina-250-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uvetta-sultanina-250-g/",
+  "titolo": "Uvetta sultanina 250 g",
+  "data_pubblicazione": "2023-09-12",
+  "marca": "Eurospin Italia Spa",
+  "denominazione": "Uvetta sultanina 250 g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761197486.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo_1761197486.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761197486.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uvetta-sultanina-250-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:23:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:53+00:00"
+ },
+ "wasabi-peas-coated-gt": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wasabi-peas-coated-gt/",
+  "titolo": "Wasabi peas coated GT",
+  "data_pubblicazione": "2023-09-29",
+  "marca": "Golden Turtle",
+  "denominazione": "Wasabi peas coated GT",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761197497.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo_1761197497.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761197497.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wasabi-peas-coated-gt",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:23:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:40+00:00"
+ }
+}

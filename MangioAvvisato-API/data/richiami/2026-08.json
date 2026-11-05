@@ -1,0 +1,1297 @@
+{
+ "brie-mon-sir-60-1kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brie-mon-sir-60-1kg/",
+  "titolo": "BRIE MON SIR 60% 1KG",
+  "data_pubblicazione": "2026-08-17",
+  "marca": "MON SIR",
+  "denominazione": "BRIE MON SIR 60% 1KG",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Brie%20Mon%20Sir%20_%20lotto%20ZUAD2_1786968497.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo Brie Mon Sir _ lotto ZUAD2_1786968497.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20Brie%20Mon%20Sir%20_%20lotto%20ZUAD2_1786968497.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "brie-mon-sir-60-1kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BRIE MON SIR 60% 1 KG",
+   "operatore": "PATURAGES COMTOIS",
+   "lotti": [
+    "ZUAD2"
+   ],
+   "marchio_identificazione": "FR 70002001CE",
+   "produttore": "PATURAGES COMTOIS",
+   "sede_stabilimento": "70500 ABONCOURT - FRANCIA",
+   "scadenza": "18/08/26",
+   "peso_volume": "1 KG",
+   "motivo_esteso": "PRESENZA Listeria monocytogenes",
+   "avvertenze": "alle persone in possesso del prodotto oggetto di richiamo si chiede di NON CONSUMARE il prodotto e restituirlo al punto vendita. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "11/08/2026 Marchio del prodotto: MON SIR",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 11/08/2026 Marchio del prodotto: MON SIR\nDenominazione di vendita:BRIE MON SIR 60% 1 KG\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PATURAGES COMTOIS\ncommercializzato:\nLotto di produzione: ZUAD2\nMarchio di identificazione dello stabilimento/del produttore: FR 70002001CE\nNome del produttore: PATURAGES COMTOIS\nSede dello stabilimento: 70500 ABONCOURT - FRANCIA\nData di scadenza o termine minimo di conservazione: 18/08/26\nDescrizione peso/volume unità di vendita: 1 KG\nMotivo del richiamo:\nPRESENZA Listeria monocytogenes\nAvvertenze:\nalle persone in possesso del prodotto oggetto di richiamo si chiede di NON CONSUMARE il prodotto e\nrestituirlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:06+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:06+00:00"
+ },
+ "budino-proteico-gusto-cioccolato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/budino-proteico-gusto-cioccolato/",
+  "titolo": "Budino proteico gusto cioccolato",
+  "data_pubblicazione": "2026-08-21",
+  "marca": "Milbona",
+  "denominazione": "Budino proteico gusto cioccolato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/budino_Allegato3_ModellodiRichiamo_1787332213.pdf",
+  "allegati": [
+   {
+    "titolo": "budino_Allegato3_ModellodiRichiamo_1787332213.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/budino_Allegato3_ModellodiRichiamo_1787332213.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "budino-proteico-gusto-cioccolato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "EAN": "4056489216162"
+   },
+   "testo": "20/08/26 Milbona\nBudino proteico gusto cioccolato\nLidl Italia\nTMC 14/09/2026\nDE NW 85511 EG\nFude + Serrahn Milchprodukte GmbH & Co. KG\nvia Dreischkamp 40, 48653 Coesfeld - Germania\n14/09/2026\n200g\nNon conformità microbiologica (B.cereus).\nEAN: 4056489216162\nSi invitano i clienti a non consumare il prodotto e restituirlo al punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:03:00+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:00+00:00"
+ },
+ "cozze-guscio-gr-500": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-guscio-gr-500/",
+  "titolo": "COZZE GUSCIO GR. 500",
+  "data_pubblicazione": "2026-08-28",
+  "marca": "ARBI",
+  "denominazione": "COZZE GUSCIO GR. 500",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AllegatoA_Modello_richiamo_o_revoca_ARBIDARIOSPA_1788791617.pdf",
+  "allegati": [
+   {
+    "titolo": "AllegatoA_Modello_richiamo_o_revoca_ARBIDARIOSPA_1788791617.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/AllegatoA_Modello_richiamo_o_revoca_ARBIDARIOSPA_1788791617.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "cozze-guscio-gr-500",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:02:40+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:40+00:00"
+ },
+ "fichi-secchi-bianchi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-secchi-bianchi/",
+  "titolo": "Fichi secchi bianchi",
+  "data_pubblicazione": "2026-08-12",
+  "marca": "Manuzzi",
+  "denominazione": "Fichi secchi bianchi",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1786545615.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo di richiamo_1786545615.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1786545615.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fichi-secchi-bianchi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Fichi secchi bianchi Grecia",
+   "operatore": "Manuzzi srl a socio unico",
+   "lotti": [
+    "254101PB"
+   ],
+   "marchio_identificazione": "MANUZZI",
+   "produttore": "AGROFRUT HELLAS VASSILIS PANTAZIS S.A.",
+   "sede_stabilimento": "AGIA TRIADA 27063 LECHENA ILIAS GRECIA",
+   "scadenza": "31-12-2026",
+   "peso_volume": "200g",
+   "motivo_esteso": "Esito analitico ASL Foggia non conforme Ocratossina A",
+   "avvertenze": "Il prodotto non è idoneo al consumo. Si prega di provvedere al richiamo e al ritiro.",
+   "campi_extra": {
+    "Data": "11/08/2026 Marchio del prodotto: Manuzzi"
+   },
+   "testo": "RICHIAMO\nData: 11/08/2026 Marchio del prodotto: Manuzzi\nDenominazione di vendita:Fichi secchi bianchi Grecia\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Manuzzi srl a socio unico\ncommercializzato:\nLotto di produzione: 254101PB\nMarchio di identificazione dello stabilimento/del produttore: MANUZZI\nNome del produttore: AGROFRUT HELLAS VASSILIS PANTAZIS S.A.\nSede dello stabilimento: AGIA TRIADA 27063 LECHENA ILIAS GRECIA\nData di scadenza o termine minimo di conservazione: 31-12-2026\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nEsito analitico ASL Foggia non conforme Ocratossina A\nAvvertenze:\nIl prodotto non è idoneo al consumo.\nSi prega di provvedere al richiamo e al ritiro."
+  },
+  "prima_rilevazione": "2026-10-24T22:03:17+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:17+00:00"
+ },
+ "filetti-di-pesce-spada-allolio-doliva-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-pesce-spada-allolio-doliva-200g/",
+  "titolo": "FILETTI DI PESCE SPADA ALL'OLIO D'OLIVA 200g",
+  "data_pubblicazione": "2026-08-06",
+  "marca": "TOSI&RAGGINI SAS",
+  "denominazione": "FILETTI DI PESCE SPADA ALL'OLIO D'OLIVA 200g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Cartello%20di%20richiamo_1786029578.pdf",
+  "allegati": [
+   {
+    "titolo": "3 Cartello di richiamo_1786029578.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/3%20Cartello%20di%20richiamo_1786029578.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "filetti-di-pesce-spada-allolio-doliva-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FILETTI DI PESCE SPADA ALL’OLIO D’OLIVA 200g",
+   "operatore": "TOSI & RAGGINI SAS DI RAGGINI MAURO E FAUSTO",
+   "lotti": [
+    "L 180-334/024"
+   ],
+   "marchio_identificazione": "IT 997 CE",
+   "produttore": "Drago Sebastiano di Giuseppe Drago",
+   "sede_stabilimento": "Via stentinello 10/A c.da Targia 96100 Siracusa",
+   "scadenza": "30-11-2027",
+   "peso_volume": "VASETTO IN VETRO DA 200g",
+   "motivo_esteso": "Rischio chimico / Tossicità da metalli pesanti (superamento dei limiti massimi di sicurezza per il mercurio nei prodotti ittici).",
+   "avvertenze": "Si invitano i consumatori che avessero acquistato il prodotto appartenente al lotto indicato a non consumarlo e a restituirlo al punto vendita per il rimborso o la sostituzione.",
+   "campi_extra": {
+    "Data": "05/08/2026 Marchio del prodotto: TOSI&RAGGINI SAS"
+   },
+   "testo": "RICHIAMO\nData: 05/08/2026 Marchio del prodotto: TOSI&RAGGINI SAS\nDenominazione di vendita:FILETTI DI PESCE SPADA ALL’OLIO D’OLIVA 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TOSI & RAGGINI SAS DI RAGGINI MAURO E FAUSTO\ncommercializzato:\nLotto di produzione: L 180-334/024\nMarchio di identificazione dello stabilimento/del produttore: IT 997 CE\nNome del produttore: Drago Sebastiano di Giuseppe Drago\nSede dello stabilimento: Via stentinello 10/A c.da Targia 96100 Siracusa\nData di scadenza o termine minimo di conservazione: 30-11-2027\nDescrizione peso/volume unità di vendita: VASETTO IN VETRO DA 200g\nMotivo del richiamo:\nRischio chimico / Tossicità da metalli pesanti (superamento dei limiti massimi di sicurezza per il mercurio\nnei prodotti ittici).\nAvvertenze:\nSi invitano i consumatori che avessero acquistato il prodotto appartenente al lotto indicato a non\nconsumarlo e a restituirlo al punto vendita per il rimborso o la sostituzione."
+  },
+  "prima_rilevazione": "2026-10-24T22:03:38+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:38+00:00"
+ },
+ "filetti-di-pesce-spada-allolio-doliva-200g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-pesce-spada-allolio-doliva-200g-0/",
+  "titolo": "FILETTI DI PESCE SPADA ALL'OLIO D'OLIVA 200g",
+  "data_pubblicazione": "2026-08-12",
+  "marca": "Sebastiano Drago",
+  "denominazione": "FILETTI DI PESCE SPADA ALL'OLIO D'OLIVA 200g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_Drago__1786554624.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello Richiamo_Drago__1786554624.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_Drago__1786554624.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "filetti-di-pesce-spada-allolio-doliva-200g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:03:19+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:19+00:00"
+ },
+ "flying-power-250ml-sugarfree": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/flying-power-250ml-sugarfree/",
+  "titolo": "Flying Power 250ml Sugarfree",
+  "data_pubblicazione": "2026-08-14",
+  "marca": "Flying Power",
+  "denominazione": "Flying Power 250ml Sugarfree",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20847770%20_%20Flying%20Power%20250ml%20Sugarfree_1786709301.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello _ 847770 _ Flying Power 250ml Sugarfree_1786709301.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20847770%20_%20Flying%20Power%20250ml%20Sugarfree_1786709301.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "flying-power-250ml-sugarfree",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Flying Power 250ml Sugarfree",
+   "operatore": "ALDI SRL",
+   "lotti": [
+    "323913"
+   ],
+   "produttore": "S. Spitz GmbH Gmundner Straße 27, 4800 Attnang-Puchheim, Austria",
+   "sede_stabilimento": "Date di scadenza o termine minimo di conservazione: 22/06/2027",
+   "peso_volume": "250ml",
+   "motivo_esteso": "Mancanza delle indicazioni in etichetta: «contiene aspartame (una fonte di fenilalanina)», indicazione richiesta per le persone affette da fenilchetonuria (PKU). Le persone con PKU non devono consumare il prodotto.",
+   "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+   "campi_extra": {
+    "Data": "12/08/2 026 Marchio del prodotto: Flying Power",
+    "Date di scadenza o termine minimo di conservazione": "22/06/2027",
+    "Mancanza delle indicazioni in etichetta": "«contiene aspartame (una fonte di fenilalanina)», indicazione richiesta"
+   },
+   "testo": "RICHIAMO\nData: 12/08/2 026 Marchio del prodotto: Flying Power\nDenominazione di vendita: Flying Power 250ml Sugarfree\nNome o ragione sociale dell’OSA ALDI SRL\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: 323913\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: S. Spitz GmbH\nGmundner Straße 27, 4800 Attnang-Puchheim, Austria\nSede dello stabilimento:\nDate di scadenza o termine minimo di conservazione: 22/06/2027\nDescrizione peso/volume unità di vendita: 250ml\nMotivo del richiamo:\nMancanza delle indicazioni in etichetta: «contiene aspartame (una fonte di fenilalanina)», indicazione richiesta\nper le persone affette da fenilchetonuria (PKU). Le persone con PKU non devono consumare il prodotto.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà\nrimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 045 6960590 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:11+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:11+00:00"
+ },
+ "formaggio-gorgonzola-dolce-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-gorgonzola-dolce-200g/",
+  "titolo": "Formaggio Gorgonzola Dolce 200g",
+  "data_pubblicazione": "2026-08-29",
+  "marca": "IDAL",
+  "denominazione": "Formaggio Gorgonzola Dolce 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20Richiamo%20_%20Gorgonzola%20200g%20IDAL_1788013614.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato 2 Richiamo _ Gorgonzola 200g IDAL_1788013614.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%202%20Richiamo%20_%20Gorgonzola%20200g%20IDAL_1788013614.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-gorgonzola-dolce-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Formaggio Gorgonzola Dolce 200g",
+   "operatore": "IDAL srl",
+   "lotti": [
+    "126G22"
+   ],
+   "marchio_identificazione": "IT T616G UE",
+   "produttore": "Granarolo SpA",
+   "sede_stabilimento": "Via dell’Industria n.26 – 28060 Casalino (NO)",
+   "scadenza": "05/09/26",
+   "peso_volume": "200g",
+   "motivo_esteso": "Potenziale rischio di presenza di Listeria monocytogenes.",
+   "avvertenze": "Il prodotto non deve essere consumato e può essere restituito al punto vendita di acquisto. Immagine 1 Immagine 2",
+   "campi_extra": {
+    "Data": "Marchio del prodotto: IDAL"
+   },
+   "testo": "RICHIAMO\nData: Marchio del prodotto: IDAL\n28/08/2026\nDenominazione di vendita:\nFormaggio Gorgonzola Dolce 200g\nNome o ragione sociale dell’OSA\na nome del quale il prodotto è IDAL srl\ncommercializzato:\nLotto di produzione: 126G22\nMarchio di identificazione dello stabilimento / del produttore: IT T616G UE\nNome del produttore: Granarolo SpA\nSede dello stabilimento: Via dell’Industria n.26 – 28060 Casalino (NO)\nData di scadenza o termine minimo di conservazione: 05/09/26\nDescrizione peso / volume unità di vendita: 200g\nMotivo del richiamo:\nPotenziale rischio di presenza di Listeria monocytogenes.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito al punto vendita di acquisto.\nImmagine 1 Immagine 2"
+  },
+  "prima_rilevazione": "2026-10-24T22:02:33+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:33+00:00"
+ },
+ "formaggio-nostrano-formazza": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-nostrano-formazza/",
+  "titolo": "FORMAGGIO NOSTRANO FORMAZZA",
+  "data_pubblicazione": "2026-08-31",
+  "marca": "Formazza",
+  "denominazione": "FORMAGGIO NOSTRANO FORMAZZA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_FORMAZZA_LOTTO_2428_1788168796.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO_RICHIAMO_FORMAZZA_LOTTO_2428_1788168796.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO_RICHIAMO_FORMAZZA_LOTTO_2428_1788168796.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-nostrano-formazza",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FORMAGGIO NOSTRANO FORMAZZA Nome o ragione sociale BERTOLINO S.R.L. dell'OSA a nome del quale il VIA DELLA TECNICA, 4 – 28844 VILLADOSSOLA (VB) prodotto è commercializzato",
+   "lotti": [
+    "12/04/26 – 14/04/26 – 15/04/26 – 18/04/26 LOTTO 2428"
+   ],
+   "marchio_identificazione": "IT 01 844",
+   "produttore": "FORMAZZA AGRICOLA - SOCIETA AGRICOLA COOPERATIVA",
+   "sede_stabilimento": "FRAZ. VALDO, 36 – FORMAZZA (VB)",
+   "scadenza": "VEDI ETICHETTA",
+   "peso_volume": "7,5/8 KG CIRCA",
+   "motivo_esteso": "PRESENZA DI ESCHERICHIA COLI STEC",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO. RICONSEGNARLO AL PUNTO VENDITA DOVE È STATO ACQUISTATO. Inserire immagine due",
+   "campi_extra": {
+    "Data": "27/08/2026 Marchio del prodotto: FORMAZZA"
+   },
+   "testo": "RICHIAMO\nData: 27/08/2026 Marchio del prodotto: FORMAZZA\nDenominazione di vendita: FORMAGGIO NOSTRANO FORMAZZA\nNome o ragione sociale BERTOLINO S.R.L.\ndell'OSA a nome del quale il VIA DELLA TECNICA, 4 – 28844 VILLADOSSOLA (VB)\nprodotto è\ncommercializzato:\nLotto di produzione: 12/04/26 – 14/04/26 – 15/04/26 – 18/04/26 LOTTO 2428\nMarchio di identificazione dello stabilimento/del produttore: IT 01 844\nNome del produttore: FORMAZZA AGRICOLA - SOCIETA AGRICOLA COOPERATIVA\nSede dello stabilimento: FRAZ. VALDO, 36 – FORMAZZA (VB)\nData di scadenza o termine minimo di conservazione VEDI ETICHETTA\nDescrizione peso/volume unità di vendita: 7,5/8 KG CIRCA\nMotivo del richiamo:\nPRESENZA DI ESCHERICHIA COLI STEC\nAvvertenze:\nNON CONSUMARE IL PRODOTTO.\nRICONSEGNARLO AL PUNTO VENDITA DOVE È STATO ACQUISTATO.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:02:27+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:27+00:00"
+ },
+ "gorgonzola-dolce-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dolce-200g/",
+  "titolo": "Gorgonzola Dolce 200g",
+  "data_pubblicazione": "2026-08-27",
+  "marca": "IDAL",
+  "denominazione": "Gorgonzola Dolce 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_200g_IDAL_1787832490.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_Gorgonzola_200g_IDAL_1787832490.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_200g_IDAL_1787832490.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gorgonzola-dolce-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Formaggio Gorgonzola Dolce 200g",
+   "operatore": "IDAL srl",
+   "lotti": [
+    "126G22"
+   ],
+   "marchio_identificazione": "IT T616G UE",
+   "produttore": "Granarolo SpA",
+   "sede_stabilimento": "Via dell’Industria n.26 – 28060 Casalino (NO)",
+   "scadenza": "05/09/26",
+   "peso_volume": "200g",
+   "motivo_esteso": "Potenziale rischio di presenza di Listeria monocytogenes.",
+   "avvertenze": "Il prodotto non deve essere consumato e può essere restituito al punto vendita di acquisto. Immagine 1 Immagine 2",
+   "campi_extra": {
+    "Data": "Marchio del prodotto: IDAL"
+   },
+   "testo": "RICHIAMO\nData: Marchio del prodotto: IDAL\n26/08/2026\nDenominazione di vendita:\nFormaggio Gorgonzola Dolce 200g\nNome o ragione sociale dell’OSA\na nome del quale il prodotto è IDAL srl\ncommercializzato:\nLotto di produzione: 126G22\nMarchio di identificazione dello stabilimento / del produttore: IT T616G UE\nNome del produttore: Granarolo SpA\nSede dello stabilimento: Via dell’Industria n.26 – 28060 Casalino (NO)\nData di scadenza o termine minimo di conservazione: 05/09/26\nDescrizione peso / volume unità di vendita: 200g\nMotivo del richiamo:\nPotenziale rischio di presenza di Listeria monocytogenes.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito al punto vendita di acquisto.\nImmagine 1 Immagine 2"
+  },
+  "prima_rilevazione": "2026-10-24T22:02:45+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:45+00:00"
+ },
+ "gorgonzola-dop-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-dop-200g/",
+  "titolo": "Gorgonzola DOP 200g",
+  "data_pubblicazione": "2026-08-27",
+  "marca": "TAPPOROSSO - Centrale del Latte di Torino",
+  "denominazione": "Gorgonzola DOP 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_TAPPOROSSO%20_%20Centrale%20del%20Latte%20di%20Torino_1787832494.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_Gorgonzola_TAPPOROSSO _ Centrale del Latte di Torino_1787832494.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Gorgonzola_TAPPOROSSO%20_%20Centrale%20del%20Latte%20di%20Torino_1787832494.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gorgonzola-dop-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gorgonzola DOP 200g",
+   "operatore": "Centrale del Latte d'Italia S.p.A.",
+   "lotti": [
+    "L126G22"
+   ],
+   "marchio_identificazione": "IT T616G UE",
+   "produttore": "GRANAROLO S.p.A.",
+   "sede_stabilimento": "via dell'Industria, 26 - 28060 Casalino (NO)",
+   "scadenza": "05/09/2026",
+   "peso_volume": "200g",
+   "motivo_esteso": "Possibile rischio microbiologico (potenziale rischio di presenza di Listeria Monocytogenes)",
+   "avvertenze": "Si prega di non consumare il prodotto e riconsegnarlo presso il punto vendita.",
+   "campi_extra": {
+    "Data": "25/08/2026 Marchio del prodotto: TAPPOROSSO - Centrale del Latte di Torino",
+    "commercializzato": "Centrale del Latte d'Italia S.p.A."
+   },
+   "testo": "RICHIAMO\nData: 25/08/2026 Marchio del prodotto: TAPPOROSSO - Centrale del Latte di Torino\nDenominazione di vendita: Gorgonzola DOP 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: Centrale del Latte d'Italia S.p.A.\nLotto di produzione: L126G22\nMarchio di identificazione dello stabilimento/del produttore: IT T616G UE\nNome del produttore: GRANAROLO S.p.A.\nSede dello stabilimento: via dell'Industria, 26 - 28060 Casalino (NO)\nData di scadenza o termine minimo di conservazione: 05/09/2026\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPossibile rischio microbiologico (potenziale rischio di presenza di Listeria Monocytogenes)\nAvvertenze:\nSi prega di non consumare il prodotto e riconsegnarlo presso il punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:02:49+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:49+00:00"
+ },
+ "hamburger-bovino-adulto-razza-marchigiana": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-bovino-adulto-razza-marchigiana/",
+  "titolo": "Hamburger bovino adulto razza Marchigiana",
+  "data_pubblicazione": "2026-08-06",
+  "marca": "JUBATTI BBQ",
+  "denominazione": "Hamburger bovino adulto razza Marchigiana",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Jubatti_1786017785.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Ministero _ Jubatti_1786017785.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Jubatti_1786017785.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hamburger-bovino-adulto-razza-marchigiana",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "HAMBURGER BOVINO ADULTO RAZZA MARCHIGIANA",
+   "operatore": "SOALCA S.r.l Località Cerrani 13/B 66010 Pretoro CH",
+   "lotti": [
+    "506091"
+   ],
+   "marchio_identificazione": "IT 1392/L UE",
+   "produttore": "SOALCA S.r.l.",
+   "sede_stabilimento": "Località Cerrani 13/B 66010 Pretoro CH",
+   "scadenza": "06 09/08/26",
+   "peso_volume": "180 g",
+   "motivo_esteso": "Possibile presenza di E.coli STEC",
+   "avvertenze": "Nonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta, si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "04/08/26 Marchio del prodotto: JUBATTI BBQ",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 04/08/26 Marchio del prodotto: JUBATTI BBQ\nDenominazione di vendita:HAMBURGER BOVINO ADULTO RAZZA MARCHIGIANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SOALCA S.r.l Località Cerrani 13/B 66010 Pretoro CH\ncommercializzato:\nLotto di produzione: 506091\nMarchio di identificazione dello stabilimento/del produttore: IT 1392/L UE\nNome del produttore: SOALCA S.r.l.\nSede dello stabilimento: Località Cerrani 13/B 66010 Pretoro CH\nData di scadenza o termine minimo di conservazione: 06 09/08/26\nDescrizione peso/volume unità di vendita: 180 g\nMotivo del richiamo:\nPossibile presenza di E.coli STEC\nAvvertenze:\nNonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta,\nsi invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:36+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:36+00:00"
+ },
+ "hamburger-con-marchigiana": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-con-marchigiana/",
+  "titolo": "Hamburger con Marchigiana",
+  "data_pubblicazione": "2026-08-06",
+  "marca": "Terre d'Italia",
+  "denominazione": "Hamburger con Marchigiana",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Terre%20d_Italia_1786017783.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Ministero _ Terre d_Italia_1786017783.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Ministero%20_%20Terre%20d_Italia_1786017783.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hamburger-con-marchigiana",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "HAMBURGER CON MARCHIGIANA",
+   "operatore": "GS S.p.A. Via Bisceglie 66 20152 Milano",
+   "lotti": [
+    "506091"
+   ],
+   "marchio_identificazione": "IT 1392/L UE",
+   "produttore": "SOALCA S.r.l.",
+   "sede_stabilimento": "Località Cerrani 13/B 66010 Pretoro CH",
+   "scadenza": "07 08/08/26",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Possibile presenza di E.coli STEC",
+   "avvertenze": "Nonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta, si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "04/08/26 Marchio del prodotto: TERRE D'ITALIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 04/08/26 Marchio del prodotto: TERRE D'ITALIA\nDenominazione di vendita:HAMBURGER CON MARCHIGIANA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GS S.p.A. Via Bisceglie 66 20152 Milano\ncommercializzato:\nLotto di produzione: 506091\nMarchio di identificazione dello stabilimento/del produttore: IT 1392/L UE\nNome del produttore: SOALCA S.r.l.\nSede dello stabilimento: Località Cerrani 13/B 66010 Pretoro CH\nData di scadenza o termine minimo di conservazione: 07 08/08/26\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPossibile presenza di E.coli STEC\nAvvertenze:\nNonostante il prodotto sia da consumarsi previa completa e accurata cottura, come riportato in etichetta,\nsi invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:33+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:33+00:00"
+ },
+ "insalata-di-riso-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-riso-3/",
+  "titolo": "Insalata di riso",
+  "data_pubblicazione": "2026-08-18",
+  "marca": "Insalate già pronte",
+  "denominazione": "Insalata di riso",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1787073042.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo_1787073042.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1787073042.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-riso-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Insalata di riso",
+   "operatore": "La sorgente srl",
+   "lotti": [
+    "26016"
+   ],
+   "marchio_identificazione": "IT358LCE",
+   "produttore": "La Sorgente SRL",
+   "sede_stabilimento": "Via Aldo Moro 6 - 20042 Pessano c/B (MI)",
+   "scadenza": "22-08-2026",
+   "peso_volume": "200 GRAMMI",
+   "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+   "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita",
+   "campi_extra": {
+    "Data": "17/08/2026 Marchio del prodotto: Insalate già pronte"
+   },
+   "testo": "RICHIAMO\nData: 17/08/2026 Marchio del prodotto: Insalate già pronte\nDenominazione di vendita:Insalata di riso\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è La sorgente srl\ncommercializzato:\nLotto di produzione: 26016\nMarchio di identificazione dello stabilimento/del produttore: IT358LCE\nNome del produttore: La Sorgente SRL\nSede dello stabilimento: Via Aldo Moro 6 - 20042 Pessano c/B (MI)\nData di scadenza o termine minimo di conservazione: 22-08-2026\nDescrizione peso/volume unità di vendita: 200 GRAMMI\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:03+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:03+00:00"
+ },
+ "kalanit-forte": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kalanit-forte/",
+  "titolo": "KALANIT FORTE",
+  "data_pubblicazione": "2026-08-07",
+  "marca": "KALANIT",
+  "denominazione": "KALANIT FORTE",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG0060602_2026_Modulo%20richiamo%20KALANIT%20FORTE%20BUSTE_05.08.26_1786095215.pdf",
+  "allegati": [
+   {
+    "titolo": "PG0060602_2026_Modulo richiamo KALANIT FORTE BUSTE_05.08.26_1786095215.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG0060602_2026_Modulo%20richiamo%20KALANIT%20FORTE%20BUSTE_05.08.26_1786095215.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kalanit-forte",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "05/08/2026 KALANIT\nKALANIT FORTE\nCHIESI ITALIA S.P.A.\nG5L214\nBiofarma Srl\nVia Gran Bretagna, 1 - Gallarate\n10/2027\n14 buste da 7500 mg\nRinvenimento di un corpo estraneo all'interno di una bustina monodose dell'integratore alimentare\n\"Kalanit Forte\".\nSi richiede di interrompere il consumo e la vendita del lotto oggetto del richiamo e di restituire\nl'inutilizzato al punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:03:27+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:27+00:00"
+ },
+ "lingue-di-pane": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lingue-di-pane/",
+  "titolo": "LINGUE DI PANE",
+  "data_pubblicazione": "2026-08-13",
+  "marca": "PAN DEI MASSI",
+  "denominazione": "LINGUE DI PANE",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LINGUE_DI_PANE_1786622905.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_LINGUE_DI_PANE_1786622905.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_LINGUE_DI_PANE_1786622905.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "lingue-di-pane",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "LINGUE DI PANE",
+   "operatore": "GIOVANNI CANE SRL",
+   "lotti": [
+    "30.11.26"
+   ],
+   "marchio_identificazione": "PAN DEI MASSI - FORNERIA PIEMONTESE",
+   "produttore": "GIOVANNI CANE SRL",
+   "sede_stabilimento": "ALESSANDRIA - VIA SCAZZOLA 72",
+   "scadenza": "30.11.26",
+   "peso_volume": "180g",
+   "motivo_esteso": "CORPO ESTRANEO (AGO METALLICO DA CUCITO)",
+   "avvertenze": "NON CONSUMARE E RICONSEGNARE IL PRODOTTO AL PUNTO DI VENDITA PER LA RICONSEGNA AL PRODUTTORE. la fotografia non rappresenta il lotto oggetto del richiamo. Inserire immagine uno: Inserire immagine due: 12/08/2026",
+   "campi_extra": {
+    "Data": "12/08/2026 Marchio del prodotto: PAN DEI MASSI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 12/08/2026 Marchio del prodotto: PAN DEI MASSI\nDenominazione di vendita:LINGUE DI PANE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GIOVANNI CANE SRL\ncommercializzato:\nLotto di produzione: 30.11.26\nMarchio di identificazione dello stabilimento/del produttore: PAN DEI MASSI - FORNERIA PIEMONTESE\nNome del produttore: GIOVANNI CANE SRL\nSede dello stabilimento: ALESSANDRIA - VIA SCAZZOLA 72\nData di scadenza o termine minimo di conservazione: 30.11.26\nDescrizione peso/volume unità di vendita: 180g\nMotivo del richiamo:\nCORPO ESTRANEO (AGO METALLICO DA CUCITO)\nAvvertenze:\nNON CONSUMARE E RICONSEGNARE IL PRODOTTO AL PUNTO DI VENDITA PER LA RICONSEGNA AL\nPRODUTTORE.\nla fotografia non rappresenta\nil lotto oggetto del richiamo.\nInserire immagine uno: Inserire immagine due:\n12/08/2026"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:14+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:14+00:00"
+ },
+ "mdh-funugreek-leaves-kasuri-methi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mdh-funugreek-leaves-kasuri-methi/",
+  "titolo": "MDH FUNUGREEK LEAVES (KASURI METHI)",
+  "data_pubblicazione": "2026-08-14",
+  "marca": "MDH",
+  "denominazione": "MDH FUNUGREEK LEAVES (KASURI METHI)",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1786700413.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO DI RICHIAMO_1786700413.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO_1786700413.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mdh-funugreek-leaves-kasuri-methi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "MDH FENUGREEK LEAVES (KASURI METHI) 6X100g",
+   "operatore": "FRESH TROPICAL SRL BY JAWAD",
+   "lotti": [
+    "30/11/2026 LOT312"
+   ],
+   "marchio_identificazione": "MDH",
+   "produttore": "MAHASHIAN DI HATTI PVT LTD INDIA",
+   "sede_stabilimento": "INDIA",
+   "scadenza": "30-11-2026",
+   "peso_volume": "SCATOLA DA 100g",
+   "motivo_esteso": "PRESENZA DI PESTICIDI OLTRE IL LIMITE DI LEGGE PRESENCE OF PESTICIDE ABROVE THE LEGAL LIMIT (Tiametoxam)",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO E RENDERLO INDIETRO AL NEGOZIANTE DO NOT CONSUME THE PRODUCT AND RETURN IT TO THE RETAILER",
+   "campi_extra": {
+    "Data": "12/08/2026 Marchio del prodotto: MDH"
+   },
+   "testo": "RICHIAMO\nData: 12/08/2026 Marchio del prodotto: MDH\nDenominazione di vendita:MDH FENUGREEK LEAVES (KASURI METHI) 6X100g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESH TROPICAL SRL BY JAWAD\ncommercializzato:\nLotto di produzione: 30/11/2026 LOT312\nMarchio di identificazione dello stabilimento/del produttore: MDH\nNome del produttore: MAHASHIAN DI HATTI PVT LTD INDIA\nSede dello stabilimento: INDIA\nData di scadenza o termine minimo di conservazione: 30-11-2026\nDescrizione peso/volume unità di vendita: SCATOLA DA 100g\nMotivo del richiamo:\nPRESENZA DI PESTICIDI OLTRE IL LIMITE DI LEGGE\nPRESENCE OF PESTICIDE ABROVE THE LEGAL LIMIT\n(Tiametoxam)\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RENDERLO INDIETRO AL NEGOZIANTE\nDO NOT CONSUME THE PRODUCT AND RETURN IT TO THE RETAILER"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:08+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:08+00:00"
+ },
+ "mortadella-nostrale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-nostrale/",
+  "titolo": "Mortadella Nostrale",
+  "data_pubblicazione": "2026-08-05",
+  "marca": "Salumificio Pignone Mortadella Nostrale",
+  "denominazione": "Mortadella Nostrale",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20NOSTRALE%20PIGNONE_1785941128.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO MORTADELLA NOSTRALE PIGNONE_1785941128.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20NOSTRALE%20PIGNONE_1785941128.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-nostrale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:03:52+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:52+00:00"
+ },
+ "pesto-pakino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-pakino/",
+  "titolo": "PESTO PAKINO",
+  "data_pubblicazione": "2026-08-07",
+  "marca": "MUSEUM",
+  "denominazione": "PESTO PAKINO",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO2_1786113242.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO2_1786113242.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO2_1786113242.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-pakino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:03:29+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:29+00:00"
+ },
+ "pop-corn": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn/",
+  "titolo": "Pop corn",
+  "data_pubblicazione": "2026-08-07",
+  "marca": "Snack Day",
+  "denominazione": "Pop corn",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20LIDL_1786128315.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo LIDL_1786128315.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20LIDL_1786128315.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pop-corn",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "EAN": "4335619450998"
+   },
+   "testo": "06/08/2026 Snack Day\nPop corn\nLidl Italia\n26269\n-\nPreziosi Food\nNuova ZI ASI, San Nicola di Melfi (PZ)\n16/12/26\n120 g\nLivello di alcaloidi tropanici (somma di atropina e scopolamina) oltre i limiti di legge\nEAN: 4335619450998\nSi invitano i clienti a non consumare il prodotto e restituirlo al punto vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:03:31+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:31+00:00"
+ },
+ "pop-corn-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-0/",
+  "titolo": "POP CORN",
+  "data_pubblicazione": "2026-08-08",
+  "marca": "SALATI PREZIOSI",
+  "denominazione": "POP CORN",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Pop%20Corn_1786215096.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo Pop Corn_1786215096.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Pop%20Corn_1786215096.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pop-corn-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:03:24+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:24+00:00"
+ },
+ "pop-corn-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pop-corn-1/",
+  "titolo": "Pop corn",
+  "data_pubblicazione": "2026-08-11",
+  "marca": "Mambo Kids",
+  "denominazione": "Pop corn",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_2026.08.10_PopCorn120g_PREZIOSIFOOD1_1786441200.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello_2026.08.10_PopCorn120g_PREZIOSIFOOD1_1786441200.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_2026.08.10_PopCorn120g_PREZIOSIFOOD1_1786441200.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pop-corn-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:22+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:22+00:00"
+ },
+ "preparato-torte-senza-glutine-400-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-torte-senza-glutine-400-g/",
+  "titolo": "Preparato per torte senza glutine 400 g",
+  "data_pubblicazione": "2026-08-21",
+  "marca": "Amo Essere Senza Glutine",
+  "denominazione": "Preparato per torte senza glutine 400 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026.08.19%20_%20Preparato%20per%20torte%20400g%20_%20MOLINO%20ROSSETTO_1787314100.pdf",
+  "allegati": [
+   {
+    "titolo": "2026.08.19 _ Preparato per torte 400g _ MOLINO ROSSETTO_1787314100.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2026.08.19%20_%20Preparato%20per%20torte%20400g%20_%20MOLINO%20ROSSETTO_1787314100.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "preparato-torte-senza-glutine-400-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:02:57+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:57+00:00"
+ },
+ "salame-galbanetto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-galbanetto/",
+  "titolo": "Salame Galbanetto",
+  "data_pubblicazione": "2026-08-29",
+  "marca": "Galbani",
+  "denominazione": "Salame Galbanetto",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_%20richiamo_TMC_%2023_24.10.2026_1788013508.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_ richiamo_TMC_ 23_24.10.2026_1788013508.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_%20richiamo_TMC_%2023_24.10.2026_1788013508.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-galbanetto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:02:30+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:30+00:00"
+ },
+ "salumificio-pignone-mortadella-nostrale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salumificio-pignone-mortadella-nostrale/",
+  "titolo": "Salumificio Pignone mortadella nostrale",
+  "data_pubblicazione": "2026-08-05",
+  "marca": "Salumificio Pignone",
+  "denominazione": "Salumificio Pignone mortadella nostrale",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20mortadella%20Pignone_1785940893.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo mortadella Pignone_1785940893.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20mortadella%20Pignone_1785940893.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salumificio-pignone-mortadella-nostrale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:03:48+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:48+00:00"
+ },
+ "shinzui-ramen-miso-ramen": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-miso-ramen/",
+  "titolo": "Shinzui Ramen - Miso Ramen",
+  "data_pubblicazione": "2026-08-04",
+  "marca": "Shinzui Ramen",
+  "denominazione": "Shinzui Ramen - Miso Ramen",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Miso%20Ramen_1785845303.pdf",
+  "allegati": [
+   {
+    "titolo": "Shinzui Ramen _ Miso Ramen_1785845303.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Miso%20Ramen_1785845303.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "shinzui-ramen-miso-ramen",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Miso Ramen",
+   "operatore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "lotti": [
+    "260212MIS"
+   ],
+   "marchio_identificazione": "//",
+   "produttore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "sede_stabilimento": "Via Achille Grandi 4/6 20068 Peschiera Borromeo",
+   "scadenza": "11-02-2027",
+   "motivo_esteso": "Stabilimento non autorizzato. La data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e scadenza tenere in considerazione quanto sopra riportato. Immagini ai fini identificativi.",
+   "avvertenze": "Non consumare e riportare al punto di vendita.",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: SHINZUI RAMEN"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: SHINZUI RAMEN\nDenominazione di vendita:Miso Ramen\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SHINZUI RAMEN di Toyama Melgar Jose Miguel\ncommercializzato:\nLotto di produzione: 260212MIS\nMarchio di identificazione dello stabilimento/del produttore: //\nNome del produttore: SHINZUI RAMEN di Toyama Melgar Jose Miguel\nSede dello stabilimento:Via Achille Grandi 4/6 20068 Peschiera Borromeo\nData di scadenza o termine minimo di conservazione: 11-02-2027\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nStabilimento non autorizzato.\nLa data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e\nscadenza tenere in considerazione quanto sopra riportato. Immagini ai fini identificativi.\nAvvertenze:\nNon consumare e riportare al punto di vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:03:55+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:55+00:00"
+ },
+ "shinzui-ramen-miso-ramen-piccante": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-miso-ramen-piccante/",
+  "titolo": "Shinzui Ramen - Miso Ramen piccante",
+  "data_pubblicazione": "2026-08-04",
+  "marca": "Shinzui Ramen",
+  "denominazione": "Shinzui Ramen - Miso Ramen piccante",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Miso%20Ramen%20piccante_1785845306.pdf",
+  "allegati": [
+   {
+    "titolo": "Shinzui Ramen _ Miso Ramen piccante_1785845306.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Miso%20Ramen%20piccante_1785845306.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "shinzui-ramen-miso-ramen-piccante",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Miso Piccante Ramen",
+   "operatore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "lotti": [
+    "260217MIPS"
+   ],
+   "marchio_identificazione": "//",
+   "produttore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "sede_stabilimento": "Via Achille Grandi 4/6 20068 Peschiera Borromeo",
+   "scadenza": "16-02-2027",
+   "motivo_esteso": "Stabilimento non autorizzato. La data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e scadenza tenere in considerazione quanto sopra riportato. Immagini ai fini identificativi.",
+   "avvertenze": "Non consumare e riportare al punto di vendita.",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: SHINZUI RAMEN"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: SHINZUI RAMEN\nDenominazione di vendita: Miso Piccante Ramen\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SHINZUI RAMEN di Toyama Melgar Jose Miguel\ncommercializzato:\nLotto di produzione: 260217MIPS\nMarchio di identificazione dello stabilimento/del produttore: //\nNome del produttore: SHINZUI RAMEN di Toyama Melgar Jose Miguel\nSede dello stabilimento:Via Achille Grandi 4/6 20068 Peschiera Borromeo\nData di scadenza o termine minimo di conservazione: 16-02-2027\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nStabilimento non autorizzato.\nLa data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e\nscadenza tenere in considerazione quanto sopra riportato. Immagini ai fini identificativi.\nAvvertenze:\nNon consumare e riportare al punto di vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:03:58+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:58+00:00"
+ },
+ "shinzui-ramen-shoyu-ramen": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-shoyu-ramen/",
+  "titolo": "Shinzui Ramen - Shoyu Ramen",
+  "data_pubblicazione": "2026-08-04",
+  "marca": "Shinzui Ramen",
+  "denominazione": "Shinzui Ramen - Shoyu Ramen",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Shoyu%20Ramen_1785845308.pdf",
+  "allegati": [
+   {
+    "titolo": "Shinzui Ramen _ Shoyu Ramen_1785845308.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Shoyu%20Ramen_1785845308.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "shinzui-ramen-shoyu-ramen",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Shoyu Ramen",
+   "operatore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "lotti": [
+    "2602138H08 - 260217MIPS"
+   ],
+   "marchio_identificazione": "//",
+   "produttore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "sede_stabilimento": "Via Achille Grandi 4/6 20068 Peschiera Borromeo",
+   "scadenza": "12-02-2027",
+   "motivo_esteso": "Stabilimento non autorizzato. La data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e scadenza tenere in considerazione quanto sopra riportato. (lotto 260217MIPS = 16/02/2027). Immagini ai fini identificativi.",
+   "avvertenze": "Non consumare e riportare al punto di vendita.",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: SHINZUI RAMEN"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: SHINZUI RAMEN\nDenominazione di vendita:Shoyu Ramen\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SHINZUI RAMEN di Toyama Melgar Jose Miguel\ncommercializzato:\nLotto di produzione: 2602138H08 - 260217MIPS\nMarchio di identificazione dello stabilimento/del produttore: //\nNome del produttore: SHINZUI RAMEN di Toyama Melgar Jose Miguel\nSede dello stabilimento:Via Achille Grandi 4/6 20068 Peschiera Borromeo\nData di scadenza o termine minimo di conservazione: 12-02-2027\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nStabilimento non autorizzato.\nLa data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e\nscadenza tenere in considerazione quanto sopra riportato. (lotto 260217MIPS = 16/02/2027).\nImmagini ai fini identificativi.\nAvvertenze:\nNon consumare e riportare al punto di vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:04:01+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:01+00:00"
+ },
+ "shinzui-ramen-tantan-ramen": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-tantan-ramen/",
+  "titolo": "Shinzui Ramen - Tantan Ramen",
+  "data_pubblicazione": "2026-08-04",
+  "marca": "Shinzui Ramen",
+  "denominazione": "Shinzui Ramen - Tantan Ramen",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tantan%20Ramen_1785845309.pdf",
+  "allegati": [
+   {
+    "titolo": "Shinzui Ramen _ Tantan Ramen_1785845309.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tantan%20Ramen_1785845309.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "shinzui-ramen-tantan-ramen",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tantan Ramen",
+   "operatore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "lotti": [
+    "260216TANS"
+   ],
+   "marchio_identificazione": "//",
+   "produttore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "sede_stabilimento": "Via Achille Grandi 4/6 20068 Peschiera Borromeo",
+   "scadenza": "15-02-2027",
+   "motivo_esteso": "Stabilimento non autorizzato. La data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e scadenza tenere in considerazione quanto sopra riportato. Immagini ai fini identificativi.",
+   "avvertenze": "Non consumare e riportare al punto di vendita.",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: SHINZUI RAMEN"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: SHINZUI RAMEN\nDenominazione di vendita:Tantan Ramen\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SHINZUI RAMEN di Toyama Melgar Jose Miguel\ncommercializzato:\nLotto di produzione: 260216TANS\nMarchio di identificazione dello stabilimento/del produttore: //\nNome del produttore: SHINZUI RAMEN di Toyama Melgar Jose Miguel\nSede dello stabilimento:Via Achille Grandi 4/6 20068 Peschiera Borromeo\nData di scadenza o termine minimo di conservazione: 15-02-2027\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nStabilimento non autorizzato.\nLa data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e\nscadenza tenere in considerazione quanto sopra riportato. Immagini ai fini identificativi.\nAvvertenze:\nNon consumare e riportare al punto di vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:04:04+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:04+00:00"
+ },
+ "shinzui-ramen-tonkotsu-ramen": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/shinzui-ramen-tonkotsu-ramen/",
+  "titolo": "Shinzui Ramen - Tonkotsu Ramen",
+  "data_pubblicazione": "2026-08-04",
+  "marca": "Shinzui Ramen",
+  "denominazione": "Shinzui Ramen - Tonkotsu Ramen",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tonkotsu%20Ramen_1785845311.pdf",
+  "allegati": [
+   {
+    "titolo": "Shinzui Ramen _ Tonkotsu Ramen_1785845311.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Shinzui%20Ramen%20_%20Tonkotsu%20Ramen_1785845311.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "shinzui-ramen-tonkotsu-ramen",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tonkotsu Ramen",
+   "operatore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "lotti": [
+    "260211TONS - 260217MIPS"
+   ],
+   "marchio_identificazione": "//",
+   "produttore": "SHINZUI RAMEN di Toyama Melgar Jose Miguel",
+   "sede_stabilimento": "Via Achille Grandi 4/6 20068 Peschiera Borromeo",
+   "scadenza": "10-02-2027",
+   "motivo_esteso": "Stabilimento non autorizzato. La data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e scadenza tenere in considerazione quanto sopra riportato. (lotto 260217MIPS = 16/02/2027). Immagini ai fini identificativi.",
+   "avvertenze": "Non consumare e riportare al punto di vendita.",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: SHINZUI RAMEN"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: SHINZUI RAMEN\nDenominazione di vendita:Tonkotsu Ramen\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SHINZUI RAMEN di Toyama Melgar Jose Miguel\ncommercializzato:\nLotto di produzione: 260211TONS - 260217MIPS\nMarchio di identificazione dello stabilimento/del produttore: //\nNome del produttore: SHINZUI RAMEN di Toyama Melgar Jose Miguel\nSede dello stabilimento:Via Achille Grandi 4/6 20068 Peschiera Borromeo\nData di scadenza o termine minimo di conservazione: 10-02-2027\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nStabilimento non autorizzato.\nLa data del presente modulo fa riferimento alla prima lista di distribuzione del prodotto. Per lotto e\nscadenza tenere in considerazione quanto sopra riportato. (lotto 260217MIPS = 16/02/2027).\nImmagini ai fini identificativi.\nAvvertenze:\nNon consumare e riportare al punto di vendita."
+  },
+  "prima_rilevazione": "2026-10-24T22:04:07+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:07+00:00"
+ },
+ "trancia-di-verdesca-iwp": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trancia-di-verdesca-iwp/",
+  "titolo": "trancia di verdesca iwp",
+  "data_pubblicazione": "2026-08-28",
+  "marca": "noriberica s.a.",
+  "denominazione": "trancia di verdesca iwp",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Happy%20gelo%201_1787943175.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Happy gelo 1_1787943175.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Happy%20gelo%201_1787943175.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "trancia-di-verdesca-iwp",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "trancia di verdesca iwp",
+   "operatore": "Happy gelo s.r.l.",
+   "lotti": [
+    "p26-124-51"
+   ],
+   "marchio_identificazione": "es 12.099051",
+   "produttore": "noriberica s.a.",
+   "sede_stabilimento": "Vigo -Spagna",
+   "scadenza": "09-2027",
+   "peso_volume": "5 kg.",
+   "motivo_esteso": "superamento limiti di mercurio",
+   "avvertenze": "Si raccomanda di non consumare il prodotto e di riportarlo al punto vendita",
+   "campi_extra": {
+    "Data": "21-08-2026 Marchio del prodotto: noriberica s.a."
+   },
+   "testo": "RICHIAMO\nData: 21-08-2026 Marchio del prodotto: noriberica s.a.\nDenominazione di vendita:trancia di verdesca iwp\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Happy gelo s.r.l.\ncommercializzato:\nLotto di produzione: p26-124-51\nMarchio di identificazione dello stabilimento/del produttore: es 12.099051\nNome del produttore: noriberica s.a.\nSede dello stabilimento: Vigo -Spagna\nData di scadenza o termine minimo di conservazione: 09-2027\nDescrizione peso/volume unità di vendita: 5 kg.\nMotivo del richiamo:\nsuperamento limiti di mercurio\nAvvertenze:\nSi raccomanda di non consumare il prodotto e di riportarlo al punto vendita"
+  },
+  "prima_rilevazione": "2026-10-24T22:02:43+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:43+00:00"
+ },
+ "tubo-piccolo-peperoncino-amando-165-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tubo-piccolo-peperoncino-amando-165-gr/",
+  "titolo": "TUBO PICCOLO PEPERONCINO AMANDO 165 GR",
+  "data_pubblicazione": "2026-08-28",
+  "marca": "MONTOSCO",
+  "denominazione": "TUBO PICCOLO PEPERONCINO AMANDO 165 GR",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20_2__1787928034.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo _2__1787928034.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20_2__1787928034.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tubo-piccolo-peperoncino-amando-165-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:02:36+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:02:36+00:00"
+ },
+ "uova-aia-aperto-220g-24cf-x4-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-220g-24cf-x4-0/",
+  "titolo": "UOVA AIA APERTO 220G 24CF X4",
+  "data_pubblicazione": "2026-08-06",
+  "marca": "AIA",
+  "denominazione": "UOVA AIA APERTO 220G 24CF X4",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20UOVA%20AIA%20APERTO%20220G%2024CF%20X4%20_1__1786029761.pdf",
+  "allegati": [
+   {
+    "titolo": "REVOCA _ UOVA AIA APERTO 220G 24CF X4 _1__1786029761.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20UOVA%20AIA%20APERTO%20220G%2024CF%20X4%20_1__1786029761.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-aia-aperto-220g-24cf-x4-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA AIA APERTO 220G 24CF X4",
+   "operatore": "A.I.A. S.p.A.",
+   "lotti": [
+    "1IT040VR006"
+   ],
+   "marchio_identificazione": "IT Q8C3N",
+   "produttore": "Agricola Tre Valli Soc.Coop.",
+   "sede_stabilimento": "Via Aeroporto 18 37060 Caselle di Sommacampagna",
+   "scadenza": "04/08/2026",
+   "peso_volume": "confezione 4 pezzi peso 220 g",
+   "motivo_esteso": "Rischio microbiologico salmonella enteritidis",
+   "avvertenze": "Il singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza 04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita per la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232",
+   "campi_extra": {
+    "Data": "23/07/2026 Marchio del prodotto: AIA"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 23/07/2026 Marchio del prodotto: AIA\nDenominazione di vendita: UOVA AIA APERTO 220G 24CF X4\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.I.A. S.p.A.\ncommercializzato:\nLotto di produzione: 1IT040VR006\nMarchio di identificazione dello stabilimento/del produttore: IT Q8C3N\nNome del produttore: Agricola Tre Valli Soc.Coop.\nSede dello stabilimento: Via Aeroporto 18 37060 Caselle di Sommacampagna\nData di scadenza o termine minimo di conservazione: 04/08/2026\nDescrizione peso/volume unità di vendita: confezione 4 pezzi peso 220 g\nMotivo del richiamo:\nRischio microbiologico salmonella enteritidis\nAvvertenze:\nIl singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza\n04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita\nper la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:45+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:45+00:00"
+ },
+ "uova-aia-aperto-330g-16cf-x6-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-aia-aperto-330g-16cf-x6-0/",
+  "titolo": "UOVA AIA APERTO 330G 16CF X6",
+  "data_pubblicazione": "2026-08-06",
+  "marca": "AIA",
+  "denominazione": "UOVA AIA APERTO 330G 16CF X6",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20%20UOVA%20AIA%20APERTO%20330G%2016CF%20X6%20_1__1786029664.pdf",
+  "allegati": [
+   {
+    "titolo": "REVOCA _  UOVA AIA APERTO 330G 16CF X6 _1__1786029664.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/REVOCA%20_%20%20UOVA%20AIA%20APERTO%20330G%2016CF%20X6%20_1__1786029664.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-aia-aperto-330g-16cf-x6-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA AIA APERTO 330G 16CF X6",
+   "operatore": "A.I.A. S.p.A.",
+   "lotti": [
+    "1IT040VR006"
+   ],
+   "marchio_identificazione": "IT Q8C3N",
+   "produttore": "Agricola Tre Valli Soc.Coop.",
+   "sede_stabilimento": "Via Aeroporto 18 37060 Caselle di Sommacampagna",
+   "scadenza": "04/08/2026",
+   "peso_volume": "confezione 6 pezzi peso 330 g",
+   "motivo_esteso": "Rischio microbiologico salmonella enteritidis",
+   "avvertenze": "Il singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza 04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita per la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232",
+   "campi_extra": {
+    "Data": "23/07/2026 Marchio del prodotto: AIA"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 23/07/2026 Marchio del prodotto: AIA\nDenominazione di vendita: UOVA AIA APERTO 330G 16CF X6\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è A.I.A. S.p.A.\ncommercializzato:\nLotto di produzione: 1IT040VR006\nMarchio di identificazione dello stabilimento/del produttore: IT Q8C3N\nNome del produttore: Agricola Tre Valli Soc.Coop.\nSede dello stabilimento: Via Aeroporto 18 37060 Caselle di Sommacampagna\nData di scadenza o termine minimo di conservazione: 04/08/2026\nDescrizione peso/volume unità di vendita: confezione 6 pezzi peso 330 g\nMotivo del richiamo:\nRischio microbiologico salmonella enteritidis\nAvvertenze:\nIl singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza\n04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita\nper la sostituzione. Per ulteriori informazioni potete contattare il numero verde: 800 905 232"
+  },
+  "prima_rilevazione": "2026-10-24T22:03:40+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:03:40+00:00"
+ },
+ "uova-allaperto-m-delizie-dsole-16cfx6": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-allaperto-m-delizie-dsole-16cfx6/",
+  "titolo": "UOVA ALL.APERTO M DELIZIE D/SOLE 16CFX6",
+  "data_pubblicazione": "2026-08-03",
+  "marca": "Delizie del Sole",
+  "denominazione": "UOVA ALL.APERTO M DELIZIE D/SOLE 16CFX6",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20_%20cartello%20ministeriale%20Eurospin%20Italia%20S.p.A._1785750020.pdf",
+  "allegati": [
+   {
+    "titolo": "1 _ cartello ministeriale Eurospin Italia S.p.A._1785750020.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1%20_%20cartello%20ministeriale%20Eurospin%20Italia%20S.p.A._1785750020.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-allaperto-m-delizie-dsole-16cfx6",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA ALL.APERTO M DELIZIE D/SOLE 16CF X6",
+   "operatore": "EUROSPIN ITALIA S.p.A.",
+   "lotti": [
+    "1IT040VR006"
+   ],
+   "marchio_identificazione": "IT Q8C3N",
+   "produttore": "Agricola Tre Valli Soc.Coop.",
+   "sede_stabilimento": "Via Aeroporto 18 37060 Caselle di Sommacampagna",
+   "scadenza": "04/08/2026",
+   "peso_volume": "confezione 6 pezzi peso 348 g",
+   "motivo_esteso": "Rischio microbiologico salmonella enteritidis",
+   "avvertenze": "Il singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza 04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita per la sostituzione.",
+   "campi_extra": {
+    "Data": "23/07/2026 Marchio del prodotto: DELIZIE DEL SOLE"
+   },
+   "testo": "RICHIAMO\nData: 23/07/2026 Marchio del prodotto: DELIZIE DEL SOLE\nDenominazione di vendita: UOVA ALL.APERTO M DELIZIE D/SOLE 16CF X6\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPIN ITALIA S.p.A.\ncommercializzato:\nLotto di produzione: 1IT040VR006\nMarchio di identificazione dello stabilimento/del produttore: IT Q8C3N\nNome del produttore: Agricola Tre Valli Soc.Coop.\nSede dello stabilimento: Via Aeroporto 18 37060 Caselle di Sommacampagna\nData di scadenza o termine minimo di conservazione: 04/08/2026\nDescrizione peso/volume unità di vendita: confezione 6 pezzi peso 348 g\nMotivo del richiamo:\nRischio microbiologico salmonella enteritidis\nAvvertenze:\nIl singolo lotto di produzione coinvolto è identificabile con codice ISTAT 1IT040VR006 e scadenza\n04/08/2026. Tali informazioni sono presenti sul guscio dell'uovo. Riportare il prodotto al punto di vendita\nper la sostituzione."
+  },
+  "prima_rilevazione": "2026-10-24T22:04:10+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:04:10+00:00"
+ }
+}

@@ -1,0 +1,446 @@
+{
+ "broccoli-rosette-400-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/broccoli-rosette-400-gr/",
+  "titolo": "BROCCOLI ROSETTE 400 Gr.",
+  "data_pubblicazione": "2023-10-28",
+  "marca": "CUOR DI GELO",
+  "denominazione": "BROCCOLI ROSETTE 400 Gr.",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20RICHIAMO_BROCCOLI%20ROSETTE%20400GR_1761197531.PDF",
+  "allegati": [
+   {
+    "titolo": "MODULO MINISTERIALE RICHIAMO_BROCCOLI ROSETTE 400GR_1761197531.PDF",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20MINISTERIALE%20RICHIAMO_BROCCOLI%20ROSETTE%20400GR_1761197531.PDF"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "broccoli-rosette-400-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BROCCOLI ROSETTE 400GR",
+   "operatore": "CUOR DI GELO SRL",
+   "lotti": [
+    "231928"
+   ],
+   "marchio_identificazione": "IT2325",
+   "produttore": "CUOR DI GELO SRL",
+   "sede_stabilimento": "ZONA INDUSTRIALE ASI 81030 GRICIGNANO DI AVERSA (CE)",
+   "scadenza": "30/04/2025",
+   "peso_volume": "CONFEZIONI DA 400GR",
+   "motivo_esteso": "SOSPETTA PRESENZA DI ALCALOIDI DEL TROPANO",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO QUALORA LA CONFEZIONE RECASSE IL LOTTO INDICATO",
+   "campi_extra": {
+    "Dat 27/10/2023 Marchio del prodotto": "CUOR DI GELO SRL"
+   },
+   "testo": "RICHIAMO\nDat 27/10/2023 Marchio del prodotto: CUOR DI GELO SRL\nDenominazione di vendita: BROCCOLI ROSETTE 400GR\nNome o ragione sociale dell'OSA CUOR DI GELO SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 231928\nMarchio di identificazione dello stabilimento/del produttore: IT2325\nNome del produttore: CUOR DI GELO SRL\nSede dello stabilimento ZONA INDUSTRIALE ASI 81030 GRICIGNANO DI AVERSA (CE)\nData di scadenza o termine minimo di conservazione 30/04/2025\nDescrizione peso/volume unità di vendita: CONFEZIONI DA 400GR\nMotivo del richiamo:\nSOSPETTA PRESENZA DI ALCALOIDI DEL TROPANO\nAvvertenze:\nNON CONSUMARE IL PRODOTTO QUALORA LA CONFEZIONE RECASSE IL LOTTO INDICATO"
+  },
+  "prima_rilevazione": "2026-10-25T07:22:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:22:50+00:00"
+ },
+ "condimento-insalata-di-pasta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condimento-insalata-di-pasta/",
+  "titolo": "CONDIMENTO PER INSALATA DI PASTA",
+  "data_pubblicazione": "2023-10-03",
+  "marca": "coop",
+  "denominazione": "CONDIMENTO PER INSALATA DI PASTA",
+  "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tafuro_Coop_Richiamo%20prodotto_1761197500.pdf",
+  "allegati": [
+   {
+    "titolo": "Tafuro_Coop_Richiamo prodotto_1761197500.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tafuro_Coop_Richiamo%20prodotto_1761197500.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "condimento-insalata-di-pasta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CONDIMENTO PER INSALATA DI PASTA",
+   "operatore": "COOP",
+   "lotti": [
+    "TF224 MFE173 / TF224 MFE177"
+   ],
+   "produttore": "FRATELLI TAFURO S.R.L",
+   "sede_stabilimento": "STARDA STATALE 18 KM 82.700 EBOLI (SA)",
+   "scadenza": "31/08/2025",
+   "peso_volume": "285 g netto",
+   "motivo_esteso": "POSSIBILE PRESENZA DI FRAMMENTI DI VETRO",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO",
+   "campi_extra": {
+    "Data": "25/08/2023 Marchio del prodotto: COOP"
+   },
+   "testo": "RICHIAMO\nData: 25/08/2023 Marchio del prodotto: COOP\nDenominazione di vendita: CONDIMENTO PER INSALATA DI PASTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP\ncommercializzato:\nLotto di produzione: TF224 MFE173 / TF224 MFE177\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: FRATELLI TAFURO S.R.L\nSede dello stabilimento: STARDA STATALE 18 KM 82.700 EBOLI (SA)\nData di scadenza o termine minimo di conservazione: 31/08/2025\nDescrizione peso/volume unità di vendita: 285 g netto\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI FRAMMENTI DI VETRO\nAvvertenze:\nNON CONSUMARE IL PRODOTTO"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:35+00:00"
+ },
+ "condimento-insalate-di-pasta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condimento-insalate-di-pasta/",
+  "titolo": "CONDIMENTO PER INSALATE DI PASTA",
+  "data_pubblicazione": "2023-10-05",
+  "marca": "COOP",
+  "denominazione": "CONDIMENTO PER INSALATE DI PASTA",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coop%20cartello%20richiamo_1761197507.pdf",
+  "allegati": [
+   {
+    "titolo": "Coop cartello richiamo_1761197507.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Coop%20cartello%20richiamo_1761197507.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "condimento-insalate-di-pasta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:23:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:28+00:00"
+ },
+ "formaggio-saporito-delle-valli": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-saporito-delle-valli/",
+  "titolo": "FORMAGGIO SAPORITO DELLE VALLI",
+  "data_pubblicazione": "2023-10-09",
+  "marca": "LATTERIA SOC DI CIVIDALE E VALLI DEL NATISONE SCA",
+  "denominazione": "FORMAGGIO SAPORITO DELLE VALLI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO%20Saporito%20delle%20Valli%20lotto%2003%2007%202023_1761197515.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO RITIRO Saporito delle Valli lotto 03 07 2023_1761197515.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RITIRO%20Saporito%20delle%20Valli%20lotto%2003%2007%202023_1761197515.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-saporito-delle-valli",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FORMAGGIO SAPORITO DELLA VALLI",
+   "operatore": "LATTERIA SOCIALE DI CIVIDALE E VALLI DEL NATISONE SCA",
+   "lotti": [
+    "03/07/2023"
+   ],
+   "marchio_identificazione": "IT 06 76 CE",
+   "produttore": "LATTERIA SOCIALE DI CIVIDALE E VALLI DEL NATISONE S.C.A.",
+   "sede_stabilimento": "VIA GORIZIA 17 - CIVIDALE DEL FRIULI (UD)",
+   "peso_volume": "FORME DI FORMAGGIO DA 6,5 KG CIRCA",
+   "motivo_esteso": "Sospetta presenza di Escherichia coli produttori di Shiga-tossina STEC sierogruppo O-157",
+   "avvertenze": "RESTITUIRE AL PRODUTTORE TUTTE LE FORME DI FORMAGGIO SAPORITO DELLE VALLI LOTTO 03/07/2023 ACQUISTATE PRESENTI IN MAGAZZINO. SE IL LOTTO DI FORMAGGIO 03/07/2023 E' GIA' STATO VENDUTO AL CONSUMATORE FINALE IL CONSUMATORE FINALE DOVRA' RIPORTARE IL FORMAGGIO LOTTO 03/07/2023 AL PUNTO VENDITA. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "06/10/23 Marchio del prodotto: LATTERIA SOC DI CIVIDALE E VALLI DEL NATISONE S.C.A.",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 06/10/23 Marchio del prodotto: LATTERIA SOC DI CIVIDALE E VALLI DEL NATISONE S.C.A.\nDenominazione di vendita:FORMAGGIO SAPORITO DELLA VALLI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LATTERIA SOCIALE DI CIVIDALE E VALLI DEL NATISONE SCA\ncommercializzato:\nLotto di produzione: 03/07/2023\nMarchio di identificazione dello stabilimento/del produttore: IT 06 76 CE\nNome del produttore: LATTERIA SOCIALE DI CIVIDALE E VALLI DEL NATISONE S.C.A.\nSede dello stabilimento: VIA GORIZIA 17 - CIVIDALE DEL FRIULI (UD)\nData di scadenza o termine minimo di conservazione: --\nDescrizione peso/volume unità di vendita: FORME DI FORMAGGIO DA 6,5 KG CIRCA\nMotivo del richiamo:\nSospetta presenza di Escherichia coli produttori di Shiga-tossina STEC sierogruppo O-157\nAvvertenze:\nRESTITUIRE AL PRODUTTORE TUTTE LE FORME DI FORMAGGIO SAPORITO DELLE VALLI LOTTO\n03/07/2023 ACQUISTATE PRESENTI IN MAGAZZINO.\nSE IL LOTTO DI FORMAGGIO 03/07/2023 E' GIA' STATO VENDUTO AL CONSUMATORE FINALE IL\nCONSUMATORE FINALE DOVRA' RIPORTARE IL FORMAGGIO LOTTO 03/07/2023 AL PUNTO VENDITA.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:19+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:19+00:00"
+ },
+ "hamburger-di-bovino-razza-chianina": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-bovino-razza-chianina/",
+  "titolo": "HAMBURGER DI BOVINO RAZZA CHIANINA",
+  "data_pubblicazione": "2023-10-03",
+  "marca": "Lidl Italia S.r.l",
+  "denominazione": "HAMBURGER DI BOVINO RAZZA CHIANINA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197502.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato 3 _ MODELLO_DI_RICHIAMO mod v2_1761197502.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197502.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "hamburger-di-bovino-razza-chianina",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n02/10/2023 ///\nHAMBURGER DI BOVINO RAZZA CHIANINA\nLidl Italia S.r.l\n549886\nIT 2533/S CE\nMarfisi Carni S.r.l\nC.da Paglieroni Zona ind.le, Treglio (CH)\n11/10/23, 12/10/23\n200g\nRilevata la presenza di E. coli STEC/VTEC\nNonostante il prodotto sia da consumarsi previa completa cottura, come riportato in etichetta, si invitano\ni consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:38+00:00"
+ },
+ "hamburgher-di-bovinorazza-chianina": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburgher-di-bovinorazza-chianina/",
+  "titolo": "HAMBURGHER DI BOVINORAZZA CHIANINA",
+  "data_pubblicazione": "2023-10-04",
+  "marca": "///",
+  "denominazione": "HAMBURGHER DI BOVINORAZZA CHIANINA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197504.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato 3 _ MODELLO_DI_RICHIAMO mod v2_1761197504.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%203%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197504.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hamburgher-di-bovinorazza-chianina",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n02/10/2023 ///\nHAMBURGER DI BOVINO RAZZA CHIANINA\nLidl Italia S.r.l\n549886\nIT 2533/S CE\nMarfisi Carni S.r.l\nC.da Paglieroni Zona ind.le, Treglio (CH)\n11/10/23, 12/10/23\n200g\nRilevata la presenza di E. coli STEC/VTEC\nNonostante il prodotto sia da consumarsi previa completa cottura, come riportato in etichetta, si invitano\ni consumatori a non consumarlo e a riportarlo al punto vendita per il rimborso"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:32+00:00"
+ },
+ "integratire-vivaflora-benessere-intestinale-150-cpr-super-diet": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/integratire-vivaflora-benessere-intestinale-150-cpr-super-diet/",
+  "titolo": "INTEGRATIRE VIVAFLORA BENESSERE INTESTINALE 150 CPR - SUPER DIET",
+  "data_pubblicazione": "2023-10-27",
+  "marca": "SUPER DIET",
+  "denominazione": "INTEGRATIRE VIVAFLORA BENESSERE INTESTINALE 150 CPR - SUPER DIET",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20_1761197525.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo _1761197525.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20_1761197525.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "integratire-vivaflora-benessere-intestinale-150-cpr-super-diet",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "INTEGRATORE VIVAFLORE Benessere intestinale 150 CPR - SUPER DIET",
+   "operatore": "LABORATOIRES SUPER DIET",
+   "lotti": [
+    "79502-80836"
+   ],
+   "produttore": "LABORATOIRES SUPER DIET",
+   "sede_stabilimento": "185 Boulevard de la Liberté – 59000 LILLE - FRANCIA",
+   "scadenza": "30/06/25-31/07/25",
+   "peso_volume": "60 g",
+   "motivo_esteso": "I controlli analitici effettuati sul prodotto hanno rilevato un contenuto elevato di Aloe Emodina ed Emodina",
+   "avvertenze": "SSSS SI raccomanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e se appartenenti alle scadenze richiamate di VIVAFLORE, di NON CONSUMARLO e di riportarlo al proprio negoziante che S provvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi.",
+   "campi_extra": {
+    "Data": "26/10/2023 Marchio del prodotto: SUPER DIET"
+   },
+   "testo": "RICHIAMO\nData: 26/10/2023 Marchio del prodotto: SUPER DIET\nDenominazione di vendita:INTEGRATORE VIVAFLORE Benessere intestinale 150 CPR - SUPER DIET\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LABORATOIRES SUPER DIET\ncommercializzato:\nLotto di produzione: 79502-80836\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: LABORATOIRES SUPER DIET\nSede dello stabilimento: 185 Boulevard de la Liberté – 59000 LILLE - FRANCIA\nData di scadenza o termine minimo di conservazione: 30/06/25-31/07/25\nDescrizione peso/volume unità di vendita: 60 g\nMotivo del richiamo:\nI controlli analitici effettuati sul prodotto hanno rilevato un contenuto elevato di Aloe Emodina ed Emodina\nAvvertenze:\nSSSS\nSI raccomanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e se appartenenti alle\nscadenze richiamate di VIVAFLORE, di NON CONSUMARLO e di riportarlo al proprio negoziante che\nS\nprovvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi."
+  },
+  "prima_rilevazione": "2026-10-25T07:22:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:22:53+00:00"
+ },
+ "pesto-100-vegetale-150-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-100-vegetale-150-g/",
+  "titolo": "Pesto 100% vegetale 150 g",
+  "data_pubblicazione": "2023-10-24",
+  "marca": "Biffi",
+  "denominazione": "Pesto 100% vegetale 150 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1761197523.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo_1761197523.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo_1761197523.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-100-vegetale-150-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:10+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:10+00:00"
+ },
+ "riso-carnaroli-6": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-6/",
+  "titolo": "Riso Carnaroli",
+  "data_pubblicazione": "2023-10-06",
+  "marca": "Lidl Italia srl",
+  "denominazione": "Riso Carnaroli",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197509.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato 4 _ MODELLO_DI_RICHIAMO mod v2_1761197509.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197509.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-carnaroli-6",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "Codice a barre del prodotto": "20505318"
+   },
+   "testo": "Allegato 4\n29/09/2023 Carosio\nRiso Carnaroli\nLidl Italia s.r.l.\nvedasi TMC\n///\nCurti S.r.l.\nViale Stazione, 113 - Valle Lomellina (PV)\nL 11/02/2025\n1kg\nRilevata la presenza di cadmio oltre il limite consentito\nProdotto non idoneo al consumo. Si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il\nrimborso.\nCodice a barre del prodotto: 20505318"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:22+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:22+00:00"
+ },
+ "riso-carnaroli-7": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-carnaroli-7/",
+  "titolo": "Riso Carnaroli",
+  "data_pubblicazione": "2023-10-06",
+  "marca": "Carosio",
+  "denominazione": "Riso Carnaroli",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197512.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato 4 _ MODELLO_DI_RICHIAMO mod v2_1761197512.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20MODELLO_DI_RICHIAMO%20mod%20v2_1761197512.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-carnaroli-7",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "Codice a barre del prodotto": "20505318"
+   },
+   "testo": "Allegato 4\n29/09/2023 Carosio\nRiso Carnaroli\nLidl Italia s.r.l.\nvedasi TMC\n///\nCurti S.r.l.\nViale Stazione, 113 - Valle Lomellina (PV)\nL 11/02/2025\n1kg\nRilevata la presenza di cadmio oltre il limite consentito\nProdotto non idoneo al consumo. Si invitano i consumatori a non consumarlo e a riportarlo al punto vendita per il\nrimborso.\nCodice a barre del prodotto: 20505318"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:25+00:00"
+ },
+ "salamino-tasty-ps": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-tasty-ps/",
+  "titolo": "SALAMINO TASTY P.S.",
+  "data_pubblicazione": "2023-10-27",
+  "marca": "SAN BONO S.R.L. (IT 629 L CE)",
+  "denominazione": "SALAMINO TASTY P.S.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_1761197528.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo di Richiamo_1761197528.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20Richiamo_1761197528.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salamino-tasty-ps",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T07:23:02+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:02+00:00"
+ },
+ "tempeh-biologico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tempeh-biologico/",
+  "titolo": "TEMPEH BIOLOGICO",
+  "data_pubblicazione": "2023-10-19",
+  "marca": "VEGGIE DESPAR",
+  "denominazione": "TEMPEH BIOLOGICO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Ministeriale%20Tempeh%20Biologico_1761197520.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo Ministeriale Tempeh Biologico_1761197520.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Ministeriale%20Tempeh%20Biologico_1761197520.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tempeh-biologico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:23:13+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:13+00:00"
+ },
+ "yogurt-colato-magro-senza-lattosio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yogurt-colato-magro-senza-lattosio/",
+  "titolo": "Yogurt colato magro senza lattosio",
+  "data_pubblicazione": "2023-10-17",
+  "marca": "Welless senza lattosio",
+  "denominazione": "Yogurt colato magro senza lattosio",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/116894_Cartello%20di%20richiamo%20PV_1761197517.pdf",
+  "allegati": [
+   {
+    "titolo": "116894_Cartello di richiamo PV_1761197517.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/116894_Cartello%20di%20richiamo%20PV_1761197517.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "yogurt-colato-magro-senza-lattosio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "YOGURT COLATO MAGRO SENZA LATTOSIO",
+   "operatore": "PENNY MARKET",
+   "lotti": [
+    "VEDI SCADENZA"
+   ],
+   "marchio_identificazione": "GR 45 883 EC",
+   "produttore": "KRI KRI",
+   "sede_stabilimento": "3rd km Nat. Road of Serres-Drama62 125 Serres - Grecia",
+   "scadenza": "18-11-2023",
+   "peso_volume": "150G",
+   "motivo_esteso": "PRESENZA ACCIDENTALE DI ALLERGENE LATTOSIO NEL PRODOTTO. DURANTE LA FASE DI CONFEZIONAMENTO PER ERRORE SONO STATI APPOSTI COPERCHI DEL PRODOTTO DELATTOSATO SU CIOTOLE DEL PRODOTTO NON DELATTOSATO.",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO IN PUNTO VENDITA. SI ACCETTANO RESI FINO AL 18/11/2023. PER INFORMAZIONI RIVOLGERSI AL 337 155 7874.",
+   "campi_extra": {
+    "Data": "14/10/2023 Marchio del prodotto: WELLESS SENZA LATTOSIO"
+   },
+   "testo": "RICHIAMO\nData: 14/10/2023 Marchio del prodotto: WELLESS SENZA LATTOSIO\nDenominazione di vendita:YOGURT COLATO MAGRO SENZA LATTOSIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PENNY MARKET\ncommercializzato:\nLotto di produzione: VEDI SCADENZA\nMarchio di identificazione dello stabilimento/del produttore: GR 45 883 EC\nNome del produttore: KRI KRI\nSede dello stabilimento: 3rd km Nat. Road of Serres-Drama62 125 Serres - Grecia\nData di scadenza o termine minimo di conservazione: 18-11-2023\nDescrizione peso/volume unità di vendita: 150G\nMotivo del richiamo:\nPRESENZA ACCIDENTALE DI ALLERGENE LATTOSIO NEL PRODOTTO. DURANTE LA FASE DI\nCONFEZIONAMENTO PER ERRORE SONO STATI APPOSTI COPERCHI DEL PRODOTTO DELATTOSATO SU\nCIOTOLE DEL PRODOTTO NON DELATTOSATO.\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO IN PUNTO VENDITA.\nSI ACCETTANO RESI FINO AL 18/11/2023.\nPER INFORMAZIONI RIVOLGERSI AL 337 155 7874."
+  },
+  "prima_rilevazione": "2026-10-25T07:23:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:23:16+00:00"
+ }
+}
