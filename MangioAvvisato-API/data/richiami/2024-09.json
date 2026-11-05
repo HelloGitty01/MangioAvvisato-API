@@ -1,0 +1,1462 @@
+{
+ "coppa-affettata-stagionata": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-affettata-stagionata/",
+  "titolo": "COPPA AFFETTATA STAGIONATA",
+  "data_pubblicazione": "2024-09-20",
+  "marca": "LA BOTTEGA DEL GUSTO",
+  "denominazione": "COPPA AFFETTATA STAGIONATA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministeriale%20coppa%20stagionata%20120g_1761205736.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello ministeriale coppa stagionata 120g_1761205736.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20ministeriale%20coppa%20stagionata%20120g_1761205736.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "coppa-affettata-stagionata",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Coppa affettata stagionata",
+   "operatore": "Eurospin S.p.A.",
+   "lotti": [
+    "L. 5524226A"
+   ],
+   "marchio_identificazione": "IT 946 L CE",
+   "produttore": "Industria Salumi Simonini",
+   "sede_stabilimento": "Via per Modena 176 Castelvetro (MO)",
+   "scadenza": "11/11/2024",
+   "peso_volume": "120g",
+   "motivo_esteso": "Presenza di Listeria monocytogenes",
+   "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita di acquisto",
+   "campi_extra": {
+    "Data": "12/09/2024 Marchio del prodotto: La Bottega Del Gusto"
+   },
+   "testo": "RICHIAMO\nData: 12/09/2024 Marchio del prodotto: La Bottega Del Gusto\nDenominazione di vendita:Coppa affettata stagionata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin S.p.A.\ncommercializzato:\nLotto di produzione: L. 5524226A\nMarchio di identificazione dello stabilimento/del produttore: IT 946 L CE\nNome del produttore: Industria Salumi Simonini\nSede dello stabilimento: Via per Modena 176 Castelvetro (MO)\nData di scadenza o termine minimo di conservazione: 11/11/2024\nDescrizione peso/volume unità di vendita: 120g\nMotivo del richiamo:\nPresenza di Listeria monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita di acquisto"
+  },
+  "prima_rilevazione": "2026-10-25T06:57:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:38+00:00"
+ },
+ "coppa-stagionata-100gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-stagionata-100gr/",
+  "titolo": "COPPA STAGIONATA 100GR",
+  "data_pubblicazione": "2024-09-19",
+  "marca": "STELLA MONTIS",
+  "denominazione": "COPPA STAGIONATA 100GR",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Stella%20Montis_100g_1761205731.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello COPPA STAGIONATA Stella Montis_100g_1761205731.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Stella%20Montis_100g_1761205731.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "coppa-stagionata-100gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T06:57:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:45+00:00"
+ },
+ "coppa-stagionata-90-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-stagionata-90-gr/",
+  "titolo": "COPPA STAGIONATA 90 GR",
+  "data_pubblicazione": "2024-09-19",
+  "marca": "STELLA MONTIS",
+  "denominazione": "COPPA STAGIONATA 90 GR",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Salumeria%20del%20corso_90g_1761205734.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello COPPA STAGIONATA Salumeria del corso_90g_1761205734.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20COPPA%20STAGIONATA%20Salumeria%20del%20corso_90g_1761205734.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "coppa-stagionata-90-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T06:57:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:49+00:00"
+ },
+ "cuori-di-iceberg-250-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg-250-gr/",
+  "titolo": "Cuori di Iceberg 250 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Ortoromi",
+  "denominazione": "Cuori di Iceberg 250 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI%20250g_1761205694.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_ORTOROMI 250g_1761205694.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI%20250g_1761205694.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cuori-di-iceberg-250-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/ Marchio di identificazione",
+   "lotti": [
+    "32024250/32024251/32024253/32024254 dello stabilimento 12/09/24-13/09/24-14/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/ Marchio di identificazione\nLotto di produzione\n32024250/32024251/32024253/32024254 dello stabilimento\n12/09/24-13/09/24-14/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:51+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:51+00:00"
+ },
+ "cuori-di-iceberg-250-gr-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg-250-gr-0/",
+  "titolo": "Cuori di iceberg 250 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Selex",
+  "denominazione": "Cuori di iceberg 250 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_SELEX%20250g_1761205702.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_SELEX 250g_1761205702.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_SELEX%20250g_1761205702.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cuori-di-iceberg-250-gr-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/ 32024250/32024251/32024253/32024254 Marchio di identificazione",
+   "lotti": [
+    "dello stabilimento 11/09/24-12/09/24 - 13/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/\n32024250/32024251/32024253/32024254 Marchio di identificazione\nLotto di produzione\ndello stabilimento\n11/09/24-12/09/24 - 13/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:59:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:59:03+00:00"
+ },
+ "cuori-di-iceberg-bg-200g-e-250-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-iceberg-bg-200g-e-250-g/",
+  "titolo": "Cuori di Iceberg BG 200g e 250 g",
+  "data_pubblicazione": "2024-09-16",
+  "marca": "Coop",
+  "denominazione": "Cuori di Iceberg BG 200g e 250 g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoCOOP_12.09.2024_1761205715.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoCOOP_12.09.2024_1761205715.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoCOOP_12.09.2024_1761205715.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cuori-di-iceberg-bg-200g-e-250-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato T250320/ T251320/",
+   "lotti": [
+    "T25332/254320 dello stabilimento 12/09/24-14/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume 15/09/24-16/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nT250320/ T251320/\nMarchio di identificazione\nLotto di produzione\nT25332/254320 dello stabilimento\n12/09/24-14/09/24-\nData di scadenza o Descrizione peso/volume\n15/09/24-16/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:57:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:52+00:00"
+ },
+ "cuori-di-icebreg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-icebreg/",
+  "titolo": "Cuori di icebreg",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Natura è",
+  "denominazione": "Cuori di icebreg",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_NATURA%20E_%20200g_1761205690.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_NATURA E_ 200g_1761205690.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_NATURA%20E_%20200g_1761205690.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cuori-di-icebreg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/ dello stabilimento 32024250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/\ndello stabilimento\n32024250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione 12/09/24 - 13/09/24 – 14/09/24 unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:45+00:00"
+ },
+ "cuori-di-lattuga": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuori-di-lattuga/",
+  "titolo": "Cuori di lattuga",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Selex",
+  "denominazione": "Cuori di lattuga",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_LATTUGA%20SELEX%20200g_1761205687.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_LATTUGA SELEX 200g_1761205687.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_LATTUGA%20SELEX%20200g_1761205687.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cuori-di-lattuga",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/ dello stabilimento 32024250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume 11/09/24-12/09/24 - 13/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/\ndello stabilimento\n32024250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\n11/09/24-12/09/24 - 13/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:40+00:00"
+ },
+ "i-freschi-iceberg-250-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/i-freschi-iceberg-250-g/",
+  "titolo": "I freschi iceberg 250 g",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Ciro Amodio",
+  "denominazione": "I freschi iceberg 250 g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_CIRO%20AMODIO%20250g_1761205679.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_CIRO AMODIO 250g_1761205679.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_CIRO%20AMODIO%20250g_1761205679.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "i-freschi-iceberg-250-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/32024 Marchio di identificazione",
+   "lotti": [
+    "250/32024251/32024253/32024254 dello stabilimento"
+   ],
+   "scadenza": "12/09/24 - 13/09/24 – 14/09/24 Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/32024 Marchio di identificazione\nLotto di produzione\n250/32024251/32024253/32024254 dello stabilimento\nData di scadenza o 12/09/24 - 13/09/24 – 14/09/24 Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:23+00:00"
+ },
+ "iceberg-150-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-150-gr/",
+  "titolo": "Iceberg 150 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Il mio Orto",
+  "denominazione": "Iceberg 150 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_IL%20MIO%20ORTO%20150g_1761205683.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_IL MIO ORTO 150g_1761205683.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_IL%20MIO%20ORTO%20150g_1761205683.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-150-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/3202 dello stabilimento 4250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/3202\ndello stabilimento\n4250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione 12/09/24 - 13/09/24 – 14/09/24 unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:33+00:00"
+ },
+ "iceberg-150-gr-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-150-gr-0/",
+  "titolo": "Iceberg 150 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Tornese",
+  "denominazione": "Iceberg 150 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TORNESE%20150g_1761205706.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_TORNESE 150g_1761205706.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TORNESE%20150g_1761205706.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-150-gr-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/ Marchio di identificazione",
+   "lotti": [
+    "32024250/32024251/32024253/32024254 dello stabilimento 12/09/24 - 13/09/24 – 14/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/ Marchio di identificazione\nLotto di produzione\n32024250/32024251/32024253/32024254 dello stabilimento\n12/09/24 - 13/09/24 – 14/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:59:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:59:09+00:00"
+ },
+ "iceberg-150-gr-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-150-gr-1/",
+  "titolo": "Iceberg 150 gr",
+  "data_pubblicazione": "2024-09-16",
+  "marca": "Montanino",
+  "denominazione": "Iceberg 150 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMONTANINO150g_1761205722.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoMONTANINO150g_1761205722.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMONTANINO150g_1761205722.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-150-gr-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32024250 Marchio di identificazione",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "16/09/24 Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32024250 Marchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o 16/09/24 Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:01+00:00"
+ },
+ "iceberg-200-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr/",
+  "titolo": "Iceberg 200 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Alifresh",
+  "denominazione": "Iceberg 200 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ALIFRESH%20200g_1761205676.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_ALIFRESH 200g_1761205676.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ALIFRESH%20200g_1761205676.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/3202 dello stabilimento 4250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume 12/09/24 - 13/09/24 – 14/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/3202\ndello stabilimento\n4250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\n12/09/24 - 13/09/24 – 14/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:16+00:00"
+ },
+ "iceberg-200-gr-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-0/",
+  "titolo": "Iceberg 200 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Colline Verdi",
+  "denominazione": "Iceberg 200 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_COLLINE%20VERDI%20200g_1761205680.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_COLLINE VERDI 200g_1761205680.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_COLLINE%20VERDI%20200g_1761205680.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200-gr-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 3 2124247/32124248/32124249/32024249/",
+   "lotti": [
+    "32024250/32024251/32024253/32024254"
+   ],
+   "scadenza": "12/09/24 - 13/09/24 – 14/09/24 Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n3 2124247/32124248/32124249/32024249/\nLotto di produzione\n32024250/32024251/32024253/32024254\nMarchio di identificazione\ndello stabilimento\nData di scadenza o 12/09/24 - 13/09/24 – 14/09/24 Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:26+00:00"
+ },
+ "iceberg-200-gr-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-1/",
+  "titolo": "Iceberg 200 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Mi Mordi",
+  "denominazione": "Iceberg 200 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_MI%20MORDI%20200g_1761205689.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_MI MORDI 200g_1761205689.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_MI%20MORDI%20200g_1761205689.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200-gr-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/ 32024250/32024251/32024253/32024254 Marchio di identificazione",
+   "lotti": [
+    "dello stabilimento 12/09/24 - 13/09/24 – 14/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/\n32024250/32024251/32024253/32024254 Marchio di identificazione\nLotto di produzione\ndello stabilimento\n12/09/24 - 13/09/24 – 14/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:42+00:00"
+ },
+ "iceberg-200-gr-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-2/",
+  "titolo": "Iceberg 200 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Ortofresco pulito",
+  "denominazione": "Iceberg 200 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOFRESCO%20PULITO%20200g_1761205692.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_ORTOFRESCO PULITO 200g_1761205692.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOFRESCO%20PULITO%20200g_1761205692.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200-gr-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/ dello stabilimento 32024250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume 12/09/24 - 13/09/24 – 14/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/\ndello stabilimento\n32024250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\n12/09/24 - 13/09/24 – 14/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:48+00:00"
+ },
+ "iceberg-200-gr-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-3/",
+  "titolo": "Iceberg 200 gr",
+  "data_pubblicazione": "2024-09-16",
+  "marca": "SISA",
+  "denominazione": "Iceberg 200 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSISA_200g_1761205729.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoSISA_200g_1761205729.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSISA_200g_1761205729.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200-gr-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124248 – 32024250 - 32024253 dello stabilimento 13/09/2024 – 15/09/2024 –"
+   ],
+   "scadenza": "Descrizione peso/volume 18/09/2024",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124248 – 32024250 - 32024253\ndello stabilimento\n13/09/2024 – 15/09/2024 –\nData di scadenza o Descrizione peso/volume\n18/09/2024\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:11+00:00"
+ },
+ "iceberg-200-gr-fresche-bonta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-fresche-bonta/",
+  "titolo": "Iceberg 200 gr Fresche Bontà",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Latte Francia",
+  "denominazione": "Iceberg 200 gr Fresche Bontà",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_LATTE%20FRANCIA%20200g_1761205685.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_LATTE FRANCIA 200g_1761205685.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_LATTE%20FRANCIA%20200g_1761205685.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200-gr-fresche-bonta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249 Marchio di identificazione",
+   "lotti": [
+    "/32024250/32024251/32024253/32024254 dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume 12/09/24 - 13/09/24 – 14/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249 Marchio di identificazione\nLotto di produzione\n/32024250/32024251/32024253/32024254 dello stabilimento\nData di scadenza o Descrizione peso/volume\n12/09/24 - 13/09/24 – 14/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:36+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:36+00:00"
+ },
+ "iceberg-200-gr-vedure-fresche": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200-gr-vedure-fresche/",
+  "titolo": "Iceberg 200 gr Vedure fresche",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Sigma",
+  "denominazione": "Iceberg 200 gr Vedure fresche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_SIGMA%20200g_1761205704.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_SIGMA 200g_1761205704.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_SIGMA%20200g_1761205704.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200-gr-vedure-fresche",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/ Marchio di identificazione",
+   "lotti": [
+    "32024250/32024251/32024253/32024254 dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/ Marchio di identificazione\nLotto di produzione\n32024250/32024251/32024253/32024254 dello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione 12/09/24 - 13/09/24 – 14/09/24 unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:59:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:59:06+00:00"
+ },
+ "iceberg-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200g/",
+  "titolo": "Iceberg 200g",
+  "data_pubblicazione": "2024-09-16",
+  "marca": "Gustora",
+  "denominazione": "Iceberg 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoGUSTORA_1761205717.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoGUSTORA_1761205717.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoGUSTORA_1761205717.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124248 -32124249 dello stabilimento 13/092024 - 14/09/2024"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124248 -32124249\ndello stabilimento\n13/092024 - 14/09/2024\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:57:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:56+00:00"
+ },
+ "iceberg-200g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-200g-0/",
+  "titolo": "Iceberg 200g",
+  "data_pubblicazione": "2024-09-16",
+  "marca": "Professione snack",
+  "denominazione": "Iceberg 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoPROFESSIONESNACK_200g_1761205724.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoPROFESSIONESNACK_200g_1761205724.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoPROFESSIONESNACK_200g_1761205724.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-200g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/ dello stabilimento 32024249/32024250/32024251/32024253/3202425 4"
+   ],
+   "scadenza": "Descrizione peso/volume 11/09/24-12/09/24-13/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\n32124247/32124248/32124249/ dello stabilimento\n32024249/32024250/32024251/32024253/3202425\n4\nData di scadenza o Descrizione peso/volume\n11/09/24-12/09/24-13/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:04+00:00"
+ },
+ "iceberg-250-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr/",
+  "titolo": "Iceberg 250 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Il Castello",
+  "denominazione": "Iceberg 250 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_IL%20CASTELLO%20250g_1761205682.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_IL CASTELLO 250g_1761205682.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_IL%20CASTELLO%20250g_1761205682.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-250-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/ dello stabilimento 32024250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/\ndello stabilimento\n32024250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\n12/09/24 - 13/09/24 – 14/09/24\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:30+00:00"
+ },
+ "iceberg-250-gr-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-0/",
+  "titolo": "Iceberg 250 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Très Bon",
+  "denominazione": "Iceberg 250 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TRES%20BON%20DOMA%20250g_1761205710.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_TRES BON DOMA 250g_1761205710.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TRES%20BON%20DOMA%20250g_1761205710.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-250-gr-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/ dello stabilimento 32024250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/\ndello stabilimento\n32024250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione 12/09/24 - 13/09/24 – 14/09/24 unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T07:02:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:02:39+00:00"
+ },
+ "iceberg-250-gr-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-1/",
+  "titolo": "Iceberg 250 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Vivinatura",
+  "denominazione": "Iceberg 250 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_VIVINATURA%20250g_1761205712.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_VIVINATURA 250g_1761205712.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_VIVINATURA%20250g_1761205712.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-250-gr-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/",
+   "lotti": [
+    "32024250/32024251/32024253/32024254 dello stabilimento 12/09/24-13/09/24-14/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/\nMarchio di identificazione\nLotto di produzione\n32024250/32024251/32024253/32024254 dello stabilimento\n12/09/24-13/09/24-14/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T07:02:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:02:42+00:00"
+ },
+ "iceberg-250-gr-freschi-germogli": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-freschi-germogli/",
+  "titolo": "Iceberg 250 gr Freschi Germogli",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Polenghi",
+  "denominazione": "Iceberg 250 gr Freschi Germogli",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_POLENGHI%20250g_1761205700.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_POLENGHI 250g_1761205700.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_POLENGHI%20250g_1761205700.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-250-gr-freschi-germogli",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32024254 Marchio di identificazione",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume 12/09/24 - 13/09/24 – 19/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32024254 Marchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\n12/09/24 - 13/09/24 – 19/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:59:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:59:00+00:00"
+ },
+ "iceberg-250-gr-freschi-germogli-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250-gr-freschi-germogli-0/",
+  "titolo": "Iceberg 250 gr Freschi germogli",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Torre in Pietra",
+  "denominazione": "Iceberg 250 gr Freschi germogli",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TORRE%20IN%20PIETRA%20250g_1761205708.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_TORRE IN PIETRA 250g_1761205708.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_TORRE%20IN%20PIETRA%20250g_1761205708.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-250-gr-freschi-germogli-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248 dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione 12/09/24 - 13/09/24 unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:59:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:59:12+00:00"
+ },
+ "iceberg-250g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250g/",
+  "titolo": "Iceberg 250g",
+  "data_pubblicazione": "2024-09-16",
+  "marca": "Matese",
+  "denominazione": "Iceberg 250g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMATESEOK_1761205719.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoMATESEOK_1761205719.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoMATESEOK_1761205719.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-250g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32024253 dello stabilimento 18/09/2024"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32024253\ndello stabilimento\n18/09/2024\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:57:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:58+00:00"
+ },
+ "iceberg-250g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-250g-0/",
+  "titolo": "Iceberg 250g",
+  "data_pubblicazione": "2024-09-16",
+  "marca": "Sendero",
+  "denominazione": "Iceberg 250g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSENDERO_1761205726.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoSENDERO_1761205726.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoSENDERO_1761205726.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-250g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32024250 dello stabilimento 15/092024"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32024250\ndello stabilimento\n15/092024\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:08+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:08+00:00"
+ },
+ "iceberg-350-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-350-gr/",
+  "titolo": "Iceberg 350 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Ortoromi",
+  "denominazione": "Iceberg 350 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI%20350g_1761205696.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_ORTOROMI 350g_1761205696.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI%20350g_1761205696.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-350-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32124249/32024249/ 32024250/32024251/32024253/32024254 Marchio di identificazione",
+   "lotti": [
+    "dello stabilimento 12/09/24-13/09/24-14/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32124249/32024249/\n32024250/32024251/32024253/32024254 Marchio di identificazione\nLotto di produzione\ndello stabilimento\n12/09/24-13/09/24-14/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:54+00:00"
+ },
+ "iceberg-500-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/iceberg-500-gr/",
+  "titolo": "Iceberg 500 gr",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Ortoromi",
+  "denominazione": "Iceberg 500 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI_500g_1761205698.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_ORTOROMI_500g_1761205698.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_ORTOROMI_500g_1761205698.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "iceberg-500-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/ dello stabilimento 32024250/32024251/32024253/32024254 12/09/24 - 13/09/24 – 14/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione 32124247/32124248/32124249/32024249/\ndello stabilimento\n32024250/32024251/32024253/32024254\n12/09/24 - 13/09/24 – 14/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:57+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:57+00:00"
+ },
+ "la-pronta-tavola-iceberg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-pronta-tavola-iceberg/",
+  "titolo": "La pronta in tavola iceberg",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "Centrale del latte",
+  "denominazione": "La pronta in tavola iceberg",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_CENTRALE%20DEL%20LATTE%20200g_1761205677.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_CENTRALE DEL LATTE 200g_1761205677.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_CENTRALE%20DEL%20LATTE%20200g_1761205677.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "la-pronta-tavola-iceberg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato 32124247/32124248/32024253",
+   "lotti": [
+    "dello stabilimento 12/09/24 - 13/09/24 – 18/09/24"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\n32124247/32124248/32024253\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\n12/09/24 - 13/09/24 – 18/09/24\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:20+00:00"
+ },
+ "le-croccanti-cuori-di-iceberg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-croccanti-cuori-di-iceberg/",
+  "titolo": "le Croccanti Cuori di iceberg",
+  "data_pubblicazione": "2024-09-12",
+  "marca": "foglia verde eurospin",
+  "denominazione": "le Croccanti Cuori di iceberg",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_%20FOGLIA%20VERDE%20EUROSPIN%20200g%20_1__1761205674.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 32124247_ FOGLIA VERDE EUROSPIN 200g _1__1761205674.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%2032124247_%20FOGLIA%20VERDE%20EUROSPIN%20200g%20_1__1761205674.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "le-croccanti-cuori-di-iceberg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "32124247/32124248/32124249/32024249/ dello stabilimento 32024250/32024251/32024253/32024254"
+   ],
+   "scadenza": "Descrizione peso/volume 12/09/24-13/09/24 – 14/09/24",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\n32124247/32124248/32124249/32024249/ dello stabilimento\n32024250/32024251/32024253/32024254\nData di scadenza o Descrizione peso/volume\n12/09/24-13/09/24 – 14/09/24\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T06:58:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:58:14+00:00"
+ },
+ "light-lunch-low-carb": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/light-lunch-low-carb/",
+  "titolo": "light lunch low carb",
+  "data_pubblicazione": "2024-09-09",
+  "marca": "Italian Beauty Service",
+  "denominazione": "light lunch low carb",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205670.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo_1761205670.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205670.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "light-lunch-low-carb",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:02:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:02:49+00:00"
+ },
+ "light-lunch-low-carb-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/light-lunch-low-carb-0/",
+  "titolo": "Light lunch low carb",
+  "data_pubblicazione": "2024-09-09",
+  "marca": "Integra",
+  "denominazione": "Light lunch low carb",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205671.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo_1761205671.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761205671.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "light-lunch-low-carb-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:02:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:02:53+00:00"
+ },
+ "morgenland-bio-kerniges-studentenfutter-250g-morgen-land-bio-misto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/morgenland-bio-kerniges-studentenfutter-250g-morgen-land-bio-misto/",
+  "titolo": "MorgenLand Bio Kerniges Studentenfutter 250g / Morgen Land Bio Misto di noci e frutta secca 250g",
+  "data_pubblicazione": "2024-09-25",
+  "marca": "MorgenLand",
+  "denominazione": "MorgenLand Bio Kerniges Studentenfutter 250g / Morgen Land Bio Misto di noci e frutta secca 250g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoStudentenfutter%20Bio%20Morgen%20Land_1761205745.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoStudentenfutter Bio Morgen Land_1761205745.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoStudentenfutter%20Bio%20Morgen%20Land_1761205745.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "morgenland-bio-kerniges-studentenfutter-250g-morgen-land-bio-misto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Morgenland Bio Kerniges Studentenfutter 250g/ Morgenland Misto di\nnoci e frutta secca per i studenti 250g"
+  },
+  "prima_rilevazione": "2026-10-25T06:57:36+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:36+00:00"
+ },
+ "morgenland-bio-sultanien-500g-morgenland-sultanine-essiccate-500g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/morgenland-bio-sultanien-500g-morgenland-sultanine-essiccate-500g/",
+  "titolo": "MorgenLand Bio Sultanien 500g / MorgenLand Sultanine essiccate 500g",
+  "data_pubblicazione": "2024-09-25",
+  "marca": "MorgenLand",
+  "denominazione": "MorgenLand Bio Sultanien 500g / MorgenLand Sultanine essiccate 500g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Sultaninen%20Bio%20Morgen%20Land_1761205742.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Sultaninen Bio Morgen Land_1761205742.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Sultaninen%20Bio%20Morgen%20Land_1761205742.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "morgenland-bio-sultanien-500g-morgenland-sultanine-essiccate-500g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Morgenland bioSultanien500g/ Morgenland Sultaninaessiccate500g"
+  },
+  "prima_rilevazione": "2026-10-25T06:57:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:33+00:00"
+ },
+ "pecorino-sardo-dop-maturo": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-sardo-dop-maturo/",
+  "titolo": "Pecorino Sardo DOP maturo",
+  "data_pubblicazione": "2024-09-05",
+  "marca": "Eurospin Italia SpA - Argiolas Formaggi",
+  "denominazione": "Pecorino Sardo DOP maturo",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2024.08.28%20_RICHIAMO%20Pecorino%20sardo%20maturo%20300g%20_%20ARGIOLAS_1761205668.pdf",
+  "allegati": [
+   {
+    "titolo": "2024.08.28 _RICHIAMO Pecorino sardo maturo 300g _ ARGIOLAS_1761205668.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2024.08.28%20_RICHIAMO%20Pecorino%20sardo%20maturo%20300g%20_%20ARGIOLAS_1761205668.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pecorino-sardo-dop-maturo",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:03:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:03:01+00:00"
+ },
+ "piatto-pronto-di-carni-bovine-gelatina-vegetale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/piatto-pronto-di-carni-bovine-gelatina-vegetale/",
+  "titolo": "Piatto pronto di carni bovine in gelatina vegetale",
+  "data_pubblicazione": "2024-09-04",
+  "marca": "Simmenthal",
+  "denominazione": "Piatto pronto di carni bovine in gelatina vegetale",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Simmenthal%20140G%20_%20Lotto%20G156_1761205664.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Simmenthal 140G _ Lotto G156_1761205664.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Simmenthal%20140G%20_%20Lotto%20G156_1761205664.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "piatto-pronto-di-carni-bovine-gelatina-vegetale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Piatto pronto di carni bovine in gelatina vegetale",
+   "operatore": "Bolton Food S.p.A.",
+   "lotti": [
+    "G156"
+   ],
+   "marchio_identificazione": "IT 14 L CE",
+   "produttore": "Bolton Food S.p.A.",
+   "sede_stabilimento": "Via Matteotti, 2 Aprilia (LT)",
+   "scadenza": "31-12-2028",
+   "peso_volume": "3 x 140 g",
+   "motivo_esteso": "Eventuale presenza di scatole con difetto di chiusura.",
+   "avvertenze": "A scopo precauzionale, al fine di evitare un eventuale rischio per la salute, si raccomanda di non consumare il prodotto con il lotto sopra indicato e di restituirlo al punto vendita di acquisto.",
+   "campi_extra": {
+    "Data": "129/08/2024 Marchio del prodotto: Simmenthal"
+   },
+   "testo": "RICHIAMO\nData: 129/08/2024 Marchio del prodotto: Simmenthal\nDenominazione di vendita:Piatto pronto di carni bovine in gelatina vegetale\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Bolton Food S.p.A.\ncommercializzato:\nLotto di produzione: G156\nMarchio di identificazione dello stabilimento/del produttore: IT 14 L CE\nNome del produttore: Bolton Food S.p.A.\nSede dello stabilimento: Via Matteotti, 2 Aprilia (LT)\nData di scadenza o termine minimo di conservazione: 31-12-2028\nDescrizione peso/volume unità di vendita: 3 x 140 g\nMotivo del richiamo:\nEventuale presenza di scatole con difetto di chiusura.\nAvvertenze:\nA scopo precauzionale, al fine di evitare un eventuale rischio per la salute, si raccomanda di non\nconsumare il prodotto con il lotto sopra indicato e di restituirlo al punto vendita di acquisto."
+  },
+  "prima_rilevazione": "2026-10-25T07:03:08+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:03:08+00:00"
+ },
+ "salsiccia-secca": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-secca/",
+  "titolo": "Salsiccia secca",
+  "data_pubblicazione": "2024-09-11",
+  "marca": "Il Baroncino",
+  "denominazione": "Salsiccia secca",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20%20E2%20pdf%20_1__1761205673.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo  E2 pdf _1__1761205673.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20%20E2%20pdf%20_1__1761205673.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-secca",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:02:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:02:45+00:00"
+ },
+ "uova-fresche-cat-ada-allevamento-terra-vario-calibro-amadori": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-ada-allevamento-terra-vario-calibro-amadori/",
+  "titolo": "UOVA FRESCHE CAT. ADA ALLEVAMENTO, A TERRA, VARIO CALIBRO, AMADORI",
+  "data_pubblicazione": "2024-09-02",
+  "marca": "AMADORI",
+  "denominazione": "UOVA FRESCHE CAT. ADA ALLEVAMENTO, A TERRA, VARIO CALIBRO, AMADORI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Amadori%20_1__1761205537.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo Amadori _1__1761205537.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Amadori%20_1__1761205537.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-cat-ada-allevamento-terra-vario-calibro-amadori",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Uova fresche Cat. A, da allevamento a terra, Vario Calibro Amadori",
+   "operatore": "GESCO S.C.A.",
+   "lotti": [
+    "VARI",
+    "VEDI AVVERTENZE"
+   ],
+   "marchio_identificazione": "IT016064",
+   "produttore": "CASCINA ITALIA S.p.A.",
+   "sede_stabilimento": "VIA CAMPO ROMANO - 47050 SPIRANO (BG)",
+   "scadenza": "V. AVVERTENZE",
+   "peso_volume": "CONFEZIONE DA 6",
+   "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA",
+   "campi_extra": {
+    "Data": "26/08/2024 Marchio del prodotto: AMADORI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 26/08/2024 Marchio del prodotto: AMADORI\nDenominazione di vendita:Uova fresche Cat. A, da allevamento a terra, Vario Calibro Amadori\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GESCO S.C.A.\ncommercializzato:\nLotto di produzione: VARI, VEDI AVVERTENZE\nMarchio di identificazione dello stabilimento/del produttore: IT016064\nNome del produttore: CASCINA ITALIA S.p.A.\nSede dello stabilimento: VIA CAMPO ROMANO - 47050 SPIRANO (BG)\nData di scadenza o termine minimo di conservazione: V. AVVERTENZE\nDescrizione peso/volume unità di vendita: CONFEZIONE DA 6\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nLOTTI - SCADENZE: 4282789926 - 12/09/2024; 4736619926 - 09/09/2024; 4832759926 - 01/09/2024;\n4679409926 - 07/09/2024; 4501159926 - 05/09/2024\nNON CONSUMARE LE UOVA E RESTITUIRLE AL PUNTO VENDITA IN CUI SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:03:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:03:17+00:00"
+ },
+ "vongola-o-lupino-chamelea-gallina-lotto-13f3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-o-lupino-chamelea-gallina-lotto-13f3/",
+  "titolo": "VONGOLA O LUPINO (CHAMELEA GALLINA) LOTTO 13F3",
+  "data_pubblicazione": "2024-09-20",
+  "marca": "FINITTICA S.R.L.U. - GORO (FE) \n CE IT 513 CDM",
+  "denominazione": "VONGOLA O LUPINO (CHAMELEA GALLINA) LOTTO 13F3",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC%2001%20new%20Modello_richiamo_20171116.pdf%20_%20cartello%20richiamo_1761205739.pdf",
+  "allegati": [
+   {
+    "titolo": "DOC 01 new Modello_richiamo_20171116.pdf _ cartello richiamo_1761205739.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DOC%2001%20new%20Modello_richiamo_20171116.pdf%20_%20cartello%20richiamo_1761205739.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "vongola-o-lupino-chamelea-gallina-lotto-13f3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Vongola o lupino \"Jumbo\"",
+   "operatore": "Finittica s.r.l.u.",
+   "lotti": [
+    "13F3"
+   ],
+   "marchio_identificazione": "IT 513 CDM",
+   "produttore": "Finittica",
+   "sede_stabilimento": "Via provinciale 21 , 44020 Goro (FE)",
+   "scadenza": "i molluschi devono",
+   "peso_volume": "1 kg",
+   "motivo_esteso": "superamento limite di legge per parametri di Escherichia coli",
+   "avvertenze": "consumare previa cottura",
+   "campi_extra": {
+    "Data": "20/09/2024 Marchio del prodotto: Finittica"
+   },
+   "testo": "RICHIAMO\nData: 20/09/2024 Marchio del prodotto: Finittica\nDenominazione di vendita:Vongola o lupino \"Jumbo\"\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Finittica s.r.l.u.\ncommercializzato:\nLotto di produzione: 13F3\nMarchio di identificazione dello stabilimento/del produttore: IT 513 CDM\nNome del produttore: Finittica\nSede dello stabilimento: Via provinciale 21 , 44020 Goro (FE)\nData di scadenza o termine minimo di conservazione: i molluschi devono\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nsuperamento limite di legge per parametri di Escherichia coli\nAvvertenze:\nconsumare previa cottura"
+  },
+  "prima_rilevazione": "2026-10-25T06:57:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T06:57:41+00:00"
+ },
+ "vongole-del-pacifico-cotte-e-sgusciat-surgelate-da-120-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-del-pacifico-cotte-e-sgusciat-surgelate-da-120-gr/",
+  "titolo": "VONGOLE DEL PACIFICO COTTE E SGUSCIAT - SURGELATE DA 120 GR",
+  "data_pubblicazione": "2024-09-04",
+  "marca": "MARINAI",
+  "denominazione": "VONGOLE DEL PACIFICO COTTE E SGUSCIAT - SURGELATE DA 120 GR",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_2_1761205666.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo NAI_Vongole del Pacifico cotte sgusciate surgelate_2_1761205666.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_2_1761205666.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vongole-del-pacifico-cotte-e-sgusciat-surgelate-da-120-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE",
+   "operatore": "NAI PRODOTTI ITTICI s.r.l.",
+   "lotti": [
+    "VN166VI026"
+   ],
+   "marchio_identificazione": "DL 166",
+   "produttore": "Viet Long kien Giang Limited Company",
+   "sede_stabilimento": "Kiên Luong - Kien Giang Province",
+   "scadenza": "09-10/03/2026",
+   "peso_volume": "BUSTE TERMOSALDATE DA 120 g",
+   "motivo_esteso": "Presenza di sostanze perfluoroalchiliche (PFAS) oltre i limiti di legge.",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RENDERLO AL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "03/09/2024 Marchio del prodotto: MARINAI"
+   },
+   "testo": "RICHIAMO\nData: 03/09/2024 Marchio del prodotto: MARINAI\nDenominazione di vendita:VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NAI PRODOTTI ITTICI s.r.l.\ncommercializzato:\nLotto di produzione: VN166VI026\nMarchio di identificazione dello stabilimento/del produttore: DL 166\nNome del produttore: Viet Long kien Giang Limited Company\nSede dello stabilimento: Kiên Luong - Kien Giang Province\nData di scadenza o termine minimo di conservazione: 09-10/03/2026\nDescrizione peso/volume unità di vendita: BUSTE TERMOSALDATE DA 120 g\nMotivo del richiamo:\nPresenza di sostanze perfluoroalchiliche (PFAS) oltre i limiti di legge.\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO E DI RENDERLO AL PUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T07:03:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:03:11+00:00"
+ },
+ "vongole-del-pacifico-cotte-e-sgusciate-surgelate-da-800-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongole-del-pacifico-cotte-e-sgusciate-surgelate-da-800-gr/",
+  "titolo": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE da 800 gr",
+  "data_pubblicazione": "2024-09-04",
+  "marca": "MARINAI",
+  "denominazione": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE da 800 gr",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_1_1761205667.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo NAI_Vongole del Pacifico cotte sgusciate surgelate_1_1761205667.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20NAI_Vongole%20del%20Pacifico%20cotte%20sgusciate%20surgelate_1_1761205667.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vongole-del-pacifico-cotte-e-sgusciate-surgelate-da-800-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE",
+   "operatore": "NAI PRODOTTI ITTICI s.r.l.",
+   "lotti": [
+    "VN166VI026"
+   ],
+   "marchio_identificazione": "DL 166",
+   "produttore": "Viet Long kien Giang Limited Company",
+   "sede_stabilimento": "Kiên Luong - Kien Giang Province",
+   "scadenza": "10-03-2026",
+   "peso_volume": "BUSTE TERMOSALDATE DA 800 g",
+   "motivo_esteso": "Presenza di sostanze perfluoroalchiliche (PFAS) oltre i limiti di legge.",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO E DI RENDERLO AL PUNTO VENDITA.",
+   "campi_extra": {
+    "Data": "03/09/2024 Marchio del prodotto: MARINAI"
+   },
+   "testo": "RICHIAMO\nData: 03/09/2024 Marchio del prodotto: MARINAI\nDenominazione di vendita:VONGOLE DEL PACIFICO COTTE E SGUSCIATE - SURGELATE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NAI PRODOTTI ITTICI s.r.l.\ncommercializzato:\nLotto di produzione: VN166VI026\nMarchio di identificazione dello stabilimento/del produttore: DL 166\nNome del produttore: Viet Long kien Giang Limited Company\nSede dello stabilimento: Kiên Luong - Kien Giang Province\nData di scadenza o termine minimo di conservazione: 10-03-2026\nDescrizione peso/volume unità di vendita: BUSTE TERMOSALDATE DA 800 g\nMotivo del richiamo:\nPresenza di sostanze perfluoroalchiliche (PFAS) oltre i limiti di legge.\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO E DI RENDERLO AL PUNTO VENDITA."
+  },
+  "prima_rilevazione": "2026-10-25T07:03:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:03:14+00:00"
+ }
+}

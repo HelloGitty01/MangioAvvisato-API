@@ -1,0 +1,1376 @@
+{
+ "caffe-macinato-classico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-macinato-classico/",
+  "titolo": "Caffè macinato classico",
+  "data_pubblicazione": "2025-06-26",
+  "marca": "Happy Dì",
+  "denominazione": "Caffè macinato classico",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_3__1761207646.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo _3__1761207646.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20_3__1761207646.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "caffe-macinato-classico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Caffè macinato classico",
+   "operatore": "Selex Gruppo Commerciale S.p.A.",
+   "lotti": [
+    "B26A"
+   ],
+   "produttore": "Gruppo Gimoka S.p.A.",
+   "sede_stabilimento": "Via delle Industrie 4/A - 10, 23009 - Andalo Valtellino (SO)",
+   "scadenza": "26/02/2027",
+   "peso_volume": "250 g",
+   "motivo_esteso": "Possibile presenza di ocratossina A oltre i limiti di legge.",
+   "avvertenze": "I consumatori che avessero acquistato confezioni appartenenti al lotto indicato sono pregati di riportarlo presso il punto vendita di acquisto. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/06/2025 Marchio del prodotto: Happy Dì",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 26/06/2025 Marchio del prodotto: Happy Dì\nDenominazione di vendita: Caffè macinato classico\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex Gruppo Commerciale S.p.A.\ncommercializzato:\nLotto di produzione: B26A\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Gruppo Gimoka S.p.A.\nSede dello stabilimento: Via delle Industrie 4/A - 10, 23009 - Andalo Valtellino (SO)\nData di scadenza o termine minimo di conservazione: 26/02/2027\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nPossibile presenza di ocratossina A oltre i limiti di legge.\nAvvertenze:\nI consumatori che avessero acquistato confezioni appartenenti al lotto indicato sono pregati di riportarlo\npresso il punto vendita di acquisto.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:10+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:10+00:00"
+ },
+ "calamari-indopacifici-puliti-if": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/calamari-indopacifici-puliti-if/",
+  "titolo": "Calamari indopacifici puliti IF",
+  "data_pubblicazione": "2025-06-05",
+  "marca": "La Ciurma",
+  "denominazione": "Calamari indopacifici puliti IF",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761207533.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo_1761207533.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761207533.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "calamari-indopacifici-puliti-if",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:42:03+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:03+00:00"
+ },
+ "cozze-mytilus-galloprovincialis": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-mytilus-galloprovincialis/",
+  "titolo": "Cozze ( Mytilus Galloprovincialis)",
+  "data_pubblicazione": "2025-06-06",
+  "marca": "Adriatica srl",
+  "denominazione": "Cozze ( Mytilus Galloprovincialis)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modelloministerialenegozio04_06_25_1761207553.pdf",
+  "allegati": [
+   {
+    "titolo": "modelloministerialenegozio04_06_25_1761207553.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modelloministerialenegozio04_06_25_1761207553.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cozze-mytilus-galloprovincialis",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:41:55+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:55+00:00"
+ },
+ "croccante-d-5x2kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croccante-d-5x2kg/",
+  "titolo": "Croccante D 5x2kg",
+  "data_pubblicazione": "2025-06-27",
+  "marca": "Zeelandia Spa",
+  "denominazione": "Croccante D 5x2kg",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761207651.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo_1761207651.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761207651.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "croccante-d-5x2kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:03+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:03+00:00"
+ },
+ "cuore-cerastoderma-spp": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuore-cerastoderma-spp/",
+  "titolo": "Cuore (Cerastoderma spp.)",
+  "data_pubblicazione": "2025-06-03",
+  "marca": "Nieddittas",
+  "denominazione": "Cuore (Cerastoderma spp.)",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Prodotti%20_%20CUORE%20Modello%20Ministero%20_1__1761207518.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo Prodotti _ CUORE Modello Ministero _1__1761207518.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Prodotti%20_%20CUORE%20Modello%20Ministero%20_1__1761207518.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cuore-cerastoderma-spp",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:42:23+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:23+00:00"
+ },
+ "dmbio-spalmabile-anacardi-lamponi-250g-dan-2477707": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/dmbio-spalmabile-anacardi-lamponi-250g-dan-2477707/",
+  "titolo": "dmBio Spalmabile anacardi lamponi 250g (DAN 2477707)",
+  "data_pubblicazione": "2025-06-05",
+  "marca": "dm drogerie markt srl",
+  "denominazione": "dmBio Spalmabile anacardi lamponi 250g (DAN 2477707)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoBioSpalmabileAnacardiLamponi_1761207526.pdf",
+  "allegati": [
+   {
+    "titolo": "CartellodirichiamoBioSpalmabileAnacardiLamponi_1761207526.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodirichiamoBioSpalmabileAnacardiLamponi_1761207526.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "dmbio-spalmabile-anacardi-lamponi-250g-dan-2477707",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "dmBio Spalmabile anacardi lamponi 250g (DAN 2477707)",
+   "operatore": "dm drogerie markt srl",
+   "lotti": [
+    "scadenze fino a 28.04.26 compresa"
+   ],
+   "marchio_identificazione": "dm drogerie markt srl",
+   "produttore": "Walter Lang GmbH",
+   "sede_stabilimento": "Hauptstraße 12, 49457 Drebber (Germania)",
+   "scadenza": "fino 28/04/2026",
+   "peso_volume": "250 g",
+   "motivo_esteso": "nei pezzi con scadenze fino a 28.04.2026 compresa non si può escludere la presenza di salmonella. Si invita la clientela a non consumare il prodotto con le scadenze indicate e a riportarlo in filiale, ove verrà rimborsato o sostituito. Se il prodotto fosse già stato consumato e si manifestassero sintomi come diarrea, mal di stomaco, mal di testa, febbre leggera, contattare un medico.",
+   "avvertenze": "Sono interessati i pezzi con TUTTE LE SCADENZE FINO ALLA SCADENZA 28.04.2026 COMPRESA.",
+   "campi_extra": {
+    "Data": "27/05/2025 Marchio del prodotto: dmBio"
+   },
+   "testo": "RICHIAMO\nData: 27/05/2025 Marchio del prodotto: dmBio\nDenominazione di vendita:dmBio Spalmabile anacardi lamponi 250g (DAN 2477707)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è dm drogerie markt srl\ncommercializzato:\nLotto di produzione: scadenze fino a 28.04.26 compresa\nMarchio di identificazione dello stabilimento/del produttore: dm drogerie markt srl\nNome del produttore: Walter Lang GmbH\nSede dello stabilimento: Hauptstraße 12, 49457 Drebber (Germania)\nData di scadenza o termine minimo di conservazione: fino 28/04/2026\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nnei pezzi con scadenze fino a 28.04.2026 compresa non si può escludere la presenza di salmonella. Si\ninvita la clientela a non consumare il prodotto con le scadenze indicate e a riportarlo in filiale, ove verrà\nrimborsato o sostituito. Se il prodotto fosse già stato consumato e si manifestassero sintomi come diarrea,\nmal di stomaco, mal di testa, febbre leggera, contattare un medico.\nAvvertenze:\nSono interessati i pezzi con TUTTE LE SCADENZE FINO ALLA SCADENZA 28.04.2026 COMPRESA."
+  },
+  "prima_rilevazione": "2026-10-24T22:41:58+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:58+00:00"
+ },
+ "filetti-di-acciughe-di-sicilia-olio-extravergine-di-oliva": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-di-sicilia-olio-extravergine-di-oliva/",
+  "titolo": "FILETTI DI ACCIUGHE DI SICILIA IN OLIO EXTRAVERGINE DI OLIVA",
+  "data_pubblicazione": "2025-06-27",
+  "marca": "TERRE D'ITALIA",
+  "denominazione": "FILETTI DI ACCIUGHE DI SICILIA IN OLIO EXTRAVERGINE DI OLIVA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20FILETTI%20ACCIUGHE%20TDI_1761208249.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo FILETTI ACCIUGHE TDI_1761208249.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20FILETTI%20ACCIUGHE%20TDI_1761208249.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "filetti-di-acciughe-di-sicilia-olio-extravergine-di-oliva",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FILETTI DI ACCIUGHE DI SICILIA IN OLIO EXTRAVERGINE DI OLIVA",
+   "operatore": "GS S.p.A.",
+   "lotti": [
+    "vedere data scadenza"
+   ],
+   "marchio_identificazione": "IT 779 CE",
+   "produttore": "PESCE AZZURRO CEFALU' srl",
+   "sede_stabilimento": "Contrada Presidiana 90015 Cefalù (PA)",
+   "scadenza": "17.03.2026",
+   "peso_volume": "156 g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI ISTAMINA OLTRE I LIMITI DI LEGGE",
+   "avvertenze": "Si invitano i clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e riportarlo nel punto vendita di acquisto Per chiarimenti i clienti possono contattare il numero verde 800 650 650",
+   "campi_extra": {
+    "Data": "13/06/2025 Marchio del prodotto: TERRE D'ITALIA"
+   },
+   "testo": "RICHIAMO\nData: 13/06/2025 Marchio del prodotto: TERRE D'ITALIA\nDenominazione di vendita:FILETTI DI ACCIUGHE DI SICILIA IN OLIO EXTRAVERGINE DI OLIVA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GS S.p.A.\ncommercializzato:\nLotto di produzione: vedere data scadenza\nMarchio di identificazione dello stabilimento/del produttore: IT 779 CE\nNome del produttore: PESCE AZZURRO CEFALU' srl\nSede dello stabilimento: Contrada Presidiana 90015 Cefalù (PA)\nData di scadenza o termine minimo di conservazione: 17.03.2026\nDescrizione peso/volume unità di vendita: 156 g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI ISTAMINA OLTRE I LIMITI DI LEGGE\nAvvertenze:\nSi invitano i clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e riportarlo nel\npunto vendita di acquisto\nPer chiarimenti i clienti possono contattare il numero verde 800 650 650"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:05+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:05+00:00"
+ },
+ "formaggio-agrel-stagionato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-agrel-stagionato/",
+  "titolo": "Formaggio AGREL stagionato",
+  "data_pubblicazione": "2025-06-09",
+  "marca": "Casearia Arnoldi",
+  "denominazione": "Formaggio AGREL stagionato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20AGREL%20STAG.%20LOTTO%20520020_1761207557.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO RICHIAMO AGREL STAG. LOTTO 520020_1761207557.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20AGREL%20STAG.%20LOTTO%20520020_1761207557.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-agrel-stagionato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "AGREL STAGIONATO",
+   "operatore": "CASEARIA ARNOLDI VALTALEGGIO SRL",
+   "lotti": [
+    "LOTTO 520020"
+   ],
+   "marchio_identificazione": "CE IT 03 272",
+   "produttore": "CASEARIA ARNOLDI VALTALEGGIO SRL",
+   "sede_stabilimento": "VIA PIAZZE 156 24010 TALEGGIO (BG)",
+   "scadenza": "12/06/2025",
+   "peso_volume": "FORMAGGINI SFUSI CONFEZIONATI IN VASCHE DA 850 GR CA RISCONTRATA PRESENZA LISTERIA MONOCYTOGENES (presente/25g) Inserire immagine due: Inserire immagine uno",
+   "campi_extra": {
+    "Data": "30/05/2025 Marchio del prodotto:"
+   },
+   "testo": "RICHIAMO\nARNOLDI\nData: 30/05/2025 Marchio del prodotto:\nDenominazione di vendita: AGREL STAGIONATO\nNome o ragione sociale dell'OSA CASEARIA ARNOLDI VALTALEGGIO SRL\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: LOTTO 520020\nMarchio di identificazione dello stabilimento/del produttore: CE IT 03 272\nNome del produttore: CASEARIA ARNOLDI VALTALEGGIO SRL\nSede dello stabilimento: VIA PIAZZE 156 24010 TALEGGIO (BG)\nData di scadenza o termine minimo di conservazione: 12/06/2025\nDescrizione peso/volume unità di vendita: FORMAGGINI SFUSI CONFEZIONATI IN VASCHE DA 850 GR CA\nRISCONTRATA PRESENZA LISTERIA MONOCYTOGENES (presente/25g)\nInserire immagine due:\nInserire immagine uno:"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:53+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:53+00:00"
+ },
+ "formaggio-nostrano-montanaro": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-nostrano-montanaro/",
+  "titolo": "Formaggio nostrano montanaro",
+  "data_pubblicazione": "2025-06-05",
+  "marca": "Bertolino Srl",
+  "denominazione": "Formaggio nostrano montanaro",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761207529.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_1761207529.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761207529.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-nostrano-montanaro",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:42:01+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:01+00:00"
+ },
+ "g0044-mozart-chocolate-black-dark-17-cl-50": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/g0044-mozart-chocolate-black-dark-17-cl-50/",
+  "titolo": "G0044 MOZART CHOCOLATE BLACK / DARK 17 CL 50",
+  "data_pubblicazione": "2025-06-18",
+  "marca": "MOZART",
+  "denominazione": "G0044 MOZART CHOCOLATE BLACK / DARK 17 CL 50",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20BLACK%20DARK%20_1__1761207631.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO DI RICHIAMO MOZART CHOCOLATE BLACK DARK _1__1761207631.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20BLACK%20DARK%20_1__1761207631.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "g0044-mozart-chocolate-black-dark-17-cl-50",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:19+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:19+00:00"
+ },
+ "g0271-mozart-cioccolato-white-15-cl-50": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/g0271-mozart-cioccolato-white-15-cl-50/",
+  "titolo": "G0271 MOZART CIOCCOLATO WHITE 15 cl 50",
+  "data_pubblicazione": "2025-06-18",
+  "marca": "MOZART WHITE",
+  "denominazione": "G0271 MOZART CIOCCOLATO WHITE 15 cl 50",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20WHITE%20_1__1761207621.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO DI RICHIAMO MOZART CHOCOLATE WHITE _1__1761207621.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20WHITE%20_1__1761207621.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "g0271-mozart-cioccolato-white-15-cl-50",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:14+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:14+00:00"
+ },
+ "g1623-mozart-chocolate-blackdark-17-cl-70": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/g1623-mozart-chocolate-blackdark-17-cl-70/",
+  "titolo": "G1623 MOZART CHOCOLATE BLACK/DARK 17 CL 70",
+  "data_pubblicazione": "2025-06-18",
+  "marca": "MOZART DARK",
+  "denominazione": "G1623 MOZART CHOCOLATE BLACK/DARK 17 CL 70",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20BLACK%20DARK%202%20_1__1761207626.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO DI RICHIAMO MOZART CHOCOLATE BLACK DARK 2 _1__1761207626.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20DI%20RICHIAMO%20MOZART%20CHOCOLATE%20BLACK%20DARK%202%20_1__1761207626.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "g1623-mozart-chocolate-blackdark-17-cl-70",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:17+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:17+00:00"
+ },
+ "latte-intero-pastorizzato-temperatura-elevata-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-1/",
+  "titolo": "Latte intero pastorizzato a temperatura elevata",
+  "data_pubblicazione": "2025-06-05",
+  "marca": "Latte Verona",
+  "denominazione": "Latte intero pastorizzato a temperatura elevata",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Latte%20Verona_1761207537.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca richiamo Latte Verona_1761207537.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Latte%20Verona_1761207537.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "latte-intero-pastorizzato-temperatura-elevata-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "latte intero pastorizzato a temperatura elevata",
+   "operatore": "Centro Lattiero Caseario Latte Verona S.c.a.r.l. Strada Bresciana,74-37139",
+   "lotti": [
+    "15/05/25 B"
+   ],
+   "marchio_identificazione": "Centrale del Latte d'Italia S.p.A.",
+   "produttore": "Centrale del Latte d'Italia S.p.A.",
+   "sede_stabilimento": "via A. Faedo, 60 Vicenza",
+   "scadenza": "15/05/25",
+   "peso_volume": "1 litro",
+   "avvertenze": "Non consumare il prodotto, restituire al punto vendita",
+   "campi_extra": {
+    "Data": "22/05/2025 Marchio del prodotto: Latte Verona"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/05/2025 Marchio del prodotto: Latte Verona\nDenominazione di vendita:latte intero pastorizzato a temperatura elevata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Centro Lattiero Caseario Latte Verona S.c.a.r.l. Strada Bresciana,74-37139\ncommercializzato:\nLotto di produzione: 15/05/25 B\nMarchio di identificazione dello stabilimento/del produttore: Centrale del Latte d'Italia S.p.A.\nNome del produttore: Centrale del Latte d'Italia S.p.A.\nSede dello stabilimento: via A. Faedo, 60 Vicenza\nData di scadenza o termine minimo di conservazione: 15/05/25\nDescrizione peso/volume unità di vendita: 1 litro\nMotivo del richiamo:\nLotto con possibile presenza di corpi estranei\nAvvertenze:\nNon consumare il prodotto, restituire al punto vendita\ndata di scadenza e lotto 15/05/25 B stampato sul collo della bottiglia\nPRODOTTO SCADUTO IL 15/05/25"
+  },
+  "prima_rilevazione": "2026-10-24T22:42:05+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:05+00:00"
+ },
+ "latte-intero-pastorizzato-temperatura-elevata-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-2/",
+  "titolo": "Latte intero pastorizzato a temperatura elevata",
+  "data_pubblicazione": "2025-06-05",
+  "marca": "Latte Giglio",
+  "denominazione": "Latte intero pastorizzato a temperatura elevata",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Giglio_1761207541.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca richiamo Giglio_1761207541.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Giglio_1761207541.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "latte-intero-pastorizzato-temperatura-elevata-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "latte intero pastorizzato a temperatura elevata",
+   "operatore": "Centrale del Latte d'Italia S.p.A. via Filadelfia, 220 -Torino",
+   "lotti": [
+    "15/05/25 B"
+   ],
+   "marchio_identificazione": "Centrale del Latte d'Italia S.p.A.",
+   "produttore": "Centrale del Latte d'Italia S.p.A.",
+   "sede_stabilimento": "via A. Faedo, 60 Vicenza",
+   "scadenza": "15/05/25",
+   "peso_volume": "1 litro",
+   "avvertenze": "Non consumare il prodotto, restituire al punto vendita",
+   "campi_extra": {
+    "Data": "22/05/2025 Marchio del prodotto: Giglio"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/05/2025 Marchio del prodotto: Giglio\nDenominazione di vendita:latte intero pastorizzato a temperatura elevata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Centrale del Latte d'Italia S.p.A. via Filadelfia, 220 -Torino\ncommercializzato:\nLotto di produzione: 15/05/25 B\nMarchio di identificazione dello stabilimento/del produttore: Centrale del Latte d'Italia S.p.A.\nNome del produttore: Centrale del Latte d'Italia S.p.A.\nSede dello stabilimento: via A. Faedo, 60 Vicenza\nData di scadenza o termine minimo di conservazione: 15/05/25\nDescrizione peso/volume unità di vendita: 1 litro\nMotivo del richiamo:\nLotto con possibile presenza di corpi estranei\nAvvertenze:\nNon consumare il prodotto, restituire al punto vendita\ndata di scadenza e lotto 15/05/25 B stampato sul collo della bottiglia\nPRODOTTO SCADUTO IL 15/05/25"
+  },
+  "prima_rilevazione": "2026-10-24T22:42:08+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:08+00:00"
+ },
+ "latte-intero-pastorizzato-temperatura-elevata-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-3/",
+  "titolo": "Latte intero pastorizzato a temperatura elevata",
+  "data_pubblicazione": "2025-06-05",
+  "marca": "Cappuccino Lovers",
+  "denominazione": "Latte intero pastorizzato a temperatura elevata",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Cap.Lovers_1761207545.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca richiamo Cap.Lovers_1761207545.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Cap.Lovers_1761207545.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "latte-intero-pastorizzato-temperatura-elevata-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "latte intero pastorizzato a temperatura elevata",
+   "operatore": "Centrale del Latte d'Italia S.p.A. via Filadelfia, 220 -Torino",
+   "lotti": [
+    "17/05/25 B"
+   ],
+   "marchio_identificazione": "Centrale del Latte d'Italia S.p.A.",
+   "produttore": "Centrale del Latte d'Italia S.p.A.",
+   "sede_stabilimento": "via A. Faedo, 60 Vicenza",
+   "scadenza": "17/05/25",
+   "peso_volume": "1 litro",
+   "avvertenze": "Non consumare il prodotto, restituire al punto vendita",
+   "campi_extra": {
+    "Data": "22/05/2025 Marchio del prodotto: Cappuccino Lovers"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/05/2025 Marchio del prodotto: Cappuccino Lovers\nDenominazione di vendita:latte intero pastorizzato a temperatura elevata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Centrale del Latte d'Italia S.p.A. via Filadelfia, 220 -Torino\ncommercializzato:\nLotto di produzione: 17/05/25 B\nMarchio di identificazione dello stabilimento/del produttore: Centrale del Latte d'Italia S.p.A.\nNome del produttore: Centrale del Latte d'Italia S.p.A.\nSede dello stabilimento: via A. Faedo, 60 Vicenza\nData di scadenza o termine minimo di conservazione: 17/05/25\nDescrizione peso/volume unità di vendita: 1 litro\nMotivo del richiamo:\nLotto con possibile presenza di corpi estranei\nAvvertenze:\nNon consumare il prodotto, restituire al punto vendita\ndata di scadenza e lotto 17/05/25 B stampato sul collo della bottiglia\nPRODOTTO SCADUTO IL 17/05/25"
+  },
+  "prima_rilevazione": "2026-10-24T22:42:10+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:10+00:00"
+ },
+ "latte-intero-pastorizzato-temperatura-elevata-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latte-intero-pastorizzato-temperatura-elevata-4/",
+  "titolo": "Latte intero pastorizzato a temperatura elevata",
+  "data_pubblicazione": "2025-06-05",
+  "marca": "Fior di Maso",
+  "denominazione": "Latte intero pastorizzato a temperatura elevata",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Ca%20Form_1761207549.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca richiamo Ca Form_1761207549.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20richiamo%20Ca%20Form_1761207549.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "latte-intero-pastorizzato-temperatura-elevata-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "latte intero pastorizzato a temperatura elevata",
+   "operatore": "Ca Form srl via Brigata Mazzini, 14 - Thiene (VI)",
+   "lotti": [
+    "15/05/25 B"
+   ],
+   "marchio_identificazione": "Centrale del Latte d'Italia S.p.A.",
+   "produttore": "Centrale del Latte d'Italia S.p.A.",
+   "sede_stabilimento": "via A. Faedo, 60 Vicenza",
+   "scadenza": "15/05/25",
+   "peso_volume": "1 litro",
+   "avvertenze": "Non consumare il prodotto, restituire al punto vendita",
+   "campi_extra": {
+    "Data": "22/05/2025 Marchio del prodotto: Fior di Maso"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/05/2025 Marchio del prodotto: Fior di Maso\nDenominazione di vendita:latte intero pastorizzato a temperatura elevata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Ca Form srl via Brigata Mazzini, 14 - Thiene (VI)\ncommercializzato:\nLotto di produzione: 15/05/25 B\nMarchio di identificazione dello stabilimento/del produttore: Centrale del Latte d'Italia S.p.A.\nNome del produttore: Centrale del Latte d'Italia S.p.A.\nSede dello stabilimento: via A. Faedo, 60 Vicenza\nData di scadenza o termine minimo di conservazione: 15/05/25\nDescrizione peso/volume unità di vendita: 1 litro\nMotivo del richiamo:\nLotto con possibile presenza di corpi estranei\nAvvertenze:\nNon consumare il prodotto, restituire al punto vendita\ndata di scadenza e lotto 15/05/25 B stampato sul collo della bottiglia\nPRODOTTO SCADUTO IL 15/05/25"
+  },
+  "prima_rilevazione": "2026-10-24T22:42:12+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:12+00:00"
+ },
+ "liquirizia-polvere-bio-100g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquirizia-polvere-bio-100g/",
+  "titolo": "LIQUIRIZIA IN POLVERE BIO 100G",
+  "data_pubblicazione": "2025-06-03",
+  "marca": "IOBOSCOVIVO",
+  "denominazione": "LIQUIRIZIA IN POLVERE BIO 100G",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Liquirizia%20in%20polvere%20BIO%20100g_1761207522.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo Liquirizia in polvere BIO 100g_1761207522.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Liquirizia%20in%20polvere%20BIO%20100g_1761207522.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "liquirizia-polvere-bio-100g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "LIQUIRIZIA IN POLVERE BIO 100G",
+   "operatore": "IOBOSCOVIVO SRL",
+   "lotti": [
+    "021026 - 050526"
+   ],
+   "produttore": "IOBOSCOVIVO SRL",
+   "sede_stabilimento": "VIA SEMPIONE 26H, 21029 VERGIATE (VA)",
+   "scadenza": "02/10 - 05/05/26",
+   "peso_volume": "100 grammi",
+   "motivo_esteso": "Il richiamo si rende necessario a seguito di controlli di qualità che hanno evidenziato la presenza di Ocratossina A in quantità superiori ai limiti consentiti",
+   "avvertenze": "Si raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel punto vendita di acquisto.",
+   "campi_extra": {
+    "Data": "22/05/2025 Marchio del prodotto: IOBOSCOVIVO"
+   },
+   "testo": "RICHIAMO\nData: 22/05/2025 Marchio del prodotto: IOBOSCOVIVO\nDenominazione di vendita:LIQUIRIZIA IN POLVERE BIO 100G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IOBOSCOVIVO SRL\ncommercializzato:\nLotto di produzione: 021026 - 050526\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: IOBOSCOVIVO SRL\nSede dello stabilimento: VIA SEMPIONE 26H, 21029 VERGIATE (VA)\nData di scadenza o termine minimo di conservazione: 02/10 - 05/05/26\nDescrizione peso/volume unità di vendita: 100 grammi\nMotivo del richiamo:\nIl richiamo si rende necessario a seguito di controlli di qualità che hanno evidenziato la presenza di\nOcratossina A in quantità superiori ai limiti consentiti\nAvvertenze:\nSi raccomanda a tutti i clienti che avessero acquistato il lotto indicato di non consumarlo e di riportarlo nel\npunto vendita di acquisto."
+  },
+  "prima_rilevazione": "2026-10-24T22:42:25+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:25+00:00"
+ },
+ "liquore-mozart-gold-chocolate-cream-17-70-cl": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquore-mozart-gold-chocolate-cream-17-70-cl/",
+  "titolo": "Liquore Mozart Gold Chocolate Cream 17% 70 cl",
+  "data_pubblicazione": "2025-06-13",
+  "marca": "MOZART",
+  "denominazione": "Liquore Mozart Gold Chocolate Cream 17% 70 cl",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Gold%20Chocolate%20Cream_1761207601.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo Gold Chocolate Cream_1761207601.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Gold%20Chocolate%20Cream_1761207601.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "liquore-mozart-gold-chocolate-cream-17-70-cl",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "Mozart del prodotto 70cl",
+   "operatore": "con cui Mozart Distillerie GmbH il prodotto è commercializzato",
+   "lotti": [
+    "L23162 Mozart Distillerie GmbH dello stabilimento"
+   ],
+   "scadenza": "/ Descrizione peso/volume 1,4kg",
+   "motivo_esteso": "lattosio)\"",
+   "avvertenze": "Contiene latte e i suoi derivati (incluso lattosio) Fotografia del prodotto Immagine 1: Fronte - Immagine 2: Retro Immagine1 Immagine2",
+   "campi_extra": {
+    "Mancanza di etichetta con dicitura \"Allergeni": "Contiene latte e i suoi derivati (incluso",
+    "Fotografia del prodotto Immagine 1": "Fronte - Immagine 2: Retro"
+   },
+   "testo": "Modello di RICHIAMO 1\nNome commerciale Liquore Mozart Gold Chocolate Cream 17%\nMarchio del prodotto Mozart\ndel prodotto 70cl\nNome o ragione sociale dell'OSA con cui Mozart Distillerie GmbH\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione L23162 Mozart Distillerie GmbH\ndello stabilimento\nData di scadenza o / Descrizione peso/volume\n1,4kg\ntermine minimo di conservazione unità di vendita\nMancanza di etichetta con dicitura \"Allergeni: Contiene latte e i suoi derivati (incluso\nMotivo del richiamo\nlattosio)\"\nAvvertenze Contiene latte e i suoi derivati (incluso lattosio)\nFotografia del prodotto Immagine 1: Fronte - Immagine 2: Retro\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:29+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:29+00:00"
+ },
+ "liquore-mozart-white-vanilla-chocolate-cream-15-70-cl": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquore-mozart-white-vanilla-chocolate-cream-15-70-cl/",
+  "titolo": "Liquore Mozart White Vanilla Chocolate Cream 15% 70 cl",
+  "data_pubblicazione": "2025-06-13",
+  "marca": "MOZART",
+  "denominazione": "Liquore Mozart White Vanilla Chocolate Cream 15% 70 cl",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20White%20Vanilla%20Chocolate%20Cream_1761207597.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo White Vanilla Chocolate Cream_1761207597.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20White%20Vanilla%20Chocolate%20Cream_1761207597.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "liquore-mozart-white-vanilla-chocolate-cream-15-70-cl",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "Mozart del prodotto Cream 15% 70cl",
+   "operatore": "con cui Mozart Distillerie GmbH il prodotto è commercializzato",
+   "lotti": [
+    "L23161 Mozart Distillerie GmbH dello stabilimento"
+   ],
+   "scadenza": "/ Descrizione peso/volume 1,4kg",
+   "motivo_esteso": "lattosio)\"",
+   "avvertenze": "Contiene latte e i suoi derivati (incluso lattosio) Fotografia del prodotto Immagine 1: Fronte - Immagine 2: Retro Immagine1 Immagine2",
+   "campi_extra": {
+    "Mancanza di etichetta con dicitura \"Allergeni": "Contiene latte e i suoi derivati (incluso",
+    "Fotografia del prodotto Immagine 1": "Fronte - Immagine 2: Retro"
+   },
+   "testo": "Modello di RICHIAMO 1\nNome commerciale Liquore Mozart White Vanilla Chocolate\nMarchio del prodotto Mozart\ndel prodotto Cream 15% 70cl\nNome o ragione sociale dell'OSA con cui Mozart Distillerie GmbH\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione L23161 Mozart Distillerie GmbH\ndello stabilimento\nData di scadenza o / Descrizione peso/volume\n1,4kg\ntermine minimo di conservazione unità di vendita\nMancanza di etichetta con dicitura \"Allergeni: Contiene latte e i suoi derivati (incluso\nMotivo del richiamo\nlattosio)\"\nAvvertenze Contiene latte e i suoi derivati (incluso lattosio)\nFotografia del prodotto Immagine 1: Fronte - Immagine 2: Retro\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:26+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:26+00:00"
+ },
+ "mondiolamortadella-garfagnina": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mondiolamortadella-garfagnina/",
+  "titolo": "MONDIOLA/MORTADELLA GARFAGNINA",
+  "data_pubblicazione": "2025-06-10",
+  "marca": "MONTE ARGEGNA SALUMI",
+  "denominazione": "MONDIOLA/MORTADELLA GARFAGNINA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20%20MONDIOLA%20GARFAGNINA%20_1761207566.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO MORTADELLA  MONDIOLA GARFAGNINA _1761207566.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20MORTADELLA%20%20MONDIOLA%20GARFAGNINA%20_1761207566.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mondiolamortadella-garfagnina",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:41:41+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:41+00:00"
+ },
+ "mozzarella-di-bufala-campana-dop": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-di-bufala-campana-dop/",
+  "titolo": "MOZZARELLA DI BUFALA CAMPANA DOP",
+  "data_pubblicazione": "2025-06-17",
+  "marca": "CILENTO",
+  "denominazione": "MOZZARELLA DI BUFALA CAMPANA DOP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/LOCANDINA%20RICHIAMO%20MBC%20125%20G%20VASCHETTA%20CILENTO%20L%20160_1761207616.pdf",
+  "allegati": [
+   {
+    "titolo": "LOCANDINA RICHIAMO MBC 125 G VASCHETTA CILENTO L 160_1761207616.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/LOCANDINA%20RICHIAMO%20MBC%20125%20G%20VASCHETTA%20CILENTO%20L%20160_1761207616.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mozzarella-di-bufala-campana-dop",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "operatore": "con cui CILENTO S.p.A. il prodotto è commercializzato",
+   "lotti": [
+    "L160 IT 15 332 CE dello stabilimento"
+   ],
+   "scadenza": "09/07/25 Descrizione peso/volume 125 g",
+   "motivo_esteso": "La data di scadenza CORRETTA è 09/07/25 Non consumare il prodotto oltre la data di scadenza CORRETTA 09/07/25",
+   "avvertenze": "Il prodotto può essere reso al punto vendita di riferimento. Per chiarimenti si può inviare una e-mail a quality@cilentospa.it Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "RICHIAMO 1\nNome commerciale CILENTO\nMOZZARELLA DI BUFALA CAMPANA DOP Marchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nCILENTO S.p.A.\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione L160 IT 15 332 CE\ndello stabilimento\nData di scadenza o 09/07/25 Descrizione peso/volume 125 g\ntermine minimo di conservazione unità di vendita\nData di scadenza errata sulla confezione.\nIl prodotto riporta la seguente data di scadenza ERRATA 09/07/26;.\nMotivo del richiamo La data di scadenza CORRETTA è 09/07/25\nNon consumare il prodotto oltre la data di scadenza CORRETTA 09/07/25\nAvvertenze Il prodotto può essere reso al punto vendita di riferimento.\nPer chiarimenti si può inviare una e-mail a quality@cilentospa.it\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:21+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:21+00:00"
+ },
+ "nutella-gelato-nutella-ice-cream-pot": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nutella-gelato-nutella-ice-cream-pot/",
+  "titolo": "NUTELLA GELATO (NUTELLA ICE CREAM POT)",
+  "data_pubblicazione": "2025-06-26",
+  "marca": "FERRERO",
+  "denominazione": "NUTELLA GELATO (NUTELLA ICE CREAM POT)",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Nutella%20Gelato_1761207641.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo Nutella Gelato_1761207641.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Nutella%20Gelato_1761207641.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "nutella-gelato-nutella-ice-cream-pot",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "NUTELLA ICE CREAM POT - COD EAN: 8000500425183",
+   "operatore": "FERRERO COMMERCIALE ITALIA SRL",
+   "lotti": [
+    "vedi immagine 2"
+   ],
+   "marchio_identificazione": "FERRERO",
+   "produttore": "ICE CREAM FACTORY COMAKER",
+   "sede_stabilimento": "Calle de la antigua Avidesa nº 1, 46600 Alzira (Valencia) Spain",
+   "scadenza": "vedi immagine 2",
+   "peso_volume": "230gr; 470ml",
+   "motivo_esteso": "lista ingredienti non in lingua italiana sui barattoli di gelato citati nella immagine 2",
+   "avvertenze": "per reperire la lista ingredienti in italiano consultare il sito: https://www.ferrero.it/nutella-gelato in caso di dubbi o altre segnalazioni contattare il numero verde Ferrero al 800 909690",
+   "campi_extra": {
+    "Data": "23/06/2025 Marchio del prodotto: NUTELLA ICE CREAM"
+   },
+   "testo": "RICHIAMO\nData: 23/06/2025 Marchio del prodotto: NUTELLA ICE CREAM\nDenominazione di vendita:NUTELLA ICE CREAM POT - COD EAN: 8000500425183\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FERRERO COMMERCIALE ITALIA SRL\ncommercializzato:\nLotto di produzione: vedi immagine 2\nMarchio di identificazione dello stabilimento/del produttore: FERRERO\nNome del produttore: ICE CREAM FACTORY COMAKER\nSede dello stabilimento: Calle de la antigua Avidesa nº 1, 46600 Alzira (Valencia) Spain\nData di scadenza o termine minimo di conservazione: vedi immagine 2\nDescrizione peso/volume unità di vendita: 230gr; 470ml\nMotivo del richiamo:\nlista ingredienti non in lingua italiana sui barattoli di gelato citati nella immagine 2\nAvvertenze:\nper reperire la lista ingredienti in italiano consultare il sito: https://www.ferrero.it/nutella-gelato\nin caso di dubbi o altre segnalazioni contattare il numero verde Ferrero al 800 909690"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:07+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:07+00:00"
+ },
+ "salame-di-magliano": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-di-magliano/",
+  "titolo": "SALAME DI MAGLIANO",
+  "data_pubblicazione": "2025-06-10",
+  "marca": "MONTE ARGEGNA SALUMI",
+  "denominazione": "SALAME DI MAGLIANO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ritiro_richiamo%20Ditta%20Monte%20Argegna%20Salumi_1761207561.pdf",
+  "allegati": [
+   {
+    "titolo": "modello ritiro_richiamo Ditta Monte Argegna Salumi_1761207561.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20ritiro_richiamo%20Ditta%20Monte%20Argegna%20Salumi_1761207561.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-di-magliano",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:41:39+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:39+00:00"
+ },
+ "salame-puro-suino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-puro-suino/",
+  "titolo": "SALAME PURO SUINO",
+  "data_pubblicazione": "2025-06-30",
+  "marca": "SALUMIFICIO MOLTONI",
+  "denominazione": "SALAME PURO SUINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salame%20puro%20suino%203_1761208253.pdf",
+  "allegati": [
+   {
+    "titolo": "salame puro suino 3_1761208253.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salame%20puro%20suino%203_1761208253.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-puro-suino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:40:53+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:40:53+00:00"
+ },
+ "salame-suino-bovino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-suino-bovino/",
+  "titolo": "SALAME SUINO BOVINO",
+  "data_pubblicazione": "2025-06-30",
+  "marca": "SALUMIFICIO MOLTONI",
+  "denominazione": "SALAME SUINO BOVINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salame%20suino%20bovino%201_1761208251.pdf",
+  "allegati": [
+   {
+    "titolo": "salame suino bovino 1_1761208251.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salame%20suino%20bovino%201_1761208251.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-suino-bovino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:40:48+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:40:48+00:00"
+ },
+ "salametto-di-asino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-di-asino/",
+  "titolo": "SALAMETTO DI ASINO",
+  "data_pubblicazione": "2025-06-30",
+  "marca": "SALUMIFICIO MOLTONI",
+  "denominazione": "SALAMETTO DI ASINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salametto%20di%20asino%202_1761208252.pdf",
+  "allegati": [
+   {
+    "titolo": "salametto di asino 2_1761208252.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salametto%20di%20asino%202_1761208252.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salametto-di-asino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:40:51+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:40:51+00:00"
+ },
+ "salametto-puro-suino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-puro-suino/",
+  "titolo": "SALAMETTO PURO SUINO",
+  "data_pubblicazione": "2025-06-30",
+  "marca": "SALUMIFICIO MOLTONI",
+  "denominazione": "SALAMETTO PURO SUINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salametto%20puro%20suino%204_1761208255.pdf",
+  "allegati": [
+   {
+    "titolo": "salametto puro suino 4_1761208255.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salametto%20puro%20suino%204_1761208255.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salametto-puro-suino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:40:56+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:40:56+00:00"
+ },
+ "salsiccetta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccetta/",
+  "titolo": "SALSICCETTA",
+  "data_pubblicazione": "2025-06-30",
+  "marca": "SALUMIFICIO MOLTONI",
+  "denominazione": "SALSICCETTA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccetta%205_1761208256.pdf",
+  "allegati": [
+   {
+    "titolo": "salsiccetta 5_1761208256.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccetta%205_1761208256.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccetta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:40:58+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:40:58+00:00"
+ },
+ "salsiccia-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-3/",
+  "titolo": "SALSICCIA",
+  "data_pubblicazione": "2025-06-30",
+  "marca": "SALUMIFICIO MOLTONI",
+  "denominazione": "SALSICCIA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccia%206_1761208258.pdf",
+  "allegati": [
+   {
+    "titolo": "salsiccia 6_1761208258.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/salsiccia%206_1761208258.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:41:00+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:00+00:00"
+ },
+ "salsiccia-stagionata-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-4/",
+  "titolo": "SALSICCIA STAGIONATA",
+  "data_pubblicazione": "2025-06-13",
+  "marca": "DAVID SALUMI SRL",
+  "denominazione": "SALSICCIA STAGIONATA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20David%20Salumi%202_1761207606.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO David Salumi 2_1761207606.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20David%20Salumi%202_1761207606.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALSICCIA STAGIONATA",
+   "operatore": "DAVID SALUMI S.R.L.",
+   "lotti": [
+    "02.04.25B"
+   ],
+   "marchio_identificazione": "B1R3X",
+   "produttore": "DAVID SALUMI S.R.L.",
+   "sede_stabilimento": "VIA IV NOVEMBRE, 147 05010 SAN VENANZO (TR)",
+   "scadenza": "11-10-2025",
+   "peso_volume": "CONFEZIONE ATP KG 2,50 DA VENDERE SFUSE E S.V. KG 0,30",
+   "motivo_esteso": "PRESENZA SALMONELLA INFANTIS",
+   "avvertenze": "SI CHIEDE DI NON CONSUMARE IL PRODOTTO E RESTITUIRE LE CONFEZIONI NON ANCORA CONSUMATE PRESSO IL PUNTO VENDITA DOVE SONO STATE ACQUISTATE.",
+   "campi_extra": {
+    "Data": "13/06/2025 Marchio del prodotto: DAVID SALUMI S.R.L."
+   },
+   "testo": "RICHIAMO\nData: 13/06/2025 Marchio del prodotto: DAVID SALUMI S.R.L.\nDenominazione di vendita: SALSICCIA STAGIONATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DAVID SALUMI S.R.L.\ncommercializzato:\nLotto di produzione: 02.04.25B\nMarchio di identificazione dello stabilimento/del produttore: B1R3X\nNome del produttore: DAVID SALUMI S.R.L.\nSede dello stabilimento: VIA IV NOVEMBRE, 147 05010 SAN VENANZO (TR)\nData di scadenza o termine minimo di conservazione: 11-10-2025\nDescrizione peso/volume unità di vendita: CONFEZIONE ATP KG 2,50 DA VENDERE SFUSE E S.V. KG 0,30\nMotivo del richiamo:\nPRESENZA SALMONELLA INFANTIS\nAvvertenze:\nSI CHIEDE DI NON CONSUMARE IL PRODOTTO E RESTITUIRE LE CONFEZIONI NON ANCORA CONSUMATE\nPRESSO IL PUNTO VENDITA DOVE SONO STATE ACQUISTATE."
+  },
+  "prima_rilevazione": "2026-10-24T22:41:32+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:32+00:00"
+ },
+ "sardina-mar-ligure": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sardina-mar-ligure/",
+  "titolo": "SARDINA MAR LIGURE",
+  "data_pubblicazione": "2025-06-25",
+  "marca": "NESSUN MARCHIO",
+  "denominazione": "SARDINA MAR LIGURE",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761207636.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo_1761207636.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_1761207636.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "sardina-mar-ligure",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:41:12+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:12+00:00"
+ },
+ "spatola-ikea-365-hjalte": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spatola-ikea-365-hjalte/",
+  "titolo": "Spatola Ikea 365 + Hjalte",
+  "data_pubblicazione": "2025-06-12",
+  "marca": "Ikea",
+  "denominazione": "Spatola Ikea 365 + Hjalte",
+  "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spatola_1761207587.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo spatola_1761207587.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spatola_1761207587.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spatola-ikea-365-hjalte",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "spatola IKEA 365+ HJÄLTE",
+   "operatore": "IKEA",
+   "lotti": [
+    "data di produzione 2445 (AASS)"
+   ],
+   "marchio_identificazione": "IKEA",
+   "produttore": "IKEA",
+   "sede_stabilimento": "SVEZIA",
+   "scadenza": "/",
+   "peso_volume": "/",
+   "motivo_esteso": "I valori di migrazione delle ammine aromatiche primarie (AAP) sono state rilevate non conformi",
+   "avvertenze": "clienti in possesso del prodotto con data di produzione 2445 (AASS) (che corrisponde ai prodotti acquistati dopo il mese di Novembre 2024), devono interromperne l'uso e contattare IKEA per ricevere un rimborso completo o la relativa sostituzione. I prodotti interessati possono essere resi presso qualsiasi negozio IKEA e non è richiesta la prova d'acquisto.",
+   "campi_extra": {
+    "Data": "06/06/2025 Marchio del prodotto: IKEA"
+   },
+   "testo": "RICHIAMO\nData: 06/06/2025 Marchio del prodotto: IKEA\nDenominazione di vendita:spatola IKEA 365+ HJÄLTE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IKEA\ncommercializzato:\nLotto di produzione: data di produzione 2445 (AASS)\nMarchio di identificazione dello stabilimento/del produttore: IKEA\nNome del produttore: IKEA\nSede dello stabilimento: SVEZIA\nData di scadenza o termine minimo di conservazione: /\nDescrizione peso/volume unità di vendita: /\nMotivo del richiamo:\nI valori di migrazione delle ammine aromatiche primarie (AAP) sono state rilevate non conformi\nAvvertenze:\nclienti in possesso del prodotto con data di produzione 2445 (AASS) (che corrisponde ai prodotti\nacquistati dopo il mese di Novembre 2024), devono interromperne l'uso e contattare IKEA per ricevere un\nrimborso completo o la relativa sostituzione. I prodotti interessati possono essere resi presso qualsiasi\nnegozio IKEA e non è richiesta la prova d'acquisto."
+  },
+  "prima_rilevazione": "2026-10-24T22:41:34+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:34+00:00"
+ },
+ "spremiaglio-ikea-365-vardefull-nero": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spremiaglio-ikea-365-vardefull-nero/",
+  "titolo": "Spremiaglio Ikea 365 + Vardefull nero",
+  "data_pubblicazione": "2025-06-12",
+  "marca": "Ikea",
+  "denominazione": "Spremiaglio Ikea 365 + Vardefull nero",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spremiaglio_1761207592.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo spremiaglio_1761207592.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20spremiaglio_1761207592.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spremiaglio-ikea-365-vardefull-nero",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "spremiaglio IKEA 365+ VÄRDEFULL nero",
+   "operatore": "IKEA",
+   "lotti": [
+    "data prod. tra la 2411",
+    "la 2522"
+   ],
+   "marchio_identificazione": "IKEA",
+   "produttore": "IKEA",
+   "sede_stabilimento": "SVEZIA",
+   "scadenza": "/",
+   "peso_volume": "/",
+   "motivo_esteso": "A causa di un errore di produzione, durante l’uso alcuni frammenti metallici rischiano di staccarsi ed essere successivamente ingeriti insieme al cibo.",
+   "avvertenze": "I clienti in possesso del prodotto con date di produzione comprese tra la 2411 e la 2522 devono interromperne l'uso e contattare IKEA per ricevere un rimborso completo o la relativa sostituzione. I prodotti interessati possono essere resi presso qualsiasi negozio IKEA e non è richiesta la prova d'acquisto. I prodotti interessati possono essere identificati grazie a una marcatura del logo IKEA sul manico superiore",
+   "campi_extra": {
+    "Data": "11.06.2025 Marchio del prodotto: IKEA"
+   },
+   "testo": "RICHIAMO\nData: 11.06.2025 Marchio del prodotto: IKEA\nDenominazione di vendita:spremiaglio IKEA 365+ VÄRDEFULL nero\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IKEA\ncommercializzato:\nLotto di produzione: data prod. tra la 2411 e la 2522\nMarchio di identificazione dello stabilimento/del produttore: IKEA\nNome del produttore: IKEA\nSede dello stabilimento: SVEZIA\nData di scadenza o termine minimo di conservazione: /\nDescrizione peso/volume unità di vendita: /\nMotivo del richiamo:\nA causa di un errore di produzione, durante l’uso alcuni frammenti metallici rischiano di staccarsi ed essere\nsuccessivamente ingeriti insieme al cibo.\nAvvertenze:\nI clienti in possesso del prodotto con date di produzione comprese tra la 2411 e la 2522 devono\ninterromperne l'uso e contattare IKEA per ricevere un rimborso completo o la relativa sostituzione. I\nprodotti interessati possono essere resi presso qualsiasi negozio IKEA e non è richiesta la prova d'acquisto.\nI prodotti interessati possono essere identificati grazie a una marcatura del logo IKEA sul manico superiore"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:37+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:37+00:00"
+ },
+ "tartufo-dolce-al-caramello-e-nocciole-salate": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-caramello-e-nocciole-salate/",
+  "titolo": "Tartufo dolce al caramello e nocciole salate",
+  "data_pubblicazione": "2025-06-10",
+  "marca": "GOLOSITA' dal 1885 Srl",
+  "denominazione": "Tartufo dolce al caramello e nocciole salate",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20e%20nocciole%20salate_1761207578.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_Richiamo_Tartufo dolce al caramello e nocciole salate_1761207578.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20e%20nocciole%20salate_1761207578.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tartufo-dolce-al-caramello-e-nocciole-salate",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tartufo dolce al caramello e nocciole salate",
+   "operatore": "Golosità dal 1885 Srl",
+   "lotti": [
+    "vedi dettaglio sotto"
+   ],
+   "marchio_identificazione": "Antica Torroneria Piemontese",
+   "produttore": "GOLOSITA' dal 1885 Srl",
+   "sede_stabilimento": "Grinzane Cavour - Via Piana Gallo, 48",
+   "scadenza": "vedi dettaglio",
+   "peso_volume": "Pralina di cioccolato da 7g e 14g",
+   "motivo_esteso": "Presunta presenza di Salmonella.",
+   "avvertenze": "Non consumare. Riconsegnare al punto vendita di acquisto. Dettaglio lotti/scadenze: L519-4 30/05/2026; L516-2 30/04/2026; L520-4 30/05/2026 L522-4 30/06/2026; L522-1 30/06/2026",
+   "campi_extra": {
+    "Data": "06/06/2025 Marchio del prodotto: Antica Torroneria Piemontese",
+    "Dettaglio lotti/scadenze": "L519-4 30/05/2026; L516-2 30/04/2026; L520-4 30/05/2026"
+   },
+   "testo": "RICHIAMO\nData: 06/06/2025 Marchio del prodotto: Antica Torroneria Piemontese\nDenominazione di vendita:Tartufo dolce al caramello e nocciole salate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Golosità dal 1885 Srl\ncommercializzato:\nLotto di produzione: vedi dettaglio sotto\nMarchio di identificazione dello stabilimento/del produttore: Antica Torroneria Piemontese\nNome del produttore: GOLOSITA' dal 1885 Srl\nSede dello stabilimento: Grinzane Cavour - Via Piana Gallo, 48\nData di scadenza o termine minimo di conservazione: vedi dettaglio\nDescrizione peso/volume unità di vendita: Pralina di cioccolato da 7g e 14g\nMotivo del richiamo:\nPresunta presenza di Salmonella.\nAvvertenze:\nNon consumare. Riconsegnare al punto vendita di acquisto.\nDettaglio lotti/scadenze: L519-4 30/05/2026; L516-2 30/04/2026; L520-4 30/05/2026\nL522-4 30/06/2026; L522-1 30/06/2026"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:48+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:48+00:00"
+ },
+ "tartufo-dolce-al-caramello-e-nocciole-salate-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-caramello-e-nocciole-salate-0/",
+  "titolo": "Tartufo dolce al caramello e nocciole salate",
+  "data_pubblicazione": "2025-06-10",
+  "marca": "GOLOSITA' dal 1885 Srl",
+  "denominazione": "Tartufo dolce al caramello e nocciole salate",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20e%20nocciole%20salate%20L%20522_1_1761207583.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_Richiamo_Tartufo dolce al caramello e nocciole salate L 522_1_1761207583.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20e%20nocciole%20salate%20L%20522_1_1761207583.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tartufo-dolce-al-caramello-e-nocciole-salate-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tartufo dolce al caramello e nocciole salate",
+   "operatore": "GOLOSITA' dal 1885 Srl",
+   "lotti": [
+    "L 522-1"
+   ],
+   "marchio_identificazione": "GOLOSITA' dal 1885 Srl",
+   "produttore": "GOLOSITA' dal 1885 Srl",
+   "sede_stabilimento": "Grinzane Cavour (CN) - Via Piana Gallo, 48",
+   "scadenza": "30-06-2026",
+   "peso_volume": "Pralina di cioccolato da 7g",
+   "motivo_esteso": "Presunta presenza di salmonella",
+   "avvertenze": "Non consumare. Riconsegnare al punto vendita di acquisto.",
+   "campi_extra": {
+    "Data": "06/06/2025 Marchio del prodotto: Prodotto in incarto anonimo"
+   },
+   "testo": "RICHIAMO\nData: 06/06/2025 Marchio del prodotto: Prodotto in incarto anonimo\nDenominazione di vendita:Tartufo dolce al caramello e nocciole salate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GOLOSITA' dal 1885 Srl\ncommercializzato:\nLotto di produzione: L 522-1\nMarchio di identificazione dello stabilimento/del produttore: GOLOSITA' dal 1885 Srl\nNome del produttore: GOLOSITA' dal 1885 Srl\nSede dello stabilimento: Grinzane Cavour (CN) - Via Piana Gallo, 48\nData di scadenza o termine minimo di conservazione: 30-06-2026\nDescrizione peso/volume unità di vendita: Pralina di cioccolato da 7g\nMotivo del richiamo:\nPresunta presenza di salmonella\nAvvertenze:\nNon consumare. Riconsegnare al punto vendita di acquisto."
+  },
+  "prima_rilevazione": "2026-10-24T22:41:51+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:51+00:00"
+ },
+ "tartufo-dolce-al-caramello-salato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-caramello-salato/",
+  "titolo": "Tartufo dolce al caramello salato",
+  "data_pubblicazione": "2025-06-10",
+  "marca": "GOLOSITA' dal 1885 Srl",
+  "denominazione": "Tartufo dolce al caramello salato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20salato_1761207574.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_Richiamo_Tartufo dolce al caramello salato_1761207574.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20caramello%20salato_1761207574.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tartufo-dolce-al-caramello-salato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tartufo dolce al caramello salato",
+   "operatore": "GOLOSITA' dal 1885 Srl",
+   "lotti": [
+    "vedi dettaglio sotto"
+   ],
+   "marchio_identificazione": "GOLOSITA' dal 1885 Srl",
+   "produttore": "GOLOSITA' dal 1885 Srl",
+   "sede_stabilimento": "Grinzane Cavour - Via Piana Gallo, 48",
+   "scadenza": "vedi dettaglio",
+   "peso_volume": "Pralina di cioccolato 14g",
+   "motivo_esteso": "Presunta presenza di Salmonella.",
+   "avvertenze": "Non consumare. Riconsegnare al punto vendita di acquisto. Dettaglio lotti/scadenze: L516-2 30/04/2026; L518-3 30/05/2026; L519-2 30/05/2026 L520-4 30/05/2026",
+   "campi_extra": {
+    "Data": "06/06/2025 Marchio del prodotto: Viani",
+    "Dettaglio lotti/scadenze": "L516-2 30/04/2026; L518-3 30/05/2026; L519-2 30/05/2026"
+   },
+   "testo": "RICHIAMO\nData: 06/06/2025 Marchio del prodotto: Viani\nDenominazione di vendita:Tartufo dolce al caramello salato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GOLOSITA' dal 1885 Srl\ncommercializzato:\nLotto di produzione: vedi dettaglio sotto\nMarchio di identificazione dello stabilimento/del produttore: GOLOSITA' dal 1885 Srl\nNome del produttore: GOLOSITA' dal 1885 Srl\nSede dello stabilimento: Grinzane Cavour - Via Piana Gallo, 48\nData di scadenza o termine minimo di conservazione: vedi dettaglio\nDescrizione peso/volume unità di vendita: Pralina di cioccolato 14g\nMotivo del richiamo:\nPresunta presenza di Salmonella.\nAvvertenze:\nNon consumare. Riconsegnare al punto vendita di acquisto.\nDettaglio lotti/scadenze: L516-2 30/04/2026; L518-3 30/05/2026; L519-2 30/05/2026\nL520-4 30/05/2026"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:46+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:46+00:00"
+ },
+ "tartufo-dolce-al-flor-de-sal-e-caramello": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartufo-dolce-al-flor-de-sal-e-caramello/",
+  "titolo": "Tartufo dolce al Flor de Sal e Caramello",
+  "data_pubblicazione": "2025-06-10",
+  "marca": "GOLOSITA' dal 1885 Srl",
+  "denominazione": "Tartufo dolce al Flor de Sal e Caramello",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20flor%20de%20sal%20e%20caramello_1761207570.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_Richiamo_Tartufo dolce al flor de sal e caramello_1761207570.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Richiamo_Tartufo%20dolce%20al%20flor%20de%20sal%20e%20caramello_1761207570.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tartufo-dolce-al-flor-de-sal-e-caramello",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tartufo dolce al Flor de Sal e Caramello",
+   "operatore": "GOLOSITA' dal 1885 Srl",
+   "lotti": [
+    "vedi dettaglio sotto"
+   ],
+   "marchio_identificazione": "GOLOSITA' dal 1885 Srl",
+   "produttore": "GOLOSITA' dal 1885 Srl",
+   "sede_stabilimento": "Grinzane Cavour - Via Piana Gallo, 48",
+   "scadenza": "vedi dettaglio",
+   "peso_volume": "Pralina di cioccolato 14g",
+   "motivo_esteso": "Presunta presenza di Salmonella.",
+   "avvertenze": "Non consumare. Riconsegnare al punto vendita di acquisto. Dettaglio lotti/scadenze: - L515-5 scadenza 30/04/2026 - L521-1 scadenza 30/05/2026",
+   "campi_extra": {
+    "Data": "06/06/2025 Marchio del prodotto: Sal de Ibiza"
+   },
+   "testo": "RICHIAMO\nData: 06/06/2025 Marchio del prodotto: Sal de Ibiza\nDenominazione di vendita:Tartufo dolce al Flor de Sal e Caramello\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GOLOSITA' dal 1885 Srl\ncommercializzato:\nLotto di produzione: vedi dettaglio sotto\nMarchio di identificazione dello stabilimento/del produttore: GOLOSITA' dal 1885 Srl\nNome del produttore: GOLOSITA' dal 1885 Srl\nSede dello stabilimento: Grinzane Cavour - Via Piana Gallo, 48\nData di scadenza o termine minimo di conservazione: vedi dettaglio\nDescrizione peso/volume unità di vendita: Pralina di cioccolato 14g\nMotivo del richiamo:\nPresunta presenza di Salmonella.\nAvvertenze:\nNon consumare. Riconsegnare al punto vendita di acquisto.\nDettaglio lotti/scadenze:\n- L515-5 scadenza 30/04/2026\n- L521-1 scadenza 30/05/2026"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:44+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:44+00:00"
+ },
+ "vongola-verace": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-verace/",
+  "titolo": "Vongola verace",
+  "data_pubblicazione": "2025-06-14",
+  "marca": "Mitilmare",
+  "denominazione": "Vongola verace",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20rititiro%20richiamo_1761207611.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello rititiro richiamo_1761207611.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20rititiro%20richiamo_1761207611.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vongola-verace",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "E-mail": "purificatosrl@pec.it"
+   },
+   "testo": "Purificato S.r.l.\nPiazza Risorgimento, 5\n04023 Formia (LT)\nTel. +39.0771.21482 Fax +39.0771.266737\nE-mail: purificatosrl@pec.it\nP.IVA e C.F. 01940030594"
+  },
+  "prima_rilevazione": "2026-10-24T22:41:24+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:41:24+00:00"
+ },
+ "vongola-verace-ruditapes-decussatus": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vongola-verace-ruditapes-decussatus/",
+  "titolo": "Vongola verace (Ruditapes decussatus)",
+  "data_pubblicazione": "2025-06-03",
+  "marca": "Nieddittas",
+  "denominazione": "Vongola verace (Ruditapes decussatus)",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Prodotti%20_%20VONGOLE%20Modello%20Ministero%20_1__1761207515.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo Prodotti _ VONGOLE Modello Ministero _1__1761207515.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Prodotti%20_%20VONGOLE%20Modello%20Ministero%20_1__1761207515.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vongola-verace-ruditapes-decussatus",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:42:21+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:42:21+00:00"
+ }
+}

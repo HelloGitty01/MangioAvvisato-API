@@ -1,0 +1,930 @@
+{
+ "acqua-minerale-naturale-oligominerale-15-lt": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-oligominerale-15-lt/",
+  "titolo": "Acqua Minerale Naturale Oligominerale 1,5 lt",
+  "data_pubblicazione": "2022-08-02",
+  "marca": "Fonte Valle Reale",
+  "denominazione": "Acqua Minerale Naturale Oligominerale 1,5 lt",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1761192036.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo di richiamo_1761192036.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo_1761192036.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "acqua-minerale-naturale-oligominerale-15-lt",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:52+00:00"
+ },
+ "bevanda-analcolica-18": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-18/",
+  "titolo": "Bevanda analcolica",
+  "data_pubblicazione": "2022-08-18",
+  "marca": "Coca-cola Original Taste",
+  "denominazione": "Bevanda analcolica",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%201_1761192075.pdf",
+  "allegati": [
+   {
+    "titolo": "All. 3 Modulo Ministero 1_1761192075.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%201_1761192075.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-analcolica-18",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda analcolica",
+   "operatore": "Coca-Cola HBC Italia s.r.l.",
+   "lotti": [
+    "L2207087N"
+   ],
+   "produttore": "Coca-Cola HBC Italia SRL",
+   "sede_stabilimento": "Nogara (VR)",
+   "scadenza": "08-07-2023",
+   "peso_volume": "Bottiglie in vetro da 1L in confezione da 9",
+   "motivo_esteso": "Errata etichettatura, il prodotto contiene zucchero. La bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene zucchero.",
+   "avvertenze": "Vi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli coinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "13/08/2022 Marchio del prodotto: Coca-Cola Original Taste",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 13/08/2022 Marchio del prodotto: Coca-Cola Original Taste\nDenominazione di vendita:Bevanda analcolica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coca-Cola HBC Italia s.r.l.\ncommercializzato:\nLotto di produzione: L2207087N\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Coca-Cola HBC Italia SRL\nSede dello stabilimento: Nogara (VR)\nData di scadenza o termine minimo di conservazione: 08-07-2023\nDescrizione peso/volume unità di vendita: Bottiglie in vetro da 1L in confezione da 9\nMotivo del richiamo:\nErrata etichettatura, il prodotto contiene zucchero.\nLa bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene\nzucchero.\nAvvertenze:\nVi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli\ncoinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:56+00:00"
+ },
+ "bevanda-analcolica-19": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-19/",
+  "titolo": "Bevanda analcolica",
+  "data_pubblicazione": "2022-08-18",
+  "marca": "Coca - Cola Original Taste",
+  "denominazione": "Bevanda analcolica",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%202_1761192078.pdf",
+  "allegati": [
+   {
+    "titolo": "All. 3 Modulo Ministero 2_1761192078.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%202_1761192078.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-analcolica-19",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda analcolica",
+   "operatore": "Coca-Cola HBC Italia s.r.l.",
+   "lotti": [
+    "L2207077N"
+   ],
+   "produttore": "Coca-Cola HBC Italia SRL",
+   "sede_stabilimento": "Nogara (VR)",
+   "scadenza": "07-07-2023",
+   "peso_volume": "Bottiglie in vetro da 1L in confezione da 9",
+   "motivo_esteso": "Errata etichettatura, il prodotto contiene zucchero. La bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene zucchero.",
+   "avvertenze": "Vi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli coinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "13/08/2022 Marchio del prodotto: Coca-Cola Original Taste",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 13/08/2022 Marchio del prodotto: Coca-Cola Original Taste\nDenominazione di vendita:Bevanda analcolica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coca-Cola HBC Italia s.r.l.\ncommercializzato:\nLotto di produzione: L2207077N\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Coca-Cola HBC Italia SRL\nSede dello stabilimento: Nogara (VR)\nData di scadenza o termine minimo di conservazione: 07-07-2023\nDescrizione peso/volume unità di vendita: Bottiglie in vetro da 1L in confezione da 9\nMotivo del richiamo:\nErrata etichettatura, il prodotto contiene zucchero.\nLa bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene\nzucchero.\nAvvertenze:\nVi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli\ncoinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:59+00:00"
+ },
+ "bevanda-analcolica-20": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-20/",
+  "titolo": "Bevanda analcolica",
+  "data_pubblicazione": "2022-08-18",
+  "marca": "Coca- Cola Original Taste",
+  "denominazione": "Bevanda analcolica",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%201_1761192080.pdf",
+  "allegati": [
+   {
+    "titolo": "All. 3 Modulo Ministero 1_1761192080.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%201_1761192080.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "bevanda-analcolica-20",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda analcolica",
+   "operatore": "Coca-Cola HBC Italia s.r.l.",
+   "lotti": [
+    "L2207087N"
+   ],
+   "produttore": "Coca-Cola HBC Italia SRL",
+   "sede_stabilimento": "Nogara (VR)",
+   "scadenza": "08-07-2023",
+   "peso_volume": "Bottiglie in vetro da 1L in confezione da 9",
+   "motivo_esteso": "Errata etichettatura, il prodotto contiene zucchero. La bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene zucchero.",
+   "avvertenze": "Vi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli coinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "13/08/2022 Marchio del prodotto: Coca-Cola Original Taste",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 13/08/2022 Marchio del prodotto: Coca-Cola Original Taste\nDenominazione di vendita:Bevanda analcolica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coca-Cola HBC Italia s.r.l.\ncommercializzato:\nLotto di produzione: L2207087N\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Coca-Cola HBC Italia SRL\nSede dello stabilimento: Nogara (VR)\nData di scadenza o termine minimo di conservazione: 08-07-2023\nDescrizione peso/volume unità di vendita: Bottiglie in vetro da 1L in confezione da 9\nMotivo del richiamo:\nErrata etichettatura, il prodotto contiene zucchero.\nLa bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene\nzucchero.\nAvvertenze:\nVi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli\ncoinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:01+00:00"
+ },
+ "bevanda-analcolica-21": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-21/",
+  "titolo": "Bevanda analcolica",
+  "data_pubblicazione": "2022-08-18",
+  "marca": "Coca-Cola Original Taste",
+  "denominazione": "Bevanda analcolica",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%202_1761192083.pdf",
+  "allegati": [
+   {
+    "titolo": "All. 3 Modulo Ministero 2_1761192083.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/All.%203%20Modulo%20Ministero%202_1761192083.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "bevanda-analcolica-21",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda analcolica",
+   "operatore": "Coca-Cola HBC Italia s.r.l.",
+   "lotti": [
+    "L2207077N"
+   ],
+   "produttore": "Coca-Cola HBC Italia SRL",
+   "sede_stabilimento": "Nogara (VR)",
+   "scadenza": "07-07-2023",
+   "peso_volume": "Bottiglie in vetro da 1L in confezione da 9",
+   "motivo_esteso": "Errata etichettatura, il prodotto contiene zucchero. La bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene zucchero.",
+   "avvertenze": "Vi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli coinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "13/08/2022 Marchio del prodotto: Coca-Cola Original Taste",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 13/08/2022 Marchio del prodotto: Coca-Cola Original Taste\nDenominazione di vendita:Bevanda analcolica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coca-Cola HBC Italia s.r.l.\ncommercializzato:\nLotto di produzione: L2207077N\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Coca-Cola HBC Italia SRL\nSede dello stabilimento: Nogara (VR)\nData di scadenza o termine minimo di conservazione: 07-07-2023\nDescrizione peso/volume unità di vendita: Bottiglie in vetro da 1L in confezione da 9\nMotivo del richiamo:\nErrata etichettatura, il prodotto contiene zucchero.\nLa bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene\nzucchero.\nAvvertenze:\nVi invitiamo a verificare il numero di lotto riportato sul collo della bottiglia; qualora corrispondesse a quelli\ncoinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:04+00:00"
+ },
+ "bevanda-analcolica-22": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-22/",
+  "titolo": "Bevanda analcolica",
+  "data_pubblicazione": "2022-08-19",
+  "marca": "Coca-Cola Original taste",
+  "denominazione": "Bevanda analcolica",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_All.3%20Modulo%20Ministero%201_1761192086.pdf",
+  "allegati": [
+   {
+    "titolo": "1_All.3 Modulo Ministero 1_1761192086.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1_All.3%20Modulo%20Ministero%201_1761192086.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-analcolica-22",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda analcolica",
+   "operatore": "Coca-Cola HBC Italia s.r.l.",
+   "lotti": [
+    "L2207077N (vedi Avvertenze)"
+   ],
+   "produttore": "Coca-Cola HBC Italia SRL",
+   "sede_stabilimento": "Nogara (VR)",
+   "scadenza": "07-07-2023",
+   "peso_volume": "Bottiglie in vetro da 1L in confezione da 9",
+   "motivo_esteso": "Errata etichettatura, il prodotto contiene zucchero. La bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene zucchero.",
+   "avvertenze": "Vi invitiamo a verificare il numero di lotto riportato sul collo/tappo bottiglia; qualora corrispondesse a quelli coinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione. Soli lotti orari coinvolti: 93L2207077N, 94L2207077N, 95L2207077N, 96L2207077N Codice EAN bottiglia: 5449000000057, Codice EAN cassa:5449000132512 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "13/08/2022 Marchio del prodotto: Coca-Cola Original Taste",
+    "Soli lotti orari coinvolti": "93L2207077N, 94L2207077N, 95L2207077N, 96L2207077N",
+    "Codice EAN bottiglia": "5449000000057, Codice EAN cassa:5449000132512",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 13/08/2022 Marchio del prodotto: Coca-Cola Original Taste\nDenominazione di vendita:Bevanda analcolica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coca-Cola HBC Italia s.r.l.\ncommercializzato:\nLotto di produzione: L2207077N (vedi Avvertenze)\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Coca-Cola HBC Italia SRL\nSede dello stabilimento: Nogara (VR)\nData di scadenza o termine minimo di conservazione: 07-07-2023\nDescrizione peso/volume unità di vendita: Bottiglie in vetro da 1L in confezione da 9\nMotivo del richiamo:\nErrata etichettatura, il prodotto contiene zucchero.\nLa bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene\nzucchero.\nAvvertenze:\nVi invitiamo a verificare il numero di lotto riportato sul collo/tappo bottiglia; qualora corrispondesse a quelli\ncoinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione.\nSoli lotti orari coinvolti: 93L2207077N, 94L2207077N, 95L2207077N, 96L2207077N\nCodice EAN bottiglia: 5449000000057, Codice EAN cassa:5449000132512\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:46+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:46+00:00"
+ },
+ "bevanda-analcolica-23": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-analcolica-23/",
+  "titolo": "Bevanda analcolica",
+  "data_pubblicazione": "2022-08-19",
+  "marca": "Coca - Cola original Taste",
+  "denominazione": "Bevanda analcolica",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_All.3%20Modulo%20Ministero%202_1761192089.pdf",
+  "allegati": [
+   {
+    "titolo": "2_All.3 Modulo Ministero 2_1761192089.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2_All.3%20Modulo%20Ministero%202_1761192089.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-analcolica-23",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda analcolica",
+   "operatore": "Coca-Cola HBC Italia s.r.l.",
+   "lotti": [
+    "L2207087N (vedi Avvertenze)"
+   ],
+   "produttore": "Coca-Cola HBC Italia SRL",
+   "sede_stabilimento": "Nogara (VR)",
+   "scadenza": "08-07-2023",
+   "peso_volume": "Bottiglie in vetro da 1L in confezione da 9",
+   "motivo_esteso": "Errata etichettatura, il prodotto contiene zucchero. La bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene zucchero.",
+   "avvertenze": "Vi invitiamo a verificare il numero di lotto riportato sul collo/tappo bottiglia; qualora corrispondesse a quelli coinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione. Soli lotti orari coinvolti: 01L2207087N, 02L2207087N, 03L2207087N Codice EAN bottiglia: 5449000000057, Codice EAN cassa:5449000132512 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "13/08/2022 Marchio del prodotto: Coca-Cola Original Taste",
+    "Soli lotti orari coinvolti": "01L2207087N, 02L2207087N, 03L2207087N",
+    "Codice EAN bottiglia": "5449000000057, Codice EAN cassa:5449000132512",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 13/08/2022 Marchio del prodotto: Coca-Cola Original Taste\nDenominazione di vendita:Bevanda analcolica\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Coca-Cola HBC Italia s.r.l.\ncommercializzato:\nLotto di produzione: L2207087N (vedi Avvertenze)\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Coca-Cola HBC Italia SRL\nSede dello stabilimento: Nogara (VR)\nData di scadenza o termine minimo di conservazione: 08-07-2023\nDescrizione peso/volume unità di vendita: Bottiglie in vetro da 1L in confezione da 9\nMotivo del richiamo:\nErrata etichettatura, il prodotto contiene zucchero.\nLa bottiglia presenta il tappo rosso anziché nero e l'indicazione 'zero zuccheri' quando invece contiene\nzucchero.\nAvvertenze:\nVi invitiamo a verificare il numero di lotto riportato sul collo/tappo bottiglia; qualora corrispondesse a quelli\ncoinvolti vi invitiamo a contattare il nostro Numero Verde (800.534.934) per provvedere alla gestione.\nSoli lotti orari coinvolti: 01L2207087N, 02L2207087N, 03L2207087N\nCodice EAN bottiglia: 5449000000057, Codice EAN cassa:5449000132512\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:48+00:00"
+ },
+ "bomba-nocciola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bomba-nocciola/",
+  "titolo": "BOMBA NOCCIOLA",
+  "data_pubblicazione": "2022-08-10",
+  "marca": "GLUIT",
+  "denominazione": "BOMBA NOCCIOLA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_BOMBA%20NOCCIOLA_GLUIT_GLUIT%20S.r.l.s._1761192058.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo prodotto_BOMBA NOCCIOLA_GLUIT_GLUIT S.r.l.s._1761192058.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_BOMBA%20NOCCIOLA_GLUIT_GLUIT%20S.r.l.s._1761192058.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bomba-nocciola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:14+00:00"
+ },
+ "cornetto-alla-nocciola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cornetto-alla-nocciola/",
+  "titolo": "CORNETTO ALLA NOCCIOLA",
+  "data_pubblicazione": "2022-08-10",
+  "marca": "LIZZI",
+  "denominazione": "CORNETTO ALLA NOCCIOLA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_CORNETTO%20ALLA%20NOCCIOLA_LIZZI_LIZZI%20S.r.l._1761192060.PDF",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo prodotto_CORNETTO ALLA NOCCIOLA_LIZZI_LIZZI S.r.l._1761192060.PDF",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_CORNETTO%20ALLA%20NOCCIOLA_LIZZI_LIZZI%20S.r.l._1761192060.PDF"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cornetto-alla-nocciola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:17+00:00"
+ },
+ "corpi-estranei-fagottino-marchio-coop": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/corpi-estranei-fagottino-marchio-coop/",
+  "titolo": "Corpi estranei in fagottino marchio Coop",
+  "data_pubblicazione": "2022-08-26",
+  "marca": "marchio Coop",
+  "denominazione": "Corpi estranei in fagottino marchio Coop",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FAGOTTINO%20AI%20MIRTILLI%20COOP_1761192099.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO FAGOTTINO AI MIRTILLI COOP_1761192099.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20FAGOTTINO%20AI%20MIRTILLI%20COOP_1761192099.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "corpi-estranei-fagottino-marchio-coop",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FAGOTTINO CEREALI ANTICHI CON MIRTILLO",
+   "operatore": "COOP ALLEANZA 3.0",
+   "lotti": [
+    "Tutti i lotti fino al 26/08 compreso"
+   ],
+   "marchio_identificazione": "COOP ALLEANZA 3.0",
+   "produttore": "COOP ALLEANZA 3.0",
+   "sede_stabilimento": "Via Villanova 29/7, Villanova di Castenaso (BO)",
+   "motivo_esteso": "Richiamo precauzionale dovuto alla possibile presenza corpi estranei.",
+   "avvertenze": "Se siete in possesso di confezioni riconducibili ai lotti di prodotto sopra indicati vi preghiamo di sospenderne il consumo e restituirli al punto vendita. Per eventuali informazioni vi invitiamo a contattare il n. verde 800000003 oppure a scrivere al seguente indirizzo e-mail: filo.diretto@alleanza3-0.coop.it Inserisci Immagine Inserisci Immagine",
+   "campi_extra": {
+    "Data": "26/08/20222 Marchio del prodotto: COOP"
+   },
+   "testo": "RICHIAMO\nData: 26/08/20222 Marchio del prodotto: COOP\nDenominazione di vendita: FAGOTTINO CEREALI ANTICHI CON MIRTILLO\nNome o ragione sociale dell'OSA COOP ALLEANZA 3.0\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: Tutti i lotti fino al 26/08 compreso\nMarchio di identificazione dello stabilimento/del produttore: COOP ALLEANZA 3.0\nNome del produttore: COOP ALLEANZA 3.0\nSede dello stabilimento: Via Villanova 29/7, Villanova di Castenaso (BO)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nRichiamo precauzionale dovuto alla possibile presenza corpi estranei.\nAvvertenze:\nSe siete in possesso di confezioni riconducibili ai lotti di prodotto sopra indicati vi preghiamo di\nsospenderne il consumo e restituirli al punto vendita. Per eventuali informazioni vi invitiamo a contattare il\nn. verde 800000003 oppure a scrivere al seguente indirizzo e-mail: filo.diretto@alleanza3-0.coop.it\nInserisci Immagine Inserisci Immagine"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:43+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:43+00:00"
+ },
+ "croissant-alla-crema-nocciola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/croissant-alla-crema-nocciola/",
+  "titolo": "CROISSANT ALLA CREMA NOCCIOLA",
+  "data_pubblicazione": "2022-08-10",
+  "marca": "VERAMORE",
+  "denominazione": "CROISSANT ALLA CREMA NOCCIOLA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_CROISSANT%20ALLA%20CREMA%20NOCCIOLA_VERAMORE_CELIACO.M%20S.r.l._1761192063.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo prodotto_CROISSANT ALLA CREMA NOCCIOLA_VERAMORE_CELIACO.M S.r.l._1761192063.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_CROISSANT%20ALLA%20CREMA%20NOCCIOLA_VERAMORE_CELIACO.M%20S.r.l._1761192063.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "croissant-alla-crema-nocciola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:25+00:00"
+ },
+ "fagotti-alla-crema-nocciola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagotti-alla-crema-nocciola/",
+  "titolo": "FAGOTTI ALLA CREMA NOCCIOLA",
+  "data_pubblicazione": "2022-08-10",
+  "marca": "VERAMORE HOME SWEET HOME",
+  "denominazione": "FAGOTTI ALLA CREMA NOCCIOLA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_FAGOTTI%20CREMA%20NOCCIOLA_VERAMORE%20HOME%20SWEET%20HOME_CELIACO.M%20S.r.l._1761192065.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo prodotto_FAGOTTI CREMA NOCCIOLA_VERAMORE HOME SWEET HOME_CELIACO.M S.r.l._1761192065.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20prodotto_FAGOTTI%20CREMA%20NOCCIOLA_VERAMORE%20HOME%20SWEET%20HOME_CELIACO.M%20S.r.l._1761192065.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fagotti-alla-crema-nocciola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:28+00:00"
+ },
+ "formaggio-ossolano-dop": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-ossolano-dop/",
+  "titolo": "FORMAGGIO OSSOLANO D.O.P.",
+  "data_pubblicazione": "2022-08-10",
+  "marca": "OSSOLANO D.O.P.",
+  "denominazione": "FORMAGGIO OSSOLANO D.O.P.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20formaggio%20stagionato%20ossolano%20Dop_1761192068.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo formaggio stagionato ossolano Dop_1761192068.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20formaggio%20stagionato%20ossolano%20Dop_1761192068.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-ossolano-dop",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FORMAGGIO OSSOLANO D.O.P.",
+   "operatore": "BERTOLINO S.N.C. di Alessandro, Stefano e Andrea Bertolino",
+   "lotti": [
+    "00054-34381 / ns. L 2186"
+   ],
+   "marchio_identificazione": "01/769",
+   "produttore": "LATTERIA SOCIALE ANTIGORIANA COOP S.A.C.",
+   "sede_stabilimento": "OIRA DI CREVOLADOSSOLA (VB)",
+   "scadenza": "60 GG",
+   "peso_volume": "A PESO VARIABILE FORME DI 5/7 KG CIRCA",
+   "motivo_esteso": "POSITIVITA' A ESCHERICHIA COLI VEROCITOTOSSICI (STEC)",
+   "avvertenze": "PER I CONSUMATORI: RESTITUIRE IL FORMAGGIO OSSOLANO D.O.P. DEL LOTTO INDICATO AL RIVENDITORE DA CUI E' STATO ACQUISTATO. PER CONTATTI: BERTOLINO S.N.C. TEL. 0324/243102 E-MAIL: INFO@BERTOLINOSNC.IT Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "09/08/2022 Marchio del prodotto: OSSOLANO D.O.P.",
+    "PER I CONSUMATORI": "RESTITUIRE IL FORMAGGIO OSSOLANO D.O.P. DEL LOTTO INDICATO AL",
+    "PER CONTATTI": "BERTOLINO S.N.C. TEL. 0324/243102 E-MAIL: INFO@BERTOLINOSNC.IT",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "6\nRICHIAMO\nData: 09/08/2022 Marchio del prodotto: OSSOLANO D.O.P.\nDenominazione di vendita: FORMAGGIO OSSOLANO D.O.P.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BERTOLINO S.N.C. di Alessandro, Stefano e Andrea Bertolino\ncommercializzato:\nLotto di produzione: 00054-34381 / ns. L 2186\nMarchio di identificazione dello stabilimento/del produttore: 01/769\nNome del produttore: LATTERIA SOCIALE ANTIGORIANA COOP S.A.C.\nSede dello stabilimento: OIRA DI CREVOLADOSSOLA (VB)\nData di scadenza o termine minimo di conservazione: 60 GG\nDescrizione peso/volume unità di vendita: A PESO VARIABILE FORME DI 5/7 KG CIRCA\nMotivo del richiamo:\nPOSITIVITA' A ESCHERICHIA COLI VEROCITOTOSSICI (STEC)\nAvvertenze:\nPER I CONSUMATORI: RESTITUIRE IL FORMAGGIO OSSOLANO D.O.P. DEL LOTTO INDICATO AL\nRIVENDITORE DA CUI E' STATO ACQUISTATO.\nPER CONTATTI: BERTOLINO S.N.C. TEL. 0324/243102 E-MAIL: INFO@BERTOLINOSNC.IT\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:30+00:00"
+ },
+ "gelati-base-di-vaniglia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelati-base-di-vaniglia/",
+  "titolo": "GELATI A BASE DI VANIGLIA",
+  "data_pubblicazione": "2022-08-19",
+  "marca": "HAAGEN DAZS",
+  "denominazione": "GELATI A BASE DI VANIGLIA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20MINISTERO%20HAAGEN%20DAZS_1761192096.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO RICHIAMO MINISTERO HAAGEN DAZS_1761192096.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20MINISTERO%20HAAGEN%20DAZS_1761192096.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gelati-base-di-vaniglia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:46:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:53+00:00"
+ },
+ "germogli-di-bamboo-lien-ying-g330": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/germogli-di-bamboo-lien-ying-g330/",
+  "titolo": "GERMOGLI DI BAMBOO LIEN YING G.330",
+  "data_pubblicazione": "2022-08-09",
+  "marca": "LIEN YING",
+  "denominazione": "GERMOGLI DI BAMBOO LIEN YING G.330",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Moduloinformazioneconsumatori%20_5__1761192044.pdf",
+  "allegati": [
+   {
+    "titolo": "Moduloinformazioneconsumatori _5__1761192044.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Moduloinformazioneconsumatori%20_5__1761192044.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "germogli-di-bamboo-lien-ying-g330",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:33+00:00"
+ },
+ "hot-madras-curry-powder": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hot-madras-curry-powder/",
+  "titolo": "Hot Madras Curry Powder",
+  "data_pubblicazione": "2022-08-09",
+  "marca": "TRS",
+  "denominazione": "Hot Madras Curry Powder",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192051.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo_1761192051.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761192051.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hot-madras-curry-powder",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:40+00:00"
+ },
+ "hulala-whipping-1000-ml-lotto-l22073b": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hulala-whipping-1000-ml-lotto-l22073b/",
+  "titolo": "Hulalà whipping 1000 ml\" lotto L22073B",
+  "data_pubblicazione": "2022-08-09",
+  "marca": "IFFCO ITALIA SRL",
+  "denominazione": "Hulalà whipping 1000 ml\" lotto L22073B",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO%20HULALA%20WHIPPING%201000%20ML%20L22073B_2_1761192053.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO PRODOTTO HULALA WHIPPING 1000 ML L22073B_2_1761192053.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PRODOTTO%20HULALA%20WHIPPING%201000%20ML%20L22073B_2_1761192053.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hulala-whipping-1000-ml-lotto-l22073b",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:42+00:00"
+ },
+ "la-maman": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-maman/",
+  "titolo": "LA MAMAN",
+  "data_pubblicazione": "2022-08-30",
+  "marca": "SONACOS SENEGAL",
+  "denominazione": "LA MAMAN",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1761192102.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo_1761192102.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo_1761192102.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "la-maman",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:46:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:41+00:00"
+ },
+ "salsiccia-fresca-di-puro-suinopasta-di-salsiccia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-fresca-di-puro-suinopasta-di-salsiccia/",
+  "titolo": "Salsiccia fresca di puro suino/Pasta di salsiccia",
+  "data_pubblicazione": "2022-08-05",
+  "marca": "Salumificio F.lli Cavallo S.R.L.",
+  "denominazione": "Salsiccia fresca di puro suino/Pasta di salsiccia",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Salcicia%20F.lli%20Cavallo%20_%20Beinette%20_CN__1761192038.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Salcicia F.lli Cavallo _ Beinette _CN__1761192038.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Salcicia%20F.lli%20Cavallo%20_%20Beinette%20_CN__1761192038.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salsiccia-fresca-di-puro-suinopasta-di-salsiccia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:50+00:00"
+ },
+ "salsiccia-fresca-di-puro-suinopasta-di-salsiccia-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-fresca-di-puro-suinopasta-di-salsiccia-0/",
+  "titolo": "Salsiccia fresca di puro suino/pasta di salsiccia",
+  "data_pubblicazione": "2022-08-08",
+  "marca": "Salumificio F.lli Cavallo S.R.L.",
+  "denominazione": "Salsiccia fresca di puro suino/pasta di salsiccia",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allerta_2022_n2342_REVOCA_1761192040.pdf",
+  "allegati": [
+   {
+    "titolo": "Allerta_2022_n2342_REVOCA_1761192040.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allerta_2022_n2342_REVOCA_1761192040.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-fresca-di-puro-suinopasta-di-salsiccia-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:45+00:00"
+ },
+ "tiramisu-al-caffe-bonta-divina": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-al-caffe-bonta-divina/",
+  "titolo": "Tiramisu al Caffe' Bontà Divina",
+  "data_pubblicazione": "2022-08-12",
+  "marca": "Bontà Divina",
+  "denominazione": "Tiramisu al Caffe' Bontà Divina",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20Emmi%20Dessert%20Tiramis%C3%B9%20BD_1761192073.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_20171116 Emmi Dessert Tiramisù BD_1761192073.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_20171116%20Emmi%20Dessert%20Tiramis%C3%B9%20BD_1761192073.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-al-caffe-bonta-divina",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tiramisu al Caffe' Bontà Divina",
+   "operatore": "Emmi Dessert Italia S.p.A. – Via Cassina 5 22030",
+   "lotti": [
+    "C27922 – D04922"
+   ],
+   "marchio_identificazione": "IT 03 258 CE",
+   "produttore": "Emmi Dessert Italia S.p.A.",
+   "sede_stabilimento": "Via Cassina, 5 - 22030 Lasnigo (CO) 31/08/2022 - 08/09/2022",
+   "peso_volume": "1 Confezione da 85g",
+   "motivo_esteso": "RICHIAMO VOLONTARIO Possibile presenza frammento di vetro nel prodotto",
+   "avvertenze": "Il prodotto non deve essere consumato e deve essere restituito al punto vendita",
+   "campi_extra": {
+    "Data": "11/08/2022 Marchio del prodotto: Bontà Divina"
+   },
+   "testo": "RICHIAMO\nData: 11/08/2022 Marchio del prodotto: Bontà Divina\nDenominazione di vendita: Tiramisu al Caffe' Bontà Divina\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Emmi Dessert Italia S.p.A. – Via Cassina 5 22030\ncommercializzato:\nLotto di produzione: C27922 – D04922\nMarchio di identificazione dello stabilimento/del produttore: IT 03 258 CE\nNome del produttore: Emmi Dessert Italia S.p.A.\nSede dello stabilimento: Via Cassina, 5 - 22030 Lasnigo (CO)\n31/08/2022 - 08/09/2022\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 1 Confezione da 85g\nMotivo del richiamo:\nRICHIAMO VOLONTARIO\nPossibile presenza frammento di vetro nel prodotto\nAvvertenze:\nIl prodotto non deve essere consumato e deve essere\nrestituito al punto vendita"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:09+00:00"
+ },
+ "trs-madras-hot-curry-powder": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-madras-hot-curry-powder/",
+  "titolo": "TRS Madras Hot Curry Powder",
+  "data_pubblicazione": "2022-08-10",
+  "marca": "TRS",
+  "denominazione": "TRS Madras Hot Curry Powder",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_3__1761192055.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo _3__1761192055.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20_3__1761192055.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "trs-madras-hot-curry-powder",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "TRS MADRAS HOT CURRY POWDER",
+   "operatore": "TRS ASIAN FINEST FOODS",
+   "lotti": [
+    "TUTTI"
+   ],
+   "marchio_identificazione": "TRS",
+   "produttore": "TRS ASIAN FINEST FOODS",
+   "scadenza": "06/2023",
+   "peso_volume": "100G E 400G",
+   "motivo_esteso": "PRESENZA DI SALMONELLA",
+   "campi_extra": {
+    "Data": "22/07/2022 Marchio del prodotto: TRS"
+   },
+   "testo": "RICHIAMO\nData: 22/07/2022 Marchio del prodotto: TRS\nDenominazione di vendita:TRS MADRAS HOT CURRY POWDER\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TRS ASIAN FINEST FOODS\ncommercializzato:\nLotto di produzione: TUTTI\nMarchio di identificazione dello stabilimento/del produttore: TRS\nNome del produttore: TRS ASIAN FINEST FOODS\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: 06/2023\nDescrizione peso/volume unità di vendita: 100G E 400G\nMotivo del richiamo:\nPRESENZA DI SALMONELLA\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:12+00:00"
+ },
+ "vcv-hamburger-di-vitello-200-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vcv-hamburger-di-vitello-200-g/",
+  "titolo": "VCV HAMBURGER DI VITELLO 200 G.",
+  "data_pubblicazione": "2022-08-09",
+  "marca": "VERCELLI SPA",
+  "denominazione": "VCV HAMBURGER DI VITELLO 200 G.",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VERCELLI_REVOCA_RICHIAMO_1761192046.pdf",
+  "allegati": [
+   {
+    "titolo": "VERCELLI_REVOCA_RICHIAMO_1761192046.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/VERCELLI_REVOCA_RICHIAMO_1761192046.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vcv-hamburger-di-vitello-200-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "VCV HAMBURGER 200 G",
+   "operatore": "VERCELLI SPA",
+   "lotti": [
+    "1304741"
+   ],
+   "marchio_identificazione": "IT 235 M CE",
+   "produttore": "VERCELLI SPA",
+   "scadenza": "14-08-2022",
+   "campi_extra": {
+    "Data": "09/08/2022 Marchio del prodotto: VITELLO CASA VERCELLI"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 09/08/2022 Marchio del prodotto: VITELLO CASA VERCELLI\nDenominazione di vendita:VCV HAMBURGER 200 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è VERCELLI SPA\ncommercializzato:\nLotto di produzione: 1304741\nMarchio di identificazione dello stabilimento/del produttore: IT 235 M CE\nNome del produttore: VERCELLI SPA\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: 14-08-2022\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T07:47:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:35+00:00"
+ },
+ "vcv-hamburger-di-vitello-200-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vcv-hamburger-di-vitello-200-gr/",
+  "titolo": "VCV HAMBURGER DI VITELLO 200 GR",
+  "data_pubblicazione": "2022-08-09",
+  "marca": "VITELLO CASA VERCELLI",
+  "denominazione": "VCV HAMBURGER DI VITELLO 200 GR",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VERCELLI_SPA_HAMBURGER_1761192048.pdf",
+  "allegati": [
+   {
+    "titolo": "VERCELLI_SPA_HAMBURGER_1761192048.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/VERCELLI_SPA_HAMBURGER_1761192048.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vcv-hamburger-di-vitello-200-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:37+00:00"
+ },
+ "vcv-hamburger-vitello-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vcv-hamburger-vitello-200g/",
+  "titolo": "VCV HAMBURGER VITELLO 200g",
+  "data_pubblicazione": "2022-08-08",
+  "marca": "Vitello Casa Vercelli",
+  "denominazione": "VCV HAMBURGER VITELLO 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_Hamburger_Vercelli_1761192042.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_Hamburger_Vercelli_1761192042.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_Hamburger_Vercelli_1761192042.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "vcv-hamburger-vitello-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:47+00:00"
+ },
+ "wurstel-con-pollo-e-tacchino-al-formaggio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-con-pollo-e-tacchino-al-formaggio/",
+  "titolo": "WURSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+  "data_pubblicazione": "2022-08-19",
+  "marca": "TOBIAS",
+  "denominazione": "WURSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Wurstel%20pollo%20e%20tacchino%20con%20formaggio%20TOBIAS%20150g_1761192092.pdf",
+  "allegati": [
+   {
+    "titolo": "_Wurstel pollo e tacchino con formaggio TOBIAS 150g_1761192092.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_Wurstel%20pollo%20e%20tacchino%20con%20formaggio%20TOBIAS%20150g_1761192092.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "wurstel-con-pollo-e-tacchino-al-formaggio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "WURSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+   "operatore": "EUROSPIN ITALIA S.p.A",
+   "lotti": [
+    "1785417"
+   ],
+   "marchio_identificazione": "IT 04 M CE",
+   "produttore": "AGRICOLA TRE VALLI Soc. Coop.",
+   "sede_stabilimento": "P.le Apollinare Veronesi 1, San Martino Buon Albergo",
+   "scadenza": "03.09.2022",
+   "peso_volume": "150 g",
+   "motivo_esteso": "Presenza Listeria Monocytogenes",
+   "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per sostituzione Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "19.08.2022 Marchio del prodotto: TOBIAS",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 19.08.2022 Marchio del prodotto: TOBIAS\nDenominazione di vendita: WURSTEL CON POLLO E TACCHINO AL FORMAGGIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPIN ITALIA S.p.A\ncommercializzato:\nLotto di produzione: 1785417\nMarchio di identificazione dello stabilimento/del produttore: IT 04 M CE\nNome del produttore: AGRICOLA TRE VALLI Soc. Coop.\nSede dello stabilimento: P.le Apollinare Veronesi 1, San Martino Buon Albergo\nData di scadenza o termine minimo di conservazione: 03.09.2022\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza Listeria Monocytogenes\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per sostituzione\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:50+00:00"
+ },
+ "wurstel-puro-suino-250g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-puro-suino-250g/",
+  "titolo": "Würstel puro suino 250g",
+  "data_pubblicazione": "2022-08-12",
+  "marca": "Conad",
+  "denominazione": "Würstel puro suino 250g",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/220811_modulo%20richiami%20compilato_Conad250g_1761192070.pdf",
+  "allegati": [
+   {
+    "titolo": "220811_modulo richiami compilato_Conad250g_1761192070.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/220811_modulo%20richiami%20compilato_Conad250g_1761192070.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "wurstel-puro-suino-250g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:47:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:47:06+00:00"
+ }
+}

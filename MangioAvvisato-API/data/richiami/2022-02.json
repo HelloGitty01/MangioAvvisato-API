@@ -1,0 +1,681 @@
+{
+ "alimentum": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alimentum/",
+  "titolo": "Alimentum",
+  "data_pubblicazione": "2022-02-22",
+  "marca": "Similac",
+  "denominazione": "Alimentum",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Alimentum_1761190338.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo_Alimentum_1761190338.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Alimentum_1761190338.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "alimentum",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:30:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:53+00:00"
+ },
+ "alimentum-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/alimentum-0/",
+  "titolo": "Alimentum",
+  "data_pubblicazione": "2022-02-24",
+  "marca": "Similac",
+  "denominazione": "Alimentum",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Alimentum_2b_1761190342.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo_Alimentum_2b_1761190342.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Alimentum_2b_1761190342.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "alimentum-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:30:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:44+00:00"
+ },
+ "antipasto-emiliano-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/antipasto-emiliano-0/",
+  "titolo": "Antipasto Emiliano",
+  "data_pubblicazione": "2022-02-03",
+  "marca": "Cuor di Terra",
+  "denominazione": "Antipasto Emiliano",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%20Antipasto%20emiliano_1761190301.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Richiamo Antipasto emiliano_1761190301.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%20Antipasto%20emiliano_1761190301.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "antipasto-emiliano-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ANTIPASTO EMILIANO 120g",
+   "operatore": "Prodotto per Penny Market srl",
+   "lotti": [
+    "3415151"
+   ],
+   "marchio_identificazione": "Furlotti e C S.r.l.",
+   "produttore": "Furlotti e C S.r.l.",
+   "sede_stabilimento": "Via Santi 1 - 43014 Medesano (PR)",
+   "scadenza": "08-12-2021",
+   "peso_volume": "120g",
+   "motivo_esteso": "Sospetta presenza di Salmonella",
+   "avvertenze": "I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al punto vendita per la sostituzione o rimborso entro il 03/12/2021. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "29/10/2021 Marchio del prodotto: CUOR DI TERRA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 29/10/2021 Marchio del prodotto: CUOR DI TERRA\nDenominazione di vendita:ANTIPASTO EMILIANO 120g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Prodotto per Penny Market srl\ncommercializzato:\nLotto di produzione: 3415151\nMarchio di identificazione dello stabilimento/del produttore: Furlotti e C S.r.l.\nNome del produttore: Furlotti e C S.r.l.\nSede dello stabilimento: Via Santi 1 - 43014 Medesano (PR)\nData di scadenza o termine minimo di conservazione: 08-12-2021\nDescrizione peso/volume unità di vendita: 120g\nMotivo del richiamo:\nSospetta presenza di Salmonella\nAvvertenze:\nI Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al\npunto vendita per la sostituzione o rimborso entro il 03/12/2021.\nPrecisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:31:22+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:22+00:00"
+ },
+ "azuki-verdi-mung-5kg-bio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/azuki-verdi-mung-5kg-bio/",
+  "titolo": "AZUKI VERDI (MUNG) 5KG BIO",
+  "data_pubblicazione": "2022-02-11",
+  "marca": "BONGIOVANNI SRL",
+  "denominazione": "AZUKI VERDI (MUNG) 5KG BIO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORichiamoBongiovanni_Azuki_Verdi_1761190309.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLORichiamoBongiovanni_Azuki_Verdi_1761190309.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLORichiamoBongiovanni_Azuki_Verdi_1761190309.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "azuki-verdi-mung-5kg-bio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:17+00:00"
+ },
+ "bamboo-60-capsule": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bamboo-60-capsule/",
+  "titolo": "Bamboo 60 capsule",
+  "data_pubblicazione": "2022-02-01",
+  "marca": "KOS s.r.l.",
+  "denominazione": "Bamboo 60 capsule",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Bamboo_su_mod_ministeriale_1761190296.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_Bamboo_su_mod_ministeriale_1761190296.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Bamboo_su_mod_ministeriale_1761190296.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bamboo-60-capsule",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:27+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:27+00:00"
+ },
+ "cannelloni-di-magro-300g-b": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannelloni-di-magro-300g-b/",
+  "titolo": "CANNELLONI DI MAGRO 300g B",
+  "data_pubblicazione": "2022-02-14",
+  "marca": "GI Gastronomia italiana srl",
+  "denominazione": "CANNELLONI DI MAGRO 300g B",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GI%20Gastronomia%20Italiana_Comunicazione%20Richiamo%20Cannelloni%20di%20Magro%20%20_2__1761190325.pdf",
+  "allegati": [
+   {
+    "titolo": "GI Gastronomia Italiana_Comunicazione Richiamo Cannelloni di Magro  _2__1761190325.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/GI%20Gastronomia%20Italiana_Comunicazione%20Richiamo%20Cannelloni%20di%20Magro%20%20_2__1761190325.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannelloni-di-magro-300g-b",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CANNELLONI DI MAGRO 300g B",
+   "operatore": "GI Gastronomia Italiana Srl",
+   "lotti": [
+    "vedi nel campo \"avvertenze\""
+   ],
+   "marchio_identificazione": "IT C3230 CE",
+   "produttore": "Camst scarl",
+   "sede_stabilimento": "via Toscana 6, fraz. Lugagnano- 37060- Sona- (VR)",
+   "scadenza": "vedi in\"avvertenze\"",
+   "peso_volume": "Vaschetta termosaldata da 300 g",
+   "motivo_esteso": "Presenza di allergene \"Sedano \" non indicato nella lista ingredienti, ma solo come \"possibile traccia\"",
+   "avvertenze": "In caso di allergie al SEDANO , il prodotto NON DEVE ESSERE CONSUMATO. Scadenze/lotti coinvolti: 12/02/2022 L 000014082201; 15/02/2022 L 000014712201; 17/02/2022 L 000017742201; 19/02/2022 L 000021182201; 23/02/2022 L 000022592201; 25/02/2022 L 000024712201; 26/02/2022 L 000028202201; 04/03/2022 L000032542201; 08/03/2022 L000035382201 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "11/02/2022 Marchio del prodotto:",
+    "Scadenze/lotti coinvolti": "12/02/2022 L 000014082201; 15/02/2022 L 000014712201; 17/02/2022 L",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 11/02/2022 Marchio del prodotto:\nDenominazione di vendita:CANNELLONI DI MAGRO 300g B\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GI Gastronomia Italiana Srl\ncommercializzato:\nLotto di produzione: vedi nel campo \"avvertenze\"\nMarchio di identificazione dello stabilimento/del produttore: IT C3230 CE\nNome del produttore: Camst scarl\nSede dello stabilimento: via Toscana 6, fraz. Lugagnano- 37060- Sona- (VR)\nData di scadenza o termine minimo di conservazione: vedi in\"avvertenze\"\nDescrizione peso/volume unità di vendita: Vaschetta termosaldata da 300 g\nMotivo del richiamo:\nPresenza di allergene \"Sedano \" non indicato nella lista ingredienti, ma solo come \"possibile traccia\"\nAvvertenze:\nIn caso di allergie al SEDANO , il prodotto NON DEVE ESSERE CONSUMATO.\nScadenze/lotti coinvolti: 12/02/2022 L 000014082201; 15/02/2022 L 000014712201; 17/02/2022 L\n000017742201; 19/02/2022 L 000021182201; 23/02/2022 L 000022592201; 25/02/2022 L\n000024712201; 26/02/2022 L 000028202201; 04/03/2022 L000032542201; 08/03/2022 L000035382201\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:31:07+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:07+00:00"
+ },
+ "cozze-cilene-sgusciate-cotte-congelate": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-cilene-sgusciate-cotte-congelate/",
+  "titolo": "Cozze cilene sgusciate cotte congelate",
+  "data_pubblicazione": "2022-02-02",
+  "marca": "SOC PESQUERA LANDES SOCIEDAD ANONIMA",
+  "denominazione": "Cozze cilene sgusciate cotte congelate",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20allerta_1761190298.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello allerta_1761190298.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20allerta_1761190298.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "cozze-cilene-sgusciate-cotte-congelate",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:24+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:24+00:00"
+ },
+ "cozze-cilene-sgusciate-cotte-congelate-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-cilene-sgusciate-cotte-congelate-0/",
+  "titolo": "Cozze cilene sgusciate cotte congelate",
+  "data_pubblicazione": "2022-02-15",
+  "marca": "SOC PESQUERA LANDES SOCIEDAD ANONIMA",
+  "denominazione": "Cozze cilene sgusciate cotte congelate",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20COZZE%20CILENE%20LANDES_1__1761190328.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca richiamo COZZE CILENE LANDES_1__1761190328.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20COZZE%20CILENE%20LANDES_1__1761190328.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cozze-cilene-sgusciate-cotte-congelate-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:30:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:56+00:00"
+ },
+ "cozze-cilene-sgusciate-cotte-congelate-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cozze-cilene-sgusciate-cotte-congelate-1/",
+  "titolo": "Cozze cilene sgusciate cotte congelate",
+  "data_pubblicazione": "2022-02-15",
+  "marca": "SOC PESQUERA LANDES SOCIEDAD ANONIMA",
+  "denominazione": "Cozze cilene sgusciate cotte congelate",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20COZZE%20CILENE%20LANDES_1__1761190331.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca richiamo COZZE CILENE LANDES_1__1761190331.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20COZZE%20CILENE%20LANDES_1__1761190331.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cozze-cilene-sgusciate-cotte-congelate-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:00+00:00"
+ },
+ "elecare": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/elecare/",
+  "titolo": "Elecare",
+  "data_pubblicazione": "2022-02-22",
+  "marca": "Similac",
+  "denominazione": "Elecare",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_1761190335.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo_Elecare_1761190335.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_1761190335.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "elecare",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "0005411-21/02/2022-DGISAN-MDS-A - Allegato Utente 3 (A03)\nData: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:30:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:50+00:00"
+ },
+ "elecare-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/elecare-0/",
+  "titolo": "Elecare",
+  "data_pubblicazione": "2022-02-24",
+  "marca": "Similac",
+  "denominazione": "Elecare",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_2b_1761190346.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo_Elecare_2b_1761190346.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_Elecare_2b_1761190346.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "elecare-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Elecare",
+   "operatore": "ABBOTT SRL",
+   "lotti": [
+    "27930Z20"
+   ],
+   "produttore": "Abbott Nutrition",
+   "sede_stabilimento": "901 North Centerville Road Sturgis, Michigan 49091 - USA",
+   "scadenza": "30-09-2022",
+   "peso_volume": "Barattolo in alluminio da 400 grammi.",
+   "motivo_esteso": "A scopo precauzionale e volontario si è ravvisata l'esigenza di avviare il presente richiamo di prodotto a seguito di quattro reclami dei consumatori negli Stati Uniti relativi a Cronobacter sakazakii o Salmonella Newport in neonati che avevano consumato alimenti in polvere per lattanti prodotti in questa struttura.",
+   "avvertenze": "Gentile Cliente, se hai acquistato 'EleCare' del lotto oggetto di questo avviso, non utilizzarlo e restituiscilo al punto vendita. Per ogni ulteriore informazione contatta il tuo Pediatra o la Ditta Abbott al Numero Verde: 800-025538 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "24/02/2022 Marchio del prodotto: Similac",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 24/02/2022 Marchio del prodotto: Similac\nDenominazione di vendita:Elecare\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ABBOTT SRL\ncommercializzato:\nLotto di produzione: 27930Z20\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Abbott Nutrition\nSede dello stabilimento: 901 North Centerville Road Sturgis, Michigan 49091 - USA\nData di scadenza o termine minimo di conservazione: 30-09-2022\nDescrizione peso/volume unità di vendita: Barattolo in alluminio da 400 grammi.\nMotivo del richiamo:\nA scopo precauzionale e volontario si è ravvisata l'esigenza di avviare il presente richiamo di prodotto a\nseguito di quattro reclami dei consumatori negli Stati Uniti relativi a Cronobacter sakazakii o Salmonella\nNewport in neonati che avevano consumato alimenti in polvere per lattanti prodotti in questa struttura.\nAvvertenze:\nGentile Cliente, se hai acquistato 'EleCare' del lotto oggetto di questo avviso, non utilizzarlo e restituiscilo\nal punto vendita.\nPer ogni ulteriore informazione contatta il tuo Pediatra o la Ditta Abbott al Numero Verde: 800-025538\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:30:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:47+00:00"
+ },
+ "huvudroll-polpette-vegetariane-surgelate": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/huvudroll-polpette-vegetariane-surgelate/",
+  "titolo": "Huvudroll polpette vegetariane surgelate",
+  "data_pubblicazione": "2022-02-11",
+  "marca": "IKEA of Sweden AB",
+  "denominazione": "Huvudroll polpette vegetariane surgelate",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761190304.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo_1761190304.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761190304.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "huvudroll-polpette-vegetariane-surgelate",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "HUVUDROLL polpette vegetariane surgelate",
+   "operatore": "IKEA of Swiden AB",
+   "lotti": [
+    "2022-10-26"
+   ],
+   "marchio_identificazione": "GUNNAR DAFGÅRD AB",
+   "produttore": "GUNNAR DAFGÅRD AB",
+   "sede_stabilimento": "SVEZIA",
+   "scadenza": "2022-10-26",
+   "peso_volume": "polpette vegetariane surgelate 1000g (art. 704.877.95) )",
+   "motivo_esteso": "possibile presenza di frammenti di plastica solo su lotto riportante data di scadenza 26/10/2022",
+   "avvertenze": "Si raccomanda di non consumare il prodotto riportante data di scadenza 2022-10-26 e di riportarlo in negozio. Previsto rimborso senza necessità di prova d'acquisto. Inserire immagine due",
+   "campi_extra": {
+    "Data": "10.02.2022 Marchio del prodotto: IKEA of Sweden AB"
+   },
+   "testo": "RICHIAMO\nData: 10.02.2022 Marchio del prodotto: IKEA of Sweden AB\nDenominazione di vendita: HUVUDROLL polpette vegetariane surgelate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IKEA of Swiden AB\ncommercializzato:\nLotto di produzione: 2022-10-26\nMarchio di identificazione dello stabilimento/del produttore: GUNNAR DAFGÅRD AB\nNome del produttore: GUNNAR DAFGÅRD AB\nSede dello stabilimento: SVEZIA\nData di scadenza o termine minimo di conservazione: 2022-10-26\nDescrizione peso/volume unità di vendita: polpette vegetariane surgelate 1000g (art. 704.877.95)\n)\nMotivo del richiamo:\npossibile presenza di frammenti di plastica solo su lotto riportante data di scadenza 26/10/2022\nAvvertenze:\nSi raccomanda di non consumare il prodotto riportante data di scadenza 2022-10-26 e di riportarlo in\nnegozio. Previsto rimborso senza necessità di prova d'acquisto.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:31:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:12+00:00"
+ },
+ "juice-aloe-arborescens": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/juice-aloe-arborescens/",
+  "titolo": "JUICE ALOE ARBORESCENS",
+  "data_pubblicazione": "2022-02-14",
+  "marca": "AZIEND AGRICOLA IL PUCINO",
+  "denominazione": "JUICE ALOE ARBORESCENS",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD_Richiamo_JUICEAloeArborescenslotto15115_1761190322.pdf",
+  "allegati": [
+   {
+    "titolo": "MOD_Richiamo_JUICEAloeArborescenslotto15115_1761190322.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD_Richiamo_JUICEAloeArborescenslotto15115_1761190322.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "juice-aloe-arborescens",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:05+00:00"
+ },
+ "nongshim-instant-noodle-soup-kimchi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nongshim-instant-noodle-soup-kimchi/",
+  "titolo": "NONGSHIM Instant noodle soup kimchi",
+  "data_pubblicazione": "2022-02-25",
+  "marca": "NONGSHIM",
+  "denominazione": "NONGSHIM Instant noodle soup kimchi",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20NONGSHIM%20SHIN_1761190353.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo RICHIAMO NONGSHIM SHIN_1761190353.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20RICHIAMO%20NONGSHIM%20SHIN_1761190353.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "nongshim-instant-noodle-soup-kimchi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "NONGSHIM Instant noodle soup kimchi",
+   "operatore": "STORE SRL - PRATO (PO) 59100 VIA TIZIANO, 7 - P.IVA/C.F. 02174650974",
+   "lotti": [
+    "TE21 - TMC 19.05.2022"
+   ],
+   "marchio_identificazione": "NONGSHIM",
+   "produttore": "NONGSHIM CO. LTD COREA DEL SUD - DISTRIBUITO da Asia Express Food BV",
+   "sede_stabilimento": "Asia Express Food BV Kilbystraat 1 8263 CJ Kampen Nederland",
+   "scadenza": "19.05.2022",
+   "peso_volume": "Noodles istantanei koreani Nongshim Shin kimchi ramyun 120g",
+   "motivo_esteso": "presenza di 2-cloroetanolo oltre i limiti di legge",
+   "avvertenze": "comunicare ai propri clienti di non utilizzare il prodotto oggetto del ritiro e di farseli riconsegnare, tutti i prodotti saranno rimborsati. In caso di ingestione del prodotto e successivo malore, rivolgersi immediatamente al proprio medico.",
+   "campi_extra": {
+    "Data": "25/02/2022 Marchio del prodotto: NONGSHIM"
+   },
+   "testo": "RICHIAMO\nData: 25/02/2022 Marchio del prodotto: NONGSHIM\nDenominazione di vendita:NONGSHIM Instant noodle soup kimchi\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è STORE SRL - PRATO (PO) 59100 VIA TIZIANO, 7 - P.IVA/C.F. 02174650974\ncommercializzato:\nLotto di produzione: TE21 - TMC 19.05.2022\nMarchio di identificazione dello stabilimento/del produttore: NONGSHIM\nNome del produttore: NONGSHIM CO. LTD COREA DEL SUD - DISTRIBUITO da Asia Express Food BV\nSede dello stabilimento: Asia Express Food BV Kilbystraat 1 8263 CJ Kampen Nederland\nData di scadenza o termine minimo di conservazione: 19.05.2022\nDescrizione peso/volume unità di vendita: Noodles istantanei koreani Nongshim Shin kimchi ramyun 120g\nMotivo del richiamo:\npresenza di 2-cloroetanolo oltre i limiti di legge\nAvvertenze:\ncomunicare ai propri clienti di non utilizzare il prodotto oggetto del ritiro e di farseli riconsegnare, tutti i\nprodotti saranno rimborsati.\nIn caso di ingestione del prodotto e successivo malore, rivolgersi immediatamente al proprio medico."
+  },
+  "prima_rilevazione": "2026-10-25T08:30:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:41+00:00"
+ },
+ "pollo-allevato-terra-alette-di-pollo-fqc": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pollo-allevato-terra-alette-di-pollo-fqc/",
+  "titolo": "pollo allevato a terra alette di pollo fqc",
+  "data_pubblicazione": "2022-02-25",
+  "marca": "CARREFOUR",
+  "denominazione": "pollo allevato a terra alette di pollo fqc",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761190349.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_1761190349.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761190349.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "pollo-allevato-terra-alette-di-pollo-fqc",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:30:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:38+00:00"
+ },
+ "pollo-allevato-terra-origine-italia-alette-di-pollo-fqc": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pollo-allevato-terra-origine-italia-alette-di-pollo-fqc/",
+  "titolo": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+  "data_pubblicazione": "2022-02-28",
+  "marca": "IT 027 M CE",
+  "denominazione": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Alette_1761190356.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca_Alette_1761190356.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Alette_1761190356.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pollo-allevato-terra-origine-italia-alette-di-pollo-fqc",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:30:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:33+00:00"
+ },
+ "pollo-allevato-terra-origine-italia-alette-di-pollo-fqc-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pollo-allevato-terra-origine-italia-alette-di-pollo-fqc-0/",
+  "titolo": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+  "data_pubblicazione": "2022-02-28",
+  "marca": "CARREFOUR",
+  "denominazione": "POLLO ALLEVATO A TERRA ORIGINE ITALIA ALETTE DI POLLO FQC",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Alette_1761190359.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca_Alette_1761190359.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca_Alette_1761190359.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pollo-allevato-terra-origine-italia-alette-di-pollo-fqc-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:30:36+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:30:36+00:00"
+ },
+ "ricetta-del-frate-aloe-arboscens": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricetta-del-frate-aloe-arboscens/",
+  "titolo": "RICETTA DEL FRATE ALOE ARBOSCENS",
+  "data_pubblicazione": "2022-02-14",
+  "marca": "AZIEND AAGRICOLA IL PUCINO",
+  "denominazione": "RICETTA DEL FRATE ALOE ARBOSCENS",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD_Richiamo_RicettadelFrateAloeArborescenslotto05110_1761190318.pdf",
+  "allegati": [
+   {
+    "titolo": "MOD_Richiamo_RicettadelFrateAloeArborescenslotto05110_1761190318.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MOD_Richiamo_RicettadelFrateAloeArborescenslotto05110_1761190318.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ricetta-del-frate-aloe-arboscens",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:02+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:02+00:00"
+ },
+ "set-posate-4-pezzi-acciaio-essence": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/set-posate-4-pezzi-acciaio-essence/",
+  "titolo": "Set posate 4 pezzi acciaio essence",
+  "data_pubblicazione": "2022-02-11",
+  "marca": "Berghoff",
+  "denominazione": "Set posate 4 pezzi acciaio essence",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761190312.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo_1761190312.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761190312.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "set-posate-4-pezzi-acciaio-essence",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:19+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:19+00:00"
+ },
+ "tartare-di-bovino-adulto-scottona-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tartare-di-bovino-adulto-scottona-0/",
+  "titolo": "TARTARE DI BOVINO ADULTO SCOTTONA",
+  "data_pubblicazione": "2022-02-12",
+  "marca": "LA FILIERA IN TAVOLA - PENNY MARKET",
+  "denominazione": "TARTARE DI BOVINO ADULTO SCOTTONA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20tartare%20scottona_1761190315.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo tartare scottona_1761190315.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20tartare%20scottona_1761190315.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tartare-di-bovino-adulto-scottona-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:31:10+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:10+00:00"
+ },
+ "tazze-termiche": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tazze-termiche/",
+  "titolo": "Tazze termiche",
+  "data_pubblicazione": "2022-02-11",
+  "marca": "CROFTON",
+  "denominazione": "Tazze termiche",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%20ministeriale%20Tazze%20termiche_1761190307.pdf",
+  "allegati": [
+   {
+    "titolo": "Manifesto ministeriale Tazze termiche_1761190307.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%20ministeriale%20Tazze%20termiche_1761190307.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tazze-termiche",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tazze termiche",
+   "operatore": "ALDI Srl",
+   "produttore": "Ritzenhoff AG",
+   "sede_stabilimento": "Sametwiesen 2 - 34431 Marsberg (Germania)",
+   "motivo_esteso": "In alcuni casi sussiste il rischio di rottura della parete interna della vetrocamera della tazza termica.",
+   "avvertenze": "Il prodotto non deve essere più utilizzato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+   "campi_extra": {
+    "Data": "01/02/2022 Marchio del prodotto: CROFTON"
+   },
+   "testo": "RICHIAMO\nData: 01/02/2022 Marchio del prodotto: CROFTON\nDenominazione di vendita:Tazze termiche\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI Srl\ncommercializzato:\nLotto di produzione: -\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Ritzenhoff AG\nSede dello stabilimento: Sametwiesen 2 - 34431 Marsberg (Germania)\nData di scadenza o termine minimo di conservazione: -\nDescrizione peso/volume unità di vendita: -\nMotivo del richiamo:\nIn alcuni casi sussiste il rischio di rottura della parete interna della vetrocamera della tazza termica.\nAvvertenze:\nIl prodotto non deve essere più utilizzato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita\nsarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-25T08:31:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:31:15+00:00"
+ }
+}

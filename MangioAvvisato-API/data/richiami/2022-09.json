@@ -1,0 +1,696 @@
+{
+ "arachidi-guscio-tostate": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arachidi-guscio-tostate/",
+  "titolo": "ARACHIDI IN GUSCIO TOSTATE",
+  "data_pubblicazione": "2022-09-14",
+  "marca": "ALESTO",
+  "denominazione": "ARACHIDI IN GUSCIO TOSTATE",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO%20Arachidi%20in%20guscio%20tostate_1761192145.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO_DI_RICHIAMO Arachidi in guscio tostate_1761192145.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO%20Arachidi%20in%20guscio%20tostate_1761192145.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "arachidi-guscio-tostate",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "13.09.22 Alesto\nArachidi in guscio tostate\nLidl Italia Srl\n19522P\nCiavolino Daniele & Figli Roma Srl\nVia Campo di Carne 20/4 00040 Ardea RM\n07/2023\n500g\nA seguito di un’analisi effettuata su un campione del prodotto “Alesto” Arachidi in guscio tostate, 500g lotto\n19522P da consumarsi preferibilmente entro fine 07/2023, sono state riscontrate tracce di Aflatossine oltre i limiti\nconsentiti.\nProdotto non idoneo al consumo. Si invitano i consumatori a riportarlo al punto vendita per il rimborso.\nIl richiamo riguarda solo alcuni punti vendita. Si invita a verificare il lotto per capire se il prodotto è coinvolto.\nAltri prodotti marchio Alesto non sono coinvolti."
+  },
+  "prima_rilevazione": "2026-10-25T07:46:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:06+00:00"
+ },
+ "barretta-di-fiocchi-di-farro-e-farro-soffiato-con-mirtilli-rossi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barretta-di-fiocchi-di-farro-e-farro-soffiato-con-mirtilli-rossi/",
+  "titolo": "Barretta di fiocchi di farro e farro soffiato con mirtilli rossi, granella di nocciola e cannella bi",
+  "data_pubblicazione": "2022-09-29",
+  "marca": "Carrefour bio",
+  "denominazione": "Barretta di fiocchi di farro e farro soffiato con mirtilli rossi, granella di nocciola e cannella bi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_27.09.2022_1761192166.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_27.09.2022_1761192166.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_27.09.2022_1761192166.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "barretta-di-fiocchi-di-farro-e-farro-soffiato-con-mirtilli-rossi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:45:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:45:50+00:00"
+ },
+ "bastoncini-di-surimi-pezzi-salamoia-etichettato-come-gamberetti": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bastoncini-di-surimi-pezzi-salamoia-etichettato-come-gamberetti/",
+  "titolo": "bastoncini di surimi a pezzi in salamoia etichettato come gamberetti in salamoia Mari Freddi Luxus",
+  "data_pubblicazione": "2022-09-07",
+  "marca": "Riunione Industrie Alimentari",
+  "denominazione": "bastoncini di surimi a pezzi in salamoia etichettato come gamberetti in salamoia Mari Freddi Luxus",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761192111.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo_1761192111.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo_1761192111.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "bastoncini-di-surimi-pezzi-salamoia-etichettato-come-gamberetti",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:46:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:33+00:00"
+ },
+ "cannoli-vuoti": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannoli-vuoti/",
+  "titolo": "Cannoli vuoti",
+  "data_pubblicazione": "2022-09-02",
+  "marca": "Italiamo",
+  "denominazione": "Cannoli vuoti",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOCannolivuoti_1761192105.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato4_MODELLO_DI_RICHIAMOCannolivuoti_1761192105.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato4_MODELLO_DI_RICHIAMOCannolivuoti_1761192105.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannoli-vuoti",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n26/08/22 Italiamo\nCannoli vuoti\nLidl Italia S.r.l. a socio unico\n166\n-\nBlanco S.r.l.s\nV.le M. Gori, 513 – 517, 93015 Niscemi (CL)\n12/11/2022\n250 g\nRilevata la presenza dell’allergene latte non riportato in etichetta\nProdotto non idoneo al consumo da parte di allergici al latte. Si invitano tali consumatori a non consumarlo e a\nriportarlo al punto vendita per il rimborso."
+  },
+  "prima_rilevazione": "2026-10-25T07:46:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:38+00:00"
+ },
+ "filetti-di-alici-allolio-di-oliva-140g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-allolio-di-oliva-140g/",
+  "titolo": "FILETTI DI ALICI ALL'OLIO DI OLIVA 140G",
+  "data_pubblicazione": "2022-09-09",
+  "marca": "SIPA",
+  "denominazione": "FILETTI DI ALICI ALL'OLIO DI OLIVA 140G",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20MinSal%20Zarotti%20Spa_1761192122.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo MinSal Zarotti Spa_1761192122.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20MinSal%20Zarotti%20Spa_1761192122.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "filetti-di-alici-allolio-di-oliva-140g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FILETTI DI ALICI ALL'OLIO DI OLIVA 140G",
+   "operatore": "Zarotti spa via Nuova di Coloreto 15 a Parma",
+   "lotti": [
+    "PA137"
+   ],
+   "marchio_identificazione": "AL 28 P.P.",
+   "produttore": "POSEIDON shpk",
+   "sede_stabilimento": "Shengjin (LEZHE) Albania",
+   "scadenza": "17-11-2023",
+   "peso_volume": "140g peso netto",
+   "motivo_esteso": "presenza istamina oltre limite di legge",
+   "campi_extra": {
+    "Data": "08/09/2022 Marchio del prodotto: SIPA"
+   },
+   "testo": "RICHIAMO\nData: 08/09/2022 Marchio del prodotto: SIPA\nDenominazione di vendita:FILETTI DI ALICI ALL'OLIO DI OLIVA 140G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Zarotti spa via Nuova di Coloreto 15 a Parma\ncommercializzato:\nLotto di produzione: PA137\nMarchio di identificazione dello stabilimento/del produttore: AL 28 P.P.\nNome del produttore: POSEIDON shpk\nSede dello stabilimento: Shengjin (LEZHE) Albania\nData di scadenza o termine minimo di conservazione: 17-11-2023\nDescrizione peso/volume unità di vendita: 140g peso netto\nMotivo del richiamo:\npresenza istamina oltre limite di legge\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:30+00:00"
+ },
+ "gelati-base-di-vaniglia-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelati-base-di-vaniglia-0/",
+  "titolo": "GELATI A BASE DI VANIGLIA",
+  "data_pubblicazione": "2022-09-22",
+  "marca": "HAAGEN DAZS",
+  "denominazione": "GELATI A BASE DI VANIGLIA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%2021_09_2022_1761192152.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo 21_09_2022_1761192152.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%2021_09_2022_1761192152.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gelati-base-di-vaniglia-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:46:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:01+00:00"
+ },
+ "insalata-di-patate-con-olio-e-aceto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-patate-con-olio-e-aceto/",
+  "titolo": "Insalata di patate con olio e aceto",
+  "data_pubblicazione": "2022-09-12",
+  "marca": "Good Choice",
+  "denominazione": "Insalata di patate con olio e aceto",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20_%20714973%20Insalata%20di%20patate%20con%20olio%20e%20aceto_1761192125.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo _ 714973 Insalata di patate con olio e aceto_1761192125.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20_%20714973%20Insalata%20di%20patate%20con%20olio%20e%20aceto_1761192125.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-patate-con-olio-e-aceto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Insalata di patate con olio e aceto",
+   "operatore": "ALDI S.r.l",
+   "marchio_identificazione": "Wojnar’s Wiener Leckerbissen senerzeugung",
+   "produttore": "Wojnar’s Wiener Leckerbissen Laxenburger Strasse 250, 1230 Wien, Austria",
+   "sede_stabilimento": "21.09.22 Date di scadenza o termine minimo di conservazione",
+   "peso_volume": "1 Kg",
+   "motivo_esteso": "Possibile presenza di frammenti di vetro nel prodotto.",
+   "avvertenze": "Il prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+   "campi_extra": {
+    "Data": "08/09/2 022 Marchio del prodotto: Good Choice"
+   },
+   "testo": "RICHIAMO\nData: 08/09/2 022 Marchio del prodotto: Good Choice\nDenominazione di vendita: Insalata di patate con olio e aceto\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: -\nMarchio di identificazione dello stabilimento/del produttore: Wojnar’s Wiener Leckerbissen\nsenerzeugung\nNome del produttore: Wojnar’s Wiener Leckerbissen\nLaxenburger Strasse 250, 1230 Wien, Austria\nSede dello stabilimento:\n21.09.22\nDate di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 1 Kg\nMotivo del richiamo:\nPossibile presenza di frammenti di vetro nel prodotto.\nAvvertenze:\nIl prodotto non deve essere consumato e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita\nsarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:17+00:00"
+ },
+ "maccagno": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/maccagno/",
+  "titolo": "Maccagno",
+  "data_pubblicazione": "2022-09-09",
+  "marca": "Antoniotti Michela",
+  "denominazione": "Maccagno",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20formaggio%20Maccagno_1761192118.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo formaggio Maccagno_1761192118.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20formaggio%20Maccagno_1761192118.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "maccagno",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:46:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:28+00:00"
+ },
+ "ml-1088-bicchiere-h-cm-85-x-75": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ml-1088-bicchiere-h-cm-85-x-75/",
+  "titolo": "ML 1088 BICCHIERE H. CM 8.5 X 7.5",
+  "data_pubblicazione": "2022-09-23",
+  "marca": "T-T TABLE TOP",
+  "denominazione": "ML 1088 BICCHIERE H. CM 8.5 X 7.5",
+  "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_1761192155.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO DI RICHIAMO_1761192155.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20DI%20RICHIAMO_1761192155.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ml-1088-bicchiere-h-cm-85-x-75",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:45:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:45:59+00:00"
+ },
+ "pizzoccheri-preparazione-gastronomica-cotta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzoccheri-preparazione-gastronomica-cotta/",
+  "titolo": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+  "data_pubblicazione": "2022-09-28",
+  "marca": "VIVA LA MAMMA",
+  "denominazione": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R652_1761192159.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO R652_1761192159.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R652_1761192159.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "pizzoccheri-preparazione-gastronomica-cotta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PIZZOCCHERI - PREPARAZIONE GASTRONOMICA COTTA",
+   "operatore": "PIATTI FRESCHI ITALIA SPA",
+   "lotti": [
+    "R652221019"
+   ],
+   "marchio_identificazione": "IT 1784 L CE",
+   "produttore": "PIATTI FRESCHI ITALIA SPA",
+   "sede_stabilimento": "VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)",
+   "scadenza": "19-10-2022",
+   "peso_volume": "300 g",
+   "motivo_esteso": "PRESENZA DI ALLERGENE LUPINO NON DICHIARATO IN ETICHETTA",
+   "avvertenze": "SI INFORMA CHE IL PRODOTTO NON RIPORTA LA CROSS CONTAMINATION DA ALLERGENE LUPINO IN ETICHETTA, PERTANTO RISULTA NON IDONEO AL CONSUMO DA PARTE DEI SOGGETTI SENSIBILI A TALE ALLERGENE. PER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO SOPRA INDICATO NON COMPORTA ALCUN PERICOLO PER LA SALUTE.",
+   "campi_extra": {
+    "Data": "16/09/2022 Marchio del prodotto: VIVA LA MAMMA"
+   },
+   "testo": "RICHIAMO\nData: 16/09/2022 Marchio del prodotto: VIVA LA MAMMA\nDenominazione di vendita:PIZZOCCHERI - PREPARAZIONE GASTRONOMICA COTTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIATTI FRESCHI ITALIA SPA\ncommercializzato:\nLotto di produzione: R652221019\nMarchio di identificazione dello stabilimento/del produttore: IT 1784 L CE\nNome del produttore: PIATTI FRESCHI ITALIA SPA\nSede dello stabilimento: VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)\nData di scadenza o termine minimo di conservazione: 19-10-2022\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nPRESENZA DI ALLERGENE LUPINO NON DICHIARATO IN ETICHETTA\nAvvertenze:\nSI INFORMA CHE IL PRODOTTO NON RIPORTA LA CROSS CONTAMINATION DA ALLERGENE LUPINO IN\nETICHETTA, PERTANTO RISULTA NON IDONEO AL CONSUMO DA PARTE DEI SOGGETTI SENSIBILI A TALE\nALLERGENE. PER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO SOPRA INDICATO NON COMPORTA\nALCUN PERICOLO PER LA SALUTE."
+  },
+  "prima_rilevazione": "2026-10-25T07:45:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:45:53+00:00"
+ },
+ "pizzoccheri-preparazione-gastronomica-cotta-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzoccheri-preparazione-gastronomica-cotta-0/",
+  "titolo": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+  "data_pubblicazione": "2022-09-28",
+  "marca": "VIVA LA MAMMA",
+  "denominazione": "PIZZOCCHERI- PREPARAZIONE GASTRONOMICA COTTA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R672_1761192162.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO R672_1761192162.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20R672_1761192162.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "pizzoccheri-preparazione-gastronomica-cotta-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PIZZOCCHERI - PREPARAZIONE GASTRONOMICA COTTA",
+   "operatore": "PIATTI FRESCHI ITALIA SPA",
+   "lotti": [
+    "R672221005"
+   ],
+   "marchio_identificazione": "IT 1784 L CE",
+   "produttore": "PIATTI FRESCHI ITALIA SPA",
+   "sede_stabilimento": "VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)",
+   "scadenza": "05-10-2022",
+   "peso_volume": "300 g",
+   "motivo_esteso": "PRESENZA DI ALLERGENE LUPINO NON DICHIARATO IN ETICHETTA",
+   "avvertenze": "SI INFORMA CHE IL PRODOTTO NON RIPORTA LA CROSS CONTAMINATION DA ALLERGENE LUPINO IN ETICHETTA, PERTANTO RISULTA NON IDONEO AL CONSUMO DA PARTE DEI SOGGETTI SENSIBILI A TALE ALLERGENE. PER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO SOPRA INDICATO NON COMPORTA ALCUN PERICOLO PER LA SALUTE.",
+   "campi_extra": {
+    "Data": "16/09/2022 Marchio del prodotto: VIVA LA MAMMA"
+   },
+   "testo": "RICHIAMO\nData: 16/09/2022 Marchio del prodotto: VIVA LA MAMMA\nDenominazione di vendita:PIZZOCCHERI - PREPARAZIONE GASTRONOMICA COTTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIATTI FRESCHI ITALIA SPA\ncommercializzato:\nLotto di produzione: R672221005\nMarchio di identificazione dello stabilimento/del produttore: IT 1784 L CE\nNome del produttore: PIATTI FRESCHI ITALIA SPA\nSede dello stabilimento: VIA SILVIO PELLICO, 8 20056 TREZZO SULL'ADDA (MI)\nData di scadenza o termine minimo di conservazione: 05-10-2022\nDescrizione peso/volume unità di vendita: 300 g\nMotivo del richiamo:\nPRESENZA DI ALLERGENE LUPINO NON DICHIARATO IN ETICHETTA\nAvvertenze:\nSI INFORMA CHE IL PRODOTTO NON RIPORTA LA CROSS CONTAMINATION DA ALLERGENE LUPINO IN\nETICHETTA, PERTANTO RISULTA NON IDONEO AL CONSUMO DA PARTE DEI SOGGETTI SENSIBILI A TALE\nALLERGENE. PER TUTTI GLI ALTRI CONSUMATORI IL PRODOTTO SOPRA INDICATO NON COMPORTA\nALCUN PERICOLO PER LA SALUTE."
+  },
+  "prima_rilevazione": "2026-10-25T07:45:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:45:56+00:00"
+ },
+ "quetidia-soluzione-orale-fast-slow": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/quetidia-soluzione-orale-fast-slow/",
+  "titolo": "QUETIDIA soluzione orale FAST-SLOW",
+  "data_pubblicazione": "2022-09-20",
+  "marca": "QUETIDIA soluzione orale",
+  "denominazione": "QUETIDIA soluzione orale FAST-SLOW",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo%20lotti%20220342_220343%20_Quetidia%20Soluzione%20orale_1761192148.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_Richiamo lotti 220342_220343 _Quetidia Soluzione orale_1761192148.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo%20lotti%20220342_220343%20_Quetidia%20Soluzione%20orale_1761192148.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "quetidia-soluzione-orale-fast-slow",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "QUETIDIA soluzione orale FAST-SLOW",
+   "operatore": "NEURAXPHARM ITALY S.P.A.",
+   "lotti": [
+    "220342",
+    "220343"
+   ],
+   "produttore": "H.P.I. HUMANA PHARMA INTERNATIONAL SPA",
+   "sede_stabilimento": "via Enrico Mattei snc - 27022 - CASORATE PRIMO",
+   "scadenza": "29-02-2024",
+   "peso_volume": "flacone da 150 ml",
+   "motivo_esteso": "segnalata effervescenza inattesa e conseguente fuoriuscita del prodotto all'apertura del flacone",
+   "avvertenze": "Non assumere la soluzione dei lotti 220342 e 220343 a scopo precauzionale",
+   "campi_extra": {
+    "Data": "13/09/2022 Marchio del prodotto: QUETIDIA soluzione orale"
+   },
+   "testo": "RICHIAMO\nData: 13/09/2022 Marchio del prodotto: QUETIDIA soluzione orale\nDenominazione di vendita:QUETIDIA soluzione orale FAST-SLOW\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NEURAXPHARM ITALY S.P.A.\ncommercializzato:\nLotto di produzione: 220342; 220343\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: H.P.I. HUMANA PHARMA INTERNATIONAL SPA\nSede dello stabilimento: via Enrico Mattei snc - 27022 - CASORATE PRIMO\nData di scadenza o termine minimo di conservazione: 29-02-2024\nDescrizione peso/volume unità di vendita: flacone da 150 ml\nMotivo del richiamo:\nsegnalata effervescenza inattesa e conseguente fuoriuscita del prodotto all'apertura del flacone\nAvvertenze:\nNon assumere la soluzione dei lotti 220342 e 220343 a scopo precauzionale"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:03+00:00"
+ },
+ "tronchetto-di-capra-1-kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tronchetto-di-capra-1-kg/",
+  "titolo": "Tronchetto di Capra 1 Kg.",
+  "data_pubblicazione": "2022-09-12",
+  "marca": "PRESIDENT",
+  "denominazione": "Tronchetto di Capra 1 Kg.",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lactalis_Tronchetto_Capra_1Kg_1761192132.pdf",
+  "allegati": [
+   {
+    "titolo": "Lactalis_Tronchetto_Capra_1Kg_1761192132.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lactalis_Tronchetto_Capra_1Kg_1761192132.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "tronchetto-di-capra-1-kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tronchetto di Capra",
+   "operatore": "biG S.r.l.",
+   "lotti": [
+    "227A"
+   ],
+   "marchio_identificazione": "FR 79 299 001",
+   "produttore": "Société Fromagere De Riblaire",
+   "sede_stabilimento": "RIBLAIRE 79330 SAINT-VARENT SIRET",
+   "scadenza": "25-10-2022",
+   "peso_volume": "1 Kg",
+   "motivo_esteso": "Misura precauzionale a causa della potenziale presenza di un corpo estraneo metallico.",
+   "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i sopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800191039 nei giorni feriali compreso il sabato mattina Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2022 Marchio del prodotto: PRESIDENT",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 12/09/2022 Marchio del prodotto: PRESIDENT\nDenominazione di vendita:Tronchetto di Capra\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: 227A\nMarchio di identificazione dello stabilimento/del produttore: FR 79 299 001\nNome del produttore: Société Fromagere De Riblaire\nSede dello stabilimento: RIBLAIRE 79330 SAINT-VARENT SIRET\nData di scadenza o termine minimo di conservazione: 25-10-2022\nDescrizione peso/volume unità di vendita: 1 Kg\nMotivo del richiamo:\nMisura precauzionale a causa della potenziale presenza di un corpo estraneo metallico.\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i\nsopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il\nnumero verde al numero 800191039 nei giorni feriali compreso il sabato mattina\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:22+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:22+00:00"
+ },
+ "tronchetto-di-capra-1-kg-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tronchetto-di-capra-1-kg-0/",
+  "titolo": "Tronchetto di Capra 1 Kg",
+  "data_pubblicazione": "2022-09-13",
+  "marca": "President",
+  "denominazione": "Tronchetto di Capra 1 Kg",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%201%20Kg%2025_10_1761192142.pdf",
+  "allegati": [
+   {
+    "titolo": "BIG_Richiamo_Tronchetto_Capra 1 Kg 25_10_1761192142.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%201%20Kg%2025_10_1761192142.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tronchetto-di-capra-1-kg-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tronchetto di Capra",
+   "operatore": "biG S.r.l.",
+   "lotti": [
+    "238ACN360 - 238ACN72"
+   ],
+   "marchio_identificazione": "FR 79 299 001",
+   "produttore": "Société Fromagere De Riblaire",
+   "sede_stabilimento": "RIBLAIRE 79330 SAINT-VARENT SIRET",
+   "scadenza": "25-10-2022",
+   "peso_volume": "1 Kg",
+   "motivo_esteso": "Misura precauzionale a causa della potenziale presenza di un corpo estraneo metallico",
+   "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i sopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800191039 nei giorni feriali compreso il sabato mattina Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2022 Marchio del prodotto: PRESIDENT",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 12/09/2022 Marchio del prodotto: PRESIDENT\nDenominazione di vendita:Tronchetto di Capra\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: 238ACN360 - 238ACN72\nMarchio di identificazione dello stabilimento/del produttore: FR 79 299 001\nNome del produttore: Société Fromagere De Riblaire\nSede dello stabilimento: RIBLAIRE 79330 SAINT-VARENT SIRET\nData di scadenza o termine minimo di conservazione: 25-10-2022\nDescrizione peso/volume unità di vendita: 1 Kg\nMotivo del richiamo:\nMisura precauzionale a causa della potenziale presenza di un corpo estraneo metallico\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i\nsopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il\nnumero verde al numero 800191039 nei giorni feriali compreso il sabato mattina\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:15+00:00"
+ },
+ "tronchetto-di-capra-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tronchetto-di-capra-200g/",
+  "titolo": "Tronchetto di Capra 200g",
+  "data_pubblicazione": "2022-09-12",
+  "marca": "PRESIDENT",
+  "denominazione": "Tronchetto di Capra 200g",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lactalis_Tronchetto_Capra_200g_1761192128.pdf",
+  "allegati": [
+   {
+    "titolo": "Lactalis_Tronchetto_Capra_200g_1761192128.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Lactalis_Tronchetto_Capra_200g_1761192128.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "tronchetto-di-capra-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tronchetto di Capra",
+   "operatore": "biG S.r.l.",
+   "lotti": [
+    "227A"
+   ],
+   "marchio_identificazione": "FR 79 299 001",
+   "produttore": "Société Fromagere De Riblaire",
+   "sede_stabilimento": "RIBLAIRE 79330 SAINT-VARENT SIRET",
+   "scadenza": "06/10/22 - 12/10/22",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Misura precauzionale a causa della potenziale presenza di un corpo estraneo metallico",
+   "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i sopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800191039 nei giorni feriali compreso il sabato mattina Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2022 Marchio del prodotto: PRESIDENT",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 12/09/2022 Marchio del prodotto: PRESIDENT\nDenominazione di vendita:Tronchetto di Capra\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: 227A\nMarchio di identificazione dello stabilimento/del produttore: FR 79 299 001\nNome del produttore: Société Fromagere De Riblaire\nSede dello stabilimento: RIBLAIRE 79330 SAINT-VARENT SIRET\nData di scadenza o termine minimo di conservazione: 06/10/22 - 12/10/22\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nMisura precauzionale a causa della potenziale presenza di un corpo estraneo metallico\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i\nsopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il\nnumero verde al numero 800191039 nei giorni feriali compreso il sabato mattina\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:19+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:19+00:00"
+ },
+ "tronchetto-di-capra-200g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tronchetto-di-capra-200g-0/",
+  "titolo": "Tronchetto di Capra 200g",
+  "data_pubblicazione": "2022-09-13",
+  "marca": "President",
+  "denominazione": "Tronchetto di Capra 200g",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%20200g%2006_10_1761192135.pdf",
+  "allegati": [
+   {
+    "titolo": "BIG_Richiamo_Tronchetto_Capra 200g 06_10_1761192135.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%20200g%2006_10_1761192135.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tronchetto-di-capra-200g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tronchetto di Capra",
+   "operatore": "biG S.r.l.",
+   "lotti": [
+    "227AD05320"
+   ],
+   "marchio_identificazione": "FR 79 299 001",
+   "produttore": "Société Fromagere De Riblaire",
+   "sede_stabilimento": "RIBLAIRE 79330 SAINT-VARENT SIRET",
+   "scadenza": "06-10-2022",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Misura precauzionale a causa della potenziale presenza di un corpo estraneo metallico",
+   "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i sopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800191039 nei giorni feriali compreso il sabato mattina Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2022 Marchio del prodotto: PRESIDENT",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 12/09/2022 Marchio del prodotto: PRESIDENT\nDenominazione di vendita:Tronchetto di Capra\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: 227AD05320\nMarchio di identificazione dello stabilimento/del produttore: FR 79 299 001\nNome del produttore: Société Fromagere De Riblaire\nSede dello stabilimento: RIBLAIRE 79330 SAINT-VARENT SIRET\nData di scadenza o termine minimo di conservazione: 06-10-2022\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nMisura precauzionale a causa della potenziale presenza di un corpo estraneo metallico\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i\nsopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il\nnumero verde al numero 800191039 nei giorni feriali compreso il sabato mattina\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:09+00:00"
+ },
+ "tronchetto-di-capra-200g-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tronchetto-di-capra-200g-1/",
+  "titolo": "Tronchetto di Capra 200g",
+  "data_pubblicazione": "2022-09-13",
+  "marca": "President",
+  "denominazione": "Tronchetto di Capra 200g",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%20200g%2012_10_1761192138.pdf",
+  "allegati": [
+   {
+    "titolo": "BIG_Richiamo_Tronchetto_Capra 200g 12_10_1761192138.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIG_Richiamo_Tronchetto_Capra%20200g%2012_10_1761192138.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tronchetto-di-capra-200g-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tronchetto di Capra",
+   "operatore": "biG S.r.l.",
+   "lotti": [
+    "232CB05320"
+   ],
+   "marchio_identificazione": "FR 79 299 001",
+   "produttore": "Société Fromagere De Riblaire",
+   "sede_stabilimento": "RIBLAIRE 79330 SAINT-VARENT SIRET",
+   "scadenza": "12-10-2022",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Misura precauzionale a causa della potenziale presenza di un corpo estraneo metallico",
+   "avvertenze": "A scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i sopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il numero verde al numero 800191039 nei giorni feriali compreso il sabato mattina Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2022 Marchio del prodotto: PRESIDENT",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 12/09/2022 Marchio del prodotto: PRESIDENT\nDenominazione di vendita:Tronchetto di Capra\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: 232CB05320\nMarchio di identificazione dello stabilimento/del produttore: FR 79 299 001\nNome del produttore: Société Fromagere De Riblaire\nSede dello stabilimento: RIBLAIRE 79330 SAINT-VARENT SIRET\nData di scadenza o termine minimo di conservazione: 12-10-2022\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nMisura precauzionale a causa della potenziale presenza di un corpo estraneo metallico\nAvvertenze:\nA scopo precauzionale si raccomanda alle persone che hanno acquistato prodotti appartenenti al/i lotto/i\nsopra descritto/i di non consumarli e restituirli al punto vendita. I consumatori possono contattare il\nnumero verde al numero 800191039 nei giorni feriali compreso il sabato mattina\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:12+00:00"
+ },
+ "wrustel-con-pollo-e-tacchino-al-formaggio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wrustel-con-pollo-e-tacchino-al-formaggio/",
+  "titolo": "WRUSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+  "data_pubblicazione": "2022-09-05",
+  "marca": "TOBIAS",
+  "denominazione": "WRUSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20Revoca%20di%20Richiamo%20Wurstel%20pollo%20e%20tacchino%20con%20formaggio%20TOBIAS%20150g%20_1__1761192108.pdf",
+  "allegati": [
+   {
+    "titolo": "Avviso Revoca di Richiamo Wurstel pollo e tacchino con formaggio TOBIAS 150g _1__1761192108.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20Revoca%20di%20Richiamo%20Wurstel%20pollo%20e%20tacchino%20con%20formaggio%20TOBIAS%20150g%20_1__1761192108.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wrustel-con-pollo-e-tacchino-al-formaggio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "WURSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+   "operatore": "EUROSPIN ITALIA S.p.A",
+   "lotti": [
+    "1785417"
+   ],
+   "marchio_identificazione": "IT 04 M CE",
+   "produttore": "AGRICOLA TRE VALLI Soc. Coop",
+   "sede_stabilimento": "P.le Apollinare Veronesi 1, San Martino Buon Albergo",
+   "scadenza": "03.09.2022",
+   "peso_volume": "150 g",
+   "motivo_esteso": "Presenza Listeria Monocytogenes",
+   "avvertenze": "Richiamo revocato per prodotto giunto a scadenza Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "05.0 9.2022 Marchio del prodotto: TOBIAS"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 05.0 9.2022 Marchio del prodotto: TOBIAS\nDenominazione di vendita: WURSTEL CON POLLO E TACCHINO AL FORMAGGIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPIN ITALIA S.p.A\ncommercializzato:\nLotto di produzione: 1785417\nMarchio di identificazione dello stabilimento/del produttore: IT 04 M CE\nNome del produttore: AGRICOLA TRE VALLI Soc. Coop\nSede dello stabilimento: P.le Apollinare Veronesi 1, San Martino Buon Albergo\nData di scadenza o termine minimo di conservazione: 03.09.2022\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza Listeria Monocytogenes\nAvvertenze:\nRichiamo revocato per prodotto giunto a scadenza\nInserire immagine uno:\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:35+00:00"
+ },
+ "wrustel-con-pollo-e-tacchino-al-formaggio-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wrustel-con-pollo-e-tacchino-al-formaggio-0/",
+  "titolo": "WRUSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+  "data_pubblicazione": "2022-09-09",
+  "marca": "TOBIAS",
+  "denominazione": "WRUSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022.09.09%20_%20wurstel%20con%20formaggio%20150g%20_%20AIA_1761192115.pdf",
+  "allegati": [
+   {
+    "titolo": "2022.09.09 _ wurstel con formaggio 150g _ AIA_1761192115.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022.09.09%20_%20wurstel%20con%20formaggio%20150g%20_%20AIA_1761192115.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wrustel-con-pollo-e-tacchino-al-formaggio-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "WURSTEL CON POLLO E TACCHINO AL FORMAGGIO",
+   "operatore": "EUROSPIN ITALIA S.p.A",
+   "lotti": [
+    "1810919"
+   ],
+   "marchio_identificazione": "IT 04 M CE",
+   "produttore": "AGRICOLA TRE VALLI Soc. Coop.",
+   "sede_stabilimento": "P.le Apollinare Veronesi 1, San Martino Buon Albergo",
+   "scadenza": "17.09.2022",
+   "peso_volume": "150 g",
+   "motivo_esteso": "Prodotto richiamato a titolo precauzionale su richiesta del produttore.",
+   "avvertenze": "Non consumare il prodotto e riportarlo al punto vendita per sostituzione o rimborso Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "09.09.2022 Marchio del prodotto: TOBIAS",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 09.09.2022 Marchio del prodotto: TOBIAS\nDenominazione di vendita:WURSTEL CON POLLO E TACCHINO AL FORMAGGIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EUROSPIN ITALIA S.p.A\ncommercializzato:\nLotto di produzione: 1810919\nMarchio di identificazione dello stabilimento/del produttore: IT 04 M CE\nNome del produttore: AGRICOLA TRE VALLI Soc. Coop.\nSede dello stabilimento: P.le Apollinare Veronesi 1, San Martino Buon Albergo\nData di scadenza o termine minimo di conservazione: 17.09.2022\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nProdotto richiamato a titolo precauzionale su richiesta del produttore.\nAvvertenze:\nNon consumare il prodotto e riportarlo al punto vendita per sostituzione o rimborso\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:46:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:46:25+00:00"
+ }
+}

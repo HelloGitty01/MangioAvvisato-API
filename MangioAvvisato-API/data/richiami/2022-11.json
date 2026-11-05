@@ -1,0 +1,1732 @@
+{
+ "anacaps-expert": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-expert/",
+  "titolo": "ANACAPS EXPERT",
+  "data_pubblicazione": "2022-11-02",
+  "marca": "DUCRAY",
+  "denominazione": "ANACAPS EXPERT",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps%20X3___1761192277.pdf",
+  "allegati": [
+   {
+    "titolo": "ANACAPS EXPERT _ 2K1RF 2K1MD 2K1MC _ 30cps X3___1761192277.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps%20X3___1761192277.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "anacaps-expert",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ANACAPS EXPERT",
+   "operatore": "PIERRE FABRE ITALIA S.P.A.",
+   "lotti": [
+    "2K1RF",
+    "2K1MD",
+    "2K1MC"
+   ],
+   "marchio_identificazione": "Le Payrat, CAHORS, 46000, France",
+   "produttore": "PFDC Laboratoires Dermatologiques Ducray",
+   "sede_stabilimento": "Le Payrat, CAHORS, 46000, France",
+   "scadenza": "06/2024",
+   "peso_volume": "30 capsule - peso netto 17g (X3 confezioni)",
+   "motivo_esteso": "RISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.",
+   "avvertenze": "GENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT APPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO VENDITA/FARMACIA IN CUI L’HA ACQUISTATA.",
+   "campi_extra": {
+    "Data": "24/10/2022 Marchio del prodotto: DUCRAY"
+   },
+   "testo": "RICHIAMO\nData: 24/10/2022 Marchio del prodotto: DUCRAY\nDenominazione di vendita:ANACAPS EXPERT\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIERRE FABRE ITALIA S.P.A.\ncommercializzato:\nLotto di produzione: 2K1RF, 2K1MD, 2K1MC\nMarchio di identificazione dello stabilimento/del produttore: Le Payrat, CAHORS, 46000, France\nNome del produttore: PFDC Laboratoires Dermatologiques Ducray\nSede dello stabilimento: Le Payrat, CAHORS, 46000, France\nData di scadenza o termine minimo di conservazione: 06/2024\nDescrizione peso/volume unità di vendita: 30 capsule - peso netto 17g (X3 confezioni)\nMotivo del richiamo:\nRISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.\nAvvertenze:\nGENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT\nAPPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO\nVENDITA/FARMACIA IN CUI L’HA ACQUISTATA."
+  },
+  "prima_rilevazione": "2026-10-25T07:44:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:28+00:00"
+ },
+ "anacaps-expert-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-expert-0/",
+  "titolo": "ANACAPS EXPERT",
+  "data_pubblicazione": "2022-11-02",
+  "marca": "DUCRAY",
+  "denominazione": "ANACAPS EXPERT",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps___1761192282.pdf",
+  "allegati": [
+   {
+    "titolo": "ANACAPS EXPERT _ 2K1RF 2K1MD 2K1MC _ 30cps___1761192282.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RF%202K1MD%202K1MC%20_%2030cps___1761192282.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "anacaps-expert-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ANACAPS EXPERT",
+   "operatore": "PIERRE FABRE ITALIA S.P.A.",
+   "lotti": [
+    "2K1RF",
+    "2K1MD",
+    "2K1MC"
+   ],
+   "marchio_identificazione": "Le Payrat, CAHORS, 46000, France",
+   "produttore": "PFDC Laboratoires Dermatologiques Ducray",
+   "sede_stabilimento": "Le Payrat, CAHORS, 46000, France",
+   "scadenza": "06/2024",
+   "peso_volume": "30 capsule; peso netto 17g",
+   "motivo_esteso": "RISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.",
+   "avvertenze": "GENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT APPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO VENDITA/FARMACIA IN CUI L’HA ACQUISTATA.",
+   "campi_extra": {
+    "Data": "24/10/2022 Marchio del prodotto: DUCRAY"
+   },
+   "testo": "RICHIAMO\nData: 24/10/2022 Marchio del prodotto: DUCRAY\nDenominazione di vendita:ANACAPS EXPERT\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIERRE FABRE ITALIA S.P.A.\ncommercializzato:\nLotto di produzione: 2K1RF, 2K1MD, 2K1MC\nMarchio di identificazione dello stabilimento/del produttore: Le Payrat, CAHORS, 46000, France\nNome del produttore: PFDC Laboratoires Dermatologiques Ducray\nSede dello stabilimento: Le Payrat, CAHORS, 46000, France\nData di scadenza o termine minimo di conservazione: 06/2024\nDescrizione peso/volume unità di vendita: 30 capsule; peso netto 17g\nMotivo del richiamo:\nRISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.\nAvvertenze:\nGENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT\nAPPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO\nVENDITA/FARMACIA IN CUI L’HA ACQUISTATA."
+  },
+  "prima_rilevazione": "2026-10-25T07:44:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:30+00:00"
+ },
+ "anacaps-expert-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-expert-1/",
+  "titolo": "ANACAPS EXPERT",
+  "data_pubblicazione": "2022-11-02",
+  "marca": "DUCRAY",
+  "denominazione": "ANACAPS EXPERT",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RG%2030cps___1761192287.pdf",
+  "allegati": [
+   {
+    "titolo": "ANACAPS EXPERT _ 2K1RG 30cps___1761192287.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RG%2030cps___1761192287.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "anacaps-expert-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ANACAPS EXPERT",
+   "operatore": "PIERRE FABRE ITALIA S.P.A.",
+   "lotti": [
+    "2K1RG"
+   ],
+   "marchio_identificazione": "Le Payrat, CAHORS, 46000, France",
+   "produttore": "PFDC Laboratoires Dermatologiques Ducray",
+   "sede_stabilimento": "Le Payrat, CAHORS, 46000, France",
+   "scadenza": "07/2024",
+   "peso_volume": "30 capsule; peso netto 17g",
+   "motivo_esteso": "RISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.",
+   "avvertenze": "GENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT APPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO VENDITA/FARMACIA IN CUI L’HA ACQUISTATA.",
+   "campi_extra": {
+    "Data": "24/10/2022 Marchio del prodotto: DUCRAY"
+   },
+   "testo": "RICHIAMO\nData: 24/10/2022 Marchio del prodotto: DUCRAY\nDenominazione di vendita:ANACAPS EXPERT\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIERRE FABRE ITALIA S.P.A.\ncommercializzato:\nLotto di produzione: 2K1RG\nMarchio di identificazione dello stabilimento/del produttore: Le Payrat, CAHORS, 46000, France\nNome del produttore: PFDC Laboratoires Dermatologiques Ducray\nSede dello stabilimento: Le Payrat, CAHORS, 46000, France\nData di scadenza o termine minimo di conservazione: 07/2024\nDescrizione peso/volume unità di vendita: 30 capsule; peso netto 17g\nMotivo del richiamo:\nRISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.\nAvvertenze:\nGENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT\nAPPARTENENTE A QUESTI LOTTI E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO\nVENDITA/FARMACIA IN CUI L’HA ACQUISTATA."
+  },
+  "prima_rilevazione": "2026-10-25T07:44:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:33+00:00"
+ },
+ "anacaps-extra": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/anacaps-extra/",
+  "titolo": "ANACAPS EXTRA",
+  "data_pubblicazione": "2022-11-02",
+  "marca": "DUCRAY",
+  "denominazione": "ANACAPS EXTRA",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RJ%20_%205cps___1761192291.pdf",
+  "allegati": [
+   {
+    "titolo": "ANACAPS EXPERT _ 2K1RJ _ 5cps___1761192291.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ANACAPS%20EXPERT%20_%202K1RJ%20_%205cps___1761192291.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "anacaps-extra",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ANACAPS EXPERT",
+   "operatore": "PIERRE FABRE ITALIA S.P.A.",
+   "lotti": [
+    "2K1RJ"
+   ],
+   "marchio_identificazione": "Le Payrat, CAHORS, 46000, France",
+   "produttore": "PFDC Laboratoires Dermatologiques Ducray",
+   "sede_stabilimento": "Le Payrat, CAHORS, 46000, France",
+   "scadenza": "07/2024",
+   "peso_volume": "5 capsule; peso netto 2,8g",
+   "motivo_esteso": "RISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.",
+   "avvertenze": "GENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT APPARTENENTE A QUESTO LOTTO E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO VENDITA/FARMACIA IN CUI L’HA RICEVUTA IN OMAGGIO.",
+   "campi_extra": {
+    "Data": "24/10/2022 Marchio del prodotto: DUCRAY"
+   },
+   "testo": "RICHIAMO\nData: 24/10/2022 Marchio del prodotto: DUCRAY\nDenominazione di vendita:ANACAPS EXPERT\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PIERRE FABRE ITALIA S.P.A.\ncommercializzato:\nLotto di produzione: 2K1RJ\nMarchio di identificazione dello stabilimento/del produttore: Le Payrat, CAHORS, 46000, France\nNome del produttore: PFDC Laboratoires Dermatologiques Ducray\nSede dello stabilimento: Le Payrat, CAHORS, 46000, France\nData di scadenza o termine minimo di conservazione: 07/2024\nDescrizione peso/volume unità di vendita: 5 capsule; peso netto 2,8g\nMotivo del richiamo:\nRISCHIO DI PRESENZA DI PARTICELLE DI VETRO INFERIORI A 630 MICRON.\nAvvertenze:\nGENTILE CLIENTE, LE CHIEDIAMO DI SOSPENDERE L’USO DEL PRODOTTO DUCRAY ANACAPS EXPERT\nAPPARTENENTE A QUESTO LOTTO E DI RIPORTARE LA CONFEZIONE IN SUO POSSESSO AL PUNTO\nVENDITA/FARMACIA IN CUI L’HA RICEVUTA IN OMAGGIO."
+  },
+  "prima_rilevazione": "2026-10-25T07:44:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:35+00:00"
+ },
+ "azienda-avicola-ovotri-srl": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/azienda-avicola-ovotri-srl/",
+  "titolo": "Azienda Avicola Ovotri Srl",
+  "data_pubblicazione": "2022-11-16",
+  "marca": "Azienda Avicola Ovotri Srl",
+  "denominazione": "Azienda Avicola Ovotri Srl",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLODIRICHIAMOOVOTRI_1761192949.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLODIRICHIAMOOVOTRI_1761192949.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLODIRICHIAMOOVOTRI_1761192949.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "azienda-avicola-ovotri-srl",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "11/11/2022 AZ. AVICOLA OVOTRI Srl\nAZ. AVICOLA OVOTRI Srl\nOVOTRI srl Via S.Pietro, 3 62020 CALDAROLA (MC)\n141122A-181122A-251122A\nAZ. AVICOLA OVOTRI Srl\nAZ. AVICOLA OVOTRI Srl\nVia S.Pietro, 3 62020 CALDAROLA (MC)\nVARI TMC VEDI SOTTO UOVA\nMEDIE\nRiscontro positivo di Salmonella Enteritidis su campionamento ufficiale di feci galline ovaiole eseguito\nda ASUR Area Vasta 2 in data 27-10-22 cod. all. 036AN089 Rapporto di prova n. 85652 del 05/11/22\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al\npunto vendita in cui è stata acquistata (LOTTO 141122A termine minimo di conservazione 14/11/2022;\nLOTTO181122A termine minimo di conservazione 18/11/2022; LOTTO 251122A termine minimo di\nconservazione 25/11/2022)"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:15+00:00"
+ },
+ "cannella-biologica-polvere": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-biologica-polvere/",
+  "titolo": "Cannella biologica in polvere",
+  "data_pubblicazione": "2022-11-21",
+  "marca": "Pensa Bio",
+  "denominazione": "Cannella biologica in polvere",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%201_1761192955.pdf",
+  "allegati": [
+   {
+    "titolo": "food for all cartello di richiamo 1_1761192955.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%201_1761192955.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannella-biologica-polvere",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Cannella biologica in polvere",
+   "operatore": "Food For All di Tonello Mario e c. snc",
+   "lotti": [
+    "20/07/2023 – 05/10/2023 – 14/12/2023"
+   ],
+   "marchio_identificazione": "Pensa Bio – Food For All",
+   "produttore": "Food For All snc",
+   "sede_stabilimento": "Via G. Galilei n. 6/8; Pescantina (VR)",
+   "scadenza": "20/07/2023 – 05/10/2023 – 14/12/2023",
+   "peso_volume": "40g",
+   "motivo_esteso": "la cannella utilizzata nel confezionamento contiene l’allergene anidride solforosa non dichiarato in etichetta",
+   "avvertenze": "si raccomanda alle persone allergiche all'anidride solforosa di non consumare la cannella con i numeri di lotto segnalati e di restituirla al punto vendita di acquisto dove sarà rimborsata. Il prodotto è sicuro per i consumatori e le consumatrici che non sono allergici all'anidride solforosa.",
+   "campi_extra": {
+    "Data": "04/11/2022 Marchio del prodotto: Pensa Bio"
+   },
+   "testo": "RICHIAMO\nData: 04/11/2022 Marchio del prodotto: Pensa Bio\nDenominazione di vendita: Cannella biologica in polvere\nNome o ragione sociale dell'OSA Food For All di Tonello Mario e c. snc\na nome del quale il prodotto\nè commercializzato:\nLotto di produzione: 20/07/2023 – 05/10/2023 – 14/12/2023\nMarchio di identificazione dello stabilimento/del produttore: Pensa Bio – Food For All\nNome del produttore: Food For All snc\nSede dello stabilimento: Via G. Galilei n. 6/8; Pescantina (VR)\nData di scadenza o termine minimo di conservazione: 20/07/2023 – 05/10/2023 – 14/12/2023\nDescrizione peso/volume unità di vendita: 40g\nMotivo del richiamo:\nla cannella utilizzata nel confezionamento contiene l’allergene anidride solforosa non dichiarato in\netichetta\nAvvertenze:\nsi raccomanda alle persone allergiche all'anidride solforosa di non consumare la cannella con i\nnumeri di lotto segnalati e di restituirla al punto vendita di acquisto dove sarà rimborsata. Il\nprodotto è sicuro per i consumatori e le consumatrici che non sono allergici all'anidride solforosa."
+  },
+  "prima_rilevazione": "2026-10-25T07:42:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:58+00:00"
+ },
+ "cannella-biologica-polvere-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-biologica-polvere-0/",
+  "titolo": "Cannella biologica in polvere",
+  "data_pubblicazione": "2022-11-21",
+  "marca": "Artigiano del bio",
+  "denominazione": "Cannella biologica in polvere",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%202_1761192957.pdf",
+  "allegati": [
+   {
+    "titolo": "food for all cartello di richiamo 2_1761192957.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/food%20for%20all%20cartello%20di%20richiamo%202_1761192957.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannella-biologica-polvere-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Cannella biologica in polvere",
+   "operatore": "Food For All di Tonello Mario e c. snc",
+   "lotti": [
+    "220105",
+    "220207",
+    "220427",
+    "220704",
+    "220822"
+   ],
+   "marchio_identificazione": "Food For All",
+   "produttore": "Food For All snc",
+   "sede_stabilimento": "Via G. Galilei n. 6/8; Pescantina (VR)",
+   "scadenza": "30/04/2023; 30/04/2023; 30/04/2023; 04/07/2023; 22/08/2023",
+   "peso_volume": "1 kg",
+   "motivo_esteso": "la cannella utilizzata nel confezionamento contiene l’allergene anidride solforosa non dichiarato in etichetta",
+   "avvertenze": "si raccomanda alle persone allergiche all'anidride solforosa di non consumare la cannella con i numeri di lotto segnalati e di restituirla al punto vendita di acquisto dove sarà rimborsata. Il prodotto è sicuro per i consumatori e le consumatrici che non sono allergici all'anidride solforosa.",
+   "campi_extra": {
+    "Data": "04/11/2022 Marchio del prodotto: Artigiano del Bio"
+   },
+   "testo": "RICHIAMO\nData: 04/11/2022 Marchio del prodotto: Artigiano del Bio\nDenominazione di vendita: Cannella biologica in polvere\nNome o ragione sociale dell'OSA Food For All di Tonello Mario e c. snc\na nome del quale il prodotto\nè commercializzato:\nLotto di produzione: 220105; 220207; 220427; 220704; 220822\nMarchio di identificazione dello stabilimento/del produttore: Food For All\nNome del produttore: Food For All snc\nSede dello stabilimento: Via G. Galilei n. 6/8; Pescantina (VR)\nData di scadenza o termine minimo di conservazione: 30/04/2023; 30/04/2023; 30/04/2023; 04/07/2023; 22/08/2023\nDescrizione peso/volume unità di vendita: 1 kg\nMotivo del richiamo:\nla cannella utilizzata nel confezionamento contiene l’allergene anidride solforosa non dichiarato in\netichetta\nAvvertenze:\nsi raccomanda alle persone allergiche all'anidride solforosa di non consumare la cannella con i\nnumeri di lotto segnalati e di restituirla al punto vendita di acquisto dove sarà rimborsata. Il\nprodotto è sicuro per i consumatori e le consumatrici che non sono allergici all'anidride solforosa."
+  },
+  "prima_rilevazione": "2026-10-25T07:43:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:01+00:00"
+ },
+ "cannella-polvere": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-polvere/",
+  "titolo": "Cannella polvere",
+  "data_pubblicazione": "2022-11-22",
+  "marca": "Principio attivo",
+  "denominazione": "Cannella polvere",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761192965.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo_1761192965.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1761192965.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannella-polvere",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:42:55+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:55+00:00"
+ },
+ "cannella-polvere-bio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-polvere-bio/",
+  "titolo": "Cannella in polvere Bio",
+  "data_pubblicazione": "2022-11-04",
+  "marca": "LA FINESTRA SUL CIELO",
+  "denominazione": "Cannella in polvere Bio",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cannella_1761192296.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo cannella_1761192296.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cannella_1761192296.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannella-polvere-bio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:26+00:00"
+ },
+ "cannella-polvere-bio-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannella-polvere-bio-0/",
+  "titolo": "Cannella in Polvere BIO",
+  "data_pubblicazione": "2022-11-14",
+  "marca": "Bongiovanni srl",
+  "denominazione": "Cannella in Polvere BIO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Cannella_BIO_Bongiovanni_1761192940.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_Richiamo_Cannella_BIO_Bongiovanni_1761192940.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_Cannella_BIO_Bongiovanni_1761192940.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannella-polvere-bio-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:43:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:21+00:00"
+ },
+ "confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta/",
+  "titolo": "confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+  "data_pubblicazione": "2022-11-25",
+  "marca": "Pompadour tè Srl",
+  "denominazione": "confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso_richiamo%20_1__1761192972.pdf",
+  "allegati": [
+   {
+    "titolo": "avviso_richiamo _1__1761192972.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso_richiamo%20_1__1761192972.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Conf. 90gr Notte Magica Infuso sfuso alla Frutta",
+   "operatore": "Pompadour Tè Srl",
+   "lotti": [
+    "220053"
+   ],
+   "marchio_identificazione": "Peter's Teahouse",
+   "produttore": "Pompadour Tè Srl",
+   "sede_stabilimento": "Via Negrelli, 11 39100 Bolzano (BZ)",
+   "scadenza": "29-06-2024",
+   "peso_volume": "sacchetto 90 gr di miscela sfusa",
+   "motivo_esteso": "L’infuso“Notte Magica”contiene gli allergeni frutta a guscio (mandorla) e anidride solforosa e solfiti non dichiarati in etichetta.",
+   "avvertenze": "A causa di possibili reazioni allergiche dovute al consumo, tutte le persone che abbiano acquistato il prodotto online o presso i punti vendita Peter’s Teahouse delle città di Torino, Como, Padova, Pavia e Verona e negli eventi“Trentino in piazza”delle città di Varese, Gallarate, Saronno, Seregno, devono restituirlo in qualsiasi punto vendita Peter’s Teahouse.",
+   "campi_extra": {
+    "Data": "24/11/2022 Marchio del prodotto: Peter's Teahouse"
+   },
+   "testo": "RICHIAMO\nData: 24/11/2022 Marchio del prodotto: Peter's Teahouse\nDenominazione di vendita:Conf. 90gr Notte Magica Infuso sfuso alla Frutta\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Pompadour Tè Srl\ncommercializzato:\nLotto di produzione: 220053\nMarchio di identificazione dello stabilimento/del produttore: Peter's Teahouse\nNome del produttore: Pompadour Tè Srl\nSede dello stabilimento: Via Negrelli, 11 39100 Bolzano (BZ)\nData di scadenza o termine minimo di conservazione: 29-06-2024\nDescrizione peso/volume unità di vendita: sacchetto 90 gr di miscela sfusa\nMotivo del richiamo:\nL’infuso“Notte Magica”contiene gli allergeni frutta a guscio (mandorla) e anidride solforosa e solfiti non\ndichiarati in etichetta.\nAvvertenze:\nA causa di possibili reazioni allergiche dovute al consumo, tutte le persone che abbiano acquistato il\nprodotto online o presso i punti vendita Peter’s Teahouse delle città di Torino, Como, Padova, Pavia e\nVerona e negli eventi“Trentino in piazza”delle città di Varese, Gallarate, Saronno, Seregno, devono\nrestituirlo in qualsiasi punto vendita Peter’s Teahouse."
+  },
+  "prima_rilevazione": "2026-10-25T07:42:07+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:07+00:00"
+ },
+ "confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta-0/",
+  "titolo": "Confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+  "data_pubblicazione": "2022-11-25",
+  "marca": "Peter's Teahouse",
+  "denominazione": "Confezione 90 gr. NOTTE MAGICA infuso sfuso alla frutta",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso_richiamo%20_1__1761192974.pdf",
+  "allegati": [
+   {
+    "titolo": "avviso_richiamo _1__1761192974.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso_richiamo%20_1__1761192974.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "confezione-90-gr-notte-magica-infuso-sfuso-alla-frutta-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Conf. 90gr Notte Magica Infuso sfuso alla Frutta",
+   "operatore": "Pompadour Tè Srl",
+   "lotti": [
+    "220053"
+   ],
+   "marchio_identificazione": "Peter's Teahouse",
+   "produttore": "Pompadour Tè Srl",
+   "sede_stabilimento": "Via Negrelli, 11 39100 Bolzano (BZ)",
+   "scadenza": "29-06-2024",
+   "peso_volume": "sacchetto 90 gr di miscela sfusa",
+   "motivo_esteso": "L’infuso“Notte Magica”contiene gli allergeni frutta a guscio (mandorla) e anidride solforosa e solfiti non dichiarati in etichetta.",
+   "avvertenze": "A causa di possibili reazioni allergiche dovute al consumo, tutte le persone che abbiano acquistato il prodotto online o presso i punti vendita Peter’s Teahouse delle città di Torino, Como, Padova, Pavia e Verona e negli eventi“Trentino in piazza”delle città di Varese, Gallarate, Saronno, Seregno, devono restituirlo in qualsiasi punto vendita Peter’s Teahouse.",
+   "campi_extra": {
+    "Data": "24/11/2022 Marchio del prodotto: Peter's Teahouse"
+   },
+   "testo": "RICHIAMO\nData: 24/11/2022 Marchio del prodotto: Peter's Teahouse\nDenominazione di vendita:Conf. 90gr Notte Magica Infuso sfuso alla Frutta\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Pompadour Tè Srl\ncommercializzato:\nLotto di produzione: 220053\nMarchio di identificazione dello stabilimento/del produttore: Peter's Teahouse\nNome del produttore: Pompadour Tè Srl\nSede dello stabilimento: Via Negrelli, 11 39100 Bolzano (BZ)\nData di scadenza o termine minimo di conservazione: 29-06-2024\nDescrizione peso/volume unità di vendita: sacchetto 90 gr di miscela sfusa\nMotivo del richiamo:\nL’infuso“Notte Magica”contiene gli allergeni frutta a guscio (mandorla) e anidride solforosa e solfiti non\ndichiarati in etichetta.\nAvvertenze:\nA causa di possibili reazioni allergiche dovute al consumo, tutte le persone che abbiano acquistato il\nprodotto online o presso i punti vendita Peter’s Teahouse delle città di Torino, Como, Padova, Pavia e\nVerona e negli eventi“Trentino in piazza”delle città di Varese, Gallarate, Saronno, Seregno, devono\nrestituirlo in qualsiasi punto vendita Peter’s Teahouse."
+  },
+  "prima_rilevazione": "2026-10-25T07:42:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:11+00:00"
+ },
+ "copav": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/copav/",
+  "titolo": "COPAV",
+  "data_pubblicazione": "2022-11-10",
+  "marca": "Aurora srl",
+  "denominazione": "COPAV",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20Ministero%2009.11.2022%20_00000003__1761192929.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo prodotto Ministero 09.11.2022 _00000003__1761192929.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20prodotto%20Ministero%2009.11.2022%20_00000003__1761192929.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "copav",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "COPAV",
+   "operatore": "AURORA S.R.L, FALCONARA MARITTIMA (AN), Sede Legale: Via Nazionale",
+   "lotti": [
+    "22420650AVI",
+    "22420655AVI",
+    "22430669AVI",
+    "22440674AVI"
+   ],
+   "marchio_identificazione": "AVIMARCHE",
+   "produttore": "AVIMARCHE",
+   "sede_stabilimento": "Via Barocco,14 60010 Ostra Vetere (AN)",
+   "scadenza": "16/11/2022; 17/11/2022",
+   "peso_volume": "n.180 uova; n.90 uova",
+   "motivo_esteso": "Positività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da ASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22",
+   "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (Lotti/scadenze L22420650AVi/ 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)",
+   "campi_extra": {
+    "Data": "09/11/2022 Marchio del prodotto: AURORA S.R.L"
+   },
+   "testo": "RICHIAMO\nData: 09/11/2022 Marchio del prodotto: AURORA S.R.L\nDenominazione di vendita: COPAV\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AURORA S.R.L, FALCONARA MARITTIMA (AN), Sede Legale: Via Nazionale\ncommercializzato:\nLotto di produzione: 22420650AVI; 22420655AVI; 22430669AVI; 22440674AVI\nMarchio di identificazione dello stabilimento/del produttore: AVIMARCHE\nNome del produttore: AVIMARCHE\nSede dello stabilimento: Via Barocco,14 60010 Ostra Vetere (AN)\nData di scadenza o termine minimo di conservazione: 16/11/2022; 17/11/2022\nDescrizione peso/volume unità di vendita: n.180 uova; n.90 uova\nMotivo del richiamo:\nPositività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da\nASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al\npunto vendita in cui l'ha acquistata. (Lotti/scadenze L22420650AVi/ 16.11.22; 22420655AVI/ 17.11.22;\n22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:44+00:00"
+ },
+ "copav-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/copav-0/",
+  "titolo": "COPAV",
+  "data_pubblicazione": "2022-11-10",
+  "marca": "AURORA srl",
+  "denominazione": "COPAV",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_10%20p.%200190169%20CARTELLO%20RICHIAMO_1761192932.pdf",
+  "allegati": [
+   {
+    "titolo": "2022_11_10 p. 0190169 CARTELLO RICHIAMO_1761192932.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_10%20p.%200190169%20CARTELLO%20RICHIAMO_1761192932.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "copav-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "COPAV",
+   "operatore": "AURORA S.R.L, FALCONARA MARITTIMA (AN), Sede Legale: Via Nazionale",
+   "lotti": [
+    "22420650AVI",
+    "22420655AVI",
+    "22430669AVI",
+    "22440674AVI",
+    "22420634AVI"
+   ],
+   "marchio_identificazione": "AVIMARCHE",
+   "produttore": "AVIMARCHE",
+   "sede_stabilimento": "Via Barocco,14 60010 Ostra Vetere (AN)",
+   "scadenza": "14/11/2022; 16/11/2022; 17/11/2022; 23/11/2022; 27/11/2022",
+   "peso_volume": "n.180 uova; n.90 uova",
+   "motivo_esteso": "Positività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da ASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22",
+   "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14/11/2022; L22420650AVi/ 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)",
+   "campi_extra": {
+    "Data": "09/11/2022 Marchio del prodotto: AURORA S.R.L"
+   },
+   "testo": "RICHIAMO\nData: 09/11/2022 Marchio del prodotto: AURORA S.R.L\nDenominazione di vendita: COPAV\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AURORA S.R.L, FALCONARA MARITTIMA (AN), Sede Legale: Via Nazionale\ncommercializzato:\nLotto di produzione: 22420650AVI; 22420655AVI; 22430669AVI; 22440674AVI; 22420634AVI\nMarchio di identificazione dello stabilimento/del produttore: AVIMARCHE\nNome del produttore: AVIMARCHE\nSede dello stabilimento: Via Barocco,14 60010 Ostra Vetere (AN)\nData di scadenza o termine minimo di conservazione: 14/11/2022; 16/11/2022; 17/11/2022; 23/11/2022;\n27/11/2022\nDescrizione peso/volume unità di vendita: n.180 uova; n.90 uova\nMotivo del richiamo:\nPositività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da\nASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto\nvendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14/11/2022; L22420650AVi/ 16.11.22;\n22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:50+00:00"
+ },
+ "copav-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/copav-1/",
+  "titolo": "COPAV",
+  "data_pubblicazione": "2022-11-11",
+  "marca": "AURORA s.r.l.",
+  "denominazione": "COPAV",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_11CARTELLORICHIAMOULTIMOBIS_1761192936.pdf",
+  "allegati": [
+   {
+    "titolo": "2022_11_11CARTELLORICHIAMOULTIMOBIS_1761192936.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_11CARTELLORICHIAMOULTIMOBIS_1761192936.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "copav-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "COPAV",
+   "operatore": "AURORA S.R.L, FALCONARA MARITTIMA (AN), Sede Legale: Via Nazionale",
+   "lotti": [
+    "22420650AVI",
+    "22420655AVI",
+    "22430669AVI",
+    "22440674AVI",
+    "22420634AVI",
+    "22420648AVI AVIMARCHE"
+   ],
+   "produttore": "AVIMARCHE",
+   "sede_stabilimento": "Via Barocco,14 60010 Ostra Vetere (AN)",
+   "scadenza": "27/11/2022",
+   "peso_volume": "n.180 uova; n.90 uova",
+   "motivo_esteso": "Positività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da ASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22",
+   "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14.11.2022; 22420648AVI del 16.11.2022 L22420650AVI 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)",
+   "campi_extra": {
+    "Data": "09/11/2022 Marchio del prodotto:"
+   },
+   "testo": "RICHIAMO\nData: 09/11/2022 Marchio del prodotto:\nDenominazione di vendita: COPAV\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AURORA S.R.L, FALCONARA MARITTIMA (AN), Sede Legale: Via Nazionale\ncommercializzato:\nLotto di produzione: 22420650AVI; 22420655AVI; 22430669AVI; 22440674AVI; 22420634AVI; 22420648AVI\nAVIMARCHE\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: AVIMARCHE\nSede dello stabilimento: Via Barocco,14 60010 Ostra Vetere (AN)\nData di scadenza o termine minimo di conservazione:\n27/11/2022;\nDescrizione peso/volume unità di vendita: n.180 uova; n.90 uova\nMotivo del richiamo:\nPositività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da\nASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto\nvendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14.11.2022; 22420648AVI del 16.11.2022\nL22420650AVI 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:41+00:00"
+ },
+ "copav-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/copav-2/",
+  "titolo": "COPAV",
+  "data_pubblicazione": "2022-11-16",
+  "marca": "AURORA S.R.L.",
+  "denominazione": "COPAV",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_16%20CARTELLO%20RICHIAMO%20ULTIMISSIMO_1761192947.pdf",
+  "allegati": [
+   {
+    "titolo": "2022_11_16 CARTELLO RICHIAMO ULTIMISSIMO_1761192947.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2022_11_16%20CARTELLO%20RICHIAMO%20ULTIMISSIMO_1761192947.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "copav-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "COPAV",
+   "operatore": "AURORA S.R.L - COPAV",
+   "lotti": [
+    "22420650AVI",
+    "22420655AVI",
+    "22430669AVI",
+    "22440674AVI",
+    "22420634AVI",
+    "22420648AVI"
+   ],
+   "marchio_identificazione": "AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80",
+   "produttore": "AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80 FALCONARA MARITTIMA (AN), Sede operativa: Via del lavoro, 21",
+   "scadenza": "27/11/2022",
+   "peso_volume": "n.180 uova; n.90 uova",
+   "motivo_esteso": "Positività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da ASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22",
+   "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14.11.2022; 22420648AVI del 16.11.2022 L22420650AVI 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)",
+   "campi_extra": {
+    "Data": "09/11/2022 Marchio del prodotto:",
+    "FALCONARA MARITTIMA (AN), Sede operativa": "Via del lavoro, 21"
+   },
+   "testo": "RICHIAMO\nData: 09/11/2022 Marchio del prodotto:\nDenominazione di vendita: COPAV\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AURORA S.R.L - COPAV\ncommercializzato:\nLotto di produzione: 22420650AVI; 22420655AVI; 22430669AVI; 22440674AVI; 22420634AVI; 22420648AVI\nMarchio di identificazione dello stabilimento/del produttore: AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80\nNome del produttore: AURORA S.R.L N. RICONOSCIMENTO CEIT WOL80\nFALCONARA MARITTIMA (AN), Sede operativa: Via del lavoro, 21\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\n27/11/2022;\nDescrizione peso/volume unità di vendita: n.180 uova; n.90 uova\nMotivo del richiamo:\nPositività per Salmonella Enteritidis a seguito di campionamento ufficiale feci galline ovaiole. Eseguito da\nASUR Area Vasta 2in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/22\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto\nvendita in cui l'ha acquistata. (Lotti/scadenze 22420634AVI del 14.11.2022; 22420648AVI del 16.11.2022\nL22420650AVI 16.11.22; 22420655AVI/ 17.11.22; 22430669AVI/ 23.11.22; 22440674AVI/ 27.11.22)"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:11+00:00"
+ },
+ "coppa-di-suino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/coppa-di-suino/",
+  "titolo": "Coppa di Suino",
+  "data_pubblicazione": "2022-11-25",
+  "marca": "Freschi per te",
+  "denominazione": "Coppa di Suino",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%2065946%20Coppa%20di%20suino%20DEF_1761192977.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello 65946 Coppa di suino DEF_1761192977.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%2065946%20Coppa%20di%20suino%20DEF_1761192977.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "coppa-di-suino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:42:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:15+00:00"
+ },
+ "cremino-praline-al-cioccolato-al-latte-e-alla-nocciole-gianduia-con": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremino-praline-al-cioccolato-al-latte-e-alla-nocciole-gianduia-con/",
+  "titolo": "Cremino - Praline al cioccolato al latte e alla nocciole gianduia con farcitura alla nocciola",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Pernigotti 1860 - Cremino",
+  "denominazione": "Cremino - Praline al cioccolato al latte e alla nocciole gianduia con farcitura alla nocciola",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20standard%20ritiro_richiamo%20PRODOTTO%20CREMINO_1761192926.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo standard ritiro_richiamo PRODOTTO CREMINO_1761192926.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20standard%20ritiro_richiamo%20PRODOTTO%20CREMINO_1761192926.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cremino-praline-al-cioccolato-al-latte-e-alla-nocciole-gianduia-con",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "08/11/2022 Pernigotti 1860 - Cremino\nCremino - Praline al cioccolato al latte e alla nocciole gianduia con farcitura alla nocciola\nPernigotti S.p.a.\nL4D 13.04.24 / L4D 14.04.24 / L4D 17.04.24\nViale della Rimembranza, 100 - 15067 Novi Ligure (AL) - Italia\nPernigotti S.p.a.\nViale della Rimembranza, 100 - 15067 Novi Ligure (AL) - Italia\n13.04.24 / 14.04.24 / 17.04.24\n150 g\nRichiamo a scopo precauzionale per possibile presenza di corpi estranei (contaminazione da plodia allo\nstadio larvale)\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto\nvendita in cui l'ha acquistata.\n(Lotti/scadenze L4D 13.04.24 / L4D 14.04.24 / L4D 17.04.24)"
+  },
+  "prima_rilevazione": "2026-10-25T07:44:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:20+00:00"
+ },
+ "formaggio-pasta-filata-affumicato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-filata-affumicato/",
+  "titolo": "Formaggio a pasta filata affumicato",
+  "data_pubblicazione": "2022-11-22",
+  "marca": "MERIVIO",
+  "denominazione": "Formaggio a pasta filata affumicato",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_scamorzine%20_%20lidl_1761192959.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_scamorzine _ lidl_1761192959.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_scamorzine%20_%20lidl_1761192959.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-pasta-filata-affumicato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:40+00:00"
+ },
+ "formaggio-pasta-filata-affumicato-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-pasta-filata-affumicato-0/",
+  "titolo": "Formaggio a pasta filata affumicato",
+  "data_pubblicazione": "2022-11-22",
+  "marca": "SCERI'",
+  "denominazione": "Formaggio a pasta filata affumicato",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_scamorzine%20_%20scer%C3%AC_1761192961.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_scamorzine _ scerì_1761192961.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_scamorzine%20_%20scer%C3%AC_1761192961.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-pasta-filata-affumicato-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:48+00:00"
+ },
+ "gianduiotto-praline-di-cioccolato-alle-nocciole-gianduia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gianduiotto-praline-di-cioccolato-alle-nocciole-gianduia/",
+  "titolo": "Gianduiotto - Praline di cioccolato alle nocciole gianduia",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Pernigotti 1860 - Gianduiotto",
+  "denominazione": "Gianduiotto - Praline di cioccolato alle nocciole gianduia",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20standard%20ritiro_richiamo%20PRODOTTO%20GIANDUIOTTO_1761192927.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo standard ritiro_richiamo PRODOTTO GIANDUIOTTO_1761192927.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20standard%20ritiro_richiamo%20PRODOTTO%20GIANDUIOTTO_1761192927.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gianduiotto-praline-di-cioccolato-alle-nocciole-gianduia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "08/11/2022 Pernigotti 1860 - Gianduiotto\nGianduiotto - Praline di cioccolato alle nocciole gianduia\nPernigotti S.p.a.\nL4D 10.04.24 / L4D 13.04.24 / L4D 19.04.24\nViale della Rimembranza, 100 - 15067 Novi Ligure (AL) - Italia\nPernigotti S.p.a.\nViale della Rimembranza, 100 - 15067 Novi Ligure (AL) - Italia\n10.04.24 / 13.04.24 / 19.04.24\n150 g\nRichiamo a scopo precauzionale per possibile presenza di corpi estranei (contaminazione da plodia allo stadio larvale)\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata.\n(Lotti/scadenze L4D 10.04.24 / L4D 13.04.24 / L4D 19.04.24)"
+  },
+  "prima_rilevazione": "2026-10-25T07:44:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:23+00:00"
+ },
+ "humana-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/humana-3/",
+  "titolo": "HUMANA 3",
+  "data_pubblicazione": "2022-11-24",
+  "marca": "Humana Italia SPA",
+  "denominazione": "HUMANA 3",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20Humana%203_1761192970.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di Richiamo Humana 3_1761192970.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20Humana%203_1761192970.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "humana-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:42:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:28+00:00"
+ },
+ "jeera-whole-ali-baba-400-g-e-1-kg-semi-di-cumino-400g-e-1-kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/jeera-whole-ali-baba-400-g-e-1-kg-semi-di-cumino-400g-e-1-kg/",
+  "titolo": "Jeera Whole Ali Baba 400 g e 1 Kg (semi di cumino 400g e 1 Kg)",
+  "data_pubblicazione": "2022-11-22",
+  "marca": "Ali Baba",
+  "denominazione": "Jeera Whole Ali Baba 400 g e 1 Kg (semi di cumino 400g e 1 Kg)",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SEMI%20DI%20CUMINO%20400%20E%201KG%20_1__1761192963.PDF",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO SEMI DI CUMINO 400 E 1KG _1__1761192963.PDF",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SEMI%20DI%20CUMINO%20400%20E%201KG%20_1__1761192963.PDF"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "jeera-whole-ali-baba-400-g-e-1-kg-semi-di-cumino-400g-e-1-kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "JEERA WHOLE ALI BABA 400G E 1KG (SEMI DI CUMINO 400G E 1KG)",
+   "operatore": "FRESH TROPICAL SRL BY JAWAD",
+   "lotti": [
+    "L30/06/2024 E L01/07/2024"
+   ],
+   "marchio_identificazione": "ALI BABA",
+   "produttore": "ORIGINE INDIA",
+   "sede_stabilimento": "ORIGINE INDIA",
+   "scadenza": "30/06/2024 E 01-07-2024",
+   "peso_volume": "SACCHETTI DI PLASTICA DA 400G E 1KG",
+   "motivo_esteso": "PRESENZA DI PESTICIDI OLTRE IL LIMITE DI LEGGE",
+   "avvertenze": "RICHIAMARE IL PRODOTTO DALLA VENDITA",
+   "campi_extra": {
+    "Data": "21/11/2022 Marchio del prodotto: ALI BABA"
+   },
+   "testo": "RICHIAMO\nData: 21/11/2022 Marchio del prodotto: ALI BABA\nDenominazione di vendita:JEERA WHOLE ALI BABA 400G E 1KG (SEMI DI CUMINO 400G E 1KG)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è FRESH TROPICAL SRL BY JAWAD\ncommercializzato:\nLotto di produzione: L30/06/2024 E L01/07/2024\nMarchio di identificazione dello stabilimento/del produttore: ALI BABA\nNome del produttore: ORIGINE INDIA\nSede dello stabilimento: ORIGINE INDIA\nData di scadenza o termine minimo di conservazione: 30/06/2024 E 01-07-2024\nDescrizione peso/volume unità di vendita: SACCHETTI DI PLASTICA DA 400G E 1KG\nMotivo del richiamo:\nPRESENZA DI PESTICIDI OLTRE IL LIMITE DI LEGGE\nAvvertenze:\nRICHIAMARE IL PRODOTTO DALLA VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:52+00:00"
+ },
+ "le-cock-di-pollo-e-tacchino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-cock-di-pollo-e-tacchino/",
+  "titolo": "LE COCK DI POLLO E TACCHINO",
+  "data_pubblicazione": "2022-11-18",
+  "marca": "SALUMIFICIO SCARLINO SRL",
+  "denominazione": "LE COCK DI POLLO E TACCHINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20LeCock%20PT%20020323L1_1761192953.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo LeCock PT 020323L1_1761192953.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20LeCock%20PT%20020323L1_1761192953.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "le-cock-di-pollo-e-tacchino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "operatore": "SALUMIFICIO SCARLINO SRL c ommercializzato",
+   "lotti": [
+    "02/03/23L1 M archio di identificazione de llo stabilimento/del produttore: IT1253L"
+   ],
+   "produttore": "SALUMIFICIO SCARLINO SRL S ede dello stabilimento: SP 360 PER CASARANO, km 10,3 73059 UGENTO (LE) D ata di scadenza o termine minimo di conservazione: 02-03-2023 D escrizione peso/volume unità di vendita: 10pzx1000g (1) /3pzx250g (2) /3pzx250g multipack (3)",
+   "motivo_esteso": "RISCHIO GRAVE PER LA SALUTE DEI CONSUMATORI PER RILEVATA PRESENZA DI SALMONELLA SPP",
+   "avvertenze": "IL PRODOTTO NON DEVE ESSERE CONSUMATO MA RIPORTATO NEL LUOGO DI ACQUIST O 1 3 2",
+   "campi_extra": {
+    "D ata": "14/11/2022 Marchio del prodotto: SCARLINO",
+    "D enominazione di vendita": "LE C OCK DI POLLO E TACCHINO",
+    "S ede dello stabilimento": "SP 360 PER CASARANO, km 10,3 73059 UGENTO (LE)",
+    "D ata di scadenza o termine minimo di conservazione": "02-03-2023",
+    "D escrizione peso/volume unità di vendita": "10pzx1000g (1) /3pzx250g (2) /3pzx250g multipack (3)"
+   },
+   "testo": "RICHIAMO\nD ata: 14/11/2022 Marchio del prodotto: SCARLINO\nD enominazione di vendita: LE C OCK DI POLLO E TACCHINO\nNome o ragione sociale dell'OSA a\nnome del quale il prodotto è SALUMIFICIO SCARLINO SRL\nc ommercializzato:\nLotto di produzione: 02/03/23L1\nM archio di identificazione de llo stabilimento/del produttore: IT1253L\nNome del produttore: SALUMIFICIO SCARLINO SRL\nS ede dello stabilimento: SP 360 PER CASARANO, km 10,3 73059 UGENTO (LE)\nD ata di scadenza o termine minimo di conservazione: 02-03-2023\nD escrizione peso/volume unità di vendita: 10pzx1000g (1) /3pzx250g (2) /3pzx250g multipack (3)\nMotivo del richiamo:\nRISCHIO GRAVE PER LA SALUTE DEI CONSUMATORI PER RILEVATA PRESENZA DI SALMONELLA SPP\nAvvertenze:\nIL PRODOTTO NON DEVE ESSERE CONSUMATO MA RIPORTATO NEL LUOGO DI ACQUIST O\n1 3\n2"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:04+00:00"
+ },
+ "lievito-biologico-fresco": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lievito-biologico-fresco/",
+  "titolo": "LIEVITO BIOLOGICO FRESCO",
+  "data_pubblicazione": "2022-11-12",
+  "marca": "BIOREAL",
+  "denominazione": "LIEVITO BIOLOGICO FRESCO",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20LIEVITO_1761192938.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo LIEVITO_1761192938.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20LIEVITO_1761192938.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "lievito-biologico-fresco",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "LIEVITO BIOLOGICO FRESCO",
+   "operatore": "Agrano GmbH & Co. KG",
+   "lotti": [
+    "4331"
+   ],
+   "produttore": "Agrano GmbH & Co. KG",
+   "sede_stabilimento": "79359 Riegel am Kaiserstuhl, Germany",
+   "scadenza": "20-11-2022",
+   "peso_volume": "42 g",
+   "motivo_esteso": "Possibile presenza di frammenti metallici",
+   "avvertenze": "Si raccomanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e se appartenenti alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che provvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi.",
+   "campi_extra": {
+    "Data": "11/11/2022 Marchio del prodotto: BIOREAL"
+   },
+   "testo": "RICHIAMO\nData: 11/11/2022 Marchio del prodotto: BIOREAL\nDenominazione di vendita:LIEVITO BIOLOGICO FRESCO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Agrano GmbH & Co. KG\ncommercializzato:\nLotto di produzione: 4331\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Agrano GmbH & Co. KG\nSede dello stabilimento: 79359 Riegel am Kaiserstuhl, Germany\nData di scadenza o termine minimo di conservazione: 20-11-2022\nDescrizione peso/volume unità di vendita: 42 g\nMotivo del richiamo:\nPossibile presenza di frammenti metallici\nAvvertenze:\nSi raccomanda ai consumatori di controllare il prodotto acquistato e le scorte in casa e\nse appartenenti alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che\nprovvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi."
+  },
+  "prima_rilevazione": "2026-10-25T07:43:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:32+00:00"
+ },
+ "lotto-fl-335600-mitili-origine-spagna-confezionati-da-effelle-pesca": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lotto-fl-335600-mitili-origine-spagna-confezionati-da-effelle-pesca/",
+  "titolo": "lotto FL 335600 MITILI ORIGINE SPAGNA CONFEZIONATI DA EFFELLE PESCA S.R.L. -MESOLA (FE)",
+  "data_pubblicazione": "2022-11-28",
+  "marca": "EFFELLE PESCA S.R.L. APPROVALNUMBER IT S1086 CE",
+  "denominazione": "lotto FL 335600 MITILI ORIGINE SPAGNA CONFEZIONATI DA EFFELLE PESCA S.R.L. -MESOLA (FE)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20FL%20335600_1761192987.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo FL 335600_1761192987.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20FL%20335600_1761192987.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "lotto-fl-335600-mitili-origine-spagna-confezionati-da-effelle-pesca",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:42:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:04+00:00"
+ },
+ "mangime-uccelli-selvatici-multifit-wild-bird-mix": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mangime-uccelli-selvatici-multifit-wild-bird-mix/",
+  "titolo": "Mangime per uccelli selvatici-MultiFit Wild Bird Mix",
+  "data_pubblicazione": "2022-11-30",
+  "marca": "AGROS",
+  "denominazione": "Mangime per uccelli selvatici-MultiFit Wild Bird Mix",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1081049%20MultiFit%20Wild%20Bird%20Mix%2025kg_customer%20statement_EN_1761192992.pdf",
+  "allegati": [
+   {
+    "titolo": "1081049 MultiFit Wild Bird Mix 25kg_customer statement_EN_1761192992.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1081049%20MultiFit%20Wild%20Bird%20Mix%2025kg_customer%20statement_EN_1761192992.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mangime-uccelli-selvatici-multifit-wild-bird-mix",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "Recall Product": "MultiFit Wild Bird Mix 2,5 kg 04.11.2022",
+    "MultiFit Wild Bird Mix 2,5 kg (Article No.": "1081049)",
+    "BBD": "30.06.2024",
+    "Batch": "L332022"
+   },
+   "testo": "AGROS Trading GmbH, Mühlbachstr. 151, A-4063 Hörsching\nRecall Product: MultiFit Wild Bird Mix 2,5 kg 04.11.2022\nDear Customers,\nin the course of transparent and open communication and our focus on the best possible health of\nhumans and animals, we inform about a current recall.\nWe are recalling the following item due to exceeding the maximum content of ragweed seeds:\nMultiFit Wild Bird Mix 2,5 kg (Article No.: 1081049)\nThis concerns all items with the following best before date / batch:\nBBD: 30.06.2024\nBatch: L332022\nRagweed seeds do not pose a risk to animals. When the feed is scattered on the ground, the seeds can\ngerminate and give rise to a ragweed plant whose pollen can trigger allergic reactions in humans. In the\ninterests of preventive consumer protection, we have immediately withdrawn the affected articles from\nsale.\nYou can of course return the above mentioned item to one of our stores. The purchase price will be\nrefunded to you.\nWe regret the incident and apologize for any inconvenience.\nDisplay customer information until 02.12.2022"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:01+00:00"
+ },
+ "mix-base-di-cannella-polvere": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-base-di-cannella-polvere/",
+  "titolo": "MIX A BASE DI CANNELLA IN POLVERE",
+  "data_pubblicazione": "2022-11-10",
+  "marca": "LO CONTE",
+  "denominazione": "MIX A BASE DI CANNELLA IN POLVERE",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO%20CANNELLA%20COMPILATO_1761192930.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO_RICHIAMO CANNELLA COMPILATO_1761192930.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_RICHIAMO%20CANNELLA%20COMPILATO_1761192930.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mix-base-di-cannella-polvere",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "MIX A BASE DI CANNELLA IN POLVERE",
+   "operatore": "IPAFOOD SRL",
+   "lotti": [
+    "21343 - 22157"
+   ],
+   "marchio_identificazione": "IPAFOOD",
+   "produttore": "IPAFOOD SRL",
+   "sede_stabilimento": "FRIGENTO,Via Taverna Di Annibale 23 - 83040 Frigento (AV)",
+   "scadenza": "31/12/2024-30/06/2025",
+   "peso_volume": "10 g",
+   "motivo_esteso": "PRESENZA DI ALLERGENE ANIDRIDE SOLFOROSA",
+   "avvertenze": "NON UTILIZZARE IL PRODOTTO E RESTITUILO AL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "07/11/2022 Marchio del prodotto: LO CONTE"
+   },
+   "testo": "RICHIAMO\nData: 07/11/2022 Marchio del prodotto: LO CONTE\nDenominazione di vendita: MIX A BASE DI CANNELLA IN POLVERE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IPAFOOD SRL\ncommercializzato:\nLotto di produzione: 21343 - 22157\nMarchio di identificazione dello stabilimento/del produttore: IPAFOOD\nNome del produttore: IPAFOOD SRL\nSede dello stabilimento: FRIGENTO,Via Taverna Di Annibale 23 - 83040 Frigento (AV)\nData di scadenza o termine minimo di conservazione: 31/12/2024-30/06/2025\nDescrizione peso/volume unità di vendita: 10 g\nMotivo del richiamo:\nPRESENZA DI ALLERGENE ANIDRIDE SOLFOROSA\nAvvertenze:\nNON UTILIZZARE IL PRODOTTO E RESTITUILO AL PUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:47+00:00"
+ },
+ "mortadella-supergigante-tranci": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci/",
+  "titolo": "Mortadella supergigante a tranci",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2221001_1761192913.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella Veroni lotto PO2221001_1761192913.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2221001_1761192913.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:43:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:53+00:00"
+ },
+ "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita/",
+  "titolo": "Mortadella supergigante a tranci con e senza pistacchio distribuita da Conad",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da Conad",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20CONAD_1761192917.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con e senza pistacchio distribuita da CONAD_1761192917.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20CONAD_1761192917.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:02+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:02+00:00"
+ },
+ "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-0/",
+  "titolo": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192919.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP_1761192919.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192919.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:07+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:07+00:00"
+ },
+ "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-1/",
+  "titolo": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192921.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP_1761192921.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192921.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:09+00:00"
+ },
+ "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-2/",
+  "titolo": "Mortadella supergigante a tranci con e senza pistacchio distribuita da TOSANO",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da TOSANO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20TOSANO_1761192922.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con e senza pistacchio distribuita da TOSANO_1761192922.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20TOSANO_1761192922.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:12+00:00"
+ },
+ "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-3/",
+  "titolo": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "data_pubblicazione": "2022-11-11",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192933.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP_1761192933.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192933.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "scadenza": "(27/12/2022 compreso)",
+   "avvertenze": "I clienti che avessero acquistato questi prodotti sono pregati di non consumarli e restituirli ai punti vendita. Per ulteriori informazioni scrivete alla seguente mail: servizioclienti@veroni.it",
+   "campi_extra": {
+    "Per ulteriori informazioni scrivete alla seguente mail": "servizioclienti@veroni.it"
+   },
+   "testo": "04/11/2022\nMortadella supergigante a tranci\nMortadella supergigante con pistacchio a tranci\nTutti i TMC fino al 27/12/2022 compreso\nPRECISAZIONE DEL RICHIAMO PRECAUZIONALE DEL 04/11/2022 IN MERITO ALL’ULTIMA\nDATA DI SCADENZA (27/12/2022 compreso)\nAvvertenze:\nI clienti che avessero acquistato questi prodotti sono pregati di non consumarli e restituirli ai punti\nvendita.\nPer ulteriori informazioni scrivete alla seguente mail: servizioclienti@veroni.it"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:35+00:00"
+ },
+ "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-4/",
+  "titolo": "Mortadella supergigante a tranci con e senza pistacchio distribuita da Tosano",
+  "data_pubblicazione": "2022-11-11",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci con e senza pistacchio distribuita da Tosano",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20Tosano_1761192935.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con e senza pistacchio distribuita da Tosano_1761192935.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20Tosano_1761192935.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-con-e-senza-pistacchio-distribuita-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "scadenza": "(27/12/2022 compreso)",
+   "avvertenze": "I clienti che avessero acquistato questi prodotti sono pregati di non consumarli e restituirli ai punti vendita. Per ulteriori informazioni scrivete alla seguente mail: servizioclienti@veroni.it",
+   "campi_extra": {
+    "Per ulteriori informazioni scrivete alla seguente mail": "servizioclienti@veroni.it"
+   },
+   "testo": "04/11/2022\nMortadella supergigante a tranci\nMortadella supergigante con pistacchio a tranci\nTutti i TMC fino al 27/12/2022 compreso\nPRECISAZIONE DEL RICHIAMO PRECAUZIONALE DEL 04/11/2022 IN MERITO ALL’ULTIMA\nDATA DI SCADENZA (27/12/2022 compreso)\nAvvertenze:\nI clienti che avessero acquistato questi prodotti sono pregati di non consumarli e restituirli ai punti\nvendita.\nPer ulteriori informazioni scrivete alla seguente mail: servizioclienti@veroni.it"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:38+00:00"
+ },
+ "mortadella-supergigante-tranci-con-pistacchio-distribuita-da-rialto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-con-pistacchio-distribuita-da-rialto/",
+  "titolo": "Mortadella supergigante a tranci con pistacchio distribuita da Rialto",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci con pistacchio distribuita da Rialto",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20pistacchio%20distribuita%20da%20RIALTO_1761192923.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con pistacchio distribuita da RIALTO_1761192923.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20pistacchio%20distribuita%20da%20RIALTO_1761192923.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-con-pistacchio-distribuita-da-rialto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:14+00:00"
+ },
+ "mortadella-supergigante-tranci-distribuita-da-granmercato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-distribuita-da-granmercato/",
+  "titolo": "Mortadella supergigante a tranci distribuita da Granmercato",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci distribuita da Granmercato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20distribuita%20GRANMERCATO_1761192924.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci distribuita GRANMERCATO_1761192924.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20distribuita%20GRANMERCATO_1761192924.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-distribuita-da-granmercato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:17+00:00"
+ },
+ "mortadella-supergigante-tranci-lotto-po-2221001": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-lotto-po-2221001/",
+  "titolo": "Mortadella supergigante a tranci lotto PO 2221001",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella supergigante a tranci lotto PO 2221001",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2221001_1761192915.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella Veroni lotto PO2221001_1761192915.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2221001_1761192915.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-lotto-po-2221001",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:43:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:56+00:00"
+ },
+ "mortadella-supergigante-tranci-lotto-po2227301": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-supergigante-tranci-lotto-po2227301/",
+  "titolo": "Mortadella Supergigante a tranci lotto PO2227301",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Mortadella Supergigante a tranci lotto PO2227301",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2227301_1761192916.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella Veroni lotto PO2227301_1761192916.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20Veroni%20lotto%20PO2227301_1761192916.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-supergigante-tranci-lotto-po2227301",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:43:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:59+00:00"
+ },
+ "multifit-wild-bird-mix-mangime-uccelli-selvatici": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/multifit-wild-bird-mix-mangime-uccelli-selvatici/",
+  "titolo": "MultiFit Wild Bird Mix - mangime per uccelli selvatici",
+  "data_pubblicazione": "2022-11-30",
+  "marca": "AGROS",
+  "denominazione": "MultiFit Wild Bird Mix - mangime per uccelli selvatici",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1081049_MultiFit_Wild_Bird_Mix_25kg_customer_statement_EN_1761192995.pdf",
+  "allegati": [
+   {
+    "titolo": "1081049_MultiFit_Wild_Bird_Mix_25kg_customer_statement_EN_1761192995.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1081049_MultiFit_Wild_Bird_Mix_25kg_customer_statement_EN_1761192995.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "multifit-wild-bird-mix-mangime-uccelli-selvatici",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "Recall Product": "MultiFit Wild Bird Mix 2,5 kg 04.11.2022",
+    "MultiFit Wild Bird Mix 2,5 kg (Article No.": "1081049)",
+    "BBD": "30.06.2024",
+    "Batch": "L332022"
+   },
+   "testo": "AGROS Trading GmbH, Mühlbachstr. 151, A-4063 Hörsching\nRecall Product: MultiFit Wild Bird Mix 2,5 kg 04.11.2022\nDear Customers,\nin the course of transparent and open communication and our focus on the best possible health of\nhumans and animals, we inform about a current recall.\nWe are recalling the following item due to exceeding the maximum content of ragweed seeds:\nMultiFit Wild Bird Mix 2,5 kg (Article No.: 1081049)\nThis concerns all items with the following best before date / batch:\nBBD: 30.06.2024\nBatch: L332022\nRagweed seeds do not pose a risk to animals. When the feed is scattered on the ground, the seeds can\ngerminate and give rise to a ragweed plant whose pollen can trigger allergic reactions in humans. In the\ninterests of preventive consumer protection, we have immediately withdrawn the affected articles from\nsale.\nYou can of course return the above mentioned item to one of our stores. The purchase price will be\nrefunded to you.\nWe regret the incident and apologize for any inconvenience.\nDisplay customer information until 02.12.2022"
+  },
+  "prima_rilevazione": "2026-10-25T07:41:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:41:56+00:00"
+ },
+ "parmigiano-reggiano-dop-24-mesi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/parmigiano-reggiano-dop-24-mesi/",
+  "titolo": "PARMIGIANO REGGIANO DOP 24 mesi",
+  "data_pubblicazione": "2022-11-23",
+  "marca": "TRENTIN SpA",
+  "denominazione": "PARMIGIANO REGGIANO DOP 24 mesi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_1761192967.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello_Richiamo_1761192967.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Richiamo_1761192967.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "parmigiano-reggiano-dop-24-mesi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PARMIGIANO REGGIANO DOP 24 mesi",
+   "operatore": "TRENTIN SpA",
+   "lotti": [
+    "P1843"
+   ],
+   "marchio_identificazione": "IT M2016 CE",
+   "produttore": "TRENTIN SpA",
+   "sede_stabilimento": "Via Vittorio Foa 1, Pegognaga (MN) 46020",
+   "scadenza": "01-04-2023",
+   "peso_volume": "Porzione sottovuoto da 800-900g circa",
+   "motivo_esteso": "Alcune confezioni etichettate come Parmigiano Reggiano potrebbero contenere Grana Padano che ha come ingrediente il lisozima, un conservante, derivante dall'UOVO (allergene).",
+   "avvertenze": "Si precisa che il Parmigiano Reggiano è facilmente distinguibile dal Grana Padano per i marchi del consorzio nello scalzo e per il film utilizzato per confezionare i prodotti in quanto quello per il Parmigiano Reggiano ha i due loghi del consorzio, il film del Grana Padano è completamente neutro senza loghi. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "16/11/2022 Marchio del prodotto: TRENTIN SpA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 16/11/2022 Marchio del prodotto: TRENTIN SpA\nDenominazione di vendita:PARMIGIANO REGGIANO DOP 24 mesi\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TRENTIN SpA\ncommercializzato:\nLotto di produzione: P1843\nMarchio di identificazione dello stabilimento/del produttore: IT M2016 CE\nNome del produttore: TRENTIN SpA\nSede dello stabilimento: Via Vittorio Foa 1, Pegognaga (MN) 46020\nData di scadenza o termine minimo di conservazione: 01-04-2023\nDescrizione peso/volume unità di vendita: Porzione sottovuoto da 800-900g circa\nMotivo del richiamo:\nAlcune confezioni etichettate come Parmigiano Reggiano potrebbero contenere Grana Padano che ha come\ningrediente il lisozima, un conservante, derivante dall'UOVO (allergene).\nAvvertenze:\nSi precisa che il Parmigiano Reggiano è facilmente distinguibile dal Grana Padano per i marchi del\nconsorzio nello scalzo e per il film utilizzato per confezionare i prodotti in quanto quello per il Parmigiano\nReggiano ha i due loghi del consorzio, il film del Grana Padano è completamente neutro senza loghi.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:31+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:31+00:00"
+ },
+ "preparazione-base-di-merluzzo-nordico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparazione-base-di-merluzzo-nordico/",
+  "titolo": "Preparazione a base di merluzzo nordico.",
+  "data_pubblicazione": "2022-11-14",
+  "marca": "Sødergården",
+  "denominazione": "Preparazione a base di merluzzo nordico.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/torta_PESCE_Allegato%204%20_%20MODELLO_DI_RICHIAMO_1761192943.pdf",
+  "allegati": [
+   {
+    "titolo": "torta_PESCE_Allegato 4 _ MODELLO_DI_RICHIAMO_1761192943.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/torta_PESCE_Allegato%204%20_%20MODELLO_DI_RICHIAMO_1761192943.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "preparazione-base-di-merluzzo-nordico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "lotti": [
+    "non indicato DK 4047 EF Jeka Fish A/S Havnen 70",
+    "DK-7620 Lemvig 06.12.2022 340g Rischio microbiologico (Listeria). Prodotto da consumarsi previa cottura. Richiamo precauzionale. Si invitano i consumatori a non consumare il prodotto",
+    "a riportarlo al punto vendita per il rimborso."
+   ],
+   "testo": "Allegato 4\n11.11.2022 Sødergården\nPreparazione a base di merluzzo nordico.\nJeka Fish A/S\nLotto non indicato\nDK 4047 EF\nJeka Fish A/S\nHavnen 70, DK-7620 Lemvig\n06.12.2022\n340g\nRischio microbiologico (Listeria).\nProdotto da consumarsi previa cottura. Richiamo precauzionale. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso."
+  },
+  "prima_rilevazione": "2026-10-25T07:43:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:29+00:00"
+ },
+ "richiamo-cautelativo-mortadella-supergigante-tranci-con-e-senza": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/richiamo-cautelativo-mortadella-supergigante-tranci-con-e-senza/",
+  "titolo": "Richiamo cautelativo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "data_pubblicazione": "2022-11-08",
+  "marca": "Veroni",
+  "denominazione": "Richiamo cautelativo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192918.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mortadella supergigante a tranci con e senza pistacchio distribuita da COOP_1761192918.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mortadella%20supergigante%20a%20tranci%20con%20e%20senza%20pistacchio%20distribuita%20da%20COOP_1761192918.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "richiamo-cautelativo-mortadella-supergigante-tranci-con-e-senza",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:44:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:44:04+00:00"
+ },
+ "salame-campagnolo-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-0/",
+  "titolo": "SALAME CAMPAGNOLO",
+  "data_pubblicazione": "2022-11-25",
+  "marca": "SMAPP",
+  "denominazione": "SALAME CAMPAGNOLO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_SPA_richiamo_1761192979.pdf",
+  "allegati": [
+   {
+    "titolo": "SMAPP_SPA_richiamo_1761192979.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_SPA_richiamo_1761192979.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-campagnolo-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALAME CAMPAGNOLO",
+   "operatore": "SMAPP S.P.A.",
+   "lotti": [
+    "3568"
+   ],
+   "marchio_identificazione": "IT 1031L CE",
+   "produttore": "SMAPP S.P.A.",
+   "sede_stabilimento": "VIA CIRCONVALLAZIONE, 7 - 20090 TREZZANO SUL NAVIGLIO - MILANO",
+   "scadenza": "VARI",
+   "peso_volume": "270 g.",
+   "motivo_esteso": "POSSIBILE PRESENZA DI SALMONELLA SPP",
+   "avvertenze": "SI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO NEL LUOGO DI ACQUISTO",
+   "campi_extra": {
+    "Data": "24/11/2022 Marchio del prodotto: SMAPP"
+   },
+   "testo": "RICHIAMO\nData: 24/11/2022 Marchio del prodotto: SMAPP\nDenominazione di vendita:SALAME CAMPAGNOLO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMAPP S.P.A.\ncommercializzato:\nLotto di produzione: 3568\nMarchio di identificazione dello stabilimento/del produttore: IT 1031L CE\nNome del produttore: SMAPP S.P.A.\nSede dello stabilimento: VIA CIRCONVALLAZIONE, 7 - 20090 TREZZANO SUL NAVIGLIO - MILANO\nData di scadenza o termine minimo di conservazione: VARI\nDescrizione peso/volume unità di vendita: 270 g.\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nAvvertenze:\nSI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO NEL LUOGO DI ACQUISTO"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:18+00:00"
+ },
+ "salame-campagnolo-gourmet": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-gourmet/",
+  "titolo": "SALAME CAMPAGNOLO GOURMET",
+  "data_pubblicazione": "2022-11-25",
+  "marca": "SMAPP",
+  "denominazione": "SALAME CAMPAGNOLO GOURMET",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_ALDI_richiamo_1761192982.pdf",
+  "allegati": [
+   {
+    "titolo": "SMAPP_per_ALDI_richiamo_1761192982.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_ALDI_richiamo_1761192982.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-campagnolo-gourmet",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALAME CAMPAGNOLO GOURMET",
+   "operatore": "SMAPP S.P.A. (nei Punti Vendita ALDI Srl)",
+   "lotti": [
+    "3568"
+   ],
+   "marchio_identificazione": "IT 1031L CE",
+   "produttore": "SALUMIFICIO SMAPP S.P.A.",
+   "sede_stabilimento": "VIA CIRCONVALLAZIONE, 7 - TREZZANO SUL NAVIGLIO (MI)",
+   "scadenza": "VARI",
+   "peso_volume": "270g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI SALMONELLA SPP.",
+   "avvertenze": "SI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E RIPORTARLO NEL LUOGO DI ACQUISTO",
+   "campi_extra": {
+    "Data": "24/11/2022 Marchio del prodotto: SMAPP"
+   },
+   "testo": "RICHIAMO\nData: 24/11/2022 Marchio del prodotto: SMAPP\nDenominazione di vendita:SALAME CAMPAGNOLO GOURMET\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMAPP S.P.A. (nei Punti Vendita ALDI Srl)\ncommercializzato:\nLotto di produzione: 3568\nMarchio di identificazione dello stabilimento/del produttore: IT 1031L CE\nNome del produttore: SALUMIFICIO SMAPP S.P.A.\nSede dello stabilimento: VIA CIRCONVALLAZIONE, 7 - TREZZANO SUL NAVIGLIO (MI)\nData di scadenza o termine minimo di conservazione: VARI\nDescrizione peso/volume unità di vendita: 270g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP.\nAvvertenze:\nSI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E RIPORTARLO NEL LUOGO DI ACQUISTO"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:21+00:00"
+ },
+ "salame-campagnolo-le-selezioni": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-campagnolo-le-selezioni/",
+  "titolo": "SALAME CAMPAGNOLO LE SELEZIONI",
+  "data_pubblicazione": "2022-11-25",
+  "marca": "SMAPP",
+  "denominazione": "SALAME CAMPAGNOLO LE SELEZIONI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_IPERAL_richiamo_1761192984.pdf",
+  "allegati": [
+   {
+    "titolo": "SMAPP_per_IPERAL_richiamo_1761192984.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SMAPP_per_IPERAL_richiamo_1761192984.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-campagnolo-le-selezioni",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALAME CAMPAGNOLO LE SELEZIONI",
+   "operatore": "SMAPP S.P.A. (nei Punti Vendita IPERAL)",
+   "lotti": [
+    "3568"
+   ],
+   "marchio_identificazione": "IT 1031L CE",
+   "produttore": "SALUMIFICIO SMAPP S.P.A.",
+   "sede_stabilimento": "VIA CIRCONVALLAZIONE, 7 – TREZZANO SUL NAVIGLIO (MI)",
+   "scadenza": "VARI",
+   "peso_volume": "270g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI SALMONELLA SPP",
+   "avvertenze": "SI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO NEL LUOGO DI ACQUISTO",
+   "campi_extra": {
+    "Data": "24/11/2022 Marchio del prodotto: SMAPP"
+   },
+   "testo": "RICHIAMO\nData: 24/11/2022 Marchio del prodotto: SMAPP\nDenominazione di vendita:SALAME CAMPAGNOLO LE SELEZIONI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMAPP S.P.A. (nei Punti Vendita IPERAL)\ncommercializzato:\nLotto di produzione: 3568\nMarchio di identificazione dello stabilimento/del produttore: IT 1031L CE\nNome del produttore: SALUMIFICIO SMAPP S.P.A.\nSede dello stabilimento: VIA CIRCONVALLAZIONE, 7 – TREZZANO SUL NAVIGLIO (MI)\nData di scadenza o termine minimo di conservazione: VARI\nDescrizione peso/volume unità di vendita: 270g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SALMONELLA SPP\nAvvertenze:\nSI CONSIGLIA DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO NEL LUOGO DI ACQUISTO"
+  },
+  "prima_rilevazione": "2026-10-25T07:42:24+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:42:24+00:00"
+ },
+ "salame-morbido-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-morbido-0/",
+  "titolo": "Salame morbido",
+  "data_pubblicazione": "2022-11-30",
+  "marca": "SA.MO. srl",
+  "denominazione": "Salame morbido",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/1.CARTELLORICHIAMO_1761192989.pdf",
+  "allegati": [
+   {
+    "titolo": "1.CARTELLORICHIAMO_1761192989.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/1.CARTELLORICHIAMO_1761192989.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-morbido-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:41:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:41:58+00:00"
+ },
+ "taleggio-dop-bontaleggio-di-grotta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-bontaleggio-di-grotta/",
+  "titolo": "TALEGGIO DOP BONTALEGGIO DI GROTTA",
+  "data_pubblicazione": "2022-11-14",
+  "marca": "MAURI FORMAGGI",
+  "denominazione": "TALEGGIO DOP BONTALEGGIO DI GROTTA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloperGranmercato03_11_22_1761192942.pdf",
+  "allegati": [
+   {
+    "titolo": "CartelloperGranmercato03_11_22_1761192942.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartelloperGranmercato03_11_22_1761192942.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "taleggio-dop-bontaleggio-di-grotta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:43:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:25+00:00"
+ },
+ "uova-fresche-categoria-grandi-l": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-categoria-grandi-l/",
+  "titolo": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+  "data_pubblicazione": "2022-11-15",
+  "marca": "UOVA PAZZAGLIA",
+  "denominazione": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20uova%20pazzaglia%2015.11.22_1761192945.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo uova pazzaglia 15.11.22_1761192945.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20uova%20pazzaglia%2015.11.22_1761192945.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-categoria-grandi-l",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE CATEGORIA A - GRANDI L",
+   "operatore": "UOVA PAZZAGLIA di Battaglia Luca",
+   "lotti": [
+    "431001",
+    "441001"
+   ],
+   "marchio_identificazione": "IT 040017",
+   "produttore": "Uova Pazzaglia di Battaglia Luca",
+   "sede_stabilimento": "Budrio di Longiano (FC)",
+   "scadenza": "22e28/11/2022",
+   "peso_volume": "confezione da 6 uova fresche, grandi L (63-73g) guscio bianco",
+   "motivo_esteso": "Positività per Salmonella Enteriditis a seguito di campionamento ufficiale feci di galline ovaiole. Eseguito da ASUR Area Vasta 2 in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/2022",
+   "avvertenze": "Gentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al punto vendita in cui l'ha acquistata. (LOTTO 431001 scad, 22/11/2022; LOTTO 441001 scad. 28/11/2022). Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "15/11/2022 Marchio del prodotto: UOVA PAZZAGLIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 15/11/2022 Marchio del prodotto: UOVA PAZZAGLIA\nDenominazione di vendita:UOVA FRESCHE CATEGORIA A - GRANDI L\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è UOVA PAZZAGLIA di Battaglia Luca\ncommercializzato:\nLotto di produzione: 431001;441001\nMarchio di identificazione dello stabilimento/del produttore: IT 040017\nNome del produttore: Uova Pazzaglia di Battaglia Luca\nSede dello stabilimento: Budrio di Longiano (FC)\nData di scadenza o termine minimo di conservazione: 22e28/11/2022\nDescrizione peso/volume unità di vendita: confezione da 6 uova fresche, grandi L (63-73g) guscio bianco\nMotivo del richiamo:\nPositività per Salmonella Enteriditis a seguito di campionamento ufficiale feci di galline ovaiole. Eseguito da\nASUR Area Vasta 2 in data 27/10/2022 cod. all. 036AN089. Rapporto di prova n. 85652 del 05/11/2022\nAvvertenze:\nGentile cliente, le chiediamo di non consumare il prodotto e di riportare la confezione in suo possesso al\npunto vendita in cui l'ha acquistata. (LOTTO 431001 scad, 22/11/2022; LOTTO 441001 scad. 28/11/2022).\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:18+00:00"
+ },
+ "wurstel-suillo-250-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wurstel-suillo-250-g/",
+  "titolo": "Wurstel SUILLO 250 G",
+  "data_pubblicazione": "2022-11-17",
+  "marca": "Cesare Fiorucci Spa",
+  "denominazione": "Wurstel SUILLO 250 G",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOWurstelSuillo_1761192951.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMOWurstelSuillo_1761192951.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMOWurstelSuillo_1761192951.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wurstel-suillo-250-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "(cid:0) (cid:1) (cid:2) (cid:1) (cid:3) (cid:12) (cid:1) (cid:13) (cid:14) (cid:15) (cid:8)(cid:6)\n(cid:0) (cid:4) (cid:5) (cid:6) (cid:7) (cid:8)(cid:5) (cid:1) (cid:9) (cid:8)(cid:6) (cid:5) (cid:4) (cid:10) (cid:8) (cid:11) (cid:4) (cid:5) (cid:10) (cid:8)(cid:2) (cid:1) (cid:3)\n(cid:19) (cid:6) (cid:7) (cid:4) (cid:6) (cid:13) (cid:1) (cid:26) (cid:8)(cid:6) (cid:5) (cid:4) (cid:22) (cid:6) (cid:14) (cid:8)(cid:1) (cid:16)(cid:4) (cid:10) (cid:4) (cid:16)(cid:16)(cid:27)(cid:28) (cid:29) (cid:18)\n(cid:1) (cid:5) (cid:6) (cid:7) (cid:4) (cid:10) (cid:4) (cid:16) (cid:30) (cid:20) (cid:1) (cid:16)(cid:4) (cid:8)(cid:16) (cid:17) (cid:13) (cid:6) (cid:10) (cid:6) (cid:2) (cid:2) (cid:6) (cid:31)\n(cid:14) (cid:6) (cid:7) (cid:7) (cid:4) (cid:13) (cid:14) (cid:8)(cid:1) (cid:16)(cid:8)(cid:9) (cid:9) (cid:1) (cid:2) (cid:6) (cid:3)\n(cid:25) (cid:6) (cid:2) (cid:2) (cid:6) (cid:10) (cid:8) (cid:17) (cid:13) (cid:6) (cid:10) (cid:20) (cid:9) (cid:8)(cid:6) (cid:5) (cid:4) (cid:3)\n(cid:12) (cid:1) (cid:13) (cid:14) (cid:15) (cid:8)(cid:6) (cid:10) (cid:8) (cid:8)(cid:10) (cid:4) (cid:5) (cid:2) (cid:8)(cid:21) (cid:8)(cid:14) (cid:1) (cid:9) (cid:8)(cid:6) (cid:5) (cid:4) (cid:10) (cid:4) (cid:16)(cid:16)(cid:6) (cid:22) (cid:2) (cid:1) (cid:23)\n(cid:19) (cid:6) (cid:7) (cid:4) (cid:10) (cid:4) (cid:16) (cid:17) (cid:13) (cid:6) (cid:10) (cid:20) (cid:2) (cid:2) (cid:6) (cid:13) (cid:4) (cid:3)\n(cid:29) (cid:4) (cid:10) (cid:4) (cid:10) (cid:4) (cid:16)(cid:16)(cid:6) (cid:22) (cid:2) (cid:1) (cid:23) (cid:8)(cid:16)(cid:8)(cid:7) (cid:4) (cid:5) (cid:2) (cid:6) (cid:3)\n(cid:0) (cid:1) (cid:2) (cid:1) (cid:10) (cid:8) (cid:22) (cid:14) (cid:1) (cid:10) (cid:4) (cid:5) (cid:9) (cid:1) (cid:6) (cid:2) (cid:4) (cid:13) (cid:7) (cid:8)(cid:5) (cid:4) (cid:7) (cid:8)(cid:5) (cid:8)(cid:7) (cid:6)\n(cid:0) (cid:4) (cid:22) (cid:14) (cid:13) (cid:8)(cid:9) (cid:8)(cid:6) (cid:5) (cid:4) (cid:17) (cid:4) (cid:22) (cid:6) (cid:24) (cid:11) (cid:6) (cid:16)(cid:20) (cid:7) (cid:4) (cid:20) (cid:5) (cid:8)(cid:2) (cid:10) (cid:8) (cid:11)\n(cid:12) (cid:6) (cid:2) (cid:8)(cid:11) (cid:6) (cid:10) (cid:4) (cid:16) (cid:13) (cid:8)(cid:14) (cid:15) (cid:8)(cid:1) (cid:7) (cid:6) !\n(cid:18) (cid:11) (cid:11) (cid:4) (cid:13) (cid:2) (cid:4) (cid:5) (cid:9) (cid:4) (cid:3)\n(cid:10) (cid:4) (cid:16)\n(cid:8)(cid:16)(cid:8)(cid:7)\n(cid:10) (cid:8)\n(cid:4) (cid:5) (cid:10)\n(cid:17) (cid:13)\n(cid:4) (cid:5)\n(cid:14) (cid:6)\n(cid:8)(cid:2) (cid:1)\n(cid:6) (cid:10)\n(cid:2) (cid:6)\n(cid:5) (cid:22)\n(cid:3)\n(cid:6)\n(cid:24)\n(cid:4)\n(cid:2) (cid:2) (cid:6)\n(cid:10) (cid:4) (cid:16)\n(cid:13) (cid:11) (cid:1)\n(cid:3)\n(cid:17) (cid:13)\n(cid:9) (cid:8)(cid:6)\n(cid:6)\n(cid:5)\n(cid:10)\n(cid:4)\n(cid:20)\n(cid:3)\n(cid:2) (cid:2) (cid:6) (cid:13) (cid:4) (cid:3)\nInserire immagine uno: Inserire immagine due:\nB\n7\n3\n3\n9\n8\n9 2P\n6\n\" # $\n2@< = 4\n3 8 9 5 :\n\"\n<\n\"\n9\n;\n$\n<\n4\n%\n8\n<\n& %\n> ;\n28\n%\nB\n=\n)\n4\n/\n< 9\n+\n<\n&\nG\n*\n,\n8\n%\n<\n;\n.\n>\n’\nI\n9\n8\n7\n;\n( )\nI \"\n; 4 <\nK ;\n, C\n? 2\n* + , -\nG < 9\nJ < 9 K <\n1 23 4 5\nB ; @3 :\n, - - ,\n; @@< 4 A\n* ( . - - /\n; 4 < 1 23 4\n9 3 % % # &\n6 6 2 * = ;\nP ;\n’\n( / D E\n2; ; @@< B\n% #\n5 6 6\n% I\n( )\n) /\n&\n2\nI\n*\n+\n0\n*\n&\n+\n,\n=\n&\n,\n.\n;\n\"\n-\n7\nL\n,\n1\n*\n23 4 5 6 6\n& M N & \"\n( . - - /\nC , - - ,\n2\nG\nN\n,\n%\n%\n(\n&\n#\n/\n. +\n%\n&\nD\nO\n0\nE\n% H\nF\n% -"
+  },
+  "prima_rilevazione": "2026-10-25T07:43:08+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:43:08+00:00"
+ }
+}

@@ -1,0 +1,2573 @@
+{
+ "banana-bread": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/banana-bread/",
+  "titolo": "Banana bread",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Banana bread",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20banana%20bread%20_1__1761193867.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo banana bread _1__1761193867.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20banana%20bread%20_1__1761193867.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "banana-bread",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:36:51+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:51+00:00"
+ },
+ "battuta-bovadpmt-aglio-g200skin-battuta-di-fassone-piemontese": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-bovadpmt-aglio-g200skin-battuta-di-fassone-piemontese/",
+  "titolo": "BATTUTA BOV.AD.PMT AGLIO G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "CASCINA LA MARCHESA - FACCIA FRATELLI",
+  "denominazione": "BATTUTA BOV.AD.PMT AGLIO G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20AGLIO_def_1761193840.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_o_revoca AGLIO_def_1761193840.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20AGLIO_def_1761193840.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "battuta-bovadpmt-aglio-g200skin-battuta-di-fassone-piemontese",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BATTUTA BOV.AD.PMT AGLIO G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+   "operatore": "FACCIA FRATELLI S.R.L.",
+   "lotti": [
+    "664595"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "FACCIA FRATELLI S.R.L.",
+   "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+   "scadenza": "25-03-2023",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura.",
+   "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare il prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI"
+   },
+   "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI\nDenominazione di vendita: BATTUTA BOV.AD.PMT AGLIO G200SKIN-BATTUTA DI FASSONE PIEMONTESE\nNome o ragione sociale dell'OSA FACCIA FRATELLI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 664595\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 25-03-2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nData di scadenza ERRATA 25/03/2023\nData di scadenza CORRETTA 25/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare il prodotto oltre la data di\nscadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento.\nPer chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo\nqualita@facciafratelli.com\nInserire immagine uno:\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:24+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:24+00:00"
+ },
+ "battuta-bovadpmt-classica-g200skin-battuta-di-fassone-piemontese": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-bovadpmt-classica-g200skin-battuta-di-fassone-piemontese/",
+  "titolo": "BATTUTA BOV.AD.PMT CLASSICA G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "CASCINA LA MARCHESA - FACCIA FRATELLI",
+  "denominazione": "BATTUTA BOV.AD.PMT CLASSICA G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20CLASSICA_def_1761193842.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_o_revoca CLASSICA_def_1761193842.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20CLASSICA_def_1761193842.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "battuta-bovadpmt-classica-g200skin-battuta-di-fassone-piemontese",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BATTUTA BOV.AD.PMT CLASSICA G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+   "operatore": "FACCIA FRATELLI S.R.L.",
+   "lotti": [
+    "663284 – 664253 - 664593"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "FACCIA FRATELLI S.R.L.",
+   "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+   "scadenza": "20-03-2023 / 24-03-2023 / 25-03-2023",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura. Date di scadenza ERRATE LOTTO 663284: 20/03/2023 LOTTO 664253: 24/03/2023 LOTTO 664593: 25/03/2023 Date di scadenza CORRETTE LOTTO 663284: 20/02/2023 LOTTO 664253: 24/02/2023 LOTTO 664593: 25/02/2023",
+   "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (LOTTO 663284: 20/02/2023 – LOTTO 664253: 24/02/2023 - LOTTO 664593: 25/02/2023), non consumare il prodotto oltre la data di scadenza reale (LOTTO 663284: 20/02/2023 –",
+   "campi_extra": {
+    "Data": "16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI",
+    "Date di scadenza ERRATE LOTTO 663284": "20/03/2023 LOTTO 664253: 24/03/2023 LOTTO 664593: 25/03/2023",
+    "Date di scadenza CORRETTE LOTTO 663284": "20/02/2023 LOTTO 664253: 24/02/2023 LOTTO 664593:"
+   },
+   "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI\nDenominazione di vendita: BATTUTA BOV.AD.PMT CLASSICA G200SKIN-BATTUTA DI FASSONE PIEMONTESE\nNome o ragione sociale dell'OSA FACCIA FRATELLI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 663284 – 664253 - 664593\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 20-03-2023 / 24-03-2023 / 25-03-2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nDate di scadenza ERRATE LOTTO 663284: 20/03/2023 LOTTO 664253: 24/03/2023 LOTTO 664593: 25/03/2023\nDate di scadenza CORRETTE LOTTO 663284: 20/02/2023 LOTTO 664253: 24/02/2023 LOTTO 664593:\n25/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (LOTTO 663284: 20/02/2023 – LOTTO 664253:\n24/02/2023 - LOTTO 664593: 25/02/2023), non consumare il prodotto oltre la data di scadenza reale (LOTTO 663284: 20/02/2023 –\nLOTTO 664253: 24/02/2023 - LOTTO 664593: 25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento. Per\nchiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com\nInserire immagine due:\nInserire immagine uno:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:26+00:00"
+ },
+ "battuta-bovadpmt-erbe-di-montagna-g200skin-battuta-di-fassone": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-bovadpmt-erbe-di-montagna-g200skin-battuta-di-fassone/",
+  "titolo": "BATTUTA BOV.AD.PMT ERBE DI MONTAGNA G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "CASCINA LA MARCHESA - FACCIA FRATELLI",
+  "denominazione": "BATTUTA BOV.AD.PMT ERBE DI MONTAGNA G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20ERBE_def_1761193844.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_o_revoca ERBE_def_1761193844.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20ERBE_def_1761193844.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "battuta-bovadpmt-erbe-di-montagna-g200skin-battuta-di-fassone",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BATTUTA BOV.AD.PMT ERBE DI MONTAGNA G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+   "operatore": "FACCIA FRATELLI S.R.L.",
+   "lotti": [
+    "664597"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "FACCIA FRATELLI S.R.L.",
+   "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+   "scadenza": "25-03-2023",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura.",
+   "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare il prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI\nDenominazione di vendita: BATTUTA BOV.AD.PMT ERBE DI MONTAGNA G200SKIN-BATTUTA DI FASSONE PIEMONTESE\nNome o ragione sociale dell'OSA FACCIA FRATELLI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 664597\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 25-03-2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nData di scadenza ERRATA 25/03/2023\nData di scadenza CORRETTA 25/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare\nil prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento.\nPer chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail\nall'indirizzo qualita@facciafratelli.com\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:29+00:00"
+ },
+ "battuta-bovadpmt-limone-g200skin-battuta-di-fassone-piemontese": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-bovadpmt-limone-g200skin-battuta-di-fassone-piemontese/",
+  "titolo": "BATTUTA BOV.AD.PMT LIMONE G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "CASCINA LA MARCHESA - FACCIA FRATELLI",
+  "denominazione": "BATTUTA BOV.AD.PMT LIMONE G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_LIMONE_def_1761193849.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_LIMONE_def_1761193849.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_LIMONE_def_1761193849.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "battuta-bovadpmt-limone-g200skin-battuta-di-fassone-piemontese",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BATTUTA BOV.AD.PMT LIMONE G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+   "operatore": "FACCIA FRATELLI S.R.L.",
+   "lotti": [
+    "664594"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "FACCIA FRATELLI S.R.L.",
+   "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+   "scadenza": "25/03/2023",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura.",
+   "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare il prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI\nDenominazione di vendita: BATTUTA BOV.AD.PMT LIMONE G200SKIN-BATTUTA DI FASSONE PIEMONTESE\nNome o ragione sociale dell'OSA FACCIA FRATELLI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 664594\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 25/03/2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nData di scadenza ERRATA 25/03/2023\nData di scadenza CORRETTA 25/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare\nil prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento.\nPer chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail\nall'indirizzo qualita@facciafratelli.com\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:37+00:00"
+ },
+ "battuta-bovadpmt-rosm-basil-g200skin-battuta-di-fassone-piemontese": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-bovadpmt-rosm-basil-g200skin-battuta-di-fassone-piemontese/",
+  "titolo": "BATTUTA BOV.AD.PMT ROSM BASIL G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "CASCINA LA MARCHESA - FACCIA FRATELLI",
+  "denominazione": "BATTUTA BOV.AD.PMT ROSM BASIL G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20ROSM%20BASIL_def_1761193847.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_o_revoca ROSM BASIL_def_1761193847.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20ROSM%20BASIL_def_1761193847.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "battuta-bovadpmt-rosm-basil-g200skin-battuta-di-fassone-piemontese",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BATTUTA BOV.AD.PMT ROSM BASIL G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+   "operatore": "FACCIA FRATELLI S.R.L.",
+   "lotti": [
+    "664255"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "FACCIA FRATELLI S.R.L.",
+   "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+   "scadenza": "24/03/2023",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura.",
+   "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (24/02/2023), non consumare il prodotto oltre la data di scadenza reale (24/02/2023). Il prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI\nDenominazione di vendita: BATTUTA BOV.AD.PMT ROSM BASIL G200SKIN-BATTUTA DI FASSONE PIEMONTESE\nNome o ragione sociale dell'OSA FACCIA FRATELLI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 664255\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 24/03/2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nData di scadenza ERRATA 24/03/2023\nData di scadenza CORRETTA 24/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (24/02/2023), non consumare\nil prodotto oltre la data di scadenza reale (24/02/2023). Il prodotto può essere restituito al punto vendita di riferimento.\nPer chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail\nall'indirizzo qualita@facciafratelli.com\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:34+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:34+00:00"
+ },
+ "battuta-bovadpmt-tartufo-g200skin-battuta-di-fassone-piemontese": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-bovadpmt-tartufo-g200skin-battuta-di-fassone-piemontese/",
+  "titolo": "BATTUTA BOV.AD.PMT TARTUFO G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "data_pubblicazione": "2023-02-18",
+  "marca": "CASCINA LA MARCHESA - FACCIA FRATELLI",
+  "denominazione": "BATTUTA BOV.AD.PMT TARTUFO G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_TARTUFO_def_1761193851.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_TARTUFO_def_1761193851.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_TARTUFO_def_1761193851.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "battuta-bovadpmt-tartufo-g200skin-battuta-di-fassone-piemontese",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BATTUTA BOV.AD.PMT TARTUFO G200SKIN-BATTUTA DI FASSONE PIEMONTESE",
+   "operatore": "FACCIA FRATELLI S.R.L.",
+   "lotti": [
+    "663286 - 664256"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "FACCIA FRATELLI S.R.L.",
+   "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+   "scadenza": "20-03-2023 / 24-03-2023",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura. Date di scadenza ERRATE LOTTO 663286: 20/03/2023 LOTTO 664256: 24/03/2023 Date di scadenza CORRETTE LOTTO 663286: 20/02/2023 LOTTO 664256: 24/02/2023",
+   "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (LOTTO 663286: 20/02/2023 – LOTTO 664256: 24/02/2023), non consumare il prodotto oltre la data di scadenza reale (LOTTO 663286: 20/02/2023 – LOTTO 664256: 24/02/2023) Il prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI",
+    "Date di scadenza ERRATE LOTTO 663286": "20/03/2023 LOTTO 664256: 24/03/2023",
+    "Date di scadenza CORRETTE LOTTO 663286": "20/02/2023 LOTTO 664256: 24/02/2023",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: CASCINA LA MARCHESA - FACCIA FRATELLI\nDenominazione di vendita: BATTUTA BOV.AD.PMT TARTUFO G200SKIN-BATTUTA DI FASSONE PIEMONTESE\nNome o ragione sociale dell'OSA FACCIA FRATELLI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 663286 - 664256\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 20-03-2023 / 24-03-2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nDate di scadenza ERRATE LOTTO 663286: 20/03/2023 LOTTO 664256: 24/03/2023\nDate di scadenza CORRETTE LOTTO 663286: 20/02/2023 LOTTO 664256: 24/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (LOTTO 663286: 20/02/2023 – LOTTO 664256:\n24/02/2023), non consumare il prodotto oltre la data di scadenza reale (LOTTO 663286: 20/02/2023 – LOTTO 664256: 24/02/2023)\nIl prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174\n721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:09+00:00"
+ },
+ "battuta-di-bovino-razza-piemontese-fior-fiore-coop": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/battuta-di-bovino-razza-piemontese-fior-fiore-coop/",
+  "titolo": "BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "FIOR FIORE COOP",
+  "denominazione": "BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20FIOR%20FIORE_def_1761193845.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_o_revoca FIOR FIORE_def_1761193845.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_o_revoca%20FIOR%20FIORE_def_1761193845.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "battuta-di-bovino-razza-piemontese-fior-fiore-coop",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP",
+   "operatore": "COOP ITALIA S.C.",
+   "lotti": [
+    "664592"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "FACCIA FRATELLI S.R.L.",
+   "sede_stabilimento": "VIA L. EINAUDI 28 - 12073 CEVA (CN)",
+   "scadenza": "25-03-2023",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Errata attribuzione della data di scadenza in fase di etichettatura.",
+   "avvertenze": "Il prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare il prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento. Per chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail all'indirizzo qualita@facciafratelli.com Inserire immagine due: Inserire immagine uno",
+   "campi_extra": {
+    "Data": "16/02/2023 Marchio del prodotto: FIOR FIORE COOP"
+   },
+   "testo": "RICHIAMO\nData: 16/02/2023 Marchio del prodotto: FIOR FIORE COOP\nDenominazione di vendita: BATTUTA DI BOVINO RAZZA PIEMONTESE FIOR FIORE COOP\nNome o ragione sociale dell'OSA COOP ITALIA S.C.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 664592\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: FACCIA FRATELLI S.R.L.\nSede dello stabilimento: VIA L. EINAUDI 28 - 12073 CEVA (CN)\nData di scadenza o termine minimo di conservazione: 25-03-2023\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nErrata attribuzione della data di scadenza in fase di etichettatura.\nData di scadenza ERRATA 25/03/2023\nData di scadenza CORRETTA 25/02/2023\nAvvertenze:\nIl prodotto non presenta rischi se consumato entro la data di scadenza reale (25/02/2023), non consumare\nil prodotto oltre la data di scadenza reale (25/02/2023). Il prodotto può essere restituito al punto vendita di riferimento.\nPer chiarimenti è possibile contattare il seguente numero 0174 721957/8 oppure inviare una mail\nall'indirizzo qualita@facciafratelli.com\nInserire immagine due:\nInserire immagine uno:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:31+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:31+00:00"
+ },
+ "biscotti-al-farro-altoatesino-dinkelspitzbuben-aus-sudtirol": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-al-farro-altoatesino-dinkelspitzbuben-aus-sudtirol/",
+  "titolo": "Biscotti al farro altoatesino-Dinkelspitzbuben aus Südtirol",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "Panificio Bäckerei Moser KG der Moser Ruth & Co; Valdaora",
+  "denominazione": "Biscotti al farro altoatesino-Dinkelspitzbuben aus Südtirol",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_Panificio%20MOSER_1761193834.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo_Panificio MOSER_1761193834.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo_Panificio%20MOSER_1761193834.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "biscotti-al-farro-altoatesino-dinkelspitzbuben-aus-sudtirol",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Biscotti al farro altoatesino-Dinkelspitzbuben aus Südtirol",
+   "operatore": "Panificio Bäckerei Moser KG der Moser Ruth & Co; Valdaora",
+   "lotti": [
+    "TMC 01.03.2023"
+   ],
+   "marchio_identificazione": "Bäckerei Panificio Moser",
+   "produttore": "Panificio Bäckerei Moser KG di Moser Ruth &Co",
+   "sede_stabilimento": "Zona Industriale 18 – 39030 Valdaora (BZ)",
+   "scadenza": "01.03.2023",
+   "peso_volume": "biscotti al farro - sacchetto trasparente da 200g",
+   "motivo_esteso": "tracce di nocciola nel prodotto; non dichiarato in etichetta",
+   "avvertenze": "Può contenere tracce di nocciola (allergene)",
+   "campi_extra": {
+    "Data": "15/02/2023 Marchio del prodotto: MOSER"
+   },
+   "testo": "RICHIAMO\nData: 15/02/2023 Marchio del prodotto: MOSER\nDenominazione di vendita:Biscotti al farro altoatesino-Dinkelspitzbuben aus Südtirol\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Panificio Bäckerei Moser KG der Moser Ruth & Co; Valdaora\ncommercializzato:\nLotto di produzione: TMC 01.03.2023\nMarchio di identificazione dello stabilimento/del produttore: Bäckerei Panificio Moser\nNome del produttore: Panificio Bäckerei Moser KG di Moser Ruth &Co\nSede dello stabilimento: Zona Industriale 18 – 39030 Valdaora (BZ)\nData di scadenza o termine minimo di conservazione: 01.03.2023\nDescrizione peso/volume unità di vendita: biscotti al farro - sacchetto trasparente da 200g\nMotivo del richiamo:\ntracce di nocciola nel prodotto; non dichiarato in etichetta\nAvvertenze:\nPuò contenere tracce di nocciola (allergene)"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:12+00:00"
+ },
+ "biscotti-frolla-mini-spitzbuben-250-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-frolla-mini-spitzbuben-250-gr/",
+  "titolo": "Biscotti frolla- Mini-Spitzbuben 250 gr.",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "Panificio Harrasser srl",
+  "denominazione": "Biscotti frolla- Mini-Spitzbuben 250 gr.",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Harrasser_1761193827.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo Harrasser_1761193827.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Harrasser_1761193827.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "biscotti-frolla-mini-spitzbuben-250-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Biscotti frolla - Mini-Spitzbuben 250 gr.",
+   "operatore": "Panificio Harrasser srl",
+   "marchio_identificazione": "Panificio Harrasser srl",
+   "produttore": "Panificio Harrasser srl",
+   "sede_stabilimento": "via Campi della Rienza, 36 - 39031 Brunico (BZ)",
+   "scadenza": "21.02.2023",
+   "peso_volume": "250 grammi",
+   "motivo_esteso": "Presenza di allergeni (nocciole) non presenti in etichetta",
+   "avvertenze": "Il prodotto è stato distribuito solo nella Provincia Autonoma di Bolzano",
+   "campi_extra": {
+    "Data": "15.02.2023 Marchio del prodotto: Panificio Harrasser srl"
+   },
+   "testo": "RICHIAMO\nData: 15.02.2023 Marchio del prodotto: Panificio Harrasser srl\nDenominazione di vendita:Biscotti frolla - Mini-Spitzbuben 250 gr.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Panificio Harrasser srl\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: Panificio Harrasser srl\nNome del produttore: Panificio Harrasser srl\nSede dello stabilimento: via Campi della Rienza, 36 - 39031 Brunico (BZ)\nData di scadenza o termine minimo di conservazione: 21.02.2023\nDescrizione peso/volume unità di vendita: 250 grammi\nMotivo del richiamo:\nPresenza di allergeni (nocciole) non presenti in etichetta\nAvvertenze:\nIl prodotto è stato distribuito solo nella Provincia Autonoma di Bolzano"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:47+00:00"
+ },
+ "brownie": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie/",
+  "titolo": "Brownie",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Brownie",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20brownie%20_1__1761193869.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo brownie _1__1761193869.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20brownie%20_1__1761193869.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "brownie",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:36:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:54+00:00"
+ },
+ "brownie-al-cioccolato-fondente": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie-al-cioccolato-fondente/",
+  "titolo": "BROWNIE AL CIOCCOLATO FONDENTE",
+  "data_pubblicazione": "2023-02-09",
+  "marca": "EUROCHEF ITALIA SPA",
+  "denominazione": "BROWNIE AL CIOCCOLATO FONDENTE",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%201_1761193191.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo 1_1761193191.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%201_1761193191.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "brownie-al-cioccolato-fondente",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:18+00:00"
+ },
+ "brownie-al-cioccolato-fondente-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie-al-cioccolato-fondente-0/",
+  "titolo": "BROWNIE AL CIOCCOLATO FONDENTE",
+  "data_pubblicazione": "2023-02-09",
+  "marca": "EUROCHEF ITALIA SPA",
+  "denominazione": "BROWNIE AL CIOCCOLATO FONDENTE",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%202%20_1__1761193196.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo 2 _1__1761193196.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%202%20_1__1761193196.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "brownie-al-cioccolato-fondente-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:21+00:00"
+ },
+ "brownie-al-cioccolato-fondente-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brownie-al-cioccolato-fondente-1/",
+  "titolo": "BROWNIE AL CIOCCOLATO FONDENTE",
+  "data_pubblicazione": "2023-02-09",
+  "marca": "EUROCHEF ITALIA SPA",
+  "denominazione": "BROWNIE AL CIOCCOLATO FONDENTE",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%203%20_2__1761193201.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo 3 _2__1761193201.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo%203%20_2__1761193201.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "brownie-al-cioccolato-fondente-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:24+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:24+00:00"
+ },
+ "carrot-cake": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carrot-cake/",
+  "titolo": "Carrot cake",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Carrot cake",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20carrot%20cake_1761193871.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo carrot cake_1761193871.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20carrot%20cake_1761193871.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "carrot-cake",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:36:57+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:57+00:00"
+ },
+ "cheesecake-frutti-di-bosco": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cheesecake-frutti-di-bosco/",
+  "titolo": "Cheesecake frutti di bosco",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Cheesecake frutti di bosco",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cheesecake%20frutti%20bosco_1761193873.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo cheesecake frutti bosco_1761193873.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cheesecake%20frutti%20bosco_1761193873.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cheesecake-frutti-di-bosco",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:36:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:59+00:00"
+ },
+ "cheesecake-mango": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cheesecake-mango/",
+  "titolo": "Cheesecake mango",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Cheesecake mango",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cheesecake%20mango_1761193875.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo cheesecake mango_1761193875.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cheesecake%20mango_1761193875.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cheesecake-mango",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:02+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:02+00:00"
+ },
+ "cookie-arachidi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-arachidi/",
+  "titolo": "Cookie arachidi",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Cookie arachidi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20arachidi_1761193877.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo cookie arachidi_1761193877.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20arachidi_1761193877.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cookie-arachidi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:05+00:00"
+ },
+ "cookie-doppio-cioccolato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cookie-doppio-cioccolato/",
+  "titolo": "Cookie doppio cioccolato",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Cookie doppio cioccolato",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20doppio%20cioccolato_1761193880.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo cookie doppio cioccolato_1761193880.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cookie%20doppio%20cioccolato_1761193880.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cookie-doppio-cioccolato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:08+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:08+00:00"
+ },
+ "drena-shock": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/drena-shock/",
+  "titolo": "Drena Shock",
+  "data_pubblicazione": "2023-02-03",
+  "marca": "Private Label",
+  "denominazione": "Drena Shock",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761193146.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo_1761193146.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761193146.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "drena-shock",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:50+00:00"
+ },
+ "hamburger-di-filiera-di-scottona": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/hamburger-di-filiera-di-scottona/",
+  "titolo": "Hamburger di filiera di scottona",
+  "data_pubblicazione": "2023-02-28",
+  "marca": "Tigros S.p.A.",
+  "denominazione": "Hamburger di filiera di scottona",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Faccia_modello_di_richiamo%20Fassona_1761193924.pdf",
+  "allegati": [
+   {
+    "titolo": "Faccia_modello_di_richiamo Fassona_1761193924.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Faccia_modello_di_richiamo%20Fassona_1761193924.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "hamburger-di-filiera-di-scottona",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Hamburger di filiera di scottona",
+   "operatore": "Tigros S.p.A.",
+   "lotti": [
+    "664258"
+   ],
+   "marchio_identificazione": "IT C716K CE",
+   "produttore": "Faccia Fratelli s.r.l.",
+   "sede_stabilimento": "Via Luigi Einaudi 28, Ceva (CN)",
+   "scadenza": "02-04-2023",
+   "peso_volume": "250g",
+   "motivo_esteso": "Attribuzione errata data di scadenza in fase di etichettatura",
+   "avvertenze": "il prodotto non presenta rischi se consumato entro la data di scadenza reale (02/03/2023), non consumare oltre la data di scadenza reale (02/03/2023). Il prodotto può essere reso al punto vendita di riferimento. Per chiarimenti si può contattare il numero 0174 721957/8 o inviare mail a qualita@facciafratelli.com",
+   "campi_extra": {
+    "Data": "27/02/2023 Marchio del prodotto: Tigros S.p.A."
+   },
+   "testo": "RICHIAMO\nData: 27/02/2023 Marchio del prodotto: Tigros S.p.A.\nDenominazione di vendita:Hamburger di filiera di scottona\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Tigros S.p.A.\ncommercializzato:\nLotto di produzione: 664258\nMarchio di identificazione dello stabilimento/del produttore: IT C716K CE\nNome del produttore: Faccia Fratelli s.r.l.\nSede dello stabilimento: Via Luigi Einaudi 28, Ceva (CN)\nData di scadenza o termine minimo di conservazione: 02-04-2023\nDescrizione peso/volume unità di vendita: 250g\nMotivo del richiamo:\nAttribuzione errata data di scadenza in fase di etichettatura:\ndata di scadenza CORRETTA: 02/03/2023\ndata di scadenza ERRATA: 02/04/2023\nAvvertenze:\nil prodotto non presenta rischi se consumato entro la data di scadenza reale (02/03/2023), non consumare\noltre la data di scadenza reale (02/03/2023). Il prodotto può essere reso al punto vendita di riferimento.\nPer chiarimenti si può contattare il numero 0174 721957/8 o inviare mail a qualita@facciafratelli.com"
+  },
+  "prima_rilevazione": "2026-10-25T07:36:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:38+00:00"
+ },
+ "jumbo-pack-sweet-supari": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/jumbo-pack-sweet-supari/",
+  "titolo": "Jumbo Pack Sweet Supari",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "Bombay",
+  "denominazione": "Jumbo Pack Sweet Supari",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carello%20di%20Richiamo%202_1761193826.pdf",
+  "allegati": [
+   {
+    "titolo": "Carello di Richiamo 2_1761193826.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Carello%20di%20Richiamo%202_1761193826.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "jumbo-pack-sweet-supari",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:38:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:44+00:00"
+ },
+ "kyr-probiotici-e-vitamina-d-albicocca-e-miele": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kyr-probiotici-e-vitamina-d-albicocca-e-miele/",
+  "titolo": "Kyr probiotici e vitamina D - Albicocca e Miele",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Kyr",
+  "denominazione": "Kyr probiotici e vitamina D - Albicocca e Miele",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_albicocca.miele_1761193917.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_KYR_albicocca.miele_1761193917.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_albicocca.miele_1761193917.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kyr-probiotici-e-vitamina-d-albicocca-e-miele",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Kyr probiotici e vitamina D- Albicocca e Miele",
+   "operatore": "LNPF Italia S.r.l. Via Flavio Gioia 8, 20149 Milano",
+   "lotti": [
+    "29/03 z"
+   ],
+   "marchio_identificazione": "FR.53.054.005 CE",
+   "produttore": "LNUF Laval SNC",
+   "sede_stabilimento": "ZI des Touches – Boulevard Arago 53810 Changé France",
+   "scadenza": "29-03-2023",
+   "peso_volume": "250g (2x125g)",
+   "motivo_esteso": "Fragilità del collo dei vasetti di vetro",
+   "avvertenze": "Si prega di non consumare il prodotto con la data di scadenza 29/03/2023 e di riportarlo al punto vendita per il rimborso, anche senza scontrino. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. In caso di domande, consultare il sito www.inviarichiesta.it/kyr Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/02/2023 Marchio del prodotto: Kyr",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/02/2023 Marchio del prodotto: Kyr\nDenominazione di vendita:Kyr probiotici e vitamina D- Albicocca e Miele\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LNPF Italia S.r.l. Via Flavio Gioia 8, 20149 Milano\ncommercializzato:\nLotto di produzione: 29/03 z\nMarchio di identificazione dello stabilimento/del produttore: FR.53.054.005 CE\nNome del produttore: LNUF Laval SNC\nSede dello stabilimento: ZI des Touches – Boulevard Arago 53810 Changé France\nData di scadenza o termine minimo di conservazione: 29-03-2023\nDescrizione peso/volume unità di vendita: 250g (2x125g)\nMotivo del richiamo:\nFragilità del collo dei vasetti di vetro\nAvvertenze:\nSi prega di non consumare il prodotto con la data di scadenza 29/03/2023 e di riportarlo al punto vendita\nper il rimborso, anche senza scontrino. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra\nindicato. In caso di domande, consultare il sito www.inviarichiesta.it/kyr\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:37:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:47+00:00"
+ },
+ "kyr-probiotici-e-vitamina-d-fragola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kyr-probiotici-e-vitamina-d-fragola/",
+  "titolo": "Kyr probiotici e vitamina D - fragola",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Kyr",
+  "denominazione": "Kyr probiotici e vitamina D - fragola",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_%20fragola_1761193914.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_KYR_ fragola_1761193914.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_%20fragola_1761193914.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kyr-probiotici-e-vitamina-d-fragola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Kyr probiotici e vitamina D- Fragola",
+   "operatore": "LNPF Italia S.r.l. Via Flavio Gioia 8, 20149 Milano",
+   "lotti": [
+    "29/03 z"
+   ],
+   "marchio_identificazione": "FR.53.054.005 CE",
+   "produttore": "LNUF Laval SNC",
+   "sede_stabilimento": "ZI des Touches – Boulevard Arago 53810 Changé France",
+   "scadenza": "29-03-2023",
+   "peso_volume": "250g (2x125g)",
+   "motivo_esteso": "Fragilità del collo dei vasetti di vetro",
+   "avvertenze": "Si prega di non consumare il prodotto con la data di scadenza 29/03/2023 e di riportarlo al punto vendita per il rimborso, anche senza scontrino. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. In caso di domande, consultare il sito www.inviarichiesta.it/kyr Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/02/2023 Marchio del prodotto: Kyr",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/02/2023 Marchio del prodotto: Kyr\nDenominazione di vendita:Kyr probiotici e vitamina D- Fragola\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LNPF Italia S.r.l. Via Flavio Gioia 8, 20149 Milano\ncommercializzato:\nLotto di produzione: 29/03 z\nMarchio di identificazione dello stabilimento/del produttore: FR.53.054.005 CE\nNome del produttore: LNUF Laval SNC\nSede dello stabilimento: ZI des Touches – Boulevard Arago 53810 Changé France\nData di scadenza o termine minimo di conservazione: 29-03-2023\nDescrizione peso/volume unità di vendita: 250g (2x125g)\nMotivo del richiamo:\nFragilità del collo dei vasetti di vetro\nAvvertenze:\nSi prega di non consumare il prodotto con la data di scadenza 29/03/2023 e di riportarlo al punto vendita\nper il rimborso, anche senza scontrino. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra\nindicato. In caso di domande, consultare il sito www.inviarichiesta.it/kyr\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:37:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:45+00:00"
+ },
+ "kyr-probiotici-e-vitamina-d-pappa-reale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kyr-probiotici-e-vitamina-d-pappa-reale/",
+  "titolo": "Kyr probiotici e vitamina D - pappa reale",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Kyr",
+  "denominazione": "Kyr probiotici e vitamina D - pappa reale",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_pappa.reale_1761193911.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_KYR_pappa.reale_1761193911.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_KYR_pappa.reale_1761193911.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kyr-probiotici-e-vitamina-d-pappa-reale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Kyr probiotici e vitamina D- Pappa reale",
+   "operatore": "LNPF Italia S.r.l. Via Flavio Gioia 8, 20149 Milano",
+   "lotti": [
+    "29/03 z"
+   ],
+   "marchio_identificazione": "FR.53.054.005 CE",
+   "produttore": "LNUF Laval SNC",
+   "sede_stabilimento": "ZI des Touches – Boulevard Arago 53810 Changé France",
+   "scadenza": "29-03-2023",
+   "peso_volume": "250g (2x125g)",
+   "motivo_esteso": "Fragilità del collo dei vasetti di vetro",
+   "avvertenze": "Si prega di non consumare il prodotto con la data di scadenza 29/03/2023 e di riportarlo al punto vendita per il rimborso, anche senza scontrino. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. In caso di domande, consultare il sito www.inviarichiesta.it/kyr Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/02/2023 Marchio del prodotto: Kyr",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/02/2023 Marchio del prodotto: Kyr\nDenominazione di vendita:Kyr probiotici e vitamina D- Pappa reale\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LNPF Italia S.r.l. Via Flavio Gioia 8, 20149 Milano\ncommercializzato:\nLotto di produzione: 29/03 z\nMarchio di identificazione dello stabilimento/del produttore: FR.53.054.005 CE\nNome del produttore: LNUF Laval SNC\nSede dello stabilimento: ZI des Touches – Boulevard Arago 53810 Changé France\nData di scadenza o termine minimo di conservazione: 29-03-2023\nDescrizione peso/volume unità di vendita: 250g (2x125g)\nMotivo del richiamo:\nFragilità del collo dei vasetti di vetro\nAvvertenze:\nSi prega di non consumare il prodotto con la data di scadenza 29/03/2023 e di riportarlo al punto vendita\nper il rimborso, anche senza scontrino. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra\nindicato. In caso di domande, consultare il sito www.inviarichiesta.it/kyr\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:37:43+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:43+00:00"
+ },
+ "mandorle-dolci-naturali-3638": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-dolci-naturali-3638/",
+  "titolo": "Mandorle dolci naturali 36/38",
+  "data_pubblicazione": "2023-02-20",
+  "marca": "Ambrosio",
+  "denominazione": "Mandorle dolci naturali 36/38",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%201%20IDAV_1761193855.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO 1 IDAV_1761193855.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%201%20IDAV_1761193855.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mandorle-dolci-naturali-3638",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:38:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:04+00:00"
+ },
+ "mandorle-dolci-naturali-3638-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-dolci-naturali-3638-0/",
+  "titolo": "Mandorle dolci naturali 36/38",
+  "data_pubblicazione": "2023-02-20",
+  "marca": "ALMENDRAS lopez",
+  "denominazione": "Mandorle dolci naturali 36/38",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%202%20IDAV_1761193856.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO 2 IDAV_1761193856.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%202%20IDAV_1761193856.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mandorle-dolci-naturali-3638-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:38:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:06+00:00"
+ },
+ "mandorle-sgusciate-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-0/",
+  "titolo": "Mandorle sgusciate",
+  "data_pubblicazione": "2023-02-14",
+  "marca": "DATTILO",
+  "denominazione": "Mandorle sgusciate",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20bustine%2040g_1761193819.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo bustine 40g_1761193819.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20bustine%2040g_1761193819.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mandorle-sgusciate-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mandorle sgusciate",
+   "operatore": "I&D srl",
+   "lotti": [
+    "277/22",
+    "290/22"
+   ],
+   "marchio_identificazione": "I&D srl",
+   "produttore": "Almendras Lopez",
+   "sede_stabilimento": "Via Montegrappa, 37 Frattamaggiore (NA)",
+   "peso_volume": "bustine da 40 g",
+   "motivo_esteso": "Possibile presenza di aflatossine",
+   "avvertenze": "Prodotto da non consumare. Da riportare al punto vendita",
+   "campi_extra": {
+    "Data": "09/02/2023 Marchio del prodotto: Dattilo"
+   },
+   "testo": "RICHIAMO\nData: 09/02/2023 Marchio del prodotto: Dattilo\nDenominazione di vendita:Mandorle sgusciate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è I&D srl\ncommercializzato:\nLotto di produzione: 277/22; 290/22;\nMarchio di identificazione dello stabilimento/del produttore: I&D srl\nNome del produttore: Almendras Lopez\nSede dello stabilimento: Via Montegrappa, 37 Frattamaggiore (NA)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: bustine da 40 g\nMotivo del richiamo:\nPossibile presenza di aflatossine\nAvvertenze:\nProdotto da non consumare. Da riportare al punto vendita"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:59+00:00"
+ },
+ "mandorle-sgusciate-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-1/",
+  "titolo": "mandorle sgusciate",
+  "data_pubblicazione": "2023-02-14",
+  "marca": "Movida catering",
+  "denominazione": "mandorle sgusciate",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello%20700g_1_1761193820.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo secchiello 700g_1_1761193820.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello%20700g_1_1761193820.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mandorle-sgusciate-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mandorle Sgusciate",
+   "operatore": "I&D srl",
+   "lotti": [
+    "270/22",
+    "294/22",
+    "273/22"
+   ],
+   "marchio_identificazione": "I&D srl",
+   "produttore": "Almendras Lopez",
+   "sede_stabilimento": "Via Montegrappa, 37 Frattamaggiore (NA)",
+   "peso_volume": "secchiello plastica da 700 g",
+   "motivo_esteso": "Possibile presenza di aflatossine",
+   "avvertenze": "Prodotto da non consumare. Da riportare al punto vendita",
+   "campi_extra": {
+    "Data": "09/02/2023 Marchio del prodotto: Movida Catering"
+   },
+   "testo": "RICHIAMO\nData: 09/02/2023 Marchio del prodotto: Movida Catering\nDenominazione di vendita:Mandorle Sgusciate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è I&D srl\ncommercializzato:\nLotto di produzione: 270/22; 294/22; 273/22\nMarchio di identificazione dello stabilimento/del produttore: I&D srl\nNome del produttore: Almendras Lopez\nSede dello stabilimento: Via Montegrappa, 37 Frattamaggiore (NA)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: secchiello plastica da 700 g\nMotivo del richiamo:\nPossibile presenza di aflatossine\nAvvertenze:\nProdotto da non consumare. Da riportare al punto vendita"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:02+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:02+00:00"
+ },
+ "mandorle-sgusciate-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-2/",
+  "titolo": "mandorle sgusciate",
+  "data_pubblicazione": "2023-02-14",
+  "marca": "Movida catering",
+  "denominazione": "mandorle sgusciate",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello.%201000g_1761193821.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo secchiello. 1000g_1761193821.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20secchiello.%201000g_1761193821.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mandorle-sgusciate-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mandorle sgusciate",
+   "operatore": "I&D srl",
+   "lotti": [
+    "277/22",
+    "291/22"
+   ],
+   "marchio_identificazione": "I&D srl",
+   "produttore": "Almendras Lopez",
+   "sede_stabilimento": "Via Montegrappa, 37 Frattamaggiore (NA)",
+   "peso_volume": "secchiello plastica da 1000 g",
+   "motivo_esteso": "Possibile presenza di aflatossine",
+   "avvertenze": "Prodotto da non consumare. Da riportare al punto vendita",
+   "campi_extra": {
+    "Data": "09/02/2023 Marchio del prodotto: Movida catering"
+   },
+   "testo": "RICHIAMO\nData: 09/02/2023 Marchio del prodotto: Movida catering\nDenominazione di vendita:Mandorle sgusciate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è I&D srl\ncommercializzato:\nLotto di produzione: 277/22; 291/22;\nMarchio di identificazione dello stabilimento/del produttore: I&D srl\nNome del produttore: Almendras Lopez\nSede dello stabilimento: Via Montegrappa, 37 Frattamaggiore (NA)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: secchiello plastica da 1000 g\nMotivo del richiamo:\nPossibile presenza di aflatossine\nAvvertenze:\nProdotto da non consumare. Da riportare al punto vendita"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:05+00:00"
+ },
+ "mandorle-sgusciate-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mandorle-sgusciate-3/",
+  "titolo": "mandorle sgusciate",
+  "data_pubblicazione": "2023-02-14",
+  "marca": "I&D S.r.l.",
+  "denominazione": "mandorle sgusciate",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20vaschette%20da%20200%20_%20400%20g_1_1761193822.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo vaschette da 200 _ 400 g_1_1761193822.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20vaschette%20da%20200%20_%20400%20g_1_1761193822.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mandorle-sgusciate-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mandorle sgusciate",
+   "operatore": "I&D srl",
+   "lotti": [
+    "279/22",
+    "280/22",
+    "295/22"
+   ],
+   "marchio_identificazione": "I&D srl",
+   "produttore": "Almendras Lopez",
+   "sede_stabilimento": "Via Montegrappa, 37 Frattamaggiore (NA)",
+   "peso_volume": "vaschette compostabili da 200 - 400 g",
+   "motivo_esteso": "Possibile presenza di Aflatossine",
+   "avvertenze": "Prodotto da non consumare. Da riportare al punto vendita",
+   "campi_extra": {
+    "Data": "09/02/2023 Marchio del prodotto:"
+   },
+   "testo": "RICHIAMO\nData: 09/02/2023 Marchio del prodotto:\nDenominazione di vendita:Mandorle sgusciate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è I&D srl\ncommercializzato:\nLotto di produzione: 279/22; 280/22; 295/22\nMarchio di identificazione dello stabilimento/del produttore: I&D srl\nNome del produttore: Almendras Lopez\nSede dello stabilimento: Via Montegrappa, 37 Frattamaggiore (NA)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: vaschette compostabili da 200 - 400 g\nMotivo del richiamo:\nPossibile presenza di Aflatossine\nAvvertenze:\nProdotto da non consumare. Da riportare al punto vendita"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:08+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:08+00:00"
+ },
+ "mayo-di-soya-senza-uova-da-agricoltura-biologica": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mayo-di-soya-senza-uova-da-agricoltura-biologica/",
+  "titolo": "MAYO DI SOYA SENZA UOVA DA AGRICOLTURA BIOLOGICA",
+  "data_pubblicazione": "2023-02-09",
+  "marca": "CEREALTERRA",
+  "denominazione": "MAYO DI SOYA SENZA UOVA DA AGRICOLTURA BIOLOGICA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761193187.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_1761193187.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_1761193187.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mayo-di-soya-senza-uova-da-agricoltura-biologica",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:39:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:16+00:00"
+ },
+ "minestrone-ricco-con-passato-surgelato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-ricco-con-passato-surgelato/",
+  "titolo": "Minestrone ricco con passato surgelato",
+  "data_pubblicazione": "2023-02-13",
+  "marca": "Bonduelle Italia srl",
+  "denominazione": "Minestrone ricco con passato surgelato",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20del%20Ministero%20della%20Salute%20per%20il%20Richiamo%20prodotto%20_%20Minestrone%20Ricco%20Bonduelle_1761193211.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello del Ministero della Salute per il Richiamo prodotto _ Minestrone Ricco Bonduelle_1761193211.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20del%20Ministero%20della%20Salute%20per%20il%20Richiamo%20prodotto%20_%20Minestrone%20Ricco%20Bonduelle_1761193211.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-ricco-con-passato-surgelato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "12342567\n(cid:0)(cid:1)(cid:2)(cid:1)(cid:3) 89:8;:;8;< (cid:13)(cid:1)(cid:14)(cid:15)(cid:16)(cid:8)(cid:6)(cid:10)(cid:11)(cid:4)(cid:17)(cid:10)(cid:18)(cid:14)(cid:6)(cid:11)(cid:6)(cid:2)(cid:2)(cid:6)(cid:3) B7=CD>EE>\n(cid:0)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:5)(cid:1)(cid:9)(cid:8)(cid:6)(cid:5)(cid:4)(cid:10)(cid:11)(cid:8)(cid:10)(cid:12)(cid:4)(cid:5)(cid:11)(cid:8)(cid:2)(cid:1)(cid:3)62=>?@17=>1233737=A5??5@7\n(cid:20)(cid:6)(cid:7)(cid:4)(cid:10)(cid:6)(cid:10)(cid:14)(cid:1)(cid:27)(cid:8)(cid:6)(cid:5)(cid:4)(cid:10)(cid:23)(cid:6)(cid:15)(cid:8)(cid:1)(cid:17)(cid:4)(cid:10)(cid:11)(cid:4)(cid:17)(cid:17)(cid:28)(cid:29)(cid:30)(cid:19)(cid:10)\n(cid:1)(cid:10)(cid:5)(cid:6)(cid:7)(cid:4)(cid:10)(cid:11)(cid:4)(cid:17)(cid:10)(cid:31)(cid:21)(cid:1)(cid:17)(cid:4)(cid:10)(cid:8)(cid:17)(cid:10)(cid:18)(cid:14)(cid:6)(cid:11)(cid:6)(cid:2)(cid:2)(cid:6)(cid:10) (cid:10) B7=CD>EE>2@5E25?1E\n(cid:15)(cid:6)(cid:7)(cid:7)(cid:4)(cid:14)(cid:15)(cid:8)(cid:1)(cid:17)(cid:8)(cid:9)(cid:9)(cid:1)(cid:2)(cid:6)(cid:3)\n(cid:26)(cid:6)(cid:2)(cid:2)(cid:6)(cid:10)(cid:11)(cid:8)(cid:10)(cid:18)(cid:14)(cid:6)(cid:11)(cid:21)(cid:9)(cid:8)(cid:6)(cid:5)(cid:4)(cid:3) WNROX7@7;\n(cid:13)(cid:1)(cid:14)(cid:15)(cid:16)(cid:8)(cid:6)(cid:10)(cid:11)(cid:8)(cid:10)(cid:8)(cid:11)(cid:4)(cid:5)(cid:2)(cid:8)(cid:22)(cid:8)(cid:15)(cid:1)(cid:9)(cid:8)(cid:6)(cid:5)(cid:4)(cid:10)(cid:11)(cid:4)(cid:17)(cid:17)(cid:6)(cid:10)(cid:23)(cid:2)(cid:1)(cid:24)(cid:8)(cid:17)(cid:8)(cid:7)(cid:4)(cid:5)(cid:2)(cid:6)(cid:25)(cid:11)(cid:4)(cid:17)(cid:10)(cid:18)(cid:14)(cid:6)(cid:11)(cid:21)(cid:2)(cid:2)(cid:6)(cid:14)(cid:4)(cid:3)B7=CD>EE>\n(cid:20)(cid:6)(cid:7)(cid:4)(cid:10)(cid:11)(cid:4)(cid:17)(cid:10)(cid:18)(cid:14)(cid:6)(cid:11)(cid:21)(cid:2)(cid:2)(cid:6)(cid:14)(cid:4)(cid:3) BFGRJNPPN>JMFQNEFGTEOVN\n(cid:30)(cid:4)(cid:11)(cid:4)(cid:10)(cid:11)(cid:4)(cid:17)(cid:17)(cid:6)(cid:10)(cid:23)(cid:2)(cid:1)(cid:24)(cid:8)(cid:17)(cid:8)(cid:7)(cid:4)(cid:5)(cid:2)(cid:6)(cid:3)3aLJIIbNRNBMJGNaLJSc98;88>ISMbNId6FGI\n(cid:0)(cid:1)(cid:2)(cid:1)(cid:10)(cid:11)(cid:8)(cid:10)(cid:23)(cid:15)(cid:1)(cid:11)(cid:4)(cid:5)(cid:9)(cid:1)(cid:10)(cid:6)(cid:10)(cid:2)(cid:4)(cid:14)(cid:7)(cid:8)(cid:5)(cid:4)(cid:10)(cid:7)(cid:8)(cid:5)(cid:8)(cid:7)(cid:6)(cid:10)(cid:11)(cid:8)(cid:10)(cid:15)(cid:6)(cid:5)(cid:23)(cid:4)(cid:14)(cid:12)(cid:1)(cid:9)(cid:8)(cid:6)(cid:5)(cid:4)(cid:3)RL8Y:;<LZZ:;[\n(cid:0)(cid:4)(cid:23)(cid:15)(cid:14)(cid:8)(cid:9)(cid:8)(cid:6)(cid:5)(cid:4)(cid:10)(cid:18)(cid:4)(cid:23)(cid:6)(cid:25)(cid:12)(cid:6)(cid:17)(cid:21)(cid:7)(cid:4)(cid:10)(cid:21)(cid:5)(cid:8)(cid:2)!(cid:10)(cid:11)(cid:8)(cid:10)(cid:12)(cid:4)(cid:5)(cid:11)(cid:8)(cid:2)(cid:1)(cid:3)\\]8T\n(cid:13)(cid:6)(cid:2)(cid:8)(cid:12)(cid:6)(cid:10)(cid:11)(cid:4)(cid:17)(cid:10)(cid:14)(cid:8)(cid:15)(cid:16)(cid:8)(cid:1)(cid:7)(cid:6)\"\nAMNING^LROLPPNMTNGN_INRLGF‘GFGROHaOLMLSFOGNSOHaNSSLU\n(cid:19)(cid:12)(cid:12)(cid:4)(cid:14)(cid:2)(cid:4)(cid:5)(cid:9)(cid:4)(cid:3)\n=FGHFGIJKLMNOPQMFRFSSFOGHLIFROLPPNMTOLLPINRLGFU\n#$%&’(’&)(**+,($&)-$./ #$%&’(’&)(**+,($&)0-&/"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:13+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:13+00:00"
+ },
+ "mousse-cocco-e-cioccolato-con-crumble-vegana": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-cocco-e-cioccolato-con-crumble-vegana/",
+  "titolo": "Mousse cocco e cioccolato con crumble vegana",
+  "data_pubblicazione": "2023-02-08",
+  "marca": "Mascherpa tiramisu",
+  "denominazione": "Mousse cocco e cioccolato con crumble vegana",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20mousse%20cocco%20e%20cioccolato%20con%20crumble%20vegana_1761193163.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo mousse cocco e cioccolato con crumble vegana_1761193163.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20mousse%20cocco%20e%20cioccolato%20con%20crumble%20vegana_1761193163.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mousse-cocco-e-cioccolato-con-crumble-vegana",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mousse cocco e cioccolato con crumble vegano",
+   "operatore": "GLG srl",
+   "lotti": [
+    "tutti i lotti"
+   ],
+   "marchio_identificazione": "GLG srl",
+   "produttore": "GLG srl",
+   "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+   "scadenza": "tutte le scadenze",
+   "peso_volume": "100g",
+   "motivo_esteso": "Sospetta presenza di allergeni non dichiarati in etichetta Avvertenza: Prodotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Mousse cocco e cioccolato con crumble vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le scadenze\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nSospetta presenza di allergeni non dichiarati in etichetta\nAvvertenza:\nProdotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:34+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:34+00:00"
+ },
+ "mousse-cocco-e-cioccolato-vegana": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-cocco-e-cioccolato-vegana/",
+  "titolo": "Mousse cocco e cioccolato vegana",
+  "data_pubblicazione": "2023-02-08",
+  "marca": "Mascherpa tiramisu",
+  "denominazione": "Mousse cocco e cioccolato vegana",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20mousse%20cocco%20e%20cioccolato%20vegana_1761193168.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo mousse cocco e cioccolato vegana_1761193168.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20mousse%20cocco%20e%20cioccolato%20vegana_1761193168.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mousse-cocco-e-cioccolato-vegana",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mousse cocco e cioccolato vegano",
+   "operatore": "GLG srl",
+   "lotti": [
+    "tutti i lotti"
+   ],
+   "marchio_identificazione": "GLG srl",
+   "produttore": "GLG srl",
+   "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+   "scadenza": "tutte le scadenze",
+   "peso_volume": "100g",
+   "motivo_esteso": "Sospetta presenza di allergeni non dichiarati in etichetta Avvertenza: Prodotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Mousse cocco e cioccolato vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le scadenze\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nSospetta presenza di allergeni non dichiarati in etichetta\nAvvertenza:\nProdotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:37+00:00"
+ },
+ "mousse-tre-cioccolati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-tre-cioccolati/",
+  "titolo": "Mousse tre cioccolati",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Mousse tre cioccolati",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mousse%20tre%20cioccolati_1761193882.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo mousse tre cioccolati_1761193882.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20mousse%20tre%20cioccolati_1761193882.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mousse-tre-cioccolati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:11+00:00"
+ },
+ "pesto-con-basilico-genovese-dop-senzaglio-biologico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-con-basilico-genovese-dop-senzaglio-biologico/",
+  "titolo": "Pesto con basilico genovese DOP senz'aglio biologico",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "Esselunga Bio",
+  "denominazione": "Pesto con basilico genovese DOP senz'aglio biologico",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761193835.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo_1761193835.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo_1761193835.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-con-basilico-genovese-dop-senzaglio-biologico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:38:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:15+00:00"
+ },
+ "praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore/",
+  "titolo": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)",
+  "data_pubblicazione": "2023-02-21",
+  "marca": "LINDT & SPRÜNGLI S.p.A.",
+  "denominazione": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_SCATOLE%20_2__1761193858.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO_RICHIAMO_SCATOLE _2__1761193858.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_SCATOLE%20_2__1761193858.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)",
+   "operatore": "LINDT & SPRÜNGLI S.p.A.",
+   "lotti": [
+    "Scatola a forma di cuore da 178 g: L250230 TMC 31/12/2023 - L252230 TMC 30/11/2023 - L298330 TMC 31/01/2024 - L251230 TMC 31/12/2023 Scatola a forma di cuore da 96 g: L250230 TMC 31/12/2023 - L250231 TMC 30/11/2023 - L251230 TMC 31/12/2023 - L298330 TMC 31/01/2024"
+   ],
+   "marchio_identificazione": "/",
+   "produttore": "LINDT & SPRÜNGLI S.p.A.",
+   "sede_stabilimento": "L.go E. Bulgheroni, 1 - 21056 Induno Olona (VA)",
+   "scadenza": "31/12/2023 30/11/2023 31/01/2024 31/12/2023 30/11/2023",
+   "peso_volume": "scatola a forma di cuore da 178 g e da 96 g",
+   "motivo_esteso": "possibile presenza di praline con cioccolato al latte e morbido ripieno al PISTACCHIO (a forma di cuore) inserite in confezioni dove non è dichiarata la presenza del PISTACCHIO come ingrediente.",
+   "avvertenze": "si invitano i soggetti allergici o intolleranti al PISTACCHIO a non consumare il prodotto. Sulle confezioni è riportata la dicitura \"Può contenere NOCCIOLE ed altra FRUTTA A GUSCIO\".",
+   "campi_extra": {
+    "Data": "17/02/2023 Marchio del prodotto: LINDT - LINDOR",
+    "Scatola a forma di cuore da 96 g": "L250230 TMC 31/12/2023 - L250231 TMC 30/11/2023 - L251230"
+   },
+   "testo": "RICHIAMO\nData: 17/02/2023 Marchio del prodotto: LINDT - LINDOR\nDenominazione di vendita: PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)\nNome o ragione sociale dell'OSA a nome LINDT & SPRÜNGLI S.p.A.\ndel quale il prodotto è commercializzato\nLotto di produzione: Scatola a forma di cuore da 178 g: L250230 TMC 31/12/2023 - L252230 TMC 30/11/2023 - L298330\nTMC 31/01/2024 - L251230 TMC 31/12/2023\nScatola a forma di cuore da 96 g: L250230 TMC 31/12/2023 - L250231 TMC 30/11/2023 - L251230\nTMC 31/12/2023 - L298330 TMC 31/01/2024\nMarchio di identificazione dello stabilimento/ del produttore: /\nNome del produttore: LINDT & SPRÜNGLI S.p.A.\nSede dello stabilimento: L.go E. Bulgheroni, 1 - 21056 Induno Olona (VA)\nData di scadenza o termine minimo di conservazione: 31/12/2023 30/11/2023 31/01/2024 31/12/2023\n30/11/2023\nDescrizione peso/volume unità di vendita: scatola a forma di cuore da 178 g e da 96 g\nMotivo del richiamo:\npossibile presenza di praline con cioccolato al latte e morbido ripieno al PISTACCHIO (a forma di cuore) inserite in\nconfezioni dove non è dichiarata la presenza del PISTACCHIO come ingrediente.\nAvvertenze:\nsi invitano i soggetti allergici o intolleranti al PISTACCHIO a non consumare il prodotto.\nSulle confezioni è riportata la dicitura \"Può contenere NOCCIOLE ed altra FRUTTA A GUSCIO\"."
+  },
+  "prima_rilevazione": "2026-10-25T07:37:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:54+00:00"
+ },
+ "praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore-0/",
+  "titolo": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO (a forma di cuore)",
+  "data_pubblicazione": "2023-02-21",
+  "marca": "LINDT & SPRÜNGLI S.p.A.",
+  "denominazione": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO (a forma di cuore)",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_EXPO_1761193860.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO_RICHIAMO_EXPO_1761193860.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_EXPO_1761193860.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO (a forma di cuore)",
+   "operatore": "LINDT & SPRÜNGLI S.p.A.",
+   "lotti": [
+    "LATTINA A FORMA DI CUORE L550200 TMC 31/12/2023",
+    "L349200 TMC 31/12/2023 CUORI SFUSI IN ESPOSITORE L198310 TMC 31/01/2024"
+   ],
+   "marchio_identificazione": "/",
+   "produttore": "LINDT & SPRÜNGLI S.p.A.",
+   "sede_stabilimento": "L.go E. Bulgheroni, 1 - 21056 Induno Olona (VA)",
+   "scadenza": "31/12/2023 - 31/01/2024",
+   "peso_volume": "LATTINA A FORMA DI CUORE DA 55 g CUORI da 13,9 g SFUSI IN ESPOSITORE",
+   "motivo_esteso": "possibile presenza di praline con cioccolato al latte e morbido ripieno al PISTACCHIO (a forma di cuore) inserite in confezioni dove non è dichiarata la presenza del PISTACCHIO come ingrediente.",
+   "avvertenze": "si invitano i soggetti allergici o intolleranti al PISTACCHIO a non consumare il prodotto. Sulle confezioni è riportata la dicitura \"Può contenere NOCCIOLE ed altra FRUTTA A GUSCIO\".",
+   "campi_extra": {
+    "Data": "17/02/2023 Marchio del prodotto: LINDT - LINDOR"
+   },
+   "testo": "RICHIAMO\nData: 17/02/2023 Marchio del prodotto: LINDT - LINDOR\nDenominazione di vendita: PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO (a forma di cuore)\nNome o ragione sociale dell'OSA a nome LINDT & SPRÜNGLI S.p.A.\ndel quale il prodotto è commercializzato\nLotto di produzione: LATTINA A FORMA DI CUORE L550200 TMC 31/12/2023 e L349200 TMC 31/12/2023\nCUORI SFUSI IN ESPOSITORE L198310 TMC 31/01/2024\nMarchio di identificazione dello stabilimento/ del produttore: /\nNome del produttore: LINDT & SPRÜNGLI S.p.A.\nSede dello stabilimento: L.go E. Bulgheroni, 1 - 21056 Induno Olona (VA)\nData di scadenza o termine minimo di conservazione: 31/12/2023 - 31/01/2024\nDescrizione peso/volume unità di vendita: LATTINA A FORMA DI CUORE DA 55 g\nCUORI da 13,9 g SFUSI IN ESPOSITORE\nMotivo del richiamo:\npossibile presenza di praline con cioccolato al latte e morbido ripieno al PISTACCHIO (a forma di cuore) inserite in\nconfezioni dove non è dichiarata la presenza del PISTACCHIO come ingrediente.\nAvvertenze:\nsi invitano i soggetti allergici o intolleranti al PISTACCHIO a non consumare il prodotto.\nSulle confezioni è riportata la dicitura \"Può contenere NOCCIOLE ed altra FRUTTA A GUSCIO\"."
+  },
+  "prima_rilevazione": "2026-10-25T07:37:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:56+00:00"
+ },
+ "praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore-1/",
+  "titolo": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)",
+  "data_pubblicazione": "2023-02-21",
+  "marca": "LINDT & SPRÜNGLI S.p.A.",
+  "denominazione": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_SCATOLE%20_2__1761193862.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO_RICHIAMO_SCATOLE _2__1761193862.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_SCATOLE%20_2__1761193862.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "praline-con-cioccolato-al-latte-e-morbido-ripieno-forma-di-cuore-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)",
+   "operatore": "LINDT & SPRÜNGLI S.p.A.",
+   "lotti": [
+    "Scatola a forma di cuore da 178 g: L250230 TMC 31/12/2023 - L252230 TMC 30/11/2023 - L298330 TMC 31/01/2024 - L251230 TMC 31/12/2023 Scatola a forma di cuore da 96 g: L250230 TMC 31/12/2023 - L250231 TMC 30/11/2023 - L251230 TMC 31/12/2023 - L298330 TMC 31/01/2024"
+   ],
+   "marchio_identificazione": "/",
+   "produttore": "LINDT & SPRÜNGLI S.p.A.",
+   "sede_stabilimento": "L.go E. Bulgheroni, 1 - 21056 Induno Olona (VA)",
+   "scadenza": "31/12/2023 30/11/2023 31/01/2024 31/12/2023 30/11/2023",
+   "peso_volume": "scatola a forma di cuore da 178 g e da 96 g",
+   "motivo_esteso": "possibile presenza di praline con cioccolato al latte e morbido ripieno al PISTACCHIO (a forma di cuore) inserite in confezioni dove non è dichiarata la presenza del PISTACCHIO come ingrediente.",
+   "avvertenze": "si invitano i soggetti allergici o intolleranti al PISTACCHIO a non consumare il prodotto. Sulle confezioni è riportata la dicitura \"Può contenere NOCCIOLE ed altra FRUTTA A GUSCIO\".",
+   "campi_extra": {
+    "Data": "17/02/2023 Marchio del prodotto: LINDT - LINDOR",
+    "Scatola a forma di cuore da 96 g": "L250230 TMC 31/12/2023 - L250231 TMC 30/11/2023 - L251230"
+   },
+   "testo": "RICHIAMO\nData: 17/02/2023 Marchio del prodotto: LINDT - LINDOR\nDenominazione di vendita: PRALINE CON CIOCCOLATO AL LATTE E MORBIDO RIPIENO ( a forma di cuore)\nNome o ragione sociale dell'OSA a nome LINDT & SPRÜNGLI S.p.A.\ndel quale il prodotto è commercializzato\nLotto di produzione: Scatola a forma di cuore da 178 g: L250230 TMC 31/12/2023 - L252230 TMC 30/11/2023 - L298330\nTMC 31/01/2024 - L251230 TMC 31/12/2023\nScatola a forma di cuore da 96 g: L250230 TMC 31/12/2023 - L250231 TMC 30/11/2023 - L251230\nTMC 31/12/2023 - L298330 TMC 31/01/2024\nMarchio di identificazione dello stabilimento/ del produttore: /\nNome del produttore: LINDT & SPRÜNGLI S.p.A.\nSede dello stabilimento: L.go E. Bulgheroni, 1 - 21056 Induno Olona (VA)\nData di scadenza o termine minimo di conservazione: 31/12/2023 30/11/2023 31/01/2024 31/12/2023\n30/11/2023\nDescrizione peso/volume unità di vendita: scatola a forma di cuore da 178 g e da 96 g\nMotivo del richiamo:\npossibile presenza di praline con cioccolato al latte e morbido ripieno al PISTACCHIO (a forma di cuore) inserite in\nconfezioni dove non è dichiarata la presenza del PISTACCHIO come ingrediente.\nAvvertenze:\nsi invitano i soggetti allergici o intolleranti al PISTACCHIO a non consumare il prodotto.\nSulle confezioni è riportata la dicitura \"Può contenere NOCCIOLE ed altra FRUTTA A GUSCIO\"."
+  },
+  "prima_rilevazione": "2026-10-25T07:37:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:59+00:00"
+ },
+ "prosciutto-cotto-alta-qualita": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita/",
+  "titolo": "Prosciutto cotto alta qualità",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "La Bottega del Gusto",
+  "denominazione": "Prosciutto cotto alta qualità",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurospin%20cartello%20_1__1761193830.pdf",
+  "allegati": [
+   {
+    "titolo": "Eurospin cartello _1__1761193830.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Eurospin%20cartello%20_1__1761193830.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-alta-qualita",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto alta qualità",
+   "operatore": "Eurospin Tirrenica spa",
+   "lotti": [
+    "L225139"
+   ],
+   "marchio_identificazione": "CE IT 679L",
+   "produttore": "Motta srl",
+   "sede_stabilimento": "Via Capuana 44, 20825 Barlassina (MB), Italia",
+   "scadenza": "07-03-2023",
+   "peso_volume": "750g",
+   "motivo_esteso": "Presenza dell’allergene SOIA non dichiarato in etichetta",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "07/02/2023 Marchio del prodotto: La Bottega del Gusto",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 07/02/2023 Marchio del prodotto: La Bottega del Gusto\nDenominazione di vendita:Prosciutto cotto alta qualità\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin Tirrenica spa\ncommercializzato:\nLotto di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: CE IT 679L\nNome del produttore: Motta srl\nSede dello stabilimento: Via Capuana 44, 20825 Barlassina (MB), Italia\nData di scadenza o termine minimo di conservazione: 07-03-2023\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPresenza dell’allergene SOIA non dichiarato in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:52+00:00"
+ },
+ "prosciutto-cotto-alta-qualita-750g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-alta-qualita-750g/",
+  "titolo": "Prosciutto cotto Alta Qualità 750g",
+  "data_pubblicazione": "2023-02-07",
+  "marca": "Il tagliere del Re",
+  "denominazione": "Prosciutto cotto Alta Qualità 750g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Prosciutto%20cotto%20AQ%20750g_1761193155.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello_Prosciutto cotto AQ 750g_1761193155.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_Prosciutto%20cotto%20AQ%20750g_1761193155.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-alta-qualita-750g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto Alta Qualità 750g",
+   "operatore": "ALDI S.r.l",
+   "lotti": [
+    "L225139"
+   ],
+   "marchio_identificazione": "IT 679L CE",
+   "produttore": "Motta S.R.L. Via Capuana 44, 20825 Barlassina (MB), Italia",
+   "sede_stabilimento": "21/02/2023 Date di scadenza o termine minimo di conservazione",
+   "peso_volume": "750 g",
+   "motivo_esteso": "Presenza dell’allergene soia non dichiarato in etichetta.",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla soia e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+   "campi_extra": {
+    "Data": "03/02/2 023 Marchio del prodotto: Il Tagliere del Re"
+   },
+   "testo": "RICHIAMO\nData: 03/02/2 023 Marchio del prodotto: Il Tagliere del Re\nDenominazione di vendita: Prosciutto cotto Alta Qualità 750g\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore: Motta S.R.L.\nVia Capuana 44, 20825 Barlassina (MB), Italia\nSede dello stabilimento:\n21/02/2023\nDate di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 750 g\nMotivo del richiamo:\nPresenza dell’allergene soia non dichiarato in etichetta.\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla soia e può essere restituito in tutte le filiali\nALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:43+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:43+00:00"
+ },
+ "prosciutto-cotto-aq-750g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-aq-750g/",
+  "titolo": "Prosciutto cotto A.Q. 750g",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "Sapor di cascina",
+  "denominazione": "Prosciutto cotto A.Q. 750g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20modello%20rev2%20scad%2021.02_1761193828.pdf",
+  "allegati": [
+   {
+    "titolo": "penny modello rev2 scad 21.02_1761193828.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20modello%20rev2%20scad%2021.02_1761193828.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-aq-750g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto A.Q. 750g",
+   "operatore": "Penny market Italia s.r.l.",
+   "lotti": [
+    "L225139"
+   ],
+   "marchio_identificazione": "IT 679L CE",
+   "produttore": "Motta s.r.l.",
+   "sede_stabilimento": "via Capuana 44, 220825 Barlassina (MB), Italia",
+   "scadenza": "21-02-2023",
+   "peso_volume": "750g",
+   "motivo_esteso": "Presenza dell’allergene SOIA non dichiarato in etichetta",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita per la sostituzione o rimborso entro il 21/02/2023. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "07/02/2023 Marchio del prodotto: Sapor di cascina",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 07/02/2023 Marchio del prodotto: Sapor di cascina\nDenominazione di vendita:Prosciutto cotto A.Q. 750g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Penny market Italia s.r.l.\ncommercializzato:\nLotto di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore: Motta s.r.l.\nSede dello stabilimento: via Capuana 44, 220825 Barlassina (MB), Italia\nData di scadenza o termine minimo di conservazione: 21-02-2023\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPresenza dell’allergene SOIA non dichiarato in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato\ntale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita per la sostituzione o\nrimborso entro il 21/02/2023. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:49+00:00"
+ },
+ "prosciutto-cotto-aq-750g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-aq-750g-0/",
+  "titolo": "Prosciutto cotto A.Q. 750g",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "Sapor di cascina",
+  "denominazione": "Prosciutto cotto A.Q. 750g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20Market%20Sapor%20di%20cascina%20scad%2020.02_1761193831.pdf",
+  "allegati": [
+   {
+    "titolo": "penny Market Sapor di cascina scad 20.02_1761193831.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/penny%20Market%20Sapor%20di%20cascina%20scad%2020.02_1761193831.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-aq-750g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto A.Q. 750g",
+   "operatore": "Penny market Italia s.r.l.",
+   "lotti": [
+    "L225139"
+   ],
+   "marchio_identificazione": "IT 679L CE",
+   "produttore": "Motta s.r.l.",
+   "sede_stabilimento": "via Capuana 44, 220825 Barlassina (MB), Italia",
+   "scadenza": "20-02-2023",
+   "peso_volume": "750g",
+   "motivo_esteso": "Presenza dell’allergene SOIA non dichiarato in etichetta",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita per la sostituzione o rimborso entro il 21/02/2023. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "07/02/2023 Marchio del prodotto: Sapor di cascina",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 07/02/2023 Marchio del prodotto: Sapor di cascina\nDenominazione di vendita:Prosciutto cotto A.Q. 750g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Penny market Italia s.r.l.\ncommercializzato:\nLotto di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore: Motta s.r.l.\nSede dello stabilimento: via Capuana 44, 220825 Barlassina (MB), Italia\nData di scadenza o termine minimo di conservazione: 20-02-2023\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPresenza dell’allergene SOIA non dichiarato in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato\ntale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita per la sostituzione o\nrimborso entro il 21/02/2023. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato.\nSiamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:54+00:00"
+ },
+ "prosciutto-cotto-scelto-500-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-scelto-500-gr/",
+  "titolo": "PROSCIUTTO COTTO SCELTO 500 gr",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "FRESCHI PER TE",
+  "denominazione": "PROSCIUTTO COTTO SCELTO 500 gr",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20Prosciutto%20scelto%20500g_1761193837.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello _ Prosciutto scelto 500g_1761193837.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20_%20Prosciutto%20scelto%20500g_1761193837.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-scelto-500-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto scelto 500g",
+   "operatore": "ALDI S.r.l",
+   "lotti": [
+    "L225049"
+   ],
+   "marchio_identificazione": "IT 679L CE",
+   "produttore": "Motta S.R.L. Via Capuana 44, 20825 Barlassina (MB), Italia",
+   "sede_stabilimento": "Tutti Date di scadenza o termine minimo di conservazione",
+   "peso_volume": "500g",
+   "motivo_esteso": "Presenza dell’allergene soia non dichiarato in etichetta.",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla soia e può essere restituito in tutte le filiali ALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino. Per eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero: +39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)",
+   "campi_extra": {
+    "Data": "15/02/2 023 Marchio del prodotto: Freschi per te"
+   },
+   "testo": "RICHIAMO\nData: 15/02/2 023 Marchio del prodotto: Freschi per te\nDenominazione di vendita: Prosciutto cotto scelto 500g\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: L225049\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore: Motta S.R.L.\nVia Capuana 44, 20825 Barlassina (MB), Italia\nSede dello stabilimento:\nTutti\nDate di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPresenza dell’allergene soia non dichiarato in etichetta.\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla soia e può essere restituito in tutte le filiali\nALDI. Il prezzo di vendita sarà rimborsato anche in assenza dello scontrino.\nPer eventuali richieste di chiarimento si prega di contattare il Servizio Clienti ALDI al seguente numero:\n+39 800 370 370 (lun-ven 8:30-17:00, sab 8:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:18+00:00"
+ },
+ "prosciutto-cotto-tranci": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-tranci/",
+  "titolo": "Prosciutto cotto a tranci",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "Motta",
+  "denominazione": "Prosciutto cotto a tranci",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maxid%C3%AC%20Motta_1761193832.pdf",
+  "allegati": [
+   {
+    "titolo": "Maxidì Motta_1761193832.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Maxid%C3%AC%20Motta_1761193832.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-tranci",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto a tranci",
+   "operatore": "Maxi Di s.r.l.",
+   "lotti": [
+    "L225139"
+   ],
+   "marchio_identificazione": "IT 679L CE",
+   "produttore": "Motta s.r.l.",
+   "sede_stabilimento": "Via Capuana 44, 20825 Barlassina (MB), Italia",
+   "scadenza": "21-02-2023",
+   "peso_volume": "1.3 kg circa, peso variabile",
+   "motivo_esteso": "Presenza dell’allergene SOIA non dichiarato in etichetta",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. Precisiamo che il richiamo interessa solo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti dalla nostra volontà",
+   "campi_extra": {
+    "Data": "07/02/2023 Marchio del prodotto: Motta"
+   },
+   "testo": "RICHIAMO\nData: 07/02/2023 Marchio del prodotto: Motta\nDenominazione di vendita: Prosciutto cotto a tranci\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Maxi Di s.r.l.\ncommercializzato:\nLotto di produzione: L225139\nMarchio di identificazione dello stabilimento/del produttore: IT 679L CE\nNome del produttore:\nMotta s.r.l.\nSede dello stabilimento: Via Capuana 44, 20825 Barlassina (MB), Italia\nData di scadenza o termine minimo di conservazione: 21-02-2023\nDescrizione peso/volume unità di vendita: 1.3 kg circa, peso variabile\nMotivo del richiamo:\nPresenza dell’allergene SOIA non dichiarato in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. Precisiamo che il richiamo interessa\nsolo il lotto/scadenza sopra indicato. Siamo spiacenti per il disagio arrecato, legato a cause non dipendenti\ndalla nostra volontà"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:57+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:57+00:00"
+ },
+ "prosciutto-cotto-trancio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-trancio/",
+  "titolo": "Prosciutto cotto a trancio",
+  "data_pubblicazione": "2023-02-28",
+  "marca": "La Bottega del Gusto",
+  "denominazione": "Prosciutto cotto a trancio",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20eurospin_1761193927.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello eurospin_1761193927.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20eurospin_1761193927.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-trancio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto a trancio",
+   "operatore": "Eurospin S.p.A / Spesa intelligente S.p.A",
+   "lotti": [
+    "L230559"
+   ],
+   "marchio_identificazione": "CE IT 679L",
+   "produttore": "Motta srl",
+   "sede_stabilimento": "via Capuana 44, 20825 Barlassina (MB)",
+   "scadenza": "24-04-2023",
+   "peso_volume": "750g",
+   "motivo_esteso": "Presenza di soia non dichiarata in etichetta",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "23/02/2023 Marchio del prodotto: La Bottega del Gusto",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 23/02/2023 Marchio del prodotto: La Bottega del Gusto\nDenominazione di vendita:Prosciutto cotto a trancio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Eurospin S.p.A / Spesa intelligente S.p.A\ncommercializzato:\nLotto di produzione: L230559\nMarchio di identificazione dello stabilimento/del produttore: CE IT 679L\nNome del produttore: Motta srl\nSede dello stabilimento: via Capuana 44, 20825 Barlassina (MB)\nData di scadenza o termine minimo di conservazione: 24-04-2023\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\nPresenza di soia non dichiarata in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato\ntale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:36:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:40+00:00"
+ },
+ "prosciutto-cotto-trancio-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-trancio-0/",
+  "titolo": "Prosciutto cotto a trancio",
+  "data_pubblicazione": "2023-02-28",
+  "marca": "Il Mercato",
+  "denominazione": "Prosciutto cotto a trancio",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20GS_1761193930.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello GS_1761193930.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20GS_1761193930.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-trancio-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto a trancio",
+   "operatore": "G.S. S.p.A",
+   "lotti": [
+    "L230559"
+   ],
+   "marchio_identificazione": "CE IT 679L",
+   "produttore": "Motta srl",
+   "sede_stabilimento": "via Capuana 44, 20825 Barlassina (MB)",
+   "scadenza": "11-04-2023",
+   "peso_volume": "750g peso variabile",
+   "motivo_esteso": "Presenza di soia non dichiarata in etichetta",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "23/02/2023 Marchio del prodotto: Il Mercato",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 23/02/2023 Marchio del prodotto: Il Mercato\nDenominazione di vendita:Prosciutto cotto a trancio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è G.S. S.p.A\ncommercializzato:\nLotto di produzione: L230559\nMarchio di identificazione dello stabilimento/del produttore: CE IT 679L\nNome del produttore: Motta srl\nSede dello stabilimento: via Capuana 44, 20825 Barlassina (MB)\nData di scadenza o termine minimo di conservazione: 11-04-2023\nDescrizione peso/volume unità di vendita: 750g peso variabile\nMotivo del richiamo:\nPresenza di soia non dichiarata in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato\ntale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:36:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:44+00:00"
+ },
+ "prosciutto-cotto-trancio-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-trancio-1/",
+  "titolo": "Prosciutto cotto a trancio",
+  "data_pubblicazione": "2023-02-28",
+  "marca": "Sapori Genuini",
+  "denominazione": "Prosciutto cotto a trancio",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20in_s_1761193933.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello in_s_1761193933.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20in_s_1761193933.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-trancio-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Prosciutto cotto a trancio",
+   "operatore": "IN'S Mercato S.p.A./C.D.F centro distribuzione freschi srl",
+   "lotti": [
+    "L230559"
+   ],
+   "marchio_identificazione": "CE IT 679L",
+   "produttore": "Motta srl",
+   "sede_stabilimento": "via Capuana 44, 20825 Barlassina (MB)",
+   "scadenza": "09-04-2023",
+   "peso_volume": "750g",
+   "motivo_esteso": "presenza di soia non dichiarata in etichetta",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato tale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "23/02/2023 Marchio del prodotto: Sapori Genuini",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 23/02/2023 Marchio del prodotto: Sapori Genuini\nDenominazione di vendita:Prosciutto cotto a trancio\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IN'S Mercato S.p.A./C.D.F centro distribuzione freschi srl\ncommercializzato:\nLotto di produzione: L230559\nMarchio di identificazione dello stabilimento/del produttore: CE IT 679L\nNome del produttore: Motta srl\nSede dello stabilimento: via Capuana 44, 20825 Barlassina (MB)\nData di scadenza o termine minimo di conservazione: 09-04-2023\nDescrizione peso/volume unità di vendita: 750g\nMotivo del richiamo:\npresenza di soia non dichiarata in etichetta\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici alla SOIA. I Clienti che avessero acquistato\ntale prodotto sono pregati di non consumare il prodotto e restituirlo al Punto Vendita.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:36:46+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:46+00:00"
+ },
+ "rasily-supari": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/rasily-supari/",
+  "titolo": "Rasily Supari",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "Shalimar",
+  "denominazione": "Rasily Supari",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761193823.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo_1761193823.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo_1761193823.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "rasily-supari",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:38:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:39+00:00"
+ },
+ "riso-vialone-nano-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-vialone-nano-3/",
+  "titolo": "Riso vialone nano",
+  "data_pubblicazione": "2023-02-03",
+  "marca": "Curtiriso",
+  "denominazione": "Riso vialone nano",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20CURTI%20vialone%20nano%20lotto%20P22110914_1761193141.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo CURTI vialone nano lotto P22110914_1761193141.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20CURTI%20vialone%20nano%20lotto%20P22110914_1761193141.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-vialone-nano-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Riso Vialone Nano",
+   "operatore": "Curti S.r.l. con socio unico",
+   "lotti": [
+    "P22110914"
+   ],
+   "marchio_identificazione": "A",
+   "produttore": "Curti S.r.l. con socio unico",
+   "sede_stabilimento": "Via Stazione 113, Valle Lomellina (PV)",
+   "scadenza": "14-11-2024",
+   "peso_volume": "1 kg (2x500g) e",
+   "motivo_esteso": "Possibile presenza di Triciclazolo oltre i limiti di legge",
+   "avvertenze": "Non consumare e riconsegnare le confezioni presso il punto vendita. L'avviso si riferisce esclusivamente alle confezioni di riso vialone nano con lotto P22110914. Per ulteriori informazioni contattare il numero verde 800036457.",
+   "campi_extra": {
+    "Data": "02/02/2023 Marchio del prodotto: Curtiriso"
+   },
+   "testo": "RICHIAMO\nData: 02/02/2023 Marchio del prodotto: Curtiriso\nDenominazione di vendita:Riso Vialone Nano\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Curti S.r.l. con socio unico\ncommercializzato:\nLotto di produzione: P22110914\nMarchio di identificazione dello stabilimento/del produttore: A\nNome del produttore: Curti S.r.l. con socio unico\nSede dello stabilimento: Via Stazione 113, Valle Lomellina (PV)\nData di scadenza o termine minimo di conservazione: 14-11-2024\nDescrizione peso/volume unità di vendita: 1 kg (2x500g) e\nMotivo del richiamo:\nPossibile presenza di Triciclazolo oltre i limiti di legge\nAvvertenze:\nNon consumare e riconsegnare le confezioni presso il punto vendita.\nL'avviso si riferisce esclusivamente alle confezioni di riso vialone nano con lotto P22110914.\nPer ulteriori informazioni contattare il numero verde 800036457."
+  },
+  "prima_rilevazione": "2026-10-25T07:39:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:48+00:00"
+ },
+ "salame-crudo-tradizionale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-crudo-tradizionale/",
+  "titolo": "Salame crudo Tradizionale",
+  "data_pubblicazione": "2023-02-01",
+  "marca": "Agrisalumeria Luiset",
+  "denominazione": "Salame crudo Tradizionale",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Luiset_richiamo_400_e_700gr_1761193137.pdf",
+  "allegati": [
+   {
+    "titolo": "Luiset_richiamo_400_e_700gr_1761193137.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Luiset_richiamo_400_e_700gr_1761193137.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-crudo-tradizionale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:39:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:53+00:00"
+ },
+ "savoiardi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/savoiardi/",
+  "titolo": "Savoiardi",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Savoiardi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20savoiardi_1761193885.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo savoiardi_1761193885.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20savoiardi_1761193885.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "savoiardi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:14+00:00"
+ },
+ "spinaci-italiani-con-condimento-e-mozzarella-surgelati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spinaci-italiani-con-condimento-e-mozzarella-surgelati/",
+  "titolo": "spinaci italiani con condimento e mozzarella surgelati",
+  "data_pubblicazione": "2023-02-13",
+  "marca": "Decò Italia S.c.a.r.l",
+  "denominazione": "spinaci italiani con condimento e mozzarella surgelati",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Revoca_1__1761193206.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Revoca_1__1761193206.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Revoca_1__1761193206.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spinaci-italiani-con-condimento-e-mozzarella-surgelati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:39:10+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:10+00:00"
+ },
+ "spitzbube-4-pezzi-250g-prodotto-dolciario-da-forno-schuster": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spitzbube-4-pezzi-250g-prodotto-dolciario-da-forno-schuster/",
+  "titolo": "Spitzbube 4 pezzi 250g - Prodotto dolciario da forno - Schuster",
+  "data_pubblicazione": "2023-02-17",
+  "marca": "Spitzbube 4 pezzi 250g - Schuster",
+  "denominazione": "Spitzbube 4 pezzi 250g - Prodotto dolciario da forno - Schuster",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023%2002%2017%20Cartello%20di%20richiamo%20Spizbube%20Schuster%20Srl_1761193839.pdf",
+  "allegati": [
+   {
+    "titolo": "2023 02 17 Cartello di richiamo Spizbube Schuster Srl_1761193839.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2023%2002%2017%20Cartello%20di%20richiamo%20Spizbube%20Schuster%20Srl_1761193839.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spitzbube-4-pezzi-250g-prodotto-dolciario-da-forno-schuster",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "del prodotto",
+   "operatore": "con cui il prodotto è commercializzato",
+   "lotti": [
+    "dello stabilimento"
+   ],
+   "scadenza": "Descrizione peso/volume",
+   "avvertenze": "Fotografia del prodotto Immagine1 Immagine2",
+   "testo": "Modello di RICHIAMO 1\nNome commerciale\nMarchio del prodotto\ndel prodotto\nNome o ragione sociale dell'OSA con cui\nil prodotto è commercializzato\nMarchio di identificazione\nLotto di produzione\ndello stabilimento\nData di scadenza o Descrizione peso/volume\ntermine minimo di conservazione unità di vendita\nMotivo del richiamo\nAvvertenze\nFotografia del prodotto\nImmagine1 Immagine2"
+  },
+  "prima_rilevazione": "2026-10-25T07:38:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:21+00:00"
+ },
+ "strolghino-sottovuoto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/strolghino-sottovuoto/",
+  "titolo": "STROLGHINO SOTTOVUOTO",
+  "data_pubblicazione": "2023-02-20",
+  "marca": "SALUMIFICIO GALLI REMO SRL IT 1212L CE",
+  "denominazione": "STROLGHINO SOTTOVUOTO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/GALLI%20REMO_Cartello%20Richiamo_1761193853.pdf",
+  "allegati": [
+   {
+    "titolo": "GALLI REMO_Cartello Richiamo_1761193853.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/GALLI%20REMO_Cartello%20Richiamo_1761193853.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "strolghino-sottovuoto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:38:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:01+00:00"
+ },
+ "tiramisu-burro-arachidi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-burro-arachidi/",
+  "titolo": "Tiramisù burro arachidi",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù burro arachidi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20burro%20arachidi%20_2__1761193887.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ burro arachidi _2__1761193887.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20burro%20arachidi%20_2__1761193887.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-burro-arachidi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:16+00:00"
+ },
+ "tiramisu-caramello": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-caramello/",
+  "titolo": "Tiramisù caramello",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù caramello",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20caramello_1761193890.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ caramello_1761193890.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20caramello_1761193890.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-caramello",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:19+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:19+00:00"
+ },
+ "tiramisu-classico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-classico/",
+  "titolo": "Tiramisù classico",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù classico",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20classico_1761193892.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ classico_1761193892.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20classico_1761193892.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-classico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:23+00:00"
+ },
+ "tiramisu-frutti-di-bosco": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-frutti-di-bosco/",
+  "titolo": "Tiramisù frutti di bosco",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù frutti di bosco",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20frutti%20bosco_1761193895.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ frutti bosco_1761193895.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20frutti%20bosco_1761193895.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-frutti-di-bosco",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:26+00:00"
+ },
+ "tiramisu-mango": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-mango/",
+  "titolo": "Tiramisù mango",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù mango",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20mango_1761193897.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ mango_1761193897.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20mango_1761193897.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-mango",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:29+00:00"
+ },
+ "tiramisu-matcha": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-matcha/",
+  "titolo": "Tiramisù matcha",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù matcha",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20matcha_1761193900.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ matcha_1761193900.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20matcha_1761193900.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-matcha",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:32+00:00"
+ },
+ "tiramisu-nocciola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-nocciola/",
+  "titolo": "Tiramisù nocciola",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù nocciola",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20nocciola_1761193903.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ nocciola_1761193903.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20nocciola_1761193903.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-nocciola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:35+00:00"
+ },
+ "tiramisu-nutella": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-nutella/",
+  "titolo": "Tiramisù nutella",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù nutella",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20nutella_1761193905.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ nutella_1761193905.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20nutella_1761193905.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-nutella",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:37+00:00"
+ },
+ "tiramisu-pistacchio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio/",
+  "titolo": "Tiramisù pistacchio",
+  "data_pubblicazione": "2023-02-23",
+  "marca": "Mascherpa",
+  "denominazione": "Tiramisù pistacchio",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20pistacchio_1761193908.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo tiramisu¿ pistacchio_1761193908.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20tiramisu%C2%BF%20pistacchio_1761193908.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-pistacchio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:40+00:00"
+ },
+ "tiramisu-pistacchio-vegano-100g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio-vegano-100g/",
+  "titolo": "Tiramisù pistacchio vegano 100g",
+  "data_pubblicazione": "2023-02-08",
+  "marca": "Mascherpa tiramisù",
+  "denominazione": "Tiramisù pistacchio vegano 100g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano_1761193173.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo tiramisu¿ pistacchio vegano_1761193173.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano_1761193173.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-pistacchio-vegano-100g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tiramisù pistacchio vegano",
+   "operatore": "GLG srl",
+   "lotti": [
+    "tutti i lotti"
+   ],
+   "marchio_identificazione": "GLG srl",
+   "produttore": "GLG srl",
+   "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+   "scadenza": "tutte le scadenze",
+   "peso_volume": "100g",
+   "motivo_esteso": "Sospetta presenza di allergeni non dichiarati in etichetta Avvertenza: Prodotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Tiramisù pistacchio vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le scadenze\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nSospetta presenza di allergeni non dichiarati in etichetta\nAvvertenza:\nProdotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:39+00:00"
+ },
+ "tiramisu-pistacchio-vegano-150g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio-vegano-150g/",
+  "titolo": "Tiramisù pistacchio vegano 150g",
+  "data_pubblicazione": "2023-02-08",
+  "marca": "Mascherpa tiramisù",
+  "denominazione": "Tiramisù pistacchio vegano 150g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20150g_1761193177.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo tiramisu¿ pistacchio vegano 150g_1761193177.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20150g_1761193177.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-pistacchio-vegano-150g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tiramisù pistacchio vegano",
+   "operatore": "GLG srl",
+   "lotti": [
+    "tutti i lotti"
+   ],
+   "marchio_identificazione": "GLG srl",
+   "produttore": "GLG srl",
+   "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+   "scadenza": "tutte le scadenze",
+   "peso_volume": "150g",
+   "motivo_esteso": "Sospetta presenza di allergeni non dichiarati in etichetta Avvertenza: Prodotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Tiramisù pistacchio vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le scadenze\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nSospetta presenza di allergeni non dichiarati in etichetta\nAvvertenza:\nProdotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:26+00:00"
+ },
+ "tiramisu-pistacchio-vegano-300g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisu-pistacchio-vegano-300g/",
+  "titolo": "Tiramisù pistacchio vegano 300g",
+  "data_pubblicazione": "2023-02-08",
+  "marca": "Mascherpa tiramisù",
+  "denominazione": "Tiramisù pistacchio vegano 300g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20300g_1761193182.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo tiramisu¿ pistacchio vegano 300g_1761193182.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20tiramisu%C2%BF%20pistacchio%20vegano%20300g_1761193182.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisu-pistacchio-vegano-300g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tiramisù pistacchio vegano",
+   "operatore": "GLG srl",
+   "lotti": [
+    "tutti i lotti"
+   ],
+   "marchio_identificazione": "GLG srl",
+   "produttore": "GLG srl",
+   "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+   "scadenza": "tutte le scadenze",
+   "peso_volume": "300g",
+   "motivo_esteso": "Sospetta presenza di allergeni non dichiarati in etichetta Avvertenza: Prodotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Tiramisù pistacchio vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le scadenze\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nSospetta presenza di allergeni non dichiarati in etichetta\nAvvertenza:\nProdotto che può contenere presenza di allergeni. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:29+00:00"
+ },
+ "tiramisun-vegano": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisun-vegano/",
+  "titolo": "Tiramisun vegano",
+  "data_pubblicazione": "2023-02-06",
+  "marca": "Mascherpa tiramisù",
+  "denominazione": "Tiramisun vegano",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tiramisun_1761193150.pdf",
+  "allegati": [
+   {
+    "titolo": "Tiramisun_1761193150.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Tiramisun_1761193150.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisun-vegano",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "j Tiramisun vegano '----,:::===:=:::==============================~",
+   "operatore": "GLG srl",
+   "lotti": [
+    "23/07/2023"
+   ],
+   "marchio_identificazione": "GLG srl",
+   "produttore": "GLG srl I",
+   "sede_stabilimento": "via garibaldi 1, Assago (Ml) ~------=========:::::: _____",
+   "scadenza": "23/07/2023",
+   "peso_volume": "IL1_o_o_g_ ________________ _,",
+   "motivo_esteso": "Presenza di allergene: proteine del latte Awertenza: Prodotto che può contenere tracce di latticini. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine due: Inserire immagine uno",
+   "campi_extra": {
+    "Data": "06/02/2023 Marchio del prodotto: j Mascherpa tiramisù",
+    "Presenza di allergene": "proteine del latte"
+   },
+   "testo": "Modello di RICHIAMO\nI\nI\nData: 06/02/2023 Marchio del prodotto: j Mascherpa tiramisù\nDenominazione di vendita: j Tiramisun vegano\n'----,:::===:=:::==============================~\nNome o ragione sociale dell'OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 23/07/2023\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nI\nSede dello stabilimento: via garibaldi 1, Assago (Ml)\n~------=========:::::: _____\nData di scadenza o termine minimo di conservazione: 23/07/2023\nDescrizione peso/volume unità di vendita: IL1_o_o_g_ ________________ _,\nMotivo del richiamo:\nPresenza di allergene: proteine del latte\nAwertenza:\nProdotto che può contenere tracce di latticini. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine due:\nInserire immagine uno:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:45+00:00"
+ },
+ "tiramisun-vegano-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tiramisun-vegano-0/",
+  "titolo": "tiramisun vegano",
+  "data_pubblicazione": "2023-02-08",
+  "marca": "mascherpa tiramisù",
+  "denominazione": "tiramisun vegano",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20822023_1761193159.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo 822023_1761193159.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20822023_1761193159.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tiramisun-vegano-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Tiramisun vegano",
+   "operatore": "GLG srl",
+   "lotti": [
+    "tutti i lotti di produzione"
+   ],
+   "marchio_identificazione": "GLG srl",
+   "produttore": "GLG srl",
+   "sede_stabilimento": "via garibaldi 1, Assago (MI)",
+   "scadenza": "tutte le date di scadenza",
+   "peso_volume": "100g",
+   "motivo_esteso": "Presenza di allergene: proteine del latte Avvertenza: Prodotto che può contenere tracce di latticini. Si invitano i consumatori a non consumare il prodotto e a riportarlo al punto vendita per il rimborso. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "08/02/2023 Marchio del prodotto: Mascherpa tiramisù",
+    "Presenza di allergene": "proteine del latte",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Modello di RICHIAMO\nData: 08/02/2023 Marchio del prodotto: Mascherpa tiramisù\nDenominazione di vendita: Tiramisun vegano\nNome o ragione sociale dell’OSA GLG srl\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: tutti i lotti di produzione\nMarchio di identificazione dello stabilimento/del produttore: GLG srl\nNome del produttore: GLG srl\nSede dello stabilimento: via garibaldi 1, Assago (MI)\nData di scadenza o termine minimo di conservazione: tutte le date di scadenza\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nPresenza di allergene: proteine del latte\nAvvertenza:\nProdotto che può contenere tracce di latticini. Si invitano i consumatori a non consumare il\nprodotto e a riportarlo al punto vendita per il rimborso.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T07:39:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:39:32+00:00"
+ },
+ "torrone-alle-mandorle": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torrone-alle-mandorle/",
+  "titolo": "Torrone alle mandorle",
+  "data_pubblicazione": "2023-02-27",
+  "marca": "Torrone marisa",
+  "denominazione": "Torrone alle mandorle",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Scheda%20Richiamo_1761193920.pdf",
+  "allegati": [
+   {
+    "titolo": "Scheda Richiamo_1761193920.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Scheda%20Richiamo_1761193920.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "torrone-alle-mandorle",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:36:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:36:49+00:00"
+ },
+ "tulsi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tulsi/",
+  "titolo": "Tulsi",
+  "data_pubblicazione": "2023-02-16",
+  "marca": "Shalimar",
+  "denominazione": "Tulsi",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%201_1761193824.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo 1_1761193824.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%201_1761193824.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tulsi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:38:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:38:42+00:00"
+ },
+ "tuma-dfe": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tuma-dfe/",
+  "titolo": "TUMA D'FE",
+  "data_pubblicazione": "2023-02-22",
+  "marca": "Az. Agr. Christine Draps",
+  "denominazione": "TUMA D'FE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Tuma%20d%20fe%20DRAPS%20_1__1761193864.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello Richiamo Tuma d fe DRAPS _1__1761193864.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo%20Tuma%20d%20fe%20DRAPS%20_1__1761193864.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "tuma-dfe",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T07:37:51+00:00",
+  "ultimo_aggiornamento": "2026-10-25T07:37:51+00:00"
+ }
+}

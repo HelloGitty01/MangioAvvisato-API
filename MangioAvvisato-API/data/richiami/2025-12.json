@@ -1,0 +1,1728 @@
+{
+ "arista-al-forno": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arista-al-forno/",
+  "titolo": "ARISTA AL FORNO",
+  "data_pubblicazione": "2025-12-20",
+  "marca": "FIOR FIORE - COOP",
+  "denominazione": "ARISTA AL FORNO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/_.._area_comune_allegati_allerta_2025_n3429_RICHIAMO_Arista_Fior_fiore_L2541329_1766259922.pdf",
+  "allegati": [
+   {
+    "titolo": "_.._area_comune_allegati_allerta_2025_n3429_RICHIAMO_Arista_Fior_fiore_L2541329_1766259922.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/_.._area_comune_allegati_allerta_2025_n3429_RICHIAMO_Arista_Fior_fiore_L2541329_1766259922.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "arista-al-forno",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ARISTA AL FORNO",
+   "operatore": "COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)",
+   "lotti": [
+    "2541329"
+   ],
+   "marchio_identificazione": "IT 1048L CE",
+   "produttore": "RUGGER S.R.L.",
+   "sede_stabilimento": "VIA TETTI GIRO N. 7 - SANTENA (TO)",
+   "scadenza": "3/01/2026",
+   "peso_volume": "0.120 Kg",
+   "motivo_esteso": "Possibile contaminazione microbiologica",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "19/12/2025 Marchio del prodotto: FIOR FIORE - COOP",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 19/12/2025 Marchio del prodotto: FIOR FIORE - COOP\nDenominazione di vendita:ARISTA AL FORNO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)\ncommercializzato:\nLotto di produzione: 2541329\nMarchio di identificazione dello stabilimento/del produttore: IT 1048L CE\nNome del produttore: RUGGER S.R.L.\nSede dello stabilimento: VIA TETTI GIRO N. 7 - SANTENA (TO)\nData di scadenza o termine minimo di conservazione: 3/01/2026\nDescrizione peso/volume unità di vendita: 0.120 Kg\nMotivo del richiamo:\nPossibile contaminazione microbiologica\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:37+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:37+00:00"
+ },
+ "arista-al-forno-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arista-al-forno-0/",
+  "titolo": "ARISTA AL FORNO",
+  "data_pubblicazione": "2025-12-23",
+  "marca": "FIOR FIORE - COOP",
+  "denominazione": "ARISTA AL FORNO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_aggiornato_Arista%20Fior%20Fiore%20L2541329_1766495338.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_aggiornato_Arista Fior Fiore L2541329_1766495338.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_aggiornato_Arista%20Fior%20Fiore%20L2541329_1766495338.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "arista-al-forno-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ARISTA AL FORNO",
+   "operatore": "COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)",
+   "lotti": [
+    "2541329"
+   ],
+   "marchio_identificazione": "lT 1048L CE",
+   "produttore": "RUGGER S.R.L.",
+   "sede_stabilimento": "VIA TEHI GIRO N. 7 SANTENA (TO)",
+   "scadenza": "3/01/2026",
+   "peso_volume": "0,120 Kg",
+   "motivo_esteso": "Possibile presenza di Listeria Monocytogenes",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "19/12/2025 Marchio del prodotto: FIOR FIORE COOP",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "_________________________________\nRICHIAMO\nData: 19/12/2025 Marchio del prodotto: FIOR FIORE COOP\n-\nDenominazione di vendita:ARISTA AL FORNO\nNome o ragione sociale dellOSA\na nome del quale il prodotto è COOP ITALIA S.C. VIA DEL LAVORO 6-8, CASALECCHIO DI RENO (BO)\ncommercializzato:\nLotto di produzione: 2541329\nMarchio di identificazione dello stabilimento/del produttore: lT 1048L CE\nNome del produttore: RUGGER S.R.L.\nSede dello stabilimento: VIA TEHI GIRO N. 7 SANTENA (TO)\n-\nData di scadenza o termine minimo di conservazione: 3/01/2026\nDescrizione peso/volume unità di vendita: 0,120 Kg\nMotivo del richiamo:\nPossibile presenza di Listeria Monocytogenes\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:26+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:26+00:00"
+ },
+ "caciotta-campagnola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-campagnola/",
+  "titolo": "CACIOTTA CAMPAGNOLA",
+  "data_pubblicazione": "2025-12-15",
+  "marca": "CACIOTTA CAMPAGNOLA",
+  "denominazione": "CACIOTTA CAMPAGNOLA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20campagnola_1765822199.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo caciotta campagnola_1765822199.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20campagnola_1765822199.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "caciotta-campagnola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:28:49+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:49+00:00"
+ },
+ "caciotta-di-mucca-pompea": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-mucca-pompea/",
+  "titolo": "CACIOTTA DI MUCCA POMPEA",
+  "data_pubblicazione": "2025-12-15",
+  "marca": "CACIOTTA POMPEA",
+  "denominazione": "CACIOTTA DI MUCCA POMPEA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20pompea%20_002__1765822342.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo caciotta pompea _002__1765822342.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20caciotta%20pompea%20_002__1765822342.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "caciotta-di-mucca-pompea",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:28:51+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:51+00:00"
+ },
+ "ciccioli-sv": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ciccioli-sv/",
+  "titolo": "Ciccioli S/V",
+  "data_pubblicazione": "2025-12-19",
+  "marca": "Serafini",
+  "denominazione": "Ciccioli S/V",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20SERAFINI_1766149471.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello di richiamo SERAFINI_1766149471.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20di%20richiamo%20SERAFINI_1766149471.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ciccioli-sv",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:28:40+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:40+00:00"
+ },
+ "colatura-di-alici": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici/",
+  "titolo": "Colatura di Alici",
+  "data_pubblicazione": "2025-12-19",
+  "marca": "Aragon",
+  "denominazione": "Colatura di Alici",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Colatura%20Stella%20SRL%20_%20Lotto%20C259_25%20_1__1766167497.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Colatura Stella SRL _ Lotto C259_25 _1__1766167497.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Colatura%20Stella%20SRL%20_%20Lotto%20C259_25%20_1__1766167497.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "colatura-di-alici",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:28:43+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:43+00:00"
+ },
+ "colatura-di-alici-riserva-100ml": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/colatura-di-alici-riserva-100ml/",
+  "titolo": "COLATURA DI ALICI RISERVA 100ml",
+  "data_pubblicazione": "2025-12-09",
+  "marca": "ARMATORE",
+  "denominazione": "COLATURA DI ALICI RISERVA 100ml",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Colatura%20Alici%20Riserva%20_%20Consorzio%20Bluefish_Armatore%20srl_1765277291.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo Colatura Alici Riserva _ Consorzio Bluefish_Armatore srl_1765277291.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Colatura%20Alici%20Riserva%20_%20Consorzio%20Bluefish_Armatore%20srl_1765277291.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "colatura-di-alici-riserva-100ml",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:29:17+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:17+00:00"
+ },
+ "farina-di-mais-pignoletto-rosso-bio-500g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-pignoletto-rosso-bio-500g/",
+  "titolo": "Farina di mais pignoletto rosso bio 500g",
+  "data_pubblicazione": "2025-12-30",
+  "marca": "Azienda Agricola Podere Pereto",
+  "denominazione": "Farina di mais pignoletto rosso bio 500g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20mais%20pignoletto%20rosso%20bio%20500g_1767108948.pdf",
+  "allegati": [
+   {
+    "titolo": "Farina di mais pignoletto rosso bio 500g_1767108948.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20mais%20pignoletto%20rosso%20bio%20500g_1767108948.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-mais-pignoletto-rosso-bio-500g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Farina di mais pignoletto rosso bio 500g",
+   "operatore": "Azienda Agricola Podere Pereto",
+   "lotti": [
+    "Lotti: 250826",
+    "231226",
+    "150726"
+   ],
+   "marchio_identificazione": "Azienda Agricola Podere Pereto",
+   "produttore": "Azienda Agricola Podere Pereto",
+   "sede_stabilimento": "Località Podere Pereto, 17, Rapolano Terme (SI), 53040",
+   "scadenza": "18 mesi (come riportato in ciascun lotto)",
+   "peso_volume": "500g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non consumare e procedere allo smaltimento.",
+   "campi_extra": {
+    "Data": "29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto"
+   },
+   "testo": "RICHIAMO\nData: 29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto\nDenominazione di vendita: Farina di mais pignoletto rosso bio 500g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Azienda Agricola Podere Pereto\ncommercializzato:\nLotto di produzione: Lotti: 250826; 231226; 150726\nMarchio di identificazione dello stabilimento/del produttore: Azienda Agricola Podere Pereto\nNome del produttore: Azienda Agricola Podere Pereto\nSede dello stabilimento: Località Podere Pereto, 17, Rapolano Terme (SI), 53040\nData di scadenza o termine minimo di conservazione: 18 mesi (come riportato in ciascun lotto)\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non\nconsumare e procedere allo smaltimento."
+  },
+  "prima_rilevazione": "2026-10-24T22:28:07+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:07+00:00"
+ },
+ "farina-di-mais-pignoletto-rosso-bio-5kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-pignoletto-rosso-bio-5kg/",
+  "titolo": "Farina di mais pignoletto rosso bio 5kg",
+  "data_pubblicazione": "2025-12-30",
+  "marca": "Azienda Agricola Podere Pereto",
+  "denominazione": "Farina di mais pignoletto rosso bio 5kg",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20mais%20pignoletto%20rosso%20bio%205kg_1767108984.pdf",
+  "allegati": [
+   {
+    "titolo": "Farina di mais pignoletto rosso bio 5kg_1767108984.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Farina%20di%20mais%20pignoletto%20rosso%20bio%205kg_1767108984.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-mais-pignoletto-rosso-bio-5kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Farina di mais pignoletto rosso bio 5kg",
+   "operatore": "Azienda Agricola Podere Pereto",
+   "lotti": [
+    "210926"
+   ],
+   "marchio_identificazione": "Azienda Agricola Podere Pereto",
+   "produttore": "Azienda Agricola Podere Pereto",
+   "sede_stabilimento": "Località Podere Pereto, 17, Rapolano Terme (SI), 53040",
+   "scadenza": "18 mesi (come riportato in ciascun lotto)",
+   "peso_volume": "5 kg",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non consumare e procedere allo smaltimento.",
+   "campi_extra": {
+    "Data": "29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto"
+   },
+   "testo": "RICHIAMO\nData: 29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto\nDenominazione di vendita: Farina di mais pignoletto rosso bio 5kg\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Azienda Agricola Podere Pereto\ncommercializzato:\nLotto di produzione: 210926\nMarchio di identificazione dello stabilimento/del produttore: Azienda Agricola Podere Pereto\nNome del produttore: Azienda Agricola Podere Pereto\nSede dello stabilimento: Località Podere Pereto, 17, Rapolano Terme (SI), 53040\nData di scadenza o termine minimo di conservazione: 18 mesi (come riportato in ciascun lotto)\nDescrizione peso/volume unità di vendita: 5 kg\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non\nconsumare e procedere allo smaltimento."
+  },
+  "prima_rilevazione": "2026-10-24T22:28:10+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:10+00:00"
+ },
+ "filetti-di-acciughe-vasetto-140g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-acciughe-vasetto-140g/",
+  "titolo": "Filetti di acciughe vasetto 140g",
+  "data_pubblicazione": "2025-12-02",
+  "marca": "CAPRI",
+  "denominazione": "Filetti di acciughe vasetto 140g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20RICHIAMO%20FILETTI%20ACCIUGHE_1764689890.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello RICHIAMO FILETTI ACCIUGHE_1764689890.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20RICHIAMO%20FILETTI%20ACCIUGHE_1764689890.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "filetti-di-acciughe-vasetto-140g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FILETTI DI ACCIUGHE ALL’OLIO DI GIRASOLE Nome o ragione sociale deII'OSA a nome del quale il prodotto è IGINO MAZZOLA S.P.A commercializzato",
+   "lotti": [
+    "L. 060327"
+   ],
+   "marchio_identificazione": "IT D 8775 UE",
+   "produttore": "INDUSTRIA ITTICA TORRENOVESE SRL",
+   "sede_stabilimento": "CONTRADA PIETRA DI ROMA SNC 98070 TORRENOVA- MESSINA (ITALIA)",
+   "scadenza": "06/03/2027",
+   "peso_volume": "140 g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI ISTAMINA OLTRE I LIMITI DI LEGGE",
+   "avvertenze": "Si invitano i clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e riportarlo nel punto vendita di acquisto FOTO 1: LOTTO E TMC PRODOTTO FOTO 2 : FOTO DEL PRODOTTO",
+   "campi_extra": {
+    "Data": "01/12/2025 Marchio: CAPRI",
+    "FOTO 1": "LOTTO E TMC PRODOTTO",
+    "FOTO 2": "FOTO DEL PRODOTTO"
+   },
+   "testo": "data fine affissione 22.12.2025\nData: 01/12/2025 Marchio: CAPRI\nDenominazione di vendita: FILETTI DI ACCIUGHE ALL’OLIO DI GIRASOLE\nNome o ragione sociale deII'OSA\na nome del quale il prodotto è IGINO MAZZOLA S.P.A\ncommercializzato:\nLotto di produzione: L. 060327\nMarchio di identificazione dello stabilimento/del produttore: IT D 8775 UE\nNome del produttore: INDUSTRIA ITTICA TORRENOVESE SRL\nSede dello stabilimento: CONTRADA PIETRA DI ROMA SNC 98070 TORRENOVA- MESSINA (ITALIA)\nData di scadenza o termine minimo di conservazione: 06/03/2027\nDescrizione peso/volume unità di vendita: 140 g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI ISTAMINA OLTRE I LIMITI DI LEGGE\nAvvertenze:\nSi invitano i clienti che avessero acquistato questo lotto di NON CONSUMARE IL PRODOTTO e riportarlo nel\npunto vendita di acquisto\nFOTO 1: LOTTO E TMC PRODOTTO\nFOTO 2 : FOTO DEL PRODOTTO"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:59+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:59+00:00"
+ },
+ "gallette-bio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-bio/",
+  "titolo": "Gallette bio",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "San e Bun",
+  "denominazione": "Gallette bio",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_San_e_Bun_1764776982.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_San_e_Bun_1764776982.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_San_e_Bun_1764776982.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-bio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette bio",
+   "operatore": "San e bun",
+   "lotti": [
+    "A2521",
+    "E2543",
+    "I2511"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "A2521 07/01/2026, E2543 22/05/2026, I251110/09/2026",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: San e Bun"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: San e Bun\nDenominazione di vendita: Gallette bio\nNome o ragione sociale dell'OSA San e bun\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: A2521, E2543, I2511\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: A2521 07/01/2026, E2543 22/05/2026,\nI251110/09/2026\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:30+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:30+00:00"
+ },
+ "gallette-bio-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-bio-0/",
+  "titolo": "Gallette Bio",
+  "data_pubblicazione": "2025-12-09",
+  "marca": "San e Bun",
+  "denominazione": "Gallette Bio",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_San_e_Bun_A2541_1765295458.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_San_e_Bun_A2541_1765295458.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_San_e_Bun_A2541_1765295458.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-bio-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette bio",
+   "operatore": "San e bun",
+   "lotti": [
+    "A2541"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "A2541 23/01/2026,",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "05/12/2025 Marchio del prodotto: San e Bun"
+   },
+   "testo": "RICHIAMO\nData: 05/12/2025 Marchio del prodotto: San e Bun\nDenominazione di vendita: Gallette bio\nNome o ragione sociale dell'OSA San e bun\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: A2541,\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: A2541 23/01/2026,\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:19+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:19+00:00"
+ },
+ "gallette-di-mais-integrale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale/",
+  "titolo": "Gallette di mais integrale",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Terra Verde",
+  "denominazione": "Gallette di mais integrale",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Terra_Verde_1764777105.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Terra_Verde_1764777105.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Terra_Verde_1764777105.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-integrale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais integrale",
+   "operatore": "TERRA VERDE BIO",
+   "lotti": [
+    "B2509",
+    "D2557",
+    "F2526",
+    "G2528",
+    "I2531",
+    "L2524"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "B2509 04/02/26, D2557 14/04/26, F2526 19/06/26, G2528 14/07/26, I2531 30/09/26, L2524 30/10/26",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: TERRA VERDE"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: TERRA VERDE\nDenominazione di vendita: Gallette di mais integrale\nNome o ragione sociale dell'OSA TERRA VERDE BIO\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: B2509, D2557, F2526, G2528, I2531, L2524\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: B2509 04/02/26, D2557 14/04/26, F2526\n19/06/26, G2528 14/07/26, I2531 30/09/26,\nL2524 30/10/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:38+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:38+00:00"
+ },
+ "gallette-di-mais-integrale-pignoletto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto/",
+  "titolo": "Gallette di mais integrale pignoletto",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Langalletta",
+  "denominazione": "Gallette di mais integrale pignoletto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_1764777028.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Langalletta_1764777028.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_1764777028.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-integrale-pignoletto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais integrale pignoletto",
+   "operatore": "LANGALLETTA",
+   "lotti": [
+    "A2549"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "A2549 31/01/26",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: Langalletta"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: Langalletta\nDenominazione di vendita: Gallette di mais integrale pignoletto\nNome o ragione sociale dell'OSA LANGALLETTA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: A2549\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: A2549 31/01/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:32+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:32+00:00"
+ },
+ "gallette-di-mais-integrale-pignoletto-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-0/",
+  "titolo": "Gallette di mais integrale pignoletto",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Langalletta",
+  "denominazione": "Gallette di mais integrale pignoletto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_A2549_I2516_1764777069.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Langalletta_A2549_I2516_1764777069.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_A2549_I2516_1764777069.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-integrale-pignoletto-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais integrale pignoletto",
+   "operatore": "Cortilia",
+   "lotti": [
+    "A2549",
+    "I2516"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "A2549 31/01/2026, I2516 10/09/2026",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: Langalletta"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: Langalletta\nDenominazione di vendita: Gallette di mais integrale pignoletto\nNome o ragione sociale dell'OSA Cortilia\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: A2549, I2516\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: A2549 31/01/2026, I2516 10/09/2026\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:35+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:35+00:00"
+ },
+ "gallette-di-mais-integrale-pignoletto-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-1/",
+  "titolo": "Gallette di mais integrale pignoletto",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Langalletta",
+  "denominazione": "Gallette di mais integrale pignoletto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_B2568_1764777229.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Langalletta_B2568_1764777229.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_B2568_1764777229.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-integrale-pignoletto-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais integrale pignoletto",
+   "operatore": "LANGALLETTA",
+   "lotti": [
+    "B2568"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "B2568 21/02/26",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: Langalletta"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: Langalletta\nDenominazione di vendita: Gallette di mais integrale pignoletto\nNome o ragione sociale dell'OSA LANGALLETTA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: B2568\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: B2568 21/02/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:41+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:41+00:00"
+ },
+ "gallette-di-mais-integrale-pignoletto-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-2/",
+  "titolo": "Gallette di mais integrale pignoletto",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Langalletta",
+  "denominazione": "Gallette di mais integrale pignoletto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_C2553_1764777825.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Langalletta_C2553_1764777825.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_C2553_1764777825.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-integrale-pignoletto-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais integrale pignoletto",
+   "operatore": "LANGALLETTA",
+   "lotti": [
+    "C2553"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "C2553 17/03/2026",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: Langalletta"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: Langalletta\nDenominazione di vendita: Gallette di mais integrale pignoletto\nNome o ragione sociale dell'OSA LANGALLETTA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: C2553\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: C2553 17/03/2026\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:46+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:46+00:00"
+ },
+ "gallette-di-mais-integrale-pignoletto-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-3/",
+  "titolo": "Gallette di mais integrale pignoletto",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Langalletta",
+  "denominazione": "Gallette di mais integrale pignoletto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_E2589_1764777882.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Langalletta_E2589_1764777882.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Langalletta_E2589_1764777882.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-integrale-pignoletto-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais integrale pignoletto",
+   "operatore": "LANGALLETTA",
+   "lotti": [
+    "E2589"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "E2589 27/05/26",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: Langalletta"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: Langalletta\nDenominazione di vendita: Gallette di mais integrale pignoletto\nNome o ragione sociale dell'OSA LANGALLETTA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: E2589\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: E2589 27/05/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:51+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:51+00:00"
+ },
+ "gallette-di-mais-integrale-pignoletto-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-integrale-pignoletto-4/",
+  "titolo": "Gallette di mais integrale pignoletto",
+  "data_pubblicazione": "2025-12-09",
+  "marca": "Dietnatural",
+  "denominazione": "Gallette di mais integrale pignoletto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Dietnatural_A2517_1765295580.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Dietnatural_A2517_1765295580.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Dietnatural_A2517_1765295580.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-integrale-pignoletto-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais pignoletto integrale",
+   "operatore": "Dietnatural A2517",
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "A2517 27/01/2026",
+   "peso_volume": "1 50g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "05/12/2025 Marchio del prodotto: Dietnatural"
+   },
+   "testo": "RICHIAMO\nData: 05/12/2025 Marchio del prodotto: Dietnatural\nDenominazione di vendita: Gallette di mais pignoletto integrale\nNome o ragione sociale dell'OSA Dietnatural\na nome del quale il prodotto è\ncommercializzato:\nA2517\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo A2517 27/01/2026\ndi conservazione:\nDescrizione peso/volume unità di vendita: 1 50g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:22+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:22+00:00"
+ },
+ "gallette-di-mais-pignoletto-integrale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-di-mais-pignoletto-integrale/",
+  "titolo": "Gallette di mais pignoletto integrale",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Dietnatural",
+  "denominazione": "Gallette di mais pignoletto integrale",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Dietnatural_1764776940.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Dietnatural_1764776940.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Dietnatural_1764776940.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-di-mais-pignoletto-integrale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette di mais pignoletto integrale",
+   "operatore": "Dietnatural",
+   "lotti": [
+    "A2518",
+    "B2580",
+    "B2581",
+    "E2501",
+    "E2502",
+    "F2533",
+    "F2534",
+    "I2502",
+    "M2501"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "A2518 27/01/2026, B258024/02/2026, B2581 24/02/2026,E2501- E2502 07/05/2026, F2533- F2534 14/07/2026, I2502 11/09/2026 M250113/11/2026",
+   "peso_volume": "1 50g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: Dietnatural",
+    "di conservazione": "24/02/2026,E2501- E2502 07/05/2026, F2533- F2534"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: Dietnatural\nDenominazione di vendita: Gallette di mais pignoletto integrale\nNome o ragione sociale dell'OSA Dietnatural\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: A2518, B2580, B2581, E2501, E2502, F2533, F2534, I2502, M2501\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo A2518 27/01/2026, B258024/02/2026, B2581\ndi conservazione: 24/02/2026,E2501- E2502 07/05/2026, F2533- F2534\n14/07/2026, I2502 11/09/2026 M250113/11/2026\nDescrizione peso/volume unità di vendita: 1 50g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:27+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:27+00:00"
+ },
+ "gallette-mais-rosso-biologico-90g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-mais-rosso-biologico-90g/",
+  "titolo": "Gallette mais rosso biologico 90g",
+  "data_pubblicazione": "2025-12-30",
+  "marca": "Azienda Agricola Podere Pereto",
+  "denominazione": "Gallette mais rosso biologico 90g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%2090g_1767108913.pdf",
+  "allegati": [
+   {
+    "titolo": "Gallette di mais rosso bio 90g_1767108913.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%2090g_1767108913.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-mais-rosso-biologico-90g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette mais rosso biologico 90g",
+   "operatore": "Azienda Agricola Podere Pereto",
+   "lotti": [
+    "Lotti: 291225",
+    "041225",
+    "050326",
+    "060326",
+    "160426",
+    "230426",
+    "130826",
+    "140826"
+   ],
+   "marchio_identificazione": "Azienda Agricola Podere Pereto",
+   "produttore": "Azienda Agricola Podere Pereto",
+   "sede_stabilimento": "Località Podere Pereto, 17, Rapolano Terme (SI), 53040",
+   "scadenza": "10 mesi (come riportato in ciascun lotto)",
+   "peso_volume": "90g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non consumare e procedere allo smaltimento.",
+   "campi_extra": {
+    "Data": "29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto"
+   },
+   "testo": "RICHIAMO\nData: 29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto\nDenominazione di vendita: Gallette mais rosso biologico 90g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Azienda Agricola Podere Pereto\ncommercializzato:\nLotto di produzione: Lotti: 291225; 041225; 050326; 060326; 160426; 230426; 130826; 140826\nMarchio di identificazione dello stabilimento/del produttore: Azienda Agricola Podere Pereto\nNome del produttore: Azienda Agricola Podere Pereto\nSede dello stabilimento: Località Podere Pereto, 17, Rapolano Terme (SI), 53040\nData di scadenza o termine minimo di conservazione: 10 mesi (come riportato in ciascun lotto)\nDescrizione peso/volume unità di vendita: 90g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non\nconsumare e procedere allo smaltimento."
+  },
+  "prima_rilevazione": "2026-10-24T22:28:04+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:04+00:00"
+ },
+ "gallette-mais-rosso-biologico-monopozioni-120g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gallette-mais-rosso-biologico-monopozioni-120g/",
+  "titolo": "Gallette mais rosso biologico monopozioni 120g",
+  "data_pubblicazione": "2025-12-30",
+  "marca": "Azienda Agricola Podere Pereto",
+  "denominazione": "Gallette mais rosso biologico monopozioni 120g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%20120g%20_1767108877.pdf",
+  "allegati": [
+   {
+    "titolo": "Gallette di mais rosso bio 120g _1767108877.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Gallette%20di%20mais%20rosso%20bio%20120g%20_1767108877.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gallette-mais-rosso-biologico-monopozioni-120g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gallette mais rosso biologico monopozioni 120g",
+   "operatore": "Azienda Agricola Podere Pereto",
+   "lotti": [
+    "Lotti: 230426",
+    "251126"
+   ],
+   "marchio_identificazione": "Azienda Agricola Podere Pereto",
+   "produttore": "Azienda Agricola Podere Pereto",
+   "sede_stabilimento": "Località Podere Pereto, 17, Rapolano Terme (SI), 53040",
+   "scadenza": "10 mesi (come riportato in ciascun lotto)",
+   "peso_volume": "120g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non consumare e procedere allo smaltimento.",
+   "campi_extra": {
+    "Data": "29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto"
+   },
+   "testo": "RICHIAMO\nData: 29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto\nDenominazione di vendita: Gallette mais rosso biologico monopozioni 120g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Azienda Agricola Podere Pereto\ncommercializzato:\nLotto di produzione: Lotti: 230426 e 251126\nMarchio di identificazione dello stabilimento/del produttore: Azienda Agricola Podere Pereto\nNome del produttore: Azienda Agricola Podere Pereto\nSede dello stabilimento: Località Podere Pereto, 17, Rapolano Terme (SI), 53040\nData di scadenza o termine minimo di conservazione: 10 mesi (come riportato in ciascun lotto)\nDescrizione peso/volume unità di vendita: 120g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non\nconsumare e procedere allo smaltimento."
+  },
+  "prima_rilevazione": "2026-10-24T22:28:01+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:01+00:00"
+ },
+ "gran-fesa-di-tacchino-arrosto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gran-fesa-di-tacchino-arrosto/",
+  "titolo": "GRAN FESA DI TACCHINO ARROSTO",
+  "data_pubblicazione": "2025-12-24",
+  "marca": "LENTI",
+  "denominazione": "GRAN FESA DI TACCHINO ARROSTO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Gran_Fesa_L2541330_1766572771.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello_richiamo_Gran_Fesa_L2541330_1766572771.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Gran_Fesa_L2541330_1766572771.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gran-fesa-di-tacchino-arrosto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:28:22+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:22+00:00"
+ },
+ "le-gallette-gustose-e-croccanti-mais-integrale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/le-gallette-gustose-e-croccanti-mais-integrale/",
+  "titolo": "Le Gallette Gustose e Croccanti Mais Integrale",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "Brezzo",
+  "denominazione": "Le Gallette Gustose e Croccanti Mais Integrale",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Brezzo_1764777854.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_Brezzo_1764777854.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_Brezzo_1764777854.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "le-gallette-gustose-e-croccanti-mais-integrale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Le Gallette Gustose e Croccanti Mais Integrale",
+   "operatore": "BREZZO",
+   "lotti": [
+    "C2554",
+    "G2531"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "C2554 17/03/26, G2531 14/07/26",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: BREZZO"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: BREZZO\nDenominazione di vendita: Le Gallette Gustose e Croccanti Mais Integrale\nNome o ragione sociale dell'OSA BREZZO\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: C2554, G2531\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: C2554 17/03/26, G2531 14/07/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:48+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:48+00:00"
+ },
+ "lenti-lode-prosciutto-cotto-alta-qualita": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lenti-lode-prosciutto-cotto-alta-qualita/",
+  "titolo": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+  "data_pubblicazione": "2025-12-24",
+  "marca": "LENTI",
+  "denominazione": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Lenti_e_Lode_L2541327_2541328_1766572770.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello_richiamo_Lenti_e_Lode_L2541327_2541328_1766572770.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello_richiamo_Lenti_e_Lode_L2541327_2541328_1766572770.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "lenti-lode-prosciutto-cotto-alta-qualita",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'",
+   "operatore": "RUGGER S.R.L.",
+   "lotti": [
+    "2541327",
+    "2541328"
+   ],
+   "marchio_identificazione": "IT 1048L CE",
+   "produttore": "RUGGER S.R.L.",
+   "sede_stabilimento": "VIA TETTI GIRO N. 7 - 10026 - SANTENA (TO)",
+   "scadenza": "3/01/2026",
+   "peso_volume": "0,120 Kg",
+   "motivo_esteso": "Possibile presenza di Listeria Monocytogenes",
+   "avvertenze": "NON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2025 Marchio del prodotto: LENTI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2025 Marchio del prodotto: LENTI\nDenominazione di vendita:LENTI & LODE - PROSCIUTTO COTTO ALTA QUALITA'\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RUGGER S.R.L.\ncommercializzato:\nLotto di produzione: 2541327; 2541328\nMarchio di identificazione dello stabilimento/del produttore: IT 1048L CE\nNome del produttore: RUGGER S.R.L.\nSede dello stabilimento: VIA TETTI GIRO N. 7 - 10026 - SANTENA (TO)\nData di scadenza o termine minimo di conservazione: 3/01/2026\nDescrizione peso/volume unità di vendita: 0,120 Kg\nMotivo del richiamo:\nPossibile presenza di Listeria Monocytogenes\nAvvertenze:\nNON CONSUMARE IL PRODOTTO E RESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:19+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:19+00:00"
+ },
+ "mozzarella-carrozza-al-prosciutto-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarella-carrozza-al-prosciutto-2/",
+  "titolo": "Mozzarella in carrozza al prosciutto",
+  "data_pubblicazione": "2025-12-10",
+  "marca": "I Freschissimi",
+  "denominazione": "Mozzarella in carrozza al prosciutto",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20ALI%20_%20entrambi%20i%20lotti%20pdf%20_2__1765372600.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca ALI _ entrambi i lotti pdf _2__1765372600.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20ALI%20_%20entrambi%20i%20lotti%20pdf%20_2__1765372600.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mozzarella-carrozza-al-prosciutto-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mozzarelle in carrozza al prosciutto",
+   "operatore": "Ali Spa",
+   "lotti": [
+    "252022 - 25204"
+   ],
+   "marchio_identificazione": "2340 CE IT",
+   "produttore": "Cucina Nostrana Srl Unipersonale",
+   "sede_stabilimento": "Via Sergio Toniolo n.3",
+   "scadenza": "07-09 / 06/2025",
+   "peso_volume": "190g",
+   "motivo_esteso": "Etichetta Non conforme. L'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in carrozza all'acciuga.",
+   "avvertenze": "Presenza allergene PESCE come ingrediente.",
+   "campi_extra": {
+    "Data": "09/12/2025 Marchio del prodotto: I Freschissimi"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 09/12/2025 Marchio del prodotto: I Freschissimi\nDenominazione di vendita:Mozzarelle in carrozza al prosciutto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Ali Spa\ncommercializzato:\nLotto di produzione: 252022 - 25204\nMarchio di identificazione dello stabilimento/del produttore: 2340 CE IT\nNome del produttore: Cucina Nostrana Srl Unipersonale\nSede dello stabilimento: Via Sergio Toniolo n.3\nData di scadenza o termine minimo di conservazione: 07-09 / 06/2025\nDescrizione peso/volume unità di vendita: 190g\nMotivo del richiamo:\nEtichetta Non conforme.\nL'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in\ncarrozza all'acciuga.\nAvvertenze:\nPresenza allergene PESCE come ingrediente."
+  },
+  "prima_rilevazione": "2026-10-24T22:29:01+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:01+00:00"
+ },
+ "mozzarelle-carrozza-al-prosciutto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarelle-carrozza-al-prosciutto/",
+  "titolo": "Mozzarelle in carrozza al prosciutto",
+  "data_pubblicazione": "2025-12-10",
+  "marca": "Scelto da Noi",
+  "denominazione": "Mozzarelle in carrozza al prosciutto",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20CIA%20_%20entrambi%20i%20lotti%20_1_%20_3__1765372602.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca CIA _ entrambi i lotti _1_ _3__1765372602.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20CIA%20_%20entrambi%20i%20lotti%20_1_%20_3__1765372602.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mozzarelle-carrozza-al-prosciutto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mozzarelle in carrozza al prosciutto",
+   "operatore": "Commercianti Indipendenti Associati CONAD",
+   "lotti": [
+    "25203 - 25204"
+   ],
+   "marchio_identificazione": "2340 CE IT",
+   "produttore": "Cucina Nostrana Srl Unipersonale",
+   "sede_stabilimento": "Via Sergio Toniolo n.3",
+   "scadenza": "08-09 /06/2025",
+   "peso_volume": "190g",
+   "motivo_esteso": "Etichetta Non conforme. L'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in carrozza all'acciuga.",
+   "avvertenze": "Presenza allergene PESCE come ingrediente.",
+   "campi_extra": {
+    "Data": "09/12/2025 Marchio del prodotto: Scelto Da Noi"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 09/12/2025 Marchio del prodotto: Scelto Da Noi\nDenominazione di vendita:Mozzarelle in carrozza al prosciutto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Commercianti Indipendenti Associati CONAD\ncommercializzato:\nLotto di produzione: 25203 - 25204\nMarchio di identificazione dello stabilimento/del produttore: 2340 CE IT\nNome del produttore: Cucina Nostrana Srl Unipersonale\nSede dello stabilimento: Via Sergio Toniolo n.3\nData di scadenza o termine minimo di conservazione: 08-09 /06/2025\nDescrizione peso/volume unità di vendita: 190g\nMotivo del richiamo:\nEtichetta Non conforme.\nL'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in\ncarrozza all'acciuga.\nAvvertenze:\nPresenza allergene PESCE come ingrediente."
+  },
+  "prima_rilevazione": "2026-10-24T22:29:04+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:04+00:00"
+ },
+ "mozzarelle-carrozza-al-prosciutto-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mozzarelle-carrozza-al-prosciutto-0/",
+  "titolo": "Mozzarelle in carrozza al prosciutto",
+  "data_pubblicazione": "2025-12-10",
+  "marca": "Cucina Nostrana Srl Unipersonale",
+  "denominazione": "Mozzarelle in carrozza al prosciutto",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Cucina%20_%20tutti%20i%20lotti%20_3__1765372604.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Cucina _ tutti i lotti _3__1765372604.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Cucina%20_%20tutti%20i%20lotti%20_3__1765372604.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mozzarelle-carrozza-al-prosciutto-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mozzarelle in carrozza al prosciutto",
+   "operatore": "Cucina Nostrana Srl Unipersonale",
+   "lotti": [
+    "25202 - 25203 - 25204"
+   ],
+   "marchio_identificazione": "2340 CE IT",
+   "produttore": "Cucina Nostrana Srl Unipersonale",
+   "sede_stabilimento": "Via Sergio Toniolo n.3",
+   "scadenza": "07-08-09 /06/25",
+   "peso_volume": "190g",
+   "motivo_esteso": "Etichetta Non conforme. L'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in carrozza all'acciuga.",
+   "avvertenze": "Presenza allergene PESCE come ingrediente.",
+   "campi_extra": {
+    "Data": "09/12/2025 Marchio del prodotto: Cucina Nostrana Srl Unipersonale"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 09/12/2025 Marchio del prodotto: Cucina Nostrana Srl Unipersonale\nDenominazione di vendita:Mozzarelle in carrozza al prosciutto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Cucina Nostrana Srl Unipersonale\ncommercializzato:\nLotto di produzione: 25202 - 25203 - 25204\nMarchio di identificazione dello stabilimento/del produttore: 2340 CE IT\nNome del produttore: Cucina Nostrana Srl Unipersonale\nSede dello stabilimento: Via Sergio Toniolo n.3\nData di scadenza o termine minimo di conservazione: 07-08-09 /06/25\nDescrizione peso/volume unità di vendita: 190g\nMotivo del richiamo:\nEtichetta Non conforme.\nL'etichetta riporta la denominazione Mozzarelle in carrozza al prosciutto ma in realtà contiene Mozzarelle in\ncarrozza all'acciuga.\nAvvertenze:\nPresenza allergene PESCE come ingrediente."
+  },
+  "prima_rilevazione": "2026-10-24T22:29:06+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:06+00:00"
+ },
+ "nidina-optipro-1-2x600g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-2x600g/",
+  "titolo": "NIDINA OPTIPRO 1 (2X600G)",
+  "data_pubblicazione": "2025-12-10",
+  "marca": "NESTLE ITALIANA SPA",
+  "denominazione": "NIDINA OPTIPRO 1 (2X600G)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPTO%201%20NLNWPB261%206_2x600g_%20IT%20lotto%2052860346BB_1765381820.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo NIDINA OPTIPTO 1 NLNWPB261 6_2x600g_ IT lotto 52860346BB_1765381820.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPTO%201%20NLNWPB261%206_2x600g_%20IT%20lotto%2052860346BB_1765381820.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "nidina-optipro-1-2x600g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:29:09+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:09+00:00"
+ },
+ "nidina-optipro-1-6x800g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-6x800g/",
+  "titolo": "NIDINA OPTIPRO 1 (6X800G)",
+  "data_pubblicazione": "2025-12-10",
+  "marca": "NESTLE ITALIANA SPA",
+  "denominazione": "NIDINA OPTIPRO 1 (6X800G)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206x800g_%20IT%20lotto%2052850346AD_1765381955.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo NIDINA OPTIPRO 1 NLNWPB261 6x800g_ IT lotto 52850346AD_1765381955.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206x800g_%20IT%20lotto%2052850346AD_1765381955.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "nidina-optipro-1-6x800g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:29:12+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:12+00:00"
+ },
+ "nidina-optipro-1-800g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/nidina-optipro-1-800g/",
+  "titolo": "NIDINA OPTIPRO 1 (800G)",
+  "data_pubblicazione": "2025-12-10",
+  "marca": "NESTLE ITALIANA SPA",
+  "denominazione": "NIDINA OPTIPRO 1 (800G)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206x800g_%20IT%20lotto%2052850346AD_1765382094.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo NIDINA OPTIPRO 1 NLNWPB261 6x800g_ IT lotto 52850346AD_1765382094.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20NIDINA%20OPTIPRO%201%20NLNWPB261%206x800g_%20IT%20lotto%2052850346AD_1765382094.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "nidina-optipro-1-800g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:29:14+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:14+00:00"
+ },
+ "panettone-demilan-dubai-chocolate-hw-800-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panettone-demilan-dubai-chocolate-hw-800-g/",
+  "titolo": "PANETTONE DeMILAN DUBAI CHOCOLATE hw 800 g",
+  "data_pubblicazione": "2025-12-02",
+  "marca": "PAOLO LAZZARONI & FIGLI S.p.A. DeMilan",
+  "denominazione": "PANETTONE DeMILAN DUBAI CHOCOLATE hw 800 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20notifica%20di%20richiamo_P001557_PNT%20DUBAI%20CHCOCO%20800g%20DeMILAN_1764681722.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo di notifica di richiamo_P001557_PNT DUBAI CHCOCO 800g DeMILAN_1764681722.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20notifica%20di%20richiamo_P001557_PNT%20DUBAI%20CHCOCO%20800g%20DeMILAN_1764681722.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "panettone-demilan-dubai-chocolate-hw-800-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PANETTONE DeMILAN DUBAI CHOCOLATE hw 800 g Nome o ragione sociale dell'OSA a nome del PAOLO LAZZARONI & FIGLI S.p.A. quale il prodotto è commercializzato",
+   "lotti": [
+    "L2527651",
+    "L252881"
+   ],
+   "marchio_identificazione": "DeMILAN",
+   "produttore": "PAOLO LAZZARONI & FIGLI S.p.A.",
+   "sede_stabilimento": "VIA GORIZIA 41/43, 21047, SARONNO (VARESE), ITALIA",
+   "scadenza": "30/04/2026",
+   "peso_volume": "800 g",
+   "motivo_esteso": "IN ALCUNE CONFEZIONI LA LISTA INGREDIENTI ED ALLERGENI NON È IN LINGUA ITALIANA",
+   "avvertenze": "gli allergeni presenti nel prodotto sono GRANO, PISTACCHIO, LATTE, SOIA, UOVA. Può contenere: ALTRA FRUTTA A GUSCIO e SENAPE. I clienti allergici a tali ingredienti sono pregati di non consumare il prodotto e riportarlo nel negozio. PER REPERIRE LA LISTA INGREDIENTI IN ITALIANO COMPLETA SCRIVERE A: QUALITY@LAZZARONI.IT",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto DeMILAN"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto DeMILAN\nDenominazione di vendita: PANETTONE DeMILAN DUBAI CHOCOLATE hw 800 g\nNome o ragione sociale\ndell'OSA a nome del\nPAOLO LAZZARONI & FIGLI S.p.A.\nquale il prodotto è\ncommercializzato:\nLotto di produzione: L2527651; L252881\nMarchio di identificazione dello stabilimento/del produttore: DeMILAN\nNome del produttore: PAOLO LAZZARONI & FIGLI S.p.A.\nSede dello stabilimento: VIA GORIZIA 41/43, 21047, SARONNO (VARESE), ITALIA\nData di scadenza o termine minimo di conservazione: 30/04/2026\nDescrizione peso/volume unità di vendita: 800 g\nMotivo del richiamo:\nIN ALCUNE CONFEZIONI LA LISTA INGREDIENTI ED ALLERGENI NON È IN LINGUA ITALIANA\nAvvertenze:\ngli allergeni presenti nel prodotto sono GRANO, PISTACCHIO, LATTE, SOIA, UOVA. Può contenere: ALTRA\nFRUTTA A GUSCIO e SENAPE.\nI clienti allergici a tali ingredienti sono pregati di non consumare il prodotto e riportarlo nel negozio.\nPER REPERIRE LA LISTA INGREDIENTI IN ITALIANO COMPLETA SCRIVERE A: QUALITY@LAZZARONI.IT"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:56+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:56+00:00"
+ },
+ "panfette-con-farina-integrale-senza-glutine": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panfette-con-farina-integrale-senza-glutine/",
+  "titolo": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+  "data_pubblicazione": "2025-12-24",
+  "marca": "NUTRIFREE",
+  "denominazione": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PAN164_03_04_26_DEF_def_1766591087.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO PAN164_03_04_26_DEF_def_1766591087.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PAN164_03_04_26_DEF_def_1766591087.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "panfette-con-farina-integrale-senza-glutine",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PANFETTE CON FARINA INTEGRALE SENZA GLUTINE",
+   "operatore": "NT Food S.r.l UNIPERSONALE",
+   "lotti": [
+    "03/04/2026"
+   ],
+   "produttore": "NT Food S.r.l UNIPERSONALE",
+   "sede_stabilimento": "NT Food S.r.l_Stabilimento di Porcari, Via G. Puccini, 1770-55016 _Porcari (LU)",
+   "scadenza": "03-04-2026",
+   "peso_volume": "340g",
+   "motivo_esteso": "Criticità nella fase di confezionamento con possibile conseguente rischio di sviluppo di muffa.",
+   "campi_extra": {
+    "Data": "19/12/2025 Marchio del prodotto: NUTRIFREE"
+   },
+   "testo": "RICHIAMO\nData: 19/12/2025 Marchio del prodotto: NUTRIFREE\nDenominazione di vendita:PANFETTE CON FARINA INTEGRALE SENZA GLUTINE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NT Food S.r.l UNIPERSONALE\ncommercializzato:\nLotto di produzione: 03/04/2026\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: NT Food S.r.l UNIPERSONALE\nSede dello stabilimento: NT Food S.r.l_Stabilimento di Porcari, Via G. Puccini, 1770-55016 _Porcari (LU)\nData di scadenza o termine minimo di conservazione: 03-04-2026\nDescrizione peso/volume unità di vendita: 340g\nMotivo del richiamo:\nCriticità nella fase di confezionamento con possibile conseguente rischio di sviluppo di muffa.\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:16+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:16+00:00"
+ },
+ "panfette-senza-glutine": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panfette-senza-glutine/",
+  "titolo": "PANFETTE SENZA GLUTINE",
+  "data_pubblicazione": "2025-12-24",
+  "marca": "NUTRIFREE",
+  "denominazione": "PANFETTE SENZA GLUTINE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20PAN163_02_05_26_DEF_def_1766591047.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo PAN163_02_05_26_DEF_def_1766591047.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20PAN163_02_05_26_DEF_def_1766591047.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "panfette-senza-glutine",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PANFETTE SENZA GLUTINE",
+   "operatore": "NT Food S.r.l UNIPERSONALE",
+   "lotti": [
+    "02/05/2026"
+   ],
+   "produttore": "NT Food S.r.l UNIPERSONALE",
+   "sede_stabilimento": "NT Food S.r.l_Stabilimento di Porcari, Via G. Puccini, 1770-55016 _Porcari (LU)",
+   "scadenza": "02-05-2026",
+   "peso_volume": "300g",
+   "motivo_esteso": "Criticità nella fase di confezionamento con possibile conseguente rischio di sviluppo di muffa.",
+   "campi_extra": {
+    "Data": "19/12/2025 Marchio del prodotto: NUTRIFREE"
+   },
+   "testo": "RICHIAMO\nData: 19/12/2025 Marchio del prodotto: NUTRIFREE\nDenominazione di vendita:PANFETTE SENZA GLUTINE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NT Food S.r.l UNIPERSONALE\ncommercializzato:\nLotto di produzione: 02/05/2026\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: NT Food S.r.l UNIPERSONALE\nSede dello stabilimento: NT Food S.r.l_Stabilimento di Porcari, Via G. Puccini, 1770-55016 _Porcari (LU)\nData di scadenza o termine minimo di conservazione: 02-05-2026\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nCriticità nella fase di confezionamento con possibile conseguente rischio di sviluppo di muffa.\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:13+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:13+00:00"
+ },
+ "pesto-genovese-fresco-senza-aglio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-genovese-fresco-senza-aglio/",
+  "titolo": "PESTO GENOVESE FRESCO SENZA AGLIO",
+  "data_pubblicazione": "2025-12-11",
+  "marca": "Fior Fiore COOP",
+  "denominazione": "PESTO GENOVESE FRESCO SENZA AGLIO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PESTO%20COOP%20modello%20richiamo%20FF_1765477218.pdf",
+  "allegati": [
+   {
+    "titolo": "PESTO COOP modello richiamo FF_1765477218.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PESTO%20COOP%20modello%20richiamo%20FF_1765477218.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-genovese-fresco-senza-aglio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PESTO GENOVESE FRESCO SENZA AGLIO",
+   "operatore": "COOP ITALIA S.C. VIA DEL LAVORO 6-8 CASALECCHIO DI RENO (BO)",
+   "lotti": [
+    "24/12/25"
+   ],
+   "marchio_identificazione": "IT N2R 69 UE",
+   "produttore": "IFEX GROUP SRL",
+   "sede_stabilimento": "VIA DELLA NUNZIATA 8 - 17100 - SAVONA",
+   "scadenza": "24-12-2025",
+   "peso_volume": "130g",
+   "motivo_esteso": "Possibile contaminazione microbiologica",
+   "avvertenze": "Invitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e a restituirlo al punto vendita per il rimborso",
+   "campi_extra": {
+    "Data": "10/12/2025 Marchio del prodotto: FIOR FIORE COOP"
+   },
+   "testo": "RICHIAMO\nData: 10/12/2025 Marchio del prodotto: FIOR FIORE COOP\nDenominazione di vendita:PESTO GENOVESE FRESCO SENZA AGLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA S.C. VIA DEL LAVORO 6-8 CASALECCHIO DI RENO (BO)\ncommercializzato:\nLotto di produzione: 24/12/25\nMarchio di identificazione dello stabilimento/del produttore: IT N2R 69 UE\nNome del produttore: IFEX GROUP SRL\nSede dello stabilimento: VIA DELLA NUNZIATA 8 - 17100 - SAVONA\nData di scadenza o termine minimo di conservazione: 24-12-2025\nDescrizione peso/volume unità di vendita: 130g\nMotivo del richiamo:\nPossibile contaminazione microbiologica\nAvvertenze:\nInvitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e a restituirlo al punto\nvendita per il rimborso"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:56+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:56+00:00"
+ },
+ "pesto-genovese-fresco-senza-aglio-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-genovese-fresco-senza-aglio-0/",
+  "titolo": "PESTO GENOVESE FRESCO SENZA AGLIO",
+  "data_pubblicazione": "2025-12-11",
+  "marca": "FIOR FIORE COOP",
+  "denominazione": "PESTO GENOVESE FRESCO SENZA AGLIO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20pesto%20FF_1765482610.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo pesto FF_1765482610.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20pesto%20FF_1765482610.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-genovese-fresco-senza-aglio-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PESTO GENOVESE FRESCO SENZA AGLIO",
+   "operatore": "COOP ITALIA S.C. VIA DEL LAVORO 6-8 CASALECCHIO DI RENO (BO)",
+   "lotti": [
+    "24/12/25"
+   ],
+   "marchio_identificazione": "IT N2R 69 UE",
+   "produttore": "IFEX GROUP SRL",
+   "sede_stabilimento": "VIA DELLA NUNZIATA 8 - 17100 - SAVONA",
+   "scadenza": "24-12-2025",
+   "peso_volume": "130g",
+   "motivo_esteso": "Possibile contaminazione microbiologica",
+   "avvertenze": "Invitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e a restituirlo al punto vendita per il rimborso",
+   "campi_extra": {
+    "Data": "10/12/2025 Marchio del prodotto: FIOR FIORE COOP"
+   },
+   "testo": "RICHIAMO\nData: 10/12/2025 Marchio del prodotto: FIOR FIORE COOP\nDenominazione di vendita:PESTO GENOVESE FRESCO SENZA AGLIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA S.C. VIA DEL LAVORO 6-8 CASALECCHIO DI RENO (BO)\ncommercializzato:\nLotto di produzione: 24/12/25\nMarchio di identificazione dello stabilimento/del produttore: IT N2R 69 UE\nNome del produttore: IFEX GROUP SRL\nSede dello stabilimento: VIA DELLA NUNZIATA 8 - 17100 - SAVONA\nData di scadenza o termine minimo di conservazione: 24-12-2025\nDescrizione peso/volume unità di vendita: 130g\nMotivo del richiamo:\nPossibile contaminazione microbiologica\nAvvertenze:\nInvitiamo i consumatori che l'avessero acquistato a non consumare il prodotto e a restituirlo al punto\nvendita per il rimborso"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:58+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:58+00:00"
+ },
+ "salame-7": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-7/",
+  "titolo": "Salame",
+  "data_pubblicazione": "2025-12-15",
+  "marca": "Soc. Agricola Ortenzi Carlo",
+  "denominazione": "Salame",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Ortenzi_1765795935.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_Ortenzi_1765795935.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_Ortenzi_1765795935.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-7",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:28:45+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:45+00:00"
+ },
+ "salsa-di-fegato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-di-fegato/",
+  "titolo": "SALSA DI FEGATO",
+  "data_pubblicazione": "2025-12-04",
+  "marca": "C.I.R. sa.s. di Mecarelli Claudio & C.",
+  "denominazione": "SALSA DI FEGATO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1764845213.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_1764845213.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1764845213.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsa-di-fegato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "campi_extra": {
+    "Data": "Marchio del prodotto:"
+   },
+   "testo": "RICHIAMO\nData: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:25+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:25+00:00"
+ },
+ "salsiccia-piccante": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-piccante/",
+  "titolo": "Salsiccia piccante",
+  "data_pubblicazione": "2025-12-22",
+  "marca": "Salsiccia piccante",
+  "denominazione": "Salsiccia piccante",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20salsiccia_1766417971.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello salsiccia_1766417971.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20salsiccia_1766417971.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-piccante",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "salsiccia piccante",
+   "operatore": "TRINITA' SPA FOOD INDUSTRY-VIA R.Maffei 195- VALLESE OPPEANO (VR) 908570",
+   "lotti": [
+    "IT 1025L CE"
+   ],
+   "marchio_identificazione": "EMILIA OVEST SALUMI SOC. COP.",
+   "sede_stabilimento": "VIA MARCONI 23 - 29010 - ALSENO (PC)",
+   "scadenza": "AVVERTENZE",
+   "peso_volume": "CONFEZIONE 500 G",
+   "motivo_esteso": "PRESENZA DI LISTERIA",
+   "avvertenze": "SCADENZE PRODOTTO RICHIAMATO: 19/12/2025- 21/12/2025 - 24/12/2025 - 28/12/2025 -04/01/2026 - 11/01/2026 -18/01/2026-25/01/2026",
+   "campi_extra": {
+    "Data": "202511-07 Marchio del prodotto:",
+    "SCADENZE PRODOTTO RICHIAMATO": "19/12/2025- 21/12/2025 - 24/12/2025 - 28/12/2025 -04/01/2026 -"
+   },
+   "testo": "RICHIAMO\nData: 202511-07 Marchio del prodotto:\nDenominazione di vendita: salsiccia piccante\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è TRINITA' SPA FOOD INDUSTRY-VIA R.Maffei 195- VALLESE OPPEANO (VR)\ncommercializzato:\n908570\nLotto di produzione:\nIT 1025L CE\nMarchio di identificazione dello stabilimento/del produttore:\nEMILIA OVEST SALUMI SOC. COP.\nNome del produttore:\nSede dello stabilimento:VIA MARCONI 23 - 29010 - ALSENO (PC)\nData di scadenza o termine minimo di conservazione: AVVERTENZE\nDescrizione peso/volume unità di vendita: CONFEZIONE 500 G\nMotivo del richiamo:\nPRESENZA DI LISTERIA\nAvvertenze:\nSCADENZE PRODOTTO RICHIAMATO: 19/12/2025- 21/12/2025 - 24/12/2025 - 28/12/2025 -04/01/2026 -\n11/01/2026 -18/01/2026-25/01/2026"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:35+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:35+00:00"
+ },
+ "salsiccia-salamella": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-salamella/",
+  "titolo": "Salsiccia / salamella",
+  "data_pubblicazione": "2025-12-11",
+  "marca": "NATURAMICA /HRL GOURMET",
+  "denominazione": "Salsiccia / salamella",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMO_1765468164.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULORICHIAMO_1765468164.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULORICHIAMO_1765468164.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-salamella",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:28:54+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:54+00:00"
+ },
+ "soffi-di-mais": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais/",
+  "titolo": "Soffi Di Mais",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "La Grande Ruota",
+  "denominazione": "Soffi Di Mais",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_La_Grande_Ruota_1765883384.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_La_Grande_Ruota_1765883384.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_La_Grande_Ruota_1765883384.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "soffi-di-mais",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Soffi Di Mais",
+   "operatore": "LA GRANDE RUOTA",
+   "lotti": [
+    "B2585"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "B2585 17/03/26",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: La Grande Ruota"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: La Grande Ruota\nDenominazione di vendita: Soffi Di Mais\nNome o ragione sociale dell'OSA LA GRANDE RUOTA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: B2585\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: B2585 17/03/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:29:43+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:43+00:00"
+ },
+ "soffi-di-mais-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-0/",
+  "titolo": "Soffi Di Mais",
+  "data_pubblicazione": "2025-12-22",
+  "marca": "La Grande Ruota",
+  "denominazione": "Soffi Di Mais",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_La_Grande_Ruota_1766399613.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_di_richiamo_La_Grande_Ruota_1766399613.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_di_richiamo_La_Grande_Ruota_1766399613.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "soffi-di-mais-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Soffi Di Mais",
+   "operatore": "LA GRANDE RUOTA",
+   "lotti": [
+    "B2585"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "B2585 17/03/26",
+   "peso_volume": "150g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/11/2025 Marchio del prodotto: La Grande Ruota"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2025 Marchio del prodotto: La Grande Ruota\nDenominazione di vendita: Soffi Di Mais\nNome o ragione sociale dell'OSA LA GRANDE RUOTA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: B2585\nMarchio di identificazione dello stabilimento/del produttore:\nLangalletta srl\nNome del produttore:\nLangalletta srl\nSede dello stabilimento:\nSanta vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: B2585 17/03/26\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:29+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:29+00:00"
+ },
+ "soffi-di-mais-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-1/",
+  "titolo": "Soffi Di Mais",
+  "data_pubblicazione": "2025-12-22",
+  "marca": "La Grande Ruota",
+  "denominazione": "Soffi Di Mais",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20La%20Grande%20Ruota_1766408550.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca La Grande Ruota_1766408550.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20La%20Grande%20Ruota_1766408550.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "soffi-di-mais-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Soffi Di Mais",
+   "operatore": "LA GRANDE RUOTA",
+   "lotti": [
+    "B2585"
+   ],
+   "marchio_identificazione": "Langalletta srl",
+   "produttore": "Langalletta srl",
+   "sede_stabilimento": "Santa vittoria d’alba, via statale 155 Cn",
+   "scadenza": "17-03-2026",
+   "peso_volume": "150 g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso dei prodotti non consumare, procedere allo smaltimento. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2025 Marchio del prodotto: La Grande Ruota",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/12/2025 Marchio del prodotto: La Grande Ruota\nDenominazione di vendita: Soffi Di Mais\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA GRANDE RUOTA\ncommercializzato:\nLotto di produzione: B2585\nMarchio di identificazione dello stabilimento/del produttore: Langalletta srl\nNome del produttore: Langalletta srl\nSede dello stabilimento: Santa vittoria d’alba, via statale 155 Cn\nData di scadenza o termine minimo di conservazione: 17-03-2026\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso dei prodotti non consumare, procedere allo smaltimento.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-24T22:28:32+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:28:32+00:00"
+ },
+ "soffi-di-mais-bio-50gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/soffi-di-mais-bio-50gr/",
+  "titolo": "Soffi di mais bio 50gr",
+  "data_pubblicazione": "2025-12-30",
+  "marca": "Azienda Agricola Podere Pereto",
+  "denominazione": "Soffi di mais bio 50gr",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Soffi%20di%20mais%20bio%2050gr_1767108838.pdf",
+  "allegati": [
+   {
+    "titolo": "Soffi di mais bio 50gr_1767108838.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Soffi%20di%20mais%20bio%2050gr_1767108838.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "soffi-di-mais-bio-50gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Soffi di mais bio 50gr",
+   "operatore": "Azienda Agricola Podere Pereto",
+   "lotti": [
+    "Lotti: 100826",
+    "070326"
+   ],
+   "marchio_identificazione": "Azienda Agricola Podere Pereto",
+   "produttore": "Azienda Agricola Podere Pereto",
+   "sede_stabilimento": "Località Podere Pereto, 17, Rapolano Terme (SI), 53040",
+   "scadenza": "10 mesi (come riportato in ciascun lotto)",
+   "peso_volume": "50g",
+   "motivo_esteso": "Quantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito. Art. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS 817.022.15)",
+   "avvertenze": "Se in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non consumare e procedere allo smaltimento.",
+   "campi_extra": {
+    "Data": "29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto"
+   },
+   "testo": "RICHIAMO\nData: 29 12 25 Marchio del prodotto: Azienda Agricola Podere Pereto\nDenominazione di vendita: Soffi di mais bio 50gr\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Azienda Agricola Podere Pereto\ncommercializzato:\nLotto di produzione: Lotti: 100826 e 070326\nMarchio di identificazione dello stabilimento/del produttore: Azienda Agricola Podere Pereto\nNome del produttore: Azienda Agricola Podere Pereto\nSede dello stabilimento: Località Podere Pereto, 17, Rapolano Terme (SI), 53040\nData di scadenza o termine minimo di conservazione: 10 mesi (come riportato in ciascun lotto)\nDescrizione peso/volume unità di vendita: 50g\nMotivo del richiamo:\nQuantità di Deossinivalenolo rilevata troppo elevata e supera il limite massimo consentito.\nArt. 2 al 3, lett b e allegato 2 dell’Ordinanza del DFI sui valori massimi di contaminanti (OCont, RS\n817.022.15)\nAvvertenze:\nSe in possesso di questo prodotto con i lotti sopra indicati (data di scadenza corrisponde al lotto), non\nconsumare e procedere allo smaltimento."
+  },
+  "prima_rilevazione": "2026-10-24T22:27:57+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:27:57+00:00"
+ },
+ "trippa-mista-cotta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trippa-mista-cotta/",
+  "titolo": "TRIPPA MISTA COTTA",
+  "data_pubblicazione": "2025-12-03",
+  "marca": "LA VERA TRIPPA NAPOLETANA",
+  "denominazione": "TRIPPA MISTA COTTA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1764777911.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_1764777911.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1764777911.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "trippa-mista-cotta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-24T22:29:54+00:00",
+  "ultimo_aggiornamento": "2026-10-24T22:29:54+00:00"
+ }
+}
