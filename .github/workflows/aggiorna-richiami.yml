@@ -1,0 +1,113 @@
+name: Aggiorna richiami
+
+on:
+  # Modificando notizie o approfondimenti si ripubblica subito, senza scraping.
+  push:
+    branches: [main]
+    paths:
+      - "MangioAvvisato-API/contenuti/**"
+  schedule:
+    # Ogni 3 ore, al minuto 17 (evita l'ora piena, quando GitHub è più carico).
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Recupera lo storico sfogliando tutte le pagine dell'elenco"
+        type: boolean
+        default: false
+      max_new:
+        description: "Numero massimo di richiami da elaborare in questa esecuzione"
+        type: string
+        default: "40"
+
+permissions:
+  contents: write   # per salvare data/richiami.json nel repository
+  pages: write      # per pubblicare su GitHub Pages
+  id-token: write
+
+concurrency:
+  group: aggiorna-richiami
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 150
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    defaults:
+      run:
+        working-directory: MangioAvvisato-API
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: MangioAvvisato-API/requirements.txt
+
+      - name: Installa dipendenze
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+          sudo apt-get install -y -qq xvfb
+
+      - name: Test
+        run: python -m pytest -q
+
+      # Il limite di tempo è sullo step, non sul job: se scatta, i passi
+      # successivi salvano e pubblicano comunque quanto già raccolto.
+      - name: Scarica i richiami
+        if: ${{ github.event_name != 'push' }}
+        timeout-minutes: 120
+        env:
+          BACKFILL: ${{ inputs.backfill }}
+          MAX_NEW: ${{ inputs.max_new || '40' }}
+          # Chromium con finestra (virtuale, tramite xvfb): meno riconoscibile come bot.
+          MANGIOAVVISATO_HEADED: "1"
+          MANGIOAVVISATO_DEBUG_DIR: debug
+        run: |
+          ARGS="--new-ids-file new_ids.txt --max-new $MAX_NEW"
+          if [ "$BACKFILL" = "true" ]; then ARGS="$ARGS --backfill"; fi
+          xvfb-run -a python -m scraper.main $ARGS
+
+      # Screenshot e HTML delle pagine (elenco, verifica anti-bot): si
+      # scaricano dal riepilogo dell'esecuzione, sezione Artifacts.
+      - name: Allega i file di debug
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-antibot
+          path: MangioAvvisato-API/debug/
+          if-no-files-found: ignore
+
+      # I passi seguenti girano anche se lo scraper si è fermato a metà.
+      - name: Rigenera l'API
+        if: ${{ !cancelled() }}
+        run: python -m scraper.main --only-build
+
+      - name: Salva i dati nel repository
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "mangioavvisato-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Richiami aggiornati $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+        if: ${{ !cancelled() }}
+      - uses: actions/upload-pages-artifact@v3
+        if: ${{ !cancelled() }}
+        with:
+          path: MangioAvvisato-API/public
+          name: github-pages-${{ github.run_attempt }}
+      - id: deploy
+        if: ${{ !cancelled() }}
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
