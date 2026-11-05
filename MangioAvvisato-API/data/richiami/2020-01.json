@@ -1,0 +1,508 @@
+{
+ "ceci-biologici": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ceci-biologici/",
+  "titolo": "CECI BIOLOGICI",
+  "data_pubblicazione": "2020-01-31",
+  "marca": "ECOR",
+  "denominazione": "CECI BIOLOGICI",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_418918_Richiamo_Ceci_Ecor_1761180604.pdf",
+  "allegati": [
+   {
+    "titolo": "Notifica_418918_Richiamo_Ceci_Ecor_1761180604.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Notifica_418918_Richiamo_Ceci_Ecor_1761180604.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ceci-biologici",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CECI BIOLOGICI",
+   "operatore": "EcorNaturaSì SpA, via L. De Besi 20/C Verona (VR) Italia",
+   "lotti": [
+    "15-07-2021"
+   ],
+   "marchio_identificazione": "ILTA Alimentare SpA",
+   "produttore": "ILTA Alimentare SpA",
+   "sede_stabilimento": "via dell’elettricità 19, Venezia (VE) Italia",
+   "scadenza": "15-07-2021",
+   "peso_volume": "400g",
+   "motivo_esteso": "PRESENZA DI ALLERGENI SOIA E SENAPE NON INDICATI IN ETICHETTA",
+   "avvertenze": "Si raccomanda ai consumatori ALLERGICI ALLA SOIA E ALLA SENAPE di controllare il prodotto acquistato e se appartenente alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che provvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "30/01/2020 Marchio del prodotto: ECOR",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 30/01/2020 Marchio del prodotto: ECOR\nDenominazione di vendita:CECI BIOLOGICI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è EcorNaturaSì SpA, via L. De Besi 20/C Verona (VR) Italia\ncommercializzato:\nLotto di produzione: 15-07-2021\nMarchio di identificazione dello stabilimento/del produttore: ILTA Alimentare SpA\nNome del produttore: ILTA Alimentare SpA\nSede dello stabilimento: via dell’elettricità 19, Venezia (VE) Italia\nData di scadenza o termine minimo di conservazione: 15-07-2021\nDescrizione peso/volume unità di vendita: 400g\nMotivo del richiamo:\nPRESENZA DI ALLERGENI SOIA E SENAPE NON INDICATI IN ETICHETTA\nAvvertenze:\nSi raccomanda ai consumatori ALLERGICI ALLA SOIA E ALLA SENAPE di controllare il prodotto acquistato e\nse appartenente alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che\nprovvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:29:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:05+00:00"
+ },
+ "facciamo-festa-con-torta-di-natale-senza-lattosio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/facciamo-festa-con-torta-di-natale-senza-lattosio/",
+  "titolo": "FACCIAMO FESTA CON TORTA DI NATALE SENZA LATTOSIO",
+  "data_pubblicazione": "2020-01-13",
+  "marca": "BELLI FRESCHI",
+  "denominazione": "FACCIAMO FESTA CON TORTA DI NATALE SENZA LATTOSIO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20FACCIAMO%20FESTA%20CON%20TORTA%20DI%20NATALE%20SENZA%20LATTOSIO_1761180545.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo FACCIAMO FESTA CON TORTA DI NATALE SENZA LATTOSIO_1761180545.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20FACCIAMO%20FESTA%20CON%20TORTA%20DI%20NATALE%20SENZA%20LATTOSIO_1761180545.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "facciamo-festa-con-torta-di-natale-senza-lattosio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:29:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:41+00:00"
+ },
+ "organic-peanut-butter-crunchy": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/organic-peanut-butter-crunchy/",
+  "titolo": "ORGANIC PEANUT BUTTER CRUNCHY",
+  "data_pubblicazione": "2020-01-08",
+  "marca": "CLEARSPRING",
+  "denominazione": "ORGANIC PEANUT BUTTER CRUNCHY",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_2020_0034_1761180540.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_2020_0034_1761180540.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_2020_0034_1761180540.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "organic-peanut-butter-crunchy",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:44+00:00"
+ },
+ "puzzone-di-moena": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena/",
+  "titolo": "PUZZONE DI MOENA",
+  "data_pubblicazione": "2020-01-23",
+  "marca": "TRENTIN SPA",
+  "denominazione": "PUZZONE DI MOENA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Maxi_Di_Trentin_def_1761180584.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_Maxi_Di_Trentin_def_1761180584.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Maxi_Di_Trentin_def_1761180584.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "puzzone-di-moena",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:15+00:00"
+ },
+ "puzzone-di-moena-dop-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-dop-200g/",
+  "titolo": "Puzzone di Moena DOP 200g",
+  "data_pubblicazione": "2020-01-22",
+  "marca": "Trentin S.p.A.",
+  "denominazione": "Puzzone di Moena DOP 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Puzzone%20di%20Moena%20200g_417755_1761180564.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo Puzzone di Moena 200g_417755_1761180564.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Puzzone%20di%20Moena%20200g_417755_1761180564.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "puzzone-di-moena-dop-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Puzzone di Moena DOP 200g",
+   "operatore": "Aldi Srl",
+   "lotti": [
+    "21324",
+    "21324A"
+   ],
+   "marchio_identificazione": "IT 05 195 CE",
+   "produttore": "Trentin S.p.A.",
+   "sede_stabilimento": "Via Genova, 19 37053 Cerea (VR)",
+   "scadenza": "Tutti",
+   "peso_volume": "200g",
+   "motivo_esteso": "Possibile presenza di Listeria monocytogenes",
+   "avvertenze": "Il prodotto con i lotti 21324 e 21324A non deve essere consumato e può essere restituito in qualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)",
+   "campi_extra": {
+    "Data": "20/01/2020 Marchio del prodotto: Trentin S.p.A."
+   },
+   "testo": "RICHIAMO\nData: 20/01/2020 Marchio del prodotto: Trentin S.p.A.\nDenominazione di vendita: Puzzone di Moena DOP 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Aldi Srl\ncommercializzato:\nLotto di produzione: 21324, 21324A\nMarchio di identificazione dello stabilimento/del produttore: IT 05 195 CE\nNome del produttore: Trentin S.p.A.\nSede dello stabilimento: Via Genova, 19 37053 Cerea (VR)\nData di scadenza o termine minimo di conservazione: Tutti\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPossibile presenza di Listeria monocytogenes\nAvvertenze:\nIl prodotto con i lotti 21324 e 21324A non deve essere consumato e può essere restituito in qualsiasi\npunto vendita ALDI.\nPer informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico:\n800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-25T09:29:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:26+00:00"
+ },
+ "puzzone-di-moena-dop-200g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/puzzone-di-moena-dop-200g-0/",
+  "titolo": "Puzzone di Moena DOP 200g",
+  "data_pubblicazione": "2020-01-23",
+  "marca": "Regione che Vai",
+  "denominazione": "Puzzone di Moena DOP 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/417755_Modello_Richiamo_22_01_20_ALDI_1761180589.pdf",
+  "allegati": [
+   {
+    "titolo": "417755_Modello_Richiamo_22_01_20_ALDI_1761180589.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/417755_Modello_Richiamo_22_01_20_ALDI_1761180589.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "puzzone-di-moena-dop-200g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Puzzone di Moena DOP 200g",
+   "operatore": "Aldi Srl",
+   "lotti": [
+    "21324",
+    "21324A"
+   ],
+   "marchio_identificazione": "IT 05 195 CE",
+   "produttore": "Trentin S.p.A.",
+   "sede_stabilimento": "Via Genova, 19 37053 Cerea (VR)",
+   "scadenza": "* vedi sotto",
+   "peso_volume": "200g",
+   "motivo_esteso": "Possibile contaminazione da Listeria monocytogenes",
+   "avvertenze": "Il prodotto con i lotti 21324 e 21324A non deve essere consumato e può essere restituito in qualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)",
+   "campi_extra": {
+    "Data": "22/01/2020 Marchio del prodotto: Regione che Vai"
+   },
+   "testo": "RICHIAMO\nData: 22/01/2020 Marchio del prodotto: Regione che Vai\nDenominazione di vendita:Puzzone di Moena DOP 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Aldi Srl\ncommercializzato:\nLotto di produzione: 21324, 21324A\nMarchio di identificazione dello stabilimento/del produttore: IT 05 195 CE\nNome del produttore: Trentin S.p.A.\nSede dello stabilimento: Via Genova, 19 37053 Cerea (VR)\nData di scadenza o termine minimo di conservazione: * vedi sotto\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nPossibile contaminazione da Listeria monocytogenes\nAvvertenze:\nIl prodotto con i lotti 21324 e 21324A non deve essere consumato e può essere restituito in qualsiasi\npunto vendita ALDI.\nPer informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico:\n800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-25T09:29:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:18+00:00"
+ },
+ "tortelloni-prosciutto-crudo-1-kg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortelloni-prosciutto-crudo-1-kg/",
+  "titolo": "Tortelloni prosciutto crudo 1 kg",
+  "data_pubblicazione": "2020-01-31",
+  "marca": "Fior di Pasta - Penny Market srl",
+  "denominazione": "Tortelloni prosciutto crudo 1 kg",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20penny%20market%20tortelloni_1761180609.pdf",
+  "allegati": [
+   {
+    "titolo": "avviso penny market tortelloni_1761180609.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/avviso%20penny%20market%20tortelloni_1761180609.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "tortelloni-prosciutto-crudo-1-kg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:07+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:07+00:00"
+ },
+ "uova-biologiche": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche/",
+  "titolo": "UOVA BIOLOGICHE",
+  "data_pubblicazione": "2020-01-18",
+  "marca": "OLIVERO CLAUDIO",
+  "denominazione": "UOVA BIOLOGICHE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_OLIVERO_1761180549.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO_RICHIAMO_OLIVERO_1761180549.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO_RICHIAMO_OLIVERO_1761180549.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-biologiche",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:38+00:00"
+ },
+ "uova-biologiche-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-0/",
+  "titolo": "Uova biologiche",
+  "data_pubblicazione": "2020-01-22",
+  "marca": "Olivero Claudio",
+  "denominazione": "Uova biologiche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo%20lotti%201A130120_2A130120_2C130120_1761180554.pdf",
+  "allegati": [
+   {
+    "titolo": "modello di richiamo lotti 1A130120_2A130120_2C130120_1761180554.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo%20lotti%201A130120_2A130120_2C130120_1761180554.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-biologiche-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:20+00:00"
+ },
+ "uova-biologiche-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-1/",
+  "titolo": "Uova biologiche",
+  "data_pubblicazione": "2020-01-22",
+  "marca": "Olivero Claudio",
+  "denominazione": "Uova biologiche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20lotti%201A140120_2c140120_1761180559.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo lotti 1A140120_2c140120_1761180559.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20lotti%201A140120_2c140120_1761180559.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-biologiche-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:23+00:00"
+ },
+ "uova-biologiche-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-2/",
+  "titolo": "Uova biologiche",
+  "data_pubblicazione": "2020-01-28",
+  "marca": "Olivero Claudio",
+  "denominazione": "Uova biologiche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20scadenza%2010.02_1761180594.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo scadenza 10.02_1761180594.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20scadenza%2010.02_1761180594.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-biologiche-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:09+00:00"
+ },
+ "uova-biologiche-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-biologiche-3/",
+  "titolo": "Uova biologiche",
+  "data_pubblicazione": "2020-01-28",
+  "marca": "Olivero Claudio",
+  "denominazione": "Uova biologiche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20scadenza%2011.02_1761180599.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo scadenza 11.02_1761180599.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20scadenza%2011.02_1761180599.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-biologiche-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:29:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:12+00:00"
+ },
+ "uova-fresche-cat-biologiche": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-biologiche/",
+  "titolo": "Uova Fresche Cat. A biologiche",
+  "data_pubblicazione": "2020-01-22",
+  "marca": "Cascina Italia SPA",
+  "denominazione": "Uova Fresche Cat. A biologiche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cascina%20italia_1761180573.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo cascina italia_1761180573.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20cascina%20italia_1761180573.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-cat-biologiche",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+   "operatore": "CASCINA ITALIA SPA",
+   "lotti": [
+    "5528139926"
+   ],
+   "marchio_identificazione": "OLIVERO CLAUDIO",
+   "produttore": "OLIVERO CLAUDIO",
+   "sede_stabilimento": "VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)",
+   "scadenza": "08-FEBBRAIO",
+   "peso_volume": "CONFEZIONE DA 4 UOVA BIOLOGICHE - VARIO CALIBRO",
+   "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA",
+   "avvertenze": "NON CONSUMARE LE UOVA RESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/01/2020 Marchio del prodotto: CASCINA ITALIA - UOVA BIOLOGICHE",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/01/2020 Marchio del prodotto: CASCINA ITALIA - UOVA BIOLOGICHE\nDenominazione di vendita:UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASCINA ITALIA SPA\ncommercializzato:\nLotto di produzione: 5528139926\nMarchio di identificazione dello stabilimento/del produttore: OLIVERO CLAUDIO\nNome del produttore: OLIVERO CLAUDIO\nSede dello stabilimento: VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)\nData di scadenza o termine minimo di conservazione: 08-FEBBRAIO\nDescrizione peso/volume unità di vendita: CONFEZIONE DA 4 UOVA BIOLOGICHE - VARIO CALIBRO\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nNON CONSUMARE LE UOVA\nRESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:29:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:30+00:00"
+ },
+ "uova-fresche-cat-biologiche-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-biologiche-0/",
+  "titolo": "Uova Fresche Cat. A biologiche",
+  "data_pubblicazione": "2020-01-22",
+  "marca": "Conad - Verso Natura - Uova biologiche",
+  "denominazione": "Uova Fresche Cat. A biologiche",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20CONAD_1761180579.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo CONAD_1761180579.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20CONAD_1761180579.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-cat-biologiche-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO",
+   "operatore": "CONAD SOC.COOPERATIVA",
+   "lotti": [
+    "5528139926"
+   ],
+   "marchio_identificazione": "OLIVERO CLAUDIO",
+   "produttore": "OLIVERO CLAUDIO",
+   "sede_stabilimento": "VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)",
+   "scadenza": "08-FEBBRAIO",
+   "peso_volume": "confezione da 2 - confezione da 6 uova biologiche - vario calibro",
+   "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA",
+   "avvertenze": "NON CONSUMARE LE UOVA RESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/01/2020 Marchio del prodotto: CONAD - VERSO NATURA - UOVA BIOLOGICHE",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/01/2020 Marchio del prodotto: CONAD - VERSO NATURA - UOVA BIOLOGICHE\nDenominazione di vendita:UOVA FRESCHE CAT. A BIOLOGICHE - VARIO CALIBRO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD SOC.COOPERATIVA\ncommercializzato:\nLotto di produzione: 5528139926\nMarchio di identificazione dello stabilimento/del produttore: OLIVERO CLAUDIO\nNome del produttore: OLIVERO CLAUDIO\nSede dello stabilimento: VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)\nData di scadenza o termine minimo di conservazione: 08-FEBBRAIO\nDescrizione peso/volume unità di vendita: confezione da 2 - confezione da 6 uova biologiche - vario calibro\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nNON CONSUMARE LE UOVA\nRESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:29:34+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:34+00:00"
+ },
+ "uova-fresche-cat-da-agricoltura-biologica": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-cat-da-agricoltura-biologica/",
+  "titolo": "Uova Fresche Cat. A da agricoltura biologica",
+  "data_pubblicazione": "2020-01-22",
+  "marca": "Amadori - Uova da agricoltura biologica",
+  "denominazione": "Uova Fresche Cat. A da agricoltura biologica",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GESCO_Amadori_1761180568.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo GESCO_Amadori_1761180568.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GESCO_Amadori_1761180568.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-cat-da-agricoltura-biologica",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE CAT. A DA AGRICOLTURA BIOLOGICA - VARIO CALIBRO",
+   "operatore": "GESCO SOCIETA' COOPERATIVA AGRICOLA",
+   "lotti": [
+    "5528139926"
+   ],
+   "marchio_identificazione": "OLIVERO CLAUDIO",
+   "produttore": "OLIVERO CLAUDIO",
+   "sede_stabilimento": "VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)",
+   "scadenza": "08-FEBBRAIO",
+   "peso_volume": "confezione da 4 uova da agricoltura biologica - vario calibro",
+   "motivo_esteso": "RICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA",
+   "avvertenze": "NON CONSUMARE LE UOVA RESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/01/2020 Marchio del prodotto: AMADORI - UOVA DA AGRICOLTURA BIOLOGICA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/01/2020 Marchio del prodotto: AMADORI - UOVA DA AGRICOLTURA BIOLOGICA\nDenominazione di vendita:UOVA FRESCHE CAT. A DA AGRICOLTURA BIOLOGICA - VARIO CALIBRO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GESCO SOCIETA' COOPERATIVA AGRICOLA\ncommercializzato:\nLotto di produzione: 5528139926\nMarchio di identificazione dello stabilimento/del produttore: OLIVERO CLAUDIO\nNome del produttore: OLIVERO CLAUDIO\nSede dello stabilimento: VIA RIGRASSO, 9 - 12030 MONASTEROLO DI SAVIGLIANO (CN)\nData di scadenza o termine minimo di conservazione: 08-FEBBRAIO\nDescrizione peso/volume unità di vendita: confezione da 4 uova da agricoltura biologica - vario calibro\nMotivo del richiamo:\nRICHIAMO A SCOPO CAUTELATIVO PER SOSPETTA CONTAMINAZIONE MICROBIOLOGICA\nAvvertenze:\nNON CONSUMARE LE UOVA\nRESTITUIRE LE UOVA AL PUNTO VENDITA DOVE SONO STATE ACQUISTATE\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:29:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:29:28+00:00"
+ }
+}

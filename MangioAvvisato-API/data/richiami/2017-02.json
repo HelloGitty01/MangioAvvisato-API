@@ -1,0 +1,584 @@
+{
+ "crostini": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini/",
+  "titolo": "Crostini",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "Bontà di pane",
+  "denominazione": "Crostini",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BONTA%20DI%20PANE_1761175103.pdf",
+  "allegati": [
+   {
+    "titolo": "BONTA DI PANE_1761175103.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BONTA%20DI%20PANE_1761175103.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+   "operatore": "PRIX QUALITY SPA",
+   "lotti": [
+    "040417-050517"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "peso_volume": "150G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: BONTA' DI PANE",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: BONTA' DI PANE\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PRIX QUALITY SPA\ncommercializzato:\nLotto di produzione: 040417-050517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 150G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 040417 - SCADENZA 26/09/17\nLOTTO 050517 - SCADENZA 03/10/17\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:59:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:59:58+00:00"
+ },
+ "crostini-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-0/",
+  "titolo": "Cros&tini",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "Ica Foods Spa - Crik Crok",
+  "denominazione": "Cros&tini",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20CLASSICO_1761175105.pdf",
+  "allegati": [
+   {
+    "titolo": "ICA CLASSICO_1761175105.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20CLASSICO_1761175105.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO CLASSICO)",
+   "operatore": "ICA FOODS SPA",
+   "lotti": [
+    "045116-050417-020517"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "peso_volume": "75G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: CROS&TINI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: CROS&TINI\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO CLASSICO)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ICA FOODS SPA\ncommercializzato:\nLotto di produzione: 045116-050417-020517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 045116 - SCADENZA 22/08/17\nLOTTO 050417 - SCADENZA 27/09/17\nLOTTO 020517 - SCADENZA 01/10/17\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:00+00:00"
+ },
+ "crostini-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-1/",
+  "titolo": "Crostini",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "PAM Panorama",
+  "denominazione": "Crostini",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PAM_1761175107.pdf",
+  "allegati": [
+   {
+    "titolo": "PAM_1761175107.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PAM_1761175107.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+   "operatore": "PAM PANORAMA SPA",
+   "lotti": [
+    "045116-020517"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "peso_volume": "75G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: PAM PANORAMA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: PAM PANORAMA\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PAM PANORAMA SPA\ncommercializzato:\nLotto di produzione: 045116-020517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 045116 - SCADENZA 22/08/17\nLOTTO 020517 - SCADENZA 01/10/17\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:06+00:00"
+ },
+ "crostini-classici": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-classici/",
+  "titolo": "Crostini classici",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "Bionda Spiga",
+  "denominazione": "Crostini classici",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIONDA%20SPIGA_1761175102.pdf",
+  "allegati": [
+   {
+    "titolo": "BIONDA SPIGA_1761175102.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BIONDA%20SPIGA_1761175102.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-classici",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+   "operatore": "DICO SPA",
+   "lotti": [
+    "040417"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "scadenza": "26-09-2017",
+   "peso_volume": "150G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: BIONDA SPIGA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: BIONDA SPIGA\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DICO SPA\ncommercializzato:\nLotto di produzione: 040417\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione: 26-09-2017\nDescrizione peso/volume unità di vendita: 150G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:59:55+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:59:55+00:00"
+ },
+ "crostini-classici-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-classici-0/",
+  "titolo": "Crostini classici",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "Primo",
+  "denominazione": "Crostini classici",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PRIMO_1761175109.pdf",
+  "allegati": [
+   {
+    "titolo": "PRIMO_1761175109.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PRIMO_1761175109.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-classici-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINO - PRODOTTO DA FORNO TOSTATO E FRITTO",
+   "operatore": "SISA SPA",
+   "lotti": [
+    "030517"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)",
+   "scadenza": "01-10-2017",
+   "peso_volume": "75G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: PRIMO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: PRIMO\nDenominazione di vendita:CROSTINO - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SISA SPA\ncommercializzato:\nLotto di produzione: 030517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione: 01-10-2017\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:09+00:00"
+ },
+ "crostini-dore": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-dore/",
+  "titolo": "Crostini dorè",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "Unes",
+  "denominazione": "Crostini dorè",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/UNES_1761175115.pdf",
+  "allegati": [
+   {
+    "titolo": "UNES_1761175115.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/UNES_1761175115.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-dore",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+   "operatore": "UNES MAXI SPA",
+   "lotti": [
+    "065016-040417-020517-050517"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "peso_volume": "75G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: UNES",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: UNES\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è UNES MAXI SPA\ncommercializzato:\nLotto di produzione: 065016-040417-020517-050517\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 065016 - SCADENZA 17/08/17\nLOTTO 040417 - SCADENZA 26/09/17\nLOTTO 020517 - SCADENZA 01/10/17\nLOTTO 050517 - SCADENZA 03/10/17\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:20+00:00"
+ },
+ "crostini-pizza": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-pizza/",
+  "titolo": "Cros&tini Pizza",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "Ica foods Spa - Crik Crok",
+  "denominazione": "Cros&tini Pizza",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20PIZZA_1761175106.pdf",
+  "allegati": [
+   {
+    "titolo": "ICA PIZZA_1761175106.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ICA%20PIZZA_1761175106.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-pizza",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTIMO - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO PIZZA)",
+   "operatore": "ICA FOODS SPA",
+   "lotti": [
+    "050417"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)",
+   "scadenza": "27/09/17",
+   "peso_volume": "75G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: CROS&TINI",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: CROS&TINI\nDenominazione di vendita:CROSTIMO - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO PIZZA)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ICA FOODS SPA\ncommercializzato:\nLotto di produzione: 050417\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione: 27/09/17\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:03+00:00"
+ },
+ "crostini-snack": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack/",
+  "titolo": "Crostini snack",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "San Giorgio",
+  "denominazione": "Crostini snack",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20giorgio%20Classico_1761175110.pdf",
+  "allegati": [
+   {
+    "titolo": "San giorgio Classico_1761175110.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20giorgio%20Classico_1761175110.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-snack",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO CLASSICO)",
+   "operatore": "SAN GIORGIO SRL",
+   "lotti": [
+    "040317"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "scadenza": "19-09-2017",
+   "peso_volume": "35G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: SAN GIORGIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: SAN GIORGIO\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO CLASSICO)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SAN GIORGIO SRL\ncommercializzato:\nLotto di produzione: 040317\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione: 19-09-2017\nDescrizione peso/volume unità di vendita: 35G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:11+00:00"
+ },
+ "crostini-snack-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-0/",
+  "titolo": "Crostini snack",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "Selex",
+  "denominazione": "Crostini snack",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SELEX_1761175113.pdf",
+  "allegati": [
+   {
+    "titolo": "SELEX_1761175113.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SELEX_1761175113.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-snack-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+   "operatore": "SELEX SRL",
+   "lotti": [
+    "065016-045116-015116-010417"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "peso_volume": "75G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: SELEX",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: SELEX\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX SRL\ncommercializzato:\nLotto di produzione: 065016-045116-015116-010417\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 065016 - SCADENZA 17/08/17\nLOTTO 045116 - SCADENZA 22/08/17\nLOTTO 015116 - SCADENZA 19/08/17\nLOTTO 010417 - SCADENZA 23/09/17\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:17+00:00"
+ },
+ "crostini-snack-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-1/",
+  "titolo": "Crostini snack",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "VALE",
+  "denominazione": "Crostini snack",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/VALE_1761175117.pdf",
+  "allegati": [
+   {
+    "titolo": "VALE_1761175117.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/VALE_1761175117.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-snack-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO",
+   "operatore": "SELEX SRL",
+   "lotti": [
+    "065016-045116"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "peso_volume": "75G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: VALE",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: VALE\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SELEX SRL\ncommercializzato:\nLotto di produzione: 065016-045116\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 75G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 065016 - SCADENZA 17/08/17\nLOTTO 045116 - SCADENZA 22/08/17\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:23+00:00"
+ },
+ "crostini-snack-gusto-intenso": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crostini-snack-gusto-intenso/",
+  "titolo": "Crostini snack gusto intenso",
+  "data_pubblicazione": "2017-02-22",
+  "marca": "San Giorgio",
+  "denominazione": "Crostini snack gusto intenso",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20Giorgio%20Intenso_1761175112.pdf",
+  "allegati": [
+   {
+    "titolo": "San Giorgio Intenso_1761175112.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/San%20Giorgio%20Intenso_1761175112.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crostini-snack-gusto-intenso",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO INTENSO)",
+   "operatore": "SAN GIORGIO SRL",
+   "lotti": [
+    "055016-010417"
+   ],
+   "marchio_identificazione": "SAN GIORGIO SRL",
+   "produttore": "SAN GIORGIO SRL",
+   "sede_stabilimento": "VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)",
+   "peso_volume": "35G",
+   "motivo_esteso": "PRESENZA DI CORPI ESTRANEI",
+   "campi_extra": {
+    "Data": "22/02/2017 Marchio del prodotto: SAN GIORGIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 22/02/2017 Marchio del prodotto: SAN GIORGIO\nDenominazione di vendita:CROSTINI - PRODOTTO DA FORNO TOSTATO E FRITTO (GUSTO INTENSO)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SAN GIORGIO SRL\ncommercializzato:\nLotto di produzione: 055016-010417\nMarchio di identificazione dello stabilimento/del produttore: SAN GIORGIO SRL\nNome del produttore: SAN GIORGIO SRL\nSede dello stabilimento: VIA PER OSPITALETTO 29/31 -25046- CAZZAGO SAN MARTINO (BS)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 35G\nMotivo del richiamo:\nPRESENZA DI CORPI ESTRANEI\nAvvertenze:\nLOTTO 055016 - SCADENZA 16/08/17\nLOTTO 010417 - SCADENZA 23/09/17\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:14+00:00"
+ },
+ "farina-di-grano-tenero-tipo-o-manitoba": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo-o-manitoba/",
+  "titolo": "FARINA DI GRANO TENERO TIPO O MANITOBA",
+  "data_pubblicazione": "2017-02-21",
+  "marca": "CARREFOUR",
+  "denominazione": "FARINA DI GRANO TENERO TIPO O MANITOBA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/all.%202%20ministeriale_1761175101.pdf",
+  "allegati": [
+   {
+    "titolo": "all. 2 ministeriale_1761175101.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/all.%202%20ministeriale_1761175101.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-grano-tenero-tipo-o-manitoba",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T10:00:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:25+00:00"
+ },
+ "farina-di-mais-gialla-bramata": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-mais-gialla-bramata/",
+  "titolo": "Farina di mais gialla bramata",
+  "data_pubblicazione": "2017-02-10",
+  "marca": "La Bresciana",
+  "denominazione": "Farina di mais gialla bramata",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_farina_di_mais_gialla_bramata_1761175099.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_farina_di_mais_gialla_bramata_1761175099.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_farina_di_mais_gialla_bramata_1761175099.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-mais-gialla-bramata",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Farina di mais gialla bramata",
+   "operatore": "Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.",
+   "lotti": [
+    "0810016"
+   ],
+   "produttore": "Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.",
+   "sede_stabilimento": "Vicolo del Molino 10 - Azzano Mella - Brescia",
+   "scadenza": "30-11-2017",
+   "peso_volume": "Sacchetto 1 kg",
+   "motivo_esteso": "Fumonisine oltre i limiti previsti dal Regolamento CE n. 1881/2006",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "10/02/2017 Marchio del prodotto: La Bresciana",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 10/02/2017 Marchio del prodotto: La Bresciana\nDenominazione di vendita:Farina di mais gialla bramata\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.\ncommercializzato:\nLotto di produzione: 0810016\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Molino Bresciano di Coffinardi Giuseppe & C. s.n.c.\nSede dello stabilimento: Vicolo del Molino 10 - Azzano Mella - Brescia\nData di scadenza o termine minimo di conservazione: 30-11-2017\nDescrizione peso/volume unità di vendita: Sacchetto 1 kg\nMotivo del richiamo:\nFumonisine oltre i limiti previsti dal Regolamento CE n. 1881/2006\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T10:00:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:30+00:00"
+ },
+ "fustino-acciaio-olivio-da-25-litri": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fustino-acciaio-olivio-da-25-litri/",
+  "titolo": "Fustino in acciaio \"Olivio\" da 2,5 litri",
+  "data_pubblicazione": "2017-02-08",
+  "marca": "Aginox",
+  "denominazione": "Fustino in acciaio \"Olivio\" da 2,5 litri",
+  "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo_1761175098.pdf",
+  "allegati": [
+   {
+    "titolo": "modello di richiamo_1761175098.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20di%20richiamo_1761175098.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fustino-acciaio-olivio-da-25-litri",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T10:00:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:33+00:00"
+ },
+ "ricotta-di-pecora-ricotta-della-mafalda": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta-di-pecora-ricotta-della-mafalda/",
+  "titolo": "Ricotta di pecora Ricotta della Mafalda",
+  "data_pubblicazione": "2017-02-17",
+  "marca": "Ricotta di pecora Ricotta della Mafalda",
+  "denominazione": "Ricotta di pecora Ricotta della Mafalda",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato%202%20con%20foto_1761175100.pdf",
+  "allegati": [
+   {
+    "titolo": "allegato 2 con foto_1761175100.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/allegato%202%20con%20foto_1761175100.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "ricotta-di-pecora-ricotta-della-mafalda",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T10:00:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T10:00:28+00:00"
+ }
+}

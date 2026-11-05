@@ -1,0 +1,1178 @@
+{
+ "acutil-donna-20-compresse": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acutil-donna-20-compresse/",
+  "titolo": "ACUTIL DONNA 20 compresse",
+  "data_pubblicazione": "2021-12-16",
+  "marca": "ACUTIL DONNA",
+  "denominazione": "ACUTIL DONNA 20 compresse",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoAcutildonna_1761190225.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoAcutildonna_1761190225.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoAcutildonna_1761190225.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "acutil-donna-20-compresse",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:32:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:53+00:00"
+ },
+ "catanesi-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/catanesi-0/",
+  "titolo": "Catanesi",
+  "data_pubblicazione": "2021-12-01",
+  "marca": "Specialità Buona tavola",
+  "denominazione": "Catanesi",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/catanesi_1761189543.pdf",
+  "allegati": [
+   {
+    "titolo": "catanesi_1761189543.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/catanesi_1761189543.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "catanesi-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:33:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:45+00:00"
+ },
+ "catanesi-artigianali-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/catanesi-artigianali-0/",
+  "titolo": "Catanesi artigianali",
+  "data_pubblicazione": "2021-12-01",
+  "marca": "Dolciaria Pelacchi",
+  "denominazione": "Catanesi artigianali",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/catanesi%20artigianali_1761189552.pdf",
+  "allegati": [
+   {
+    "titolo": "catanesi artigianali_1761189552.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/catanesi%20artigianali_1761189552.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "catanesi-artigianali-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:33:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:52+00:00"
+ },
+ "cf-g300-plateau-form-francesi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cf-g300-plateau-form-francesi/",
+  "titolo": "CF G300 PLATEAU FORM FRANCESI",
+  "data_pubblicazione": "2021-12-11",
+  "marca": "ENTREMONT ITALIA SRL",
+  "denominazione": "CF G300 PLATEAU FORM FRANCESI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Plateau%20formaggi%20_1__1761189593.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_Plateau formaggi _1__1761189593.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Plateau%20formaggi%20_1__1761189593.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cf-g300-plateau-form-francesi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CF G300 PLATEAU FORM FRANCESI",
+   "operatore": "ENTREMONT ITALIA SRL",
+   "lotti": [
+    "L 21327123",
+    "L 21328124",
+    "L 21329125"
+   ],
+   "marchio_identificazione": "FR 31.582.001 CE",
+   "produttore": "ENTREMONT ITALIA SRL",
+   "sede_stabilimento": "Villefranche-de-Lauragais",
+   "scadenza": "4, 5, 6 Gen 2022",
+   "peso_volume": "300g",
+   "motivo_esteso": "Riscontro di Listeria Monocytogenes",
+   "avvertenze": "Non consumare e riportare i prodotti in punto vendita, muniti di fattura di acquisto. Coloro che hanno già consumato i prodotti e presentano una sintomatologia tipo febbre, mal di testa, dolori muscolari, si consiglia di contattare il proprio medico di base. ×²­»®·®» ·³³ ¹·²» «²±æ ×²­»®·®» ·³³ ¹·²» ¼«»æ",
+   "campi_extra": {
+    "Data": "07/12/21 Marchio del prodotto: Entremont Terroirs & Sélection"
+   },
+   "testo": "RICHIAMO\nData: 07/12/21 Marchio del prodotto: Entremont Terroirs & Sélection\nDenominazione di vendita:CF G300 PLATEAU FORM FRANCESI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ENTREMONT ITALIA SRL\ncommercializzato:\nLotto di produzione: L 21327123; L 21328124; L 21329125\nMarchio di identificazione dello stabilimento/del produttore: FR 31.582.001 CE\nNome del produttore: ENTREMONT ITALIA SRL\nSede dello stabilimento: Villefranche-de-Lauragais\nData di scadenza o termine minimo di conservazione: 4, 5, 6 Gen 2022\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nRiscontro di Listeria Monocytogenes\nAvvertenze:\nNon consumare e riportare i prodotti in punto vendita, muniti di fattura di acquisto.\nColoro che hanno già consumato i prodotti e presentano una sintomatologia tipo febbre, mal di testa,\ndolori muscolari, si consiglia di contattare il proprio medico di base.\n×²­»®·®» ·³³¿¹·²» «²±æ ×²­»®·®» ·³³¿¹·²» ¼«»æ"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:03+00:00"
+ },
+ "clorpirifos-punte-di-aneto-essiccate-dallegitto-paesi-bassi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/clorpirifos-punte-di-aneto-essiccate-dallegitto-paesi-bassi/",
+  "titolo": "Clorpirifos in punte di aneto essiccate dall'Egitto - via Paesi Bassi",
+  "data_pubblicazione": "2021-12-01",
+  "marca": "OR-PA DERE OTU DILLSPITZEN ANETH",
+  "denominazione": "Clorpirifos in punte di aneto essiccate dall'Egitto - via Paesi Bassi",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20CLORPIRIPHOS%20OLTRE%20I%20LIMITI%20IN%20PUNTE%20DI%20ANETO_1761189534.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo CLORPIRIPHOS OLTRE I LIMITI IN PUNTE DI ANETO_1761189534.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20CLORPIRIPHOS%20OLTRE%20I%20LIMITI%20IN%20PUNTE%20DI%20ANETO_1761189534.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "clorpirifos-punte-di-aneto-essiccate-dallegitto-paesi-bassi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "DERE OTU DILLSPITZEN ANETH",
+   "operatore": "KLC FOODS SRLS VIA GRAMSCI 65 MODENA",
+   "lotti": [
+    "14/04/2023 KA3"
+   ],
+   "marchio_identificazione": "KAR GMBH",
+   "produttore": "KAR GMBH PICCOLOMINI STRASS COLONIA (GERMANIA)",
+   "sede_stabilimento": "PICCOLOMINI STRASS COLONIA (GERMANIA)",
+   "scadenza": "14-04-2023",
+   "peso_volume": "confezione da 750g.",
+   "motivo_esteso": "Clorpirifos in punte di aneto essiccate dall'Egitto - via Paesi Bassi.",
+   "avvertenze": "Chiunque fosse in possesso del prodotto, appartenente al lotto segnalato, è pregato di non consumarlo e di renderlo al punto vendita. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "01-10-2021 Marchio del prodotto: OR-PA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 01-10-2021 Marchio del prodotto: OR-PA\nDenominazione di vendita:DERE OTU DILLSPITZEN ANETH\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è KLC FOODS SRLS VIA GRAMSCI 65 MODENA\ncommercializzato:\nLotto di produzione: 14/04/2023 KA3\nMarchio di identificazione dello stabilimento/del produttore: KAR GMBH\nNome del produttore: KAR GMBH PICCOLOMINI STRASS COLONIA (GERMANIA)\nSede dello stabilimento: PICCOLOMINI STRASS COLONIA (GERMANIA)\nData di scadenza o termine minimo di conservazione: 14-04-2023\nDescrizione peso/volume unità di vendita: confezione da 750g.\nMotivo del richiamo:\nClorpirifos in punte di aneto essiccate dall'Egitto - via Paesi Bassi.\nAvvertenze:\nChiunque fosse in possesso del prodotto, appartenente al lotto segnalato, è pregato di non consumarlo e di\nrenderlo al punto vendita.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:39+00:00"
+ },
+ "danubiana-group-srl": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/danubiana-group-srl/",
+  "titolo": "DANUBIANA GROUP SRL",
+  "data_pubblicazione": "2021-12-07",
+  "marca": "MARCEL",
+  "denominazione": "DANUBIANA GROUP SRL",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO%20004091121_1_1761189570.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO 004091121_1_1761189570.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO%20004091121_1_1761189570.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "danubiana-group-srl",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "TOBA CA LA MAMA ACASA",
+   "operatore": "D A N U B I ANA GROUP SRL",
+   "lotti": [
+    "004091121"
+   ],
+   "marchio_identificazione": "RO 67 EC",
+   "produttore": "MARCEL SRL",
+   "sede_stabilimento": "SAT RACHITENI, COMUNA RACHITENI, IASI ROMANIA",
+   "scadenza": "29-12-2021",
+   "peso_volume": "0.537 KG",
+   "motivo_esteso": "PRESENZA DI LYSTERIA MONOCYTOGENES",
+   "campi_extra": {
+    "Data": "29/11/2021 Marchio del prodotto: MARCEL"
+   },
+   "testo": "RICHIAMO\nData: 29/11/2021 Marchio del prodotto: MARCEL\nDenominazione di vendita: TOBA CA LA MAMA ACASA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è D A N U B I ANA GROUP SRL\ncommercializzato:\nLotto di produzione: 004091121\nMarchio di identificazione dello stabilimento/del produttore: RO 67 EC\nNome del produttore: MARCEL SRL\nSede dello stabilimento: SAT RACHITENI, COMUNA RACHITENI, IASI ROMANIA\nData di scadenza o termine minimo di conservazione: 29-12-2021\nDescrizione peso/volume unità di vendita: 0.537 KG\nMotivo del richiamo:\nPRESENZA DI LYSTERIA MONOCYTOGENES\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:21+00:00"
+ },
+ "danubiana-group-srl-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/danubiana-group-srl-0/",
+  "titolo": "DANUBIANA GROUP SRL",
+  "data_pubblicazione": "2021-12-07",
+  "marca": "MARCEL",
+  "denominazione": "DANUBIANA GROUP SRL",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO%20004121121_1_1761189574.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO 004121121_1_1761189574.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO%20004121121_1_1761189574.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "danubiana-group-srl-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "TOBA CA LA MAMA ACASA",
+   "operatore": "D A N U B I ANA GROUP SRL",
+   "lotti": [
+    "004121121"
+   ],
+   "marchio_identificazione": "RO 67 EC",
+   "produttore": "MARCEL SRL",
+   "sede_stabilimento": "SAT RACHITENI, COMUNA RACHITENI, IASI ROMANIA",
+   "scadenza": "01-01-2022",
+   "peso_volume": "0.484 KG",
+   "motivo_esteso": "PRESENZA DI LYSTERIA MONOCYTOGENES",
+   "campi_extra": {
+    "Data": "29/11/2021 Marchio del prodotto: MARCEL"
+   },
+   "testo": "RICHIAMO\nData: 29/11/2021 Marchio del prodotto: MARCEL\nDenominazione di vendita: TOBA CA LA MAMA ACASA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è D A N U B I ANA GROUP SRL\ncommercializzato:\nLotto di produzione: 004121121\nMarchio di identificazione dello stabilimento/del produttore: RO 67 EC\nNome del produttore: MARCEL SRL\nSede dello stabilimento: SAT RACHITENI, COMUNA RACHITENI, IASI ROMANIA\nData di scadenza o termine minimo di conservazione: 01-01-2022\nDescrizione peso/volume unità di vendita: 0.484 KG\nMotivo del richiamo:\nPRESENZA DI LYSTERIA MONOCYTOGENES\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:25+00:00"
+ },
+ "formaggio-primosale-con-olive-rucola-e-peperoncino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-primosale-con-olive-rucola-e-peperoncino/",
+  "titolo": "Formaggio primosale con olive rucola e peperoncino",
+  "data_pubblicazione": "2021-12-30",
+  "marca": "Pascoli italiani PECORICCO (distribuzione EUROSPIN)",
+  "denominazione": "Formaggio primosale con olive rucola e peperoncino",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761190248.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_1761190248.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_1761190248.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-primosale-con-olive-rucola-e-peperoncino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:32:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:18+00:00"
+ },
+ "funghi-shiitake-40-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-shiitake-40-g/",
+  "titolo": "Funghi Shiitake 40 g",
+  "data_pubblicazione": "2021-12-10",
+  "marca": "Arche Naturkuche",
+  "denominazione": "Funghi Shiitake 40 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_FUNGHI_1761189589.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_FUNGHI_1761189589.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_FUNGHI_1761189589.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "funghi-shiitake-40-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Funghi Shiitake 40 g",
+   "operatore": "Arche Naturprodukte GmbH",
+   "lotti": [
+    "31/08/22",
+    "30/11/22"
+   ],
+   "marchio_identificazione": "Arche Naturküche",
+   "produttore": "Arche Naturprodukte GmbH",
+   "sede_stabilimento": "Liebigstr 5a D-40721 Hilden",
+   "scadenza": "vedi Lotto",
+   "peso_volume": "40g",
+   "motivo_esteso": "Mancanza di dichiarazione allergene SOLFITI in etichetta",
+   "avvertenze": "Si raccomanda ai consumatori allergici ai SOLFITI di controllare il prodotto acquistato e le scorte in casa e se appartenenti alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che provvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi.",
+   "campi_extra": {
+    "Data": "02/12/2021 Marchio del prodotto: Arche Naturküche"
+   },
+   "testo": "RICHIAMO\nData: 02/12/2021 Marchio del prodotto: Arche Naturküche\nDenominazione di vendita:Funghi Shiitake 40 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Arche Naturprodukte GmbH\ncommercializzato:\nLotto di produzione: 31/08/22 e 30/11/22\nMarchio di identificazione dello stabilimento/del produttore: Arche Naturküche\nNome del produttore: Arche Naturprodukte GmbH\nSede dello stabilimento: Liebigstr 5a D-40721 Hilden\nData di scadenza o termine minimo di conservazione: vedi Lotto\nDescrizione peso/volume unità di vendita: 40g\nMotivo del richiamo:\nMancanza di dichiarazione allergene SOLFITI in etichetta\nAvvertenze:\nSi raccomanda ai consumatori allergici ai SOLFITI di controllare il prodotto acquistato e le scorte in casa e\nse appartenenti alla scadenza richiamata, di NON CONSUMARLO e di riportarlo al proprio negoziante che\nprovvederà a sostituirlo o rimborsarlo oltre che a chiarire eventuali dubbi."
+  },
+  "prima_rilevazione": "2026-10-25T08:33:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:14+00:00"
+ },
+ "gnocchetti-alla-sorrentina-550g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gnocchetti-alla-sorrentina-550g/",
+  "titolo": "Gnocchetti alla Sorrentina 550g",
+  "data_pubblicazione": "2021-12-22",
+  "marca": "FINDUS",
+  "denominazione": "Gnocchetti alla Sorrentina 550g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoGnocchettiSorrentinaL1319el1320_1761190234.pdf",
+  "allegati": [
+   {
+    "titolo": "RichiamoGnocchettiSorrentinaL1319el1320_1761190234.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RichiamoGnocchettiSorrentinaL1319el1320_1761190234.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gnocchetti-alla-sorrentina-550g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "550 g"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:40+00:00"
+ },
+ "granturco-frantumato-ibrido-medio-kg-25-uso-zootecnico-materia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granturco-frantumato-ibrido-medio-kg-25-uso-zootecnico-materia/",
+  "titolo": "GRANTURCO FRANTUMATO IBRIDO MEDIO KG 25 USO ZOOTECNICO MATERIA PRIMA PER MANGIMI",
+  "data_pubblicazione": "2021-12-06",
+  "marca": "LA FATTORIA DI MZ",
+  "denominazione": "GRANTURCO FRANTUMATO IBRIDO MEDIO KG 25 USO ZOOTECNICO MATERIA PRIMA PER MANGIMI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20FRANTUMATO.pdf_1761189561.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo FRANTUMATO.pdf_1761189561.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20FRANTUMATO.pdf_1761189561.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "granturco-frantumato-ibrido-medio-kg-25-uso-zootecnico-materia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "GRANTURCO FRANTUMATO IBRIDO MEDIO KG 25 USO ZOOTECNICO MATERIA PRIMA PER MANGIMI",
+   "operatore": "MICHELOTTI & ZEI S.R.L.",
+   "lotti": [
+    "080921"
+   ],
+   "produttore": "MICHELOTTI & ZEI S.R.L.",
+   "sede_stabilimento": "VIA FRANCESCA, 1559 – LARCIANO (PT)",
+   "scadenza": "080922",
+   "peso_volume": "KG 25",
+   "motivo_esteso": "PRESENZA DI AFLATOSSINE OLTRE I LIMITI DI LEGGE",
+   "avvertenze": "SI RACCOMANDA DI NON UTILIZZARE IL PRODOTTO E DI RIPORTARLO PRESSO IL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "03/12/2021 Marchio del prodotto: LA FATTORIA DI MZ"
+   },
+   "testo": "Mod. 03/PSQ-07\nRev. 1.0\nData\nMICHELOTTI & ZEI S.r.l.\n09.09.2020\nPagina 1 di 1\nSCHEDA RICHIAMO PRODOTTO\nRICHIAMO\nData: 03/12/2021 Marchio del prodotto: LA FATTORIA DI MZ\nDenominazione di vendita: GRANTURCO FRANTUMATO IBRIDO MEDIO KG 25 USO ZOOTECNICO\nMATERIA PRIMA PER MANGIMI\nNome o ragione sociale dell'OSA\nMICHELOTTI & ZEI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 080921\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: MICHELOTTI & ZEI S.R.L.\nSede dello stabilimento: VIA FRANCESCA, 1559 – LARCIANO (PT)\nData di scadenza o termine minimo di conservazione: 080922\nDescrizione peso/volume unità di vendita: KG 25\nMotivo del richiamo: PRESENZA DI AFLATOSSINE OLTRE I LIMITI DI LEGGE\nAvvertenze: SI RACCOMANDA DI NON UTILIZZARE IL PRODOTTO E DI RIPORTARLO PRESSO IL\nPUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:29+00:00"
+ },
+ "granturco-ibrido-uso-zootkg-25-materia-prima-mangimi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/granturco-ibrido-uso-zootkg-25-materia-prima-mangimi/",
+  "titolo": "GRANTURCO IBRIDO uso zoot.KG 25 MATERIA PRIMA PER MANGIMI",
+  "data_pubblicazione": "2021-12-06",
+  "marca": "LA FATTORIA DI MZ",
+  "denominazione": "GRANTURCO IBRIDO uso zoot.KG 25 MATERIA PRIMA PER MANGIMI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20IBRIDO.pdf_1761189565.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo IBRIDO.pdf_1761189565.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20IBRIDO.pdf_1761189565.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "granturco-ibrido-uso-zootkg-25-materia-prima-mangimi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "GRANTURCO IBRIDO uso zoot.KG 25 MATERIA PRIMA PER MANGIMI",
+   "operatore": "MICHELOTTI & ZEI S.R.L.",
+   "lotti": [
+    "080921 - 100921"
+   ],
+   "produttore": "MICHELOTTI & ZEI S.R.L.",
+   "sede_stabilimento": "VIA FRANCESCA, 1559 - LARCIANO (PT)",
+   "scadenza": "080922 - 100922",
+   "peso_volume": "KG 25",
+   "motivo_esteso": "PRESENZA DI AFLATOSSINE OLTRE I LIMITI DI LEGGE",
+   "avvertenze": "SI RACCOMANDA DI NON UTILIZZARE IL PRODOTTO E DI RIPORTARLO PRESSO IL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "03/12/2021 Marchio del prodotto: LA FATTORIA DI MZ"
+   },
+   "testo": "Mod. 03/PSQ-07\nRev. 1.0\nData\nMICHELOTTI & ZEI S.r.l.\n09.09.2020\nPagina 1 di 1\nSCHEDA RICHIAMO PRODOTTO\nRICHIAMO\nData: 03/12/2021 Marchio del prodotto: LA FATTORIA DI MZ\nDenominazione di vendita: GRANTURCO IBRIDO uso zoot.KG 25 MATERIA PRIMA PER MANGIMI\nNome o ragione sociale dell'OSA\nMICHELOTTI & ZEI S.R.L.\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 080921 - 100921\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: MICHELOTTI & ZEI S.R.L.\nSede dello stabilimento: VIA FRANCESCA, 1559 - LARCIANO (PT)\nData di scadenza o termine minimo di conservazione: 080922 - 100922\nDescrizione peso/volume unità di vendita: KG 25\nMotivo del richiamo: PRESENZA DI AFLATOSSINE OLTRE I LIMITI DI LEGGE\nAvvertenze: SI RACCOMANDA DI NON UTILIZZARE IL PRODOTTO E DI RIPORTARLO PRESSO IL\nPUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:33+00:00"
+ },
+ "liquore-di-liquirizia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquore-di-liquirizia/",
+  "titolo": "Liquore di Liquirizia",
+  "data_pubblicazione": "2021-12-16",
+  "marca": "Caffè Pazzini",
+  "denominazione": "Liquore di Liquirizia",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_1761190227.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello Richiamo_1761190227.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20Richiamo_1761190227.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "liquore-di-liquirizia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:32:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:58+00:00"
+ },
+ "liquore-di-liquirizia-bio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/liquore-di-liquirizia-bio/",
+  "titolo": "Liquore di Liquirizia bio",
+  "data_pubblicazione": "2021-12-14",
+  "marca": "CAFFE' PAZZINI",
+  "denominazione": "Liquore di Liquirizia bio",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20inviato_1761190223.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di Richiamo inviato_1761190223.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo%20inviato_1761190223.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "liquore-di-liquirizia-bio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:33:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:00+00:00"
+ },
+ "mini-gallette-mais-e-legumi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-gallette-mais-e-legumi/",
+  "titolo": "MINI GALLETTE MAIS E LEGUMI",
+  "data_pubblicazione": "2021-12-16",
+  "marca": "CURTI S.R.L.",
+  "denominazione": "MINI GALLETTE MAIS E LEGUMI",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20GALLETTE%20EUROSPIN%20CURTIRISO_1761190226.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO GALLETTE EUROSPIN CURTIRISO_1761190226.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20GALLETTE%20EUROSPIN%20CURTIRISO_1761190226.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mini-gallette-mais-e-legumi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:32:55+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:55+00:00"
+ },
+ "pasta-di-mais-e-grano-saraceno-penne": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-mais-e-grano-saraceno-penne/",
+  "titolo": "PASTA DI MAIS E GRANO SARACENO - PENNE",
+  "data_pubblicazione": "2021-12-29",
+  "marca": "BIO IN",
+  "denominazione": "PASTA DI MAIS E GRANO SARACENO - PENNE",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Penne%20Mais%20e%20Grano%20Saraceno_1761190238.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo Prodotto Penne Mais e Grano Saraceno_1761190238.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Penne%20Mais%20e%20Grano%20Saraceno_1761190238.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pasta-di-mais-e-grano-saraceno-penne",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PASTA DI MAIS E GRANO SARACENO - PENNE",
+   "operatore": "LA ROMAGNOLA BIO S.R.L.S.",
+   "lotti": [
+    "22/01/2024"
+   ],
+   "marchio_identificazione": "LA ROMAGNOLA BIO",
+   "produttore": "LA ROMAGNOLA BIO SRLS",
+   "sede_stabilimento": "VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)",
+   "scadenza": "22/01/24",
+   "peso_volume": "500g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI RIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2021 Marchio del prodotto: BIO IN",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2021 Marchio del prodotto: BIO IN\nDenominazione di vendita:PASTA DI MAIS E GRANO SARACENO - PENNE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA ROMAGNOLA BIO S.R.L.S.\ncommercializzato:\nLotto di produzione: 22/01/2024\nMarchio di identificazione dello stabilimento/del produttore: LA ROMAGNOLA BIO\nNome del produttore: LA ROMAGNOLA BIO SRLS\nSede dello stabilimento: VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)\nData di scadenza o termine minimo di conservazione: 22/01/24\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI\nRIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:20+00:00"
+ },
+ "pasta-di-riso-integrale-bersaglieri": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-bersaglieri/",
+  "titolo": "PASTA DI RISO INTEGRALE - BERSAGLIERI",
+  "data_pubblicazione": "2021-12-29",
+  "marca": "BIO IN",
+  "denominazione": "PASTA DI RISO INTEGRALE - BERSAGLIERI",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20Integrale_1761190241.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo Prodotto Bersaglieri Riso Integrale_1761190241.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20Integrale_1761190241.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pasta-di-riso-integrale-bersaglieri",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PASTA DI RISO INTEGRALE - BERSAGLIERI",
+   "operatore": "LA ROMAGNOLA BIO S.R.L.S.",
+   "lotti": [
+    "25/01/2024"
+   ],
+   "marchio_identificazione": "LA ROMAGNOLA BIO",
+   "produttore": "LA ROMAGNOLA BIO SRLS",
+   "sede_stabilimento": "VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)",
+   "scadenza": "25/01/24",
+   "peso_volume": "500g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI RIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2021 Marchio del prodotto: BIO IN",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2021 Marchio del prodotto: BIO IN\nDenominazione di vendita:PASTA DI RISO INTEGRALE - BERSAGLIERI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA ROMAGNOLA BIO S.R.L.S.\ncommercializzato:\nLotto di produzione: 25/01/2024\nMarchio di identificazione dello stabilimento/del produttore: LA ROMAGNOLA BIO\nNome del produttore: LA ROMAGNOLA BIO SRLS\nSede dello stabilimento: VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)\nData di scadenza o termine minimo di conservazione: 25/01/24\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI\nRIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:25+00:00"
+ },
+ "pasta-di-riso-integrale-e-canapa-bersaglieri": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-e-canapa-bersaglieri/",
+  "titolo": "PASTA DI RISO INTEGRALE E CANAPA - BERSAGLIERI",
+  "data_pubblicazione": "2021-12-29",
+  "marca": "BIO IN",
+  "denominazione": "PASTA DI RISO INTEGRALE E CANAPA - BERSAGLIERI",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20e%20Canapa_1761190246.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo Prodotto Bersaglieri Riso e Canapa_1761190246.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Bersaglieri%20Riso%20e%20Canapa_1761190246.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pasta-di-riso-integrale-e-canapa-bersaglieri",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PASTA DI RISO INTEGRALE e CANAPA- BERSAGLIERI",
+   "operatore": "LA ROMAGNOLA BIO S.R.L.S.",
+   "lotti": [
+    "26/01/2024"
+   ],
+   "marchio_identificazione": "LA ROMAGNOLA BIO",
+   "produttore": "LA ROMAGNOLA BIO SRLS",
+   "sede_stabilimento": "VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)",
+   "scadenza": "26/01/24",
+   "peso_volume": "350g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI RIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2021 Marchio del prodotto: BIO IN",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2021 Marchio del prodotto: BIO IN\nDenominazione di vendita:PASTA DI RISO INTEGRALE e CANAPA- BERSAGLIERI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA ROMAGNOLA BIO S.R.L.S.\ncommercializzato:\nLotto di produzione: 26/01/2024\nMarchio di identificazione dello stabilimento/del produttore: LA ROMAGNOLA BIO\nNome del produttore: LA ROMAGNOLA BIO SRLS\nSede dello stabilimento: VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)\nData di scadenza o termine minimo di conservazione: 26/01/24\nDescrizione peso/volume unità di vendita: 350g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI\nRIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:32+00:00"
+ },
+ "pasta-di-riso-integrale-filini": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-filini/",
+  "titolo": "PASTA DI RISO INTEGRALE - FILINI",
+  "data_pubblicazione": "2021-12-29",
+  "marca": "BIO IN",
+  "denominazione": "PASTA DI RISO INTEGRALE - FILINI",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Filini%20di%20Riso_1761190240.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo Prodotto Filini di Riso_1761190240.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Filini%20di%20Riso_1761190240.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pasta-di-riso-integrale-filini",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PASTA DI RISO INTEGRALE - FILINI",
+   "operatore": "LA ROMAGNOLA BIO S.R.L.S.",
+   "lotti": [
+    "22/01/2024"
+   ],
+   "marchio_identificazione": "LA ROMAGNOLA BIO",
+   "produttore": "LA ROMAGNOLA BIO SRLS",
+   "sede_stabilimento": "VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)",
+   "scadenza": "22/01/24",
+   "peso_volume": "350g - 500g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI RIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2021 Marchio del prodotto: BIO IN",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2021 Marchio del prodotto: BIO IN\nDenominazione di vendita:PASTA DI RISO INTEGRALE - FILINI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA ROMAGNOLA BIO S.R.L.S.\ncommercializzato:\nLotto di produzione: 22/01/2024\nMarchio di identificazione dello stabilimento/del produttore: LA ROMAGNOLA BIO\nNome del produttore: LA ROMAGNOLA BIO SRLS\nSede dello stabilimento: VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)\nData di scadenza o termine minimo di conservazione: 22/01/24\nDescrizione peso/volume unità di vendita: 350g - 500g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI\nRIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:23+00:00"
+ },
+ "pasta-di-riso-integrale-fusilli": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-fusilli/",
+  "titolo": "PASTA DI RISO INTEGRALE - FUSILLI",
+  "data_pubblicazione": "2021-12-29",
+  "marca": "BIO IN",
+  "denominazione": "PASTA DI RISO INTEGRALE - FUSILLI",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Fusilli%20Riso%20Integrale_1761190243.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo Prodotto Fusilli Riso Integrale_1761190243.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Fusilli%20Riso%20Integrale_1761190243.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pasta-di-riso-integrale-fusilli",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PASTA DI RISO INTEGRALE - FUSILLI",
+   "operatore": "LA ROMAGNOLA BIO S.R.L.S.",
+   "lotti": [
+    "25/01/2024"
+   ],
+   "marchio_identificazione": "LA ROMAGNOLA BIO",
+   "produttore": "LA ROMAGNOLA BIO SRLS",
+   "sede_stabilimento": "VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)",
+   "scadenza": "25/01/24",
+   "peso_volume": "500g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI RIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2021 Marchio del prodotto: BIO IN",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2021 Marchio del prodotto: BIO IN\nDenominazione di vendita:PASTA DI RISO INTEGRALE - FUSILLI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA ROMAGNOLA BIO S.R.L.S.\ncommercializzato:\nLotto di produzione: 25/01/2024\nMarchio di identificazione dello stabilimento/del produttore: LA ROMAGNOLA BIO\nNome del produttore: LA ROMAGNOLA BIO SRLS\nSede dello stabilimento: VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)\nData di scadenza o termine minimo di conservazione: 25/01/24\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI\nRIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:28+00:00"
+ },
+ "pasta-di-riso-integrale-penne": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pasta-di-riso-integrale-penne/",
+  "titolo": "PASTA DI RISO INTEGRALE - PENNE",
+  "data_pubblicazione": "2021-12-29",
+  "marca": "BIO IN",
+  "denominazione": "PASTA DI RISO INTEGRALE - PENNE",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Penne%20Riso%20Integrale_1761190244.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo Prodotto Penne Riso Integrale_1761190244.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Prodotto%20Penne%20Riso%20Integrale_1761190244.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "pasta-di-riso-integrale-penne",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PASTA DI RISO INTEGRALE - PENNE",
+   "operatore": "LA ROMAGNOLA BIO S.R.L.S.",
+   "lotti": [
+    "25/01/2024"
+   ],
+   "marchio_identificazione": "LA ROMAGNOLA BIO",
+   "produttore": "LA ROMAGNOLA BIO SRLS",
+   "sede_stabilimento": "VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)",
+   "scadenza": "25/01/24",
+   "peso_volume": "500g",
+   "motivo_esteso": "POSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO",
+   "avvertenze": "SI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI RIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2021 Marchio del prodotto: BIO IN",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2021 Marchio del prodotto: BIO IN\nDenominazione di vendita:PASTA DI RISO INTEGRALE - PENNE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA ROMAGNOLA BIO S.R.L.S.\ncommercializzato:\nLotto di produzione: 25/01/2024\nMarchio di identificazione dello stabilimento/del produttore: LA ROMAGNOLA BIO\nNome del produttore: LA ROMAGNOLA BIO SRLS\nSede dello stabilimento: VIA MARTIRI PONTE BASTIA, 11 - 44011- ARGENTA (FE)\nData di scadenza o termine minimo di conservazione: 25/01/24\nDescrizione peso/volume unità di vendita: 500g\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI GLUTINE OLTRE IL LIMITE CONSENTITO\nAvvertenze:\nSI PREGA DI NON CONSUMARE IL PRODOTTO SE INTOLLERANTI ALL'ALLERGENE GLUTINE E DI\nRIPORTARE IL PRODOTTO PRESSO IL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:30+00:00"
+ },
+ "polpa-di-granceola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/polpa-di-granceola/",
+  "titolo": "POLPA DI GRANCEOLA",
+  "data_pubblicazione": "2021-12-03",
+  "marca": "FISH & FRIENDS",
+  "denominazione": "POLPA DI GRANCEOLA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cam%20Evolution%20richiamo%20polpa%20di%20granceola%20lotto%20162507_1761189556.pdf",
+  "allegati": [
+   {
+    "titolo": "Cam Evolution richiamo polpa di granceola lotto 162507_1761189556.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cam%20Evolution%20richiamo%20polpa%20di%20granceola%20lotto%20162507_1761189556.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "polpa-di-granceola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:33:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:35+00:00"
+ },
+ "ricciarelli-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-1/",
+  "titolo": "Ricciarelli",
+  "data_pubblicazione": "2021-12-01",
+  "marca": "Specialità buona tavola",
+  "denominazione": "Ricciarelli",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ricciarelli_1761189538.pdf",
+  "allegati": [
+   {
+    "titolo": "ricciarelli_1761189538.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ricciarelli_1761189538.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ricciarelli-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:33:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:42+00:00"
+ },
+ "ricciarelli-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-2/",
+  "titolo": "Ricciarelli",
+  "data_pubblicazione": "2021-12-01",
+  "marca": "Sapori artigianali",
+  "denominazione": "Ricciarelli",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/sapori%20artigianali%20ricc_1761189547.pdf",
+  "allegati": [
+   {
+    "titolo": "sapori artigianali ricc_1761189547.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/sapori%20artigianali%20ricc_1761189547.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ricciarelli-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:33:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:49+00:00"
+ },
+ "ricciarelli-artigianali-di-cambiano-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricciarelli-artigianali-di-cambiano-1/",
+  "titolo": "Ricciarelli artigianali di Cambiano",
+  "data_pubblicazione": "2021-12-09",
+  "marca": "Dolciaria Pelacchi srl",
+  "denominazione": "Ricciarelli artigianali di Cambiano",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20revoca%20richiamo_1761189579.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello revoca richiamo_1761189579.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20revoca%20richiamo_1761189579.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ricciarelli-artigianali-di-cambiano-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:33:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:18+00:00"
+ },
+ "ricotta-senza-lattosio-meno-di-001g-100g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ricotta-senza-lattosio-meno-di-001g-100g/",
+  "titolo": "RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)",
+  "data_pubblicazione": "2021-12-11",
+  "marca": "SELEX Vivi Bene",
+  "denominazione": "RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ricotta%20Selex_1761190221.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Ricotta Selex_1761190221.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Ricotta%20Selex_1761190221.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ricotta-senza-lattosio-meno-di-001g-100g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)",
+   "operatore": "Selex S.p.A.",
+   "lotti": [
+    "L 21307"
+   ],
+   "marchio_identificazione": "IT 01 111",
+   "produttore": "CASEIFICIO PUGLIESE F.lli Radicci S.p.A.",
+   "sede_stabilimento": "Via Ettore Elia 10 - 10020 Lauriano (TO)",
+   "scadenza": "18/12/2021",
+   "peso_volume": "250 g",
+   "motivo_esteso": "IL CONTENUTO IN LATTOSIO RISULTA SUPERIORE AL LIMITE.",
+   "avvertenze": "SI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE PRESENTANO INTOLLERANZA AL LATTOSIO A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "09.12.2021 Marchio del prodotto: SELEX Vivi Bene",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 09.12.2021 Marchio del prodotto: SELEX Vivi Bene\nDenominazione di vendita:RICOTTA SENZA LATTOSIO (meno di 0,01g per 100g)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Selex S.p.A.\ncommercializzato:\nLotto di produzione: L 21307\nMarchio di identificazione dello stabilimento/del produttore: IT 01 111\nNome del produttore: CASEIFICIO PUGLIESE F.lli Radicci S.p.A.\nSede dello stabilimento: Via Ettore Elia 10 - 10020 Lauriano (TO)\nData di scadenza o termine minimo di conservazione: 18/12/2021\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nIL CONTENUTO IN LATTOSIO RISULTA SUPERIORE AL LIMITE.\nAvvertenze:\nSI AVVISANO I CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO E CHE PRESENTANO INTOLLERANZA\nAL LATTOSIO A NON CONSUMARLO ED A RIPORTARLO AL PUNTO VENDITA PER IL RIMBORSO.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:05+00:00"
+ },
+ "riso-arborio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-arborio/",
+  "titolo": "Riso Arborio",
+  "data_pubblicazione": "2021-12-17",
+  "marca": "Carpi Riso 500g",
+  "denominazione": "Riso Arborio",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%20500g_1761190231.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo Carpi Riso 500g_1761190231.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%20500g_1761190231.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-arborio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:48+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:48+00:00"
+ },
+ "riso-arborio-1000g-astuccio-soottovuoto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-arborio-1000g-astuccio-soottovuoto/",
+  "titolo": "Riso Arborio 1000g astuccio soottovuoto",
+  "data_pubblicazione": "2021-12-17",
+  "marca": "Carpi Riso",
+  "denominazione": "Riso Arborio 1000g astuccio soottovuoto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%201000g%20sottovuoto_1761190230.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo Carpi Riso 1000g sottovuoto_1761190230.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%201000g%20sottovuoto_1761190230.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-arborio-1000g-astuccio-soottovuoto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:45+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:45+00:00"
+ },
+ "riso-arborio-1000g-sottovuoto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-arborio-1000g-sottovuoto/",
+  "titolo": "RISO ARBORIO 1000g sottovuoto",
+  "data_pubblicazione": "2021-12-17",
+  "marca": "Carpi Riso",
+  "denominazione": "RISO ARBORIO 1000g sottovuoto",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%201000g%20sottovuoto_1761190228.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo Carpi Riso 1000g sottovuoto_1761190228.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%201000g%20sottovuoto_1761190228.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-arborio-1000g-sottovuoto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:42+00:00"
+ },
+ "riso-arborio-500g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/riso-arborio-500g/",
+  "titolo": "Riso Arborio 500g",
+  "data_pubblicazione": "2021-12-17",
+  "marca": "Carpi Riso",
+  "denominazione": "Riso Arborio 500g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%20500g_1761190232.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo Carpi Riso 500g_1761190232.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20Carpi%20Riso%20500g_1761190232.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "riso-arborio-500g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:32:51+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:51+00:00"
+ },
+ "salame-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-2/",
+  "titolo": "SALAME",
+  "data_pubblicazione": "2021-12-11",
+  "marca": "SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C",
+  "denominazione": "SALAME",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG0083277_2021_Allegato4_1761190222.pdf",
+  "allegati": [
+   {
+    "titolo": "PG0083277_2021_Allegato4_1761190222.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/PG0083277_2021_Allegato4_1761190222.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALAME",
+   "operatore": "SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C",
+   "lotti": [
+    "261021"
+   ],
+   "marchio_identificazione": "CE IT 9/245L",
+   "produttore": "SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.",
+   "sede_stabilimento": "VIA SAN MARTINO 46-RAMIOLA -MEDESANO (PR)",
+   "scadenza": "31/01/20222",
+   "peso_volume": "420GR",
+   "motivo_esteso": "PRESENZA DI SALMONELLA SPP",
+   "avvertenze": "I SIGG.CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO SONO PREGATI DI NON CONSUMARLO E RESTITUIRLO AL PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "06/12/2021 Marchio del prodotto: SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 06/12/2021 Marchio del prodotto: SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.\nDenominazione di vendita:SALAME\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C\ncommercializzato:\nLotto di produzione: 261021\nMarchio di identificazione dello stabilimento/del produttore: CE IT 9/245L\nNome del produttore: SALUMIFICIO ZERBINI GIOVANNI & FIGLI S.N.C.\nSede dello stabilimento: VIA SAN MARTINO 46-RAMIOLA -MEDESANO (PR)\nData di scadenza o termine minimo di conservazione: 31/01/20222\nDescrizione peso/volume unità di vendita: 420GR\nMotivo del richiamo:\nPRESENZA DI SALMONELLA SPP\nAvvertenze:\nI SIGG.CLIENTI CHE AVESSERO ACQUISTATO IL PRODOTTO SONO PREGATI DI NON CONSUMARLO E\nRESTITUIRLO AL PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:09+00:00"
+ },
+ "salsiccia-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-1/",
+  "titolo": "Salsiccia",
+  "data_pubblicazione": "2021-12-24",
+  "marca": "Salumificio Bonalumi srl",
+  "denominazione": "Salsiccia",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo_1761190235.pdf",
+  "allegati": [
+   {
+    "titolo": "Avviso di richiamo_1761190235.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo_1761190235.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:32:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:37+00:00"
+ },
+ "torta-sacripantina-gr-1300": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-sacripantina-gr-1300/",
+  "titolo": "torta sacripantina gr 1300",
+  "data_pubblicazione": "2021-12-27",
+  "marca": "QMAIUSCOLA",
+  "denominazione": "torta sacripantina gr 1300",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Q%20Maiuscola_1772465616.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo Richiamo Q Maiuscola_1772465616.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20Richiamo%20Q%20Maiuscola_1772465616.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "torta-sacripantina-gr-1300",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:32:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:32:35+00:00"
+ },
+ "uova-fersche-cat": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fersche-cat/",
+  "titolo": "UOVA FERSCHE CAT A",
+  "data_pubblicazione": "2021-12-10",
+  "marca": "ALLEVAMENTI FALCO SRL -GINO",
+  "denominazione": "UOVA FERSCHE CAT A",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA%20richiamo_20171116_1761189584.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_REVOCA richiamo_20171116_1761189584.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_REVOCA%20richiamo_20171116_1761189584.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fersche-cat",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T08:33:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:33:11+00:00"
+ }
+}

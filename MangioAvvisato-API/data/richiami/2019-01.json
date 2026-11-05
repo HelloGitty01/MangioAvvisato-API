@@ -1,0 +1,393 @@
+{
+ "cannelloni-di-carne": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cannelloni-di-carne/",
+  "titolo": "CANNELLONI DI CARNE",
+  "data_pubblicazione": "2019-01-30",
+  "marca": "ESSELUNGA",
+  "denominazione": "CANNELLONI DI CARNE",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%204_1761178571.pdf",
+  "allegati": [
+   {
+    "titolo": "Esselunga Spa _ allegato 4_1761178571.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%204_1761178571.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cannelloni-di-carne",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CANNELLONI DI CARNE",
+   "operatore": "ESSELUNGA SPA",
+   "lotti": [
+    "SC. 29.01.19"
+   ],
+   "marchio_identificazione": "IT 1184 S CE",
+   "produttore": "ESSELUNGA SPA VIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO",
+   "scadenza": "SC. 29.01.19",
+   "peso_volume": "Peso variabile (330 g)",
+   "motivo_esteso": "Potenziale presenza di frammenti di plastica",
+   "avvertenze": "• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. • Si prega di non consumare il prodotto e riportarlo presso il punto vendita. • Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita.",
+   "campi_extra": {
+    "Data": "28/01/2019 Marchio del prodotto: ESSELUNGA SPA"
+   },
+   "testo": "RICHIAMO\nData: 28/01/2019 Marchio del prodotto: ESSELUNGA SPA\nDenominazione di vendita: CANNELLONI DI CARNE\nNome o ragione sociale dell'OSA\nESSELUNGA SPA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: SC. 29.01.19\nMarchio di identificazione dello stabilimento/del produttore: IT 1184 S CE\nNome del produttore: ESSELUNGA SPA\nVIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: SC. 29.01.19\nDescrizione peso/volume unità di vendita: Peso variabile (330 g)\nMotivo del richiamo: Potenziale presenza di frammenti di plastica\nAvvertenze:\n• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati.\n• Si prega di non consumare il prodotto e riportarlo presso il punto vendita.\n• Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita."
+  },
+  "prima_rilevazione": "2026-10-25T09:41:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:26+00:00"
+ },
+ "capricciosa": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/capricciosa/",
+  "titolo": "Capricciosa",
+  "data_pubblicazione": "2019-01-21",
+  "marca": "Terra &Vita",
+  "denominazione": "Capricciosa",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/BUONATERRA%20_CAPRICCIOSA%20A15_1761178560.pdf",
+  "allegati": [
+   {
+    "titolo": "BUONATERRA _CAPRICCIOSA A15_1761178560.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/BUONATERRA%20_CAPRICCIOSA%20A15_1761178560.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "capricciosa",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:41:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:35+00:00"
+ },
+ "fior-darancio-spumante-docg": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fior-darancio-spumante-docg/",
+  "titolo": "FIOR D'ARANCIO SPUMANTE DOCG",
+  "data_pubblicazione": "2019-01-08",
+  "marca": "COLLI EUGANEI",
+  "denominazione": "FIOR D'ARANCIO SPUMANTE DOCG",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%204%20prodotti%20_1761178554.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo 4 prodotti _1761178554.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%204%20prodotti%20_1761178554.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "fior-darancio-spumante-docg",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:41:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:47+00:00"
+ },
+ "ghiaccio-tritato-ghiaccio-cocktails": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ghiaccio-tritato-ghiaccio-cocktails/",
+  "titolo": "GHIACCIO TRITATO - GHIACCIO PER COCKTAILS",
+  "data_pubblicazione": "2019-01-23",
+  "marca": "POLO NORD ICE CUBES",
+  "denominazione": "GHIACCIO TRITATO - GHIACCIO PER COCKTAILS",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_19_06_C_2019_0222_1761178566.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di Richiamo_19_06_C_2019_0222_1761178566.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_19_06_C_2019_0222_1761178566.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ghiaccio-tritato-ghiaccio-cocktails",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:41:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:32+00:00"
+ },
+ "insalata-mista-capricciosa": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-mista-capricciosa/",
+  "titolo": "Insalata mista Capricciosa",
+  "data_pubblicazione": "2019-01-18",
+  "marca": "Centrale del latte di Brescia spa",
+  "denominazione": "Insalata mista Capricciosa",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Centrale_del_latte_Brescia_1761178557.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_Centrale_del_latte_Brescia_1761178557.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Centrale_del_latte_Brescia_1761178557.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-mista-capricciosa",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Capricciosa",
+   "operatore": "Centrale del Latte di Brescia S.p.A.",
+   "lotti": [
+    "15L4M255 - 16L4M255 - 17L4M255"
+   ],
+   "marchio_identificazione": "Facchini srl",
+   "produttore": "Facchini srl",
+   "sede_stabilimento": "Via Martiri della Libertà 23 cap. 25020 Poncarale (BS)",
+   "scadenza": "22-23-24/01/19",
+   "peso_volume": "150 g",
+   "motivo_esteso": "Presenza di Listeria Monocytogenes",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "18/01/2019 Marchio del prodotto: Centrale del Latte di Brescia S.p.A.",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 18/01/2019 Marchio del prodotto: Centrale del Latte di Brescia S.p.A.\nDenominazione di vendita:Capricciosa\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Centrale del Latte di Brescia S.p.A.\ncommercializzato:\nLotto di produzione: 15L4M255 - 16L4M255 - 17L4M255\nMarchio di identificazione dello stabilimento/del produttore: Facchini srl\nNome del produttore: Facchini srl\nSede dello stabilimento: Via Martiri della Libertà 23 cap. 25020 Poncarale (BS)\nData di scadenza o termine minimo di conservazione: 22-23-24/01/19\nDescrizione peso/volume unità di vendita: 150 g\nMotivo del richiamo:\nPresenza di Listeria Monocytogenes\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:41:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:39+00:00"
+ },
+ "insalata-mista-capricciosa-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-mista-capricciosa-0/",
+  "titolo": "Insalata mista Capricciosa",
+  "data_pubblicazione": "2019-01-18",
+  "marca": "L'Alco spa",
+  "denominazione": "Insalata mista Capricciosa",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_L_ALCO_1761178559.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_L_ALCO_1761178559.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_L_ALCO_1761178559.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-mista-capricciosa-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:41:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:42+00:00"
+ },
+ "lasagne-al-forno": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lasagne-al-forno/",
+  "titolo": "LASAGNE AL FORNO",
+  "data_pubblicazione": "2019-01-30",
+  "marca": "ESSELUNGA",
+  "denominazione": "LASAGNE AL FORNO",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%203_1761178569.pdf",
+  "allegati": [
+   {
+    "titolo": "Esselunga Spa _ allegato 3_1761178569.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%203_1761178569.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "lasagne-al-forno",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "LASAGNE AL FORNO",
+   "operatore": "ESSELUNGA SPA",
+   "lotti": [
+    "SC. 30.01.19"
+   ],
+   "marchio_identificazione": "IT 1184 S CE",
+   "produttore": "ESSELUNGA SPA VIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO",
+   "scadenza": "SC. 30.01.19",
+   "peso_volume": "600 g",
+   "motivo_esteso": "Probabile presenza di frammenti di plastica",
+   "avvertenze": "• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. • Si prega di non consumare il prodotto e riportarlo presso il punto vendita. • Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita.",
+   "campi_extra": {
+    "Data": "28/01/2019 Marchio del prodotto: ESSELUNGA SPA"
+   },
+   "testo": "RICHIAMO\nData: 28/01/2019 Marchio del prodotto: ESSELUNGA SPA\nDenominazione di vendita: LASAGNE AL FORNO\nNome o ragione sociale dell'OSA\nESSELUNGA SPA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: SC. 30.01.19\nMarchio di identificazione dello stabilimento/del produttore: IT 1184 S CE\nNome del produttore: ESSELUNGA SPA\nVIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: SC. 30.01.19\nDescrizione peso/volume unità di vendita: 600 g\nMotivo del richiamo: Probabile presenza di frammenti di plastica\nAvvertenze:\n• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati.\n• Si prega di non consumare il prodotto e riportarlo presso il punto vendita.\n• Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita."
+  },
+  "prima_rilevazione": "2026-10-25T09:41:24+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:24+00:00"
+ },
+ "protein-white-31-gusto-crema-limone-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/protein-white-31-gusto-crema-limone-0/",
+  "titolo": "PROTEIN + WHITE 31 % (GUSTO CREMA-LIMONE)",
+  "data_pubblicazione": "2019-01-21",
+  "marca": "+WATT SRL",
+  "denominazione": "PROTEIN + WHITE 31 % (GUSTO CREMA-LIMONE)",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiesta_Revoca_Richiamo_18_94_C_1761178562.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiesta_Revoca_Richiamo_18_94_C_1761178562.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiesta_Revoca_Richiamo_18_94_C_1761178562.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "protein-white-31-gusto-crema-limone-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:41:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:37+00:00"
+ },
+ "ragu-di-vitello-top": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ragu-di-vitello-top/",
+  "titolo": "RAGÙ DI VITELLO TOP",
+  "data_pubblicazione": "2019-01-30",
+  "marca": "ESSELUNGA",
+  "denominazione": "RAGÙ DI VITELLO TOP",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%205_1761178568.pdf",
+  "allegati": [
+   {
+    "titolo": "Esselunga Spa _ allegato 5_1761178568.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Esselunga%20Spa%20_%20allegato%205_1761178568.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ragu-di-vitello-top",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "RAGU’ DI VITELLO TOP",
+   "operatore": "ESSELUNGA SPA",
+   "lotti": [
+    "SC. 07.02.19"
+   ],
+   "marchio_identificazione": "IT 1184 S CE",
+   "produttore": "ESSELUNGA SPA VIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO",
+   "scadenza": "SC.07.02.19",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Probabile presenza di frammenti di plastica",
+   "avvertenze": "• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati. • Si prega di non consumare il prodotto e riportarlo presso il punto vendita. • Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita.",
+   "campi_extra": {
+    "Data": "28/01/2019 Marchio del prodotto: ESSELUNGA SPA"
+   },
+   "testo": "RICHIAMO\nData: 28/01/2019 Marchio del prodotto: ESSELUNGA SPA\nDenominazione di vendita: RAGU’ DI VITELLO TOP\nNome o ragione sociale dell'OSA\nESSELUNGA SPA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: SC. 07.02.19\nMarchio di identificazione dello stabilimento/del produttore: IT 1184 S CE\nNome del produttore: ESSELUNGA SPA\nVIA GIAMBOLOGNA 1, LIMITO DI PIOLTELLO, MILANO\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione: SC.07.02.19\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo: Probabile presenza di frammenti di plastica\nAvvertenze:\n• Il richiamo interessa esclusivamente l’articolo e la scadenza sopra riportati.\n• Si prega di non consumare il prodotto e riportarlo presso il punto vendita.\n• Il prodotto è stato ritirato dalla vendita e non è più presente in tutti i punti vendita."
+  },
+  "prima_rilevazione": "2026-10-25T09:41:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:21+00:00"
+ },
+ "salame-felino-igp-santantonio-salame-felino-igp-terre-della-bassa-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-felino-igp-santantonio-salame-felino-igp-terre-della-bassa-0/",
+  "titolo": "Salame Felino IGP Sant'Antonio - Salame Felino IGP Terre della Bassa",
+  "data_pubblicazione": "2019-01-16",
+  "marca": "La Fattoria di Parma srl",
+  "denominazione": "Salame Felino IGP Sant'Antonio - Salame Felino IGP Terre della Bassa",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20standard%20ministeriale%20per%20il%20richiamo_1764239670.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello standard ministeriale per il richiamo_1764239670.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20standard%20ministeriale%20per%20il%20richiamo_1764239670.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salame-felino-igp-santantonio-salame-felino-igp-terre-della-bassa-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "operatore": "La Fattoria di Parma srl c ommercializzato: L otto di produzione: F13A18M M archio di identificazione dello stabilimento/del produttore: IT1985/L N ome del produttore: La Fattoria di Parma srl S ede dello stabilimento: Via Priorato 96 Sanguinaro di Fontanellato 43012 Parma D ata di scadenza o termine minimo di conservazione: 14/01/2019",
+   "peso_volume": "Salame dimezzato confezionato sottovuoto gr 310 circa",
+   "motivo_esteso": "Esito non conforme per parametri di sicurezza alimentare di tipo microbiologico di cui al Reg. 2073/05.",
+   "avvertenze": "Si chiede a chi l’avesse acquistato di non consumare il prodotto e di renderlo presso il punto vendita. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "D ata": "03/12/2018 Marchio del prodotto: Sant’Antonio – Terre della Bassa",
+    "D enominazione di vendita": "Salame Felino IGP Sant’Antonio - Salame Felino IGP Terre della Bassa",
+    "L otto di produzione": "F13A18M",
+    "M archio di identificazione dello stabilimento/del produttore": "IT1985/L",
+    "N ome del produttore": "La Fattoria di Parma srl",
+    "S ede dello stabilimento": "Via Priorato 96 Sanguinaro di Fontanellato 43012 Parma",
+    "D ata di scadenza o termine minimo di conservazione": "14/01/2019",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nD ata: 03/12/2018 Marchio del prodotto: Sant’Antonio – Terre della Bassa\nD enominazione di vendita: Salame Felino IGP Sant’Antonio - Salame Felino IGP Terre della Bassa\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è La Fattoria di Parma srl\nc ommercializzato:\nL otto di produzione: F13A18M\nM archio di identificazione dello stabilimento/del produttore: IT1985/L\nN ome del produttore: La Fattoria di Parma srl\nS ede dello stabilimento: Via Priorato 96 Sanguinaro di Fontanellato 43012 Parma\nD ata di scadenza o termine minimo di conservazione: 14/01/2019\nDescrizione peso/volume unità di vendita: Salame dimezzato confezionato sottovuoto gr 310 circa\nMotivo del richiamo:\nEsito non conforme per parametri di sicurezza alimentare di tipo microbiologico di cui al Reg.\n2073/05.\nAvvertenze: Si chiede a chi l’avesse acquistato di non consumare il prodotto e di renderlo presso il\npunto vendita.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:41:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:44+00:00"
+ },
+ "tortina-alla-ricotta": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tortina-alla-ricotta/",
+  "titolo": "Tortina alla ricotta",
+  "data_pubblicazione": "2019-01-23",
+  "marca": "Stabinger",
+  "denominazione": "Tortina alla ricotta",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_1761178564.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo_1761178564.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo_1761178564.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "tortina-alla-ricotta",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "TORTINA ALLA RICOTTA",
+   "operatore": "STABINGER SRL",
+   "lotti": [
+    "coincide con il TMC"
+   ],
+   "produttore": "STABINGER SRL",
+   "sede_stabilimento": "Via Anderter 11, 39030 Sesto (BZ)",
+   "scadenza": "31-01-2019",
+   "peso_volume": "300g",
+   "motivo_esteso": "Il prodotto contiene glutine. Errore di etichettatura: presenza dicitura senza glutine e termine minimo di conservazione errato (31/01/19 e 02/02/19)",
+   "avvertenze": "Non consumare il prodotto se si é intolleranti al glutine. Si prega di riportarlo al punto vendita. Per ulteriori informazioni rivolgersi al fornitore STABINGER SRL - recapito telefonico: 0474 710 352, e-mail: info@stabinger.it Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/01/2019 Marchio del prodotto: STABINGER",
+    "Errore di etichettatura": "presenza dicitura senza glutine e termine minimo di conservazione errato",
+    "recapito telefonico": "0474 710 352, e-mail: info@stabinger.it",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/01/2019 Marchio del prodotto: STABINGER\nDenominazione di vendita:TORTINA ALLA RICOTTA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è STABINGER SRL\ncommercializzato:\nLotto di produzione: coincide con il TMC\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: STABINGER SRL\nSede dello stabilimento: Via Anderter 11, 39030 Sesto (BZ)\nData di scadenza o termine minimo di conservazione: 31-01-2019\nDescrizione peso/volume unità di vendita: 300g\nMotivo del richiamo:\nIl prodotto contiene glutine.\nErrore di etichettatura: presenza dicitura senza glutine e termine minimo di conservazione errato\n(31/01/19 e 02/02/19)\nAvvertenze:\nNon consumare il prodotto se si é intolleranti al glutine.\nSi prega di riportarlo al punto vendita. Per ulteriori informazioni rivolgersi al fornitore STABINGER SRL -\nrecapito telefonico: 0474 710 352, e-mail: info@stabinger.it\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:41:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:41:29+00:00"
+ }
+}

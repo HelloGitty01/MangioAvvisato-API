@@ -1,0 +1,830 @@
+{
+ "arachidi-al-wasabi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/arachidi-al-wasabi/",
+  "titolo": "Arachidi al Wasabi",
+  "data_pubblicazione": "2021-01-15",
+  "marca": "Taz Group srl",
+  "denominazione": "Arachidi al Wasabi",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Arachidi_Wasabi_1761185152.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_Arachidi_Wasabi_1761185152.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Arachidi_Wasabi_1761185152.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "arachidi-al-wasabi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:00:27+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:27+00:00"
+ },
+ "barrcombo-2-ricciocc-semi-sesamogirasole-seslino-sescanapa": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrcombo-2-ricciocc-semi-sesamogirasole-seslino-sescanapa/",
+  "titolo": "BARR.COMBO 2 RIC.CIOCC. SEMI SESAMO/GIRASOLE, SES./LINO, SES./CANAPA",
+  "data_pubblicazione": "2021-01-26",
+  "marca": "SAN MARCO FIT ME WELL",
+  "denominazione": "BARR.COMBO 2 RIC.CIOCC. SEMI SESAMO/GIRASOLE, SES./LINO, SES./CANAPA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fuo_462468_Richiamo_Combo_2_1761185186.pdf",
+  "allegati": [
+   {
+    "titolo": "Fuo_462468_Richiamo_Combo_2_1761185186.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fuo_462468_Richiamo_Combo_2_1761185186.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "barrcombo-2-ricciocc-semi-sesamogirasole-seslino-sescanapa",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T08:59:57+00:00",
+  "ultimo_aggiornamento": "2026-10-25T08:59:57+00:00"
+ },
+ "barrette-combo-1-semi-di-sesamozucca-sesamochia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/barrette-combo-1-semi-di-sesamozucca-sesamochia/",
+  "titolo": "BARRETTE COMBO 1 SEMI DI SESAMO/ZUCCA , SESAMO/CHIA",
+  "data_pubblicazione": "2021-01-26",
+  "marca": "SAN MARCO FIT ME WELL",
+  "denominazione": "BARRETTE COMBO 1 SEMI DI SESAMO/ZUCCA , SESAMO/CHIA",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_462468_Richiamo_Combo_1_1761185190.pdf",
+  "allegati": [
+   {
+    "titolo": "Fup_462468_Richiamo_Combo_1_1761185190.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_462468_Richiamo_Combo_1_1761185190.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "barrette-combo-1-semi-di-sesamozucca-sesamochia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:00:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:00+00:00"
+ },
+ "caprino-fresco-70-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caprino-fresco-70-gr/",
+  "titolo": "CAPRINO FRESCO 70 GR",
+  "data_pubblicazione": "2021-01-22",
+  "marca": "CIRESA SRL",
+  "denominazione": "CAPRINO FRESCO 70 GR",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185170.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Richiamo_1761185170.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185170.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "caprino-fresco-70-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CAPRINO FRESCO 70 GR",
+   "operatore": "CIRESA SRL",
+   "lotti": [
+    "9485"
+   ],
+   "marchio_identificazione": "IT 03 165 CE",
+   "produttore": "CIRESA SRL",
+   "sede_stabilimento": "INTROBIO (LC) VIA V.EMANUELE 62",
+   "scadenza": "da 02 a 13/12/19",
+   "peso_volume": "VASCHETTA 2X7, VASCHETTA 6X2",
+   "motivo_esteso": "REVOCA PER SCADENZA PRODOTTO",
+   "campi_extra": {
+    "Data": "22/01/2021 Marchio del prodotto: CIRESA SRL"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/01/2021 Marchio del prodotto: CIRESA SRL\nDenominazione di vendita:CAPRINO FRESCO 70 GR\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CIRESA SRL\ncommercializzato:\nLotto di produzione: 9485\nMarchio di identificazione dello stabilimento/del produttore: IT 03 165 CE\nNome del produttore: CIRESA SRL\nSede dello stabilimento: INTROBIO (LC) VIA V.EMANUELE 62\nData di scadenza o termine minimo di conservazione: da 02 a 13/12/19\nDescrizione peso/volume unità di vendita: VASCHETTA 2X7, VASCHETTA 6X2\nMotivo del richiamo:\nREVOCA PER SCADENZA PRODOTTO\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:14+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:14+00:00"
+ },
+ "comino-macinato-ground-cumin": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/comino-macinato-ground-cumin/",
+  "titolo": "Comino Macinato /Ground Cumin",
+  "data_pubblicazione": "2021-01-25",
+  "marca": "TRS",
+  "denominazione": "Comino Macinato /Ground Cumin",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20comino_1761185184.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo comino_1761185184.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20comino_1761185184.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "comino-macinato-ground-cumin",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "IL RICHIAMO SI RIFERISCE AI PRODOTTI CON TERMINE MINIMO DI CONSERVAZIONE 2/3/4/5 MARZO 2022\nTHE RECALL REFERS TO PRODUCTS WITH BEST BEFORE 2/3/4/5 MARZO 2022"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:03+00:00"
+ },
+ "crema-di-mais-riso-tapioca-200-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/crema-di-mais-riso-tapioca-200-g/",
+  "titolo": "CREMA DI MAIS RISO TAPIOCA 200 g",
+  "data_pubblicazione": "2021-01-04",
+  "marca": "PICCOLINO BABY",
+  "denominazione": "CREMA DI MAIS RISO TAPIOCA 200 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MD%20_%202020.12.22%20_%20Crema%20di%20mais%20riso%20tapioca%20BIO%20200%20g_1761184392.pdf",
+  "allegati": [
+   {
+    "titolo": "MD _ 2020.12.22 _ Crema di mais riso tapioca BIO 200 g_1761184392.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MD%20_%202020.12.22%20_%20Crema%20di%20mais%20riso%20tapioca%20BIO%20200%20g_1761184392.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "crema-di-mais-riso-tapioca-200-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CREMA DI MAIS RISO TAPIOCA 200 g",
+   "operatore": "MD S.p.A.",
+   "lotti": [
+    "AF",
+    "AI"
+   ],
+   "produttore": "GITTIS NATURPRODUKTE GMBH & Co KG",
+   "sede_stabilimento": "HALLEINER LANDERSTRASSE 3 - 5412 PUCH - AUSTRIA",
+   "scadenza": "30/11/2021 e 01/03/2022",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Presenza Allergene Soia",
+   "avvertenze": "Date di Scadenza coinvolte: 30/11/2021 e 01/03/2022 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "22/12/2020 Marchio del prodotto: PICCOLINO BABY",
+    "Date di Scadenza coinvolte": "30/11/2021 e 01/03/2022",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 22/12/2020 Marchio del prodotto: PICCOLINO BABY\nDenominazione di vendita:CREMA DI MAIS RISO TAPIOCA 200 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MD S.p.A.\ncommercializzato:\nLotto di produzione: AF e AI\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: GITTIS NATURPRODUKTE GMBH & Co KG\nSede dello stabilimento: HALLEINER LANDERSTRASSE 3 - 5412 PUCH - AUSTRIA\nData di scadenza o termine minimo di conservazione: 30/11/2021 e 01/03/2022\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nPresenza Allergene Soia\nAvvertenze:\nDate di Scadenza coinvolte: 30/11/2021 e 01/03/2022\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:01:02+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:01:02+00:00"
+ },
+ "cuor-di-capra-fiorone-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cuor-di-capra-fiorone-0/",
+  "titolo": "CUOR DI CAPRA - FIORONE",
+  "data_pubblicazione": "2021-01-22",
+  "marca": "CASEIFICIO CATTANEO SRL",
+  "denominazione": "CUOR DI CAPRA - FIORONE",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%202021_01_22_1761185166.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Richiamo 2021_01_22_1761185166.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo%202021_01_22_1761185166.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "cuor-di-capra-fiorone-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "CUOR DI CAPRA - FIORONE",
+   "operatore": "CASEIFICIO CATTANEO SRL",
+   "lotti": [
+    "L. 2210"
+   ],
+   "marchio_identificazione": "IT 03 1881 CE",
+   "produttore": "CASEIFICIO CATTANEO SRL",
+   "sede_stabilimento": "LOMAGNA LC VIA MARCO BIAGI 18",
+   "scadenza": "08/09-12-2019",
+   "peso_volume": "SCATLO",
+   "motivo_esteso": "REVOCA PER SCADENZA PRODOTTO",
+   "campi_extra": {
+    "Data": "22/01/2021 Marchio del prodotto: FORMAGGINI FRESCHI DI CAPRA"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 22/01/2021 Marchio del prodotto: FORMAGGINI FRESCHI DI CAPRA\nDenominazione di vendita:CUOR DI CAPRA - FIORONE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CASEIFICIO CATTANEO SRL\ncommercializzato:\nLotto di produzione: L. 2210\nMarchio di identificazione dello stabilimento/del produttore: IT 03 1881 CE\nNome del produttore: CASEIFICIO CATTANEO SRL\nSede dello stabilimento: LOMAGNA LC VIA MARCO BIAGI 18\nData di scadenza o termine minimo di conservazione: 08/09-12-2019\nDescrizione peso/volume unità di vendita: SCATLO\nMotivo del richiamo:\nREVOCA PER SCADENZA PRODOTTO\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:12+00:00"
+ },
+ "formai-de-mut-dellalta-valle-brembana": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formai-de-mut-dellalta-valle-brembana/",
+  "titolo": "FORMAI DE MUT DELL'ALTA VALLE BREMBANA",
+  "data_pubblicazione": "2021-01-05",
+  "marca": "IT03994CE PAGANONI GIANFRANCO ALPE TORRAGELLA MOIO DE CALVI BG",
+  "denominazione": "FORMAI DE MUT DELL'ALTA VALLE BREMBANA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PAGANONI%20GIANFRANCO_1761184398.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO PAGANONI GIANFRANCO_1761184398.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20PAGANONI%20GIANFRANCO_1761184398.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formai-de-mut-dellalta-valle-brembana",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FORMAI DE MUT DELL' ALTA VAL BREMBANA D.O.P.",
+   "operatore": "PAGANONI GIANFRANCO - VIA TORCHIO, 3 - ISOLA DI FONDRA (BG)",
+   "lotti": [
+    "Vedi sezione \"Motivo del Richiamo\""
+   ],
+   "marchio_identificazione": "IT 03 994 CE",
+   "produttore": "PAGANONI GIANFRANCO",
+   "sede_stabilimento": "LOCALITA' ALPE TORRAGELLA SNC, MOIO DE CALVI (BG)",
+   "scadenza": "N.D.",
+   "peso_volume": "PRODOTTO COMMERICIALIZZATO SFUSO, IN FORME INTERE",
+   "motivo_esteso": "Riscontrata presenza di Listeria Monocytogenes in 25 gr. di prodotto - Lotti di produzione: 30/06/20 - 02/07/20 - 24/06/20 - 01/07/20 - 28/06/20 - 25/06/20 - 03/07/20 - 06/07/20 - 05/07/20 - 08/07/20 - 07/07/20 - 22/06/20.",
+   "campi_extra": {
+    "Data": "04/01/2021 Marchio del prodotto: FORMAI DE MUT DELL' ALTA VAL BREMBANA D.O.P."
+   },
+   "testo": "RICHIAMO\nData: 04/01/2021 Marchio del prodotto: FORMAI DE MUT DELL' ALTA VAL BREMBANA D.O.P.\nDenominazione di vendita: FORMAI DE MUT DELL' ALTA VAL BREMBANA D.O.P.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PAGANONI GIANFRANCO - VIA TORCHIO, 3 - ISOLA DI FONDRA (BG)\ncommercializzato:\nLotto di produzione: Vedi sezione \"Motivo del Richiamo\"\nMarchio di identificazione dello stabilimento/del produttore: IT 03 994 CE\nNome del produttore: PAGANONI GIANFRANCO\nSede dello stabilimento: LOCALITA' ALPE TORRAGELLA SNC, MOIO DE CALVI (BG)\nData di scadenza o termine minimo di conservazione: N.D.\nDescrizione peso/volume unità di vendita: PRODOTTO COMMERICIALIZZATO SFUSO, IN FORME INTERE\nMotivo del richiamo:\nRiscontrata presenza di Listeria Monocytogenes in 25 gr. di prodotto - Lotti di produzione: 30/06/20 -\n02/07/20 - 24/06/20 - 01/07/20 - 28/06/20 - 25/06/20 - 03/07/20 - 06/07/20 - 05/07/20 - 08/07/20 -\n07/07/20 - 22/06/20.\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:59+00:00"
+ },
+ "kebab-di-pollo-conad-350-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kebab-di-pollo-conad-350-g/",
+  "titolo": "KEBAB DI POLLO CONAD 350 G",
+  "data_pubblicazione": "2021-01-14",
+  "marca": "CONAD",
+  "denominazione": "KEBAB DI POLLO CONAD 350 G",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_560810_Richiamo_CONAD_1761185151.pdf",
+  "allegati": [
+   {
+    "titolo": "Fup_560810_Richiamo_CONAD_1761185151.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_560810_Richiamo_CONAD_1761185151.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "kebab-di-pollo-conad-350-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:00:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:54+00:00"
+ },
+ "kebs-kebab-di-pollo-350-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kebs-kebab-di-pollo-350-g/",
+  "titolo": "KEB'S KEBAB DI POLLO 350 G",
+  "data_pubblicazione": "2021-01-23",
+  "marca": "CONAD",
+  "denominazione": "KEB'S KEBAB DI POLLO 350 G",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CONAD_Revoca%20Richiamo_Conad%20B4514.foto_1761185181.pdf",
+  "allegati": [
+   {
+    "titolo": "CONAD_Revoca Richiamo_Conad B4514.foto_1761185181.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CONAD_Revoca%20Richiamo_Conad%20B4514.foto_1761185181.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kebs-kebab-di-pollo-350-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "KEBAB DI POLLO CONAD 350 G.",
+   "operatore": "CONAD S.C",
+   "lotti": [
+    "8574274"
+   ],
+   "marchio_identificazione": "IT 752L CE",
+   "produttore": "Agricola Tre Valli Soc. Coop",
+   "sede_stabilimento": "Via Speranza 7 Santa Maria di Zevio (VR)",
+   "scadenza": "22-01-2021",
+   "peso_volume": "350 g",
+   "motivo_esteso": "Possibile presenza di frammenti di plastica (materiale di etichettatura).",
+   "avvertenze": "Richiamo revocato per prodotto giunto a scadenza. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "23/01/2021 Marchio del prodotto: CONAD",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 23/01/2021 Marchio del prodotto: CONAD\nDenominazione di vendita:KEBAB DI POLLO CONAD 350 G.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD S.C\ncommercializzato:\nLotto di produzione: 8574274\nMarchio di identificazione dello stabilimento/del produttore: IT 752L CE\nNome del produttore: Agricola Tre Valli Soc. Coop\nSede dello stabilimento: Via Speranza 7 Santa Maria di Zevio (VR)\nData di scadenza o termine minimo di conservazione: 22-01-2021\nDescrizione peso/volume unità di vendita: 350 g\nMotivo del richiamo:\nPossibile presenza di frammenti di plastica (materiale di etichettatura).\nAvvertenze:\nRichiamo revocato per prodotto giunto a scadenza.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:06+00:00"
+ },
+ "kebs-kebab-di-pollo350g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kebs-kebab-di-pollo350g/",
+  "titolo": "KEB'S KEBAB DI POLLO350G",
+  "data_pubblicazione": "2021-01-23",
+  "marca": "AIA",
+  "denominazione": "KEB'S KEBAB DI POLLO350G",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/AIARevoca%20Richiamo_B4377.foto_1761185178.pdf",
+  "allegati": [
+   {
+    "titolo": "AIARevoca Richiamo_B4377.foto_1761185178.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/AIARevoca%20Richiamo_B4377.foto_1761185178.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kebs-kebab-di-pollo350g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "KEB'S KEBAB DI POLLO 350G",
+   "operatore": "AIA Spa",
+   "lotti": [
+    "8574274"
+   ],
+   "marchio_identificazione": "IT 752L CE",
+   "produttore": "Agricola Tre Valli Soc. Coop",
+   "sede_stabilimento": "Via Speranza 7 Santa Maria di Zevio (VR)",
+   "scadenza": "22-01-2021",
+   "peso_volume": "350 g",
+   "motivo_esteso": "Possibile presenza di frammenti di plastica (materiale di etichettatura).",
+   "avvertenze": "Richiamo revocato per prodotto giunto a scadenza. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "23/01/2021 Marchio del prodotto: AIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 23/01/2021 Marchio del prodotto: AIA\nDenominazione di vendita:KEB'S KEBAB DI POLLO 350G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AIA Spa\ncommercializzato:\nLotto di produzione: 8574274\nMarchio di identificazione dello stabilimento/del produttore: IT 752L CE\nNome del produttore: Agricola Tre Valli Soc. Coop\nSede dello stabilimento: Via Speranza 7 Santa Maria di Zevio (VR)\nData di scadenza o termine minimo di conservazione: 22-01-2021\nDescrizione peso/volume unità di vendita: 350 g\nMotivo del richiamo:\nPossibile presenza di frammenti di plastica (materiale di etichettatura).\nAvvertenze:\nRichiamo revocato per prodotto giunto a scadenza.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:09+00:00"
+ },
+ "kess-kebab-di-pollo-350g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kess-kebab-di-pollo-350g/",
+  "titolo": "KES'S KEBAB DI POLLO 350G",
+  "data_pubblicazione": "2021-01-14",
+  "marca": "AIA",
+  "denominazione": "KES'S KEBAB DI POLLO 350G",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_560810_Richiamo_AIA_1761185148.pdf",
+  "allegati": [
+   {
+    "titolo": "Fup_560810_Richiamo_AIA_1761185148.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Fup_560810_Richiamo_AIA_1761185148.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "kess-kebab-di-pollo-350g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:00:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:52+00:00"
+ },
+ "mini-grissini-semi-e-cereali-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-200g/",
+  "titolo": "Mini Grissini Semi e Cereali 200g",
+  "data_pubblicazione": "2021-01-15",
+  "marca": "Sfornamore",
+  "denominazione": "Mini Grissini Semi e Cereali 200g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfornamore%20mini%20grissini%20semi%20e%20cereali_1761185157.pdf",
+  "allegati": [
+   {
+    "titolo": "Sfornamore mini grissini semi e cereali_1761185157.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfornamore%20mini%20grissini%20semi%20e%20cereali_1761185157.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mini-grissini-semi-e-cereali-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mini Grissini Semi e Cereali 200g",
+   "operatore": "Maxi Dì S.r.l.",
+   "lotti": [
+    "210206",
+    "210218"
+   ],
+   "marchio_identificazione": "Panificio Zorzi",
+   "produttore": "Panificio Zorzi S.r.l.",
+   "sede_stabilimento": "Loc. Brà 1 - 37020 Brentino Belluno (VR)",
+   "scadenza": "06 e 18/02/2021",
+   "peso_volume": "busta singola di carta e plastica da 200g",
+   "motivo_esteso": "A scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.",
+   "avvertenze": "SI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI NON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "11/01/2021 Marchio del prodotto: Sfornamore"
+   },
+   "testo": "RICHIAMO\nData: 11/01/2021 Marchio del prodotto: Sfornamore\nDenominazione di vendita:Mini Grissini Semi e Cereali 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Maxi Dì S.r.l.\ncommercializzato:\nLotto di produzione: 210206 e 210218\nMarchio di identificazione dello stabilimento/del produttore: Panificio Zorzi\nNome del produttore: Panificio Zorzi S.r.l.\nSede dello stabilimento: Loc. Brà 1 - 37020 Brentino Belluno (VR)\nData di scadenza o termine minimo di conservazione: 06 e 18/02/2021\nDescrizione peso/volume unità di vendita: busta singola di carta e plastica da 200g\nMotivo del richiamo:\nA scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.\nAvvertenze:\nSI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI\nNON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:35+00:00"
+ },
+ "mini-grissini-semi-e-cereali-bio-150g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-bio-150g/",
+  "titolo": "Mini Grissini Semi e Cereali Bio 150g",
+  "data_pubblicazione": "2021-01-15",
+  "marca": "Il Gigante bio",
+  "denominazione": "Mini Grissini Semi e Cereali Bio 150g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Il%20Gigante%20Mini%20Grissini%20Semi%20e%20cereali%20bio_1761185158.pdf",
+  "allegati": [
+   {
+    "titolo": "Il Gigante Mini Grissini Semi e cereali bio_1761185158.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Il%20Gigante%20Mini%20Grissini%20Semi%20e%20cereali%20bio_1761185158.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mini-grissini-semi-e-cereali-bio-150g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mini Grissini Semi e Cereali Bio 150g",
+   "operatore": "RIALTO S.p.A.",
+   "lotti": [
+    "210217"
+   ],
+   "marchio_identificazione": "Panificio Zorzi",
+   "produttore": "Panificio Zorzi S.r.l.",
+   "sede_stabilimento": "Loc. Brà 1 - 37020 Brentino Belluno (VR)",
+   "scadenza": "17-02-2021",
+   "peso_volume": "busta singola di plastica da 150g",
+   "motivo_esteso": "A scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.",
+   "avvertenze": "SI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI NON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "11/01/2021 Marchio del prodotto: Il Gigante bio"
+   },
+   "testo": "RICHIAMO\nData: 11/01/2021 Marchio del prodotto: Il Gigante bio\nDenominazione di vendita:Mini Grissini Semi e Cereali Bio 150g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è RIALTO S.p.A.\ncommercializzato:\nLotto di produzione: 210217\nMarchio di identificazione dello stabilimento/del produttore: Panificio Zorzi\nNome del produttore: Panificio Zorzi S.r.l.\nSede dello stabilimento: Loc. Brà 1 - 37020 Brentino Belluno (VR)\nData di scadenza o termine minimo di conservazione: 17-02-2021\nDescrizione peso/volume unità di vendita: busta singola di plastica da 150g\nMotivo del richiamo:\nA scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.\nAvvertenze:\nSI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI\nNON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:37+00:00"
+ },
+ "mini-grissini-semi-e-cereali-bio-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-bio-200g/",
+  "titolo": "Mini Grissini Semi e Cereali Bio 200g",
+  "data_pubblicazione": "2021-01-15",
+  "marca": "Sfizzi Valdadige biologici",
+  "denominazione": "Mini Grissini Semi e Cereali Bio 200g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfizzi%20Valdadige%20Semi%20e%20Cereali%20bio_1761185154.pdf",
+  "allegati": [
+   {
+    "titolo": "Sfizzi Valdadige Semi e Cereali bio_1761185154.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Sfizzi%20Valdadige%20Semi%20e%20Cereali%20bio_1761185154.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mini-grissini-semi-e-cereali-bio-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mini Grissini Semi e Cereali Bio 200g",
+   "operatore": "Panificio Zorzi S.r.l.",
+   "lotti": [
+    "210131"
+   ],
+   "marchio_identificazione": "Panificio Zorzi",
+   "produttore": "Panificio Zorzi S.r.l.",
+   "sede_stabilimento": "Loc. Brà 1 - 37020 Brentino Belluno (VR)",
+   "scadenza": "31-01-2021",
+   "peso_volume": "busta singola di plastica da 200g",
+   "motivo_esteso": "A scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.",
+   "avvertenze": "SI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI NON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "11/01/2021 Marchio del prodotto: Sfizzi Valdadige Biologici"
+   },
+   "testo": "RICHIAMO\nData: 11/01/2021 Marchio del prodotto: Sfizzi Valdadige Biologici\nDenominazione di vendita:Mini Grissini Semi e Cereali Bio 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Panificio Zorzi S.r.l.\ncommercializzato:\nLotto di produzione: 210131\nMarchio di identificazione dello stabilimento/del produttore: Panificio Zorzi\nNome del produttore: Panificio Zorzi S.r.l.\nSede dello stabilimento: Loc. Brà 1 - 37020 Brentino Belluno (VR)\nData di scadenza o termine minimo di conservazione: 31-01-2021\nDescrizione peso/volume unità di vendita: busta singola di plastica da 200g\nMotivo del richiamo:\nA scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.\nAvvertenze:\nSI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI\nNON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:30+00:00"
+ },
+ "mini-grissini-semi-e-cereali-il-biologico-100g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mini-grissini-semi-e-cereali-il-biologico-100g/",
+  "titolo": "Mini Grissini Semi e cereali il Biologico 100g",
+  "data_pubblicazione": "2021-01-15",
+  "marca": "Il Viaggiator Goloso",
+  "denominazione": "Mini Grissini Semi e cereali il Biologico 100g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Viaggiator%20Goloso%20Mini%20Grissini%20Semi%20e%20Cereali%20Bio_1761185156.pdf",
+  "allegati": [
+   {
+    "titolo": "Viaggiator Goloso Mini Grissini Semi e Cereali Bio_1761185156.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Viaggiator%20Goloso%20Mini%20Grissini%20Semi%20e%20Cereali%20Bio_1761185156.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mini-grissini-semi-e-cereali-il-biologico-100g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mini Grissini Semi e Cereali Il Biologico 100g",
+   "operatore": "UNES MAXI S.p.A.",
+   "lotti": [
+    "210129",
+    "210205"
+   ],
+   "marchio_identificazione": "Panificio Zorzi",
+   "produttore": "Panificio Zorzi S.r.l.",
+   "sede_stabilimento": "Loc. Brà 1 - 37020 Brentino Belluno (VR)",
+   "scadenza": "29/01 e 05/02/21",
+   "peso_volume": "busta singola di plastica da 100g",
+   "motivo_esteso": "A scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.",
+   "avvertenze": "SI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI NON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA",
+   "campi_extra": {
+    "Data": "11/01/2021 Marchio del prodotto: Il Viaggiator Goloso"
+   },
+   "testo": "RICHIAMO\nData: 11/01/2021 Marchio del prodotto: Il Viaggiator Goloso\nDenominazione di vendita:Mini Grissini Semi e Cereali Il Biologico 100g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è UNES MAXI S.p.A.\ncommercializzato:\nLotto di produzione: 210129 e 210205\nMarchio di identificazione dello stabilimento/del produttore: Panificio Zorzi\nNome del produttore: Panificio Zorzi S.r.l.\nSede dello stabilimento: Loc. Brà 1 - 37020 Brentino Belluno (VR)\nData di scadenza o termine minimo di conservazione: 29/01 e 05/02/21\nDescrizione peso/volume unità di vendita: busta singola di plastica da 100g\nMotivo del richiamo:\nA scopo precauzionale per possibile traccia di ossido di etilene nei semi di sesamo di provenienza India.\nAvvertenze:\nSI PREGA DI RITIRARE DALLA VENDITA I LOTTI EVIDENZIATI\nNON CONSUMARE IL PRODOTTO CON I LOTTI INDICATI E RICONSEGNARE AL PUNTO VENDITA"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:32+00:00"
+ },
+ "panciotelli-ai-funghi-surgelati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panciotelli-ai-funghi-surgelati/",
+  "titolo": "Panciotelli ai funghi surgelati",
+  "data_pubblicazione": "2021-01-20",
+  "marca": "Cucino Io",
+  "denominazione": "Panciotelli ai funghi surgelati",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo%20Panciottelli%20ai%20funghi_1761185163.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo Panciottelli ai funghi_1761185163.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo%20Panciottelli%20ai%20funghi_1761185163.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "panciotelli-ai-funghi-surgelati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:22+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:22+00:00"
+ },
+ "salame-punta-di-coltello": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-punta-di-coltello/",
+  "titolo": "Salame a punta di coltello",
+  "data_pubblicazione": "2021-01-18",
+  "marca": "Lovison spa",
+  "denominazione": "Salame a punta di coltello",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20LOVISON_1761185161.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo LOVISON_1761185161.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20LOVISON_1761185161.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-punta-di-coltello",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:00:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:25+00:00"
+ },
+ "sesamo-semi-clip-sachet": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sesamo-semi-clip-sachet/",
+  "titolo": "SESAMO SEMI CLIP SACHET",
+  "data_pubblicazione": "2021-01-07",
+  "marca": "UBENA",
+  "denominazione": "SESAMO SEMI CLIP SACHET",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SESAMO%20UBENA_1761184403.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO SESAMO UBENA_1761184403.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20SESAMO%20UBENA_1761184403.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "sesamo-semi-clip-sachet",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SESAMO SEMI CLIP SACHET",
+   "operatore": "UBENA ALIMENTARI SRL Piazza Città di Lombardia, 1 – 20124 Milano",
+   "lotti": [
+    "SI VEDA SEZ. AVVERTENZE"
+   ],
+   "marchio_identificazione": "UBENA ALIMENTARI SRL",
+   "produttore": "FUCHS GROUP",
+   "sede_stabilimento": "ROMANIA",
+   "scadenza": "30/04/24 – 31/07/24 – 30/11/24",
+   "peso_volume": "30 GR",
+   "motivo_esteso": "PRESENZA DI OSSIDO DI ETILENE IN QUANTITA' SUPERIORE AL LIMITE DI LEGGE",
+   "avvertenze": "IL PRODOTTO OGGETTO DEL RICHIAMO E' STATO CONFEZIONATO NEI SEGUENTI LOTTI: LR0100B - LR0121B - LR0213B - LR0322A. SI PREGA CIASCUN CONSUMATORE DI NON CONSUMARE IL PRODOTTO E DI RIPORTARLO AL PUNTO VENDITA. IN CASO DI NECESSITA’ E’ ATTIVO IL CUSTOMER SERVICE UBENA RAGGIUNGIBILE A INFO@UBENA.IT Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "30/12/2020 Marchio del prodotto: UBENA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 30/12/2020 Marchio del prodotto: UBENA\nDenominazione di vendita: SESAMO SEMI CLIP SACHET\nNome o ragione sociale dell'OSA UBENA ALIMENTARI SRL\na nome del quale il prodotto è Piazza Città di Lombardia, 1 – 20124 Milano\ncommercializzato:\nLotto di produzione: SI VEDA SEZ. AVVERTENZE\nMarchio di identificazione dello stabilimento/del produttore: UBENA ALIMENTARI SRL\nNome del produttore: FUCHS GROUP\nSede dello stabilimento: ROMANIA\nData di scadenza o termine minimo di conservazione: 30/04/24 – 31/07/24 – 30/11/24\nDescrizione peso/volume unità di vendita: 30 GR\nMotivo del richiamo:\nPRESENZA DI OSSIDO DI ETILENE IN QUANTITA' SUPERIORE AL LIMITE DI LEGGE\nAvvertenze:\nIL PRODOTTO OGGETTO DEL RICHIAMO E' STATO CONFEZIONATO NEI SEGUENTI LOTTI:\nLR0100B - LR0121B - LR0213B - LR0322A. SI PREGA CIASCUN CONSUMATORE DI NON CONSUMARE\nIL PRODOTTO E DI RIPORTARLO AL PUNTO VENDITA.\nIN CASO DI NECESSITA’ E’ ATTIVO IL CUSTOMER SERVICE UBENA RAGGIUNGIBILE A INFO@UBENA.IT\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:56+00:00"
+ },
+ "sugo-alle-verdure-biologico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alle-verdure-biologico/",
+  "titolo": "Sugo alle verdure biologico",
+  "data_pubblicazione": "2021-01-14",
+  "marca": "CARREFOUR BIO",
+  "denominazione": "Sugo alle verdure biologico",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_12.1.21_sugo_verdure_1761184409.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_12.1.21_sugo_verdure_1761184409.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_12.1.21_sugo_verdure_1761184409.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "sugo-alle-verdure-biologico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:00:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:49+00:00"
+ },
+ "taleggio-dop-cademartori-200g-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/taleggio-dop-cademartori-200g-0/",
+  "titolo": "Taleggio DOP Cademartori 200g",
+  "data_pubblicazione": "2021-01-22",
+  "marca": "CADEMARTORI",
+  "denominazione": "Taleggio DOP Cademartori 200g",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185174.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Richiamo_1761185174.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761185174.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "taleggio-dop-cademartori-200g-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Taleggio DOP Cademartori 200g",
+   "operatore": "biG S.r.l.",
+   "lotti": [
+    "LA0403 200126",
+    "LA0603 200127"
+   ],
+   "marchio_identificazione": "IT 03 137 CE",
+   "produttore": "Egidio Galbani S.r.l.",
+   "sede_stabilimento": "Via Vittorio Veneto, 13 - Introbio (LC)",
+   "scadenza": "19/06/20 e 20/06/20",
+   "peso_volume": "200 g",
+   "motivo_esteso": "REVOCA RICHIAMO PER SCADENZA PRODOTTO",
+   "campi_extra": {
+    "Data": "22/01/2021 Marchio del prodotto: CADEMARTORI"
+   },
+   "testo": "RICHIAMO\nData: 22/01/2021 Marchio del prodotto: CADEMARTORI\nDenominazione di vendita:Taleggio DOP Cademartori 200g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è biG S.r.l.\ncommercializzato:\nLotto di produzione: LA0403 200126 e LA0603 200127\nMarchio di identificazione dello stabilimento/del produttore: IT 03 137 CE\nNome del produttore: Egidio Galbani S.r.l.\nSede dello stabilimento: Via Vittorio Veneto, 13 - Introbio (LC)\nData di scadenza o termine minimo di conservazione: 19/06/20 e 20/06/20\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nREVOCA RICHIAMO PER SCADENZA PRODOTTO\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:17+00:00"
+ },
+ "trs-sesame-seeds-black": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trs-sesame-seeds-black/",
+  "titolo": "TRS SESAME SEEDS BLACK",
+  "data_pubblicazione": "2021-01-21",
+  "marca": "TRS",
+  "denominazione": "TRS SESAME SEEDS BLACK",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Semi_1761185164.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello Richiamo Semi_1761185164.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20Richiamo%20Semi_1761185164.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "trs-sesame-seeds-black",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "TRS SESAME SEEDS BLACK 100 G",
+   "operatore": "INDIA TRADING SRL",
+   "lotti": [
+    "BATCH CODE P60806"
+   ],
+   "produttore": "TRS Wholesale Ltd",
+   "sede_stabilimento": "Inghilterra",
+   "scadenza": "BB 06/2021",
+   "peso_volume": "1 Cartone con 20 confezioni da 100 g.",
+   "motivo_esteso": "Allerta 5",
+   "campi_extra": {
+    "Data": "14/01/2021 Marchio del prodotto: TRS"
+   },
+   "testo": "RICHIAMO\nData: 14/01/2021 Marchio del prodotto: TRS\nDenominazione di vendita:TRS SESAME SEEDS BLACK 100 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è INDIA TRADING SRL\ncommercializzato:\nLotto di produzione: BATCH CODE P60806\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: TRS Wholesale Ltd\nSede dello stabilimento: Inghilterra\nData di scadenza o termine minimo di conservazione: BB 06/2021\nDescrizione peso/volume unità di vendita: 1 Cartone con 20 confezioni da 100 g.\nMotivo del richiamo:\nAllerta 5\nAvvertenze:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:19+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:19+00:00"
+ },
+ "yoga-mug-blue": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/yoga-mug-blue/",
+  "titolo": "Yoga Mug BLUE",
+  "data_pubblicazione": "2021-01-15",
+  "marca": "DOIY",
+  "denominazione": "Yoga Mug BLUE",
+  "motivo": "Richiamo per rischio migrazione dei materiali destinati a venire a contatto con gli alimenti",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20compilato_1761185160.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo compilato_1761185160.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20compilato_1761185160.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "yoga-mug-blue",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:00:46+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:00:46+00:00"
+ }
+}

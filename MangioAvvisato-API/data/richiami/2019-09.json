@@ -1,0 +1,573 @@
+{
+ "acqua-minerale-naturale-sorgesana": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-sorgesana/",
+  "titolo": "Acqua minerale naturale Sorgesana",
+  "data_pubblicazione": "2019-09-16",
+  "marca": "Sorgesana",
+  "denominazione": "Acqua minerale naturale Sorgesana",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_1761179655.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_1761179655.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_1761179655.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "acqua-minerale-naturale-sorgesana",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:44+00:00"
+ },
+ "cremoso-alla-soia-bianco-veggie-despar": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cremoso-alla-soia-bianco-veggie-despar/",
+  "titolo": "Cremoso alla soia Bianco Veggie Despar",
+  "data_pubblicazione": "2019-09-10",
+  "marca": "Despar",
+  "denominazione": "Cremoso alla soia Bianco Veggie Despar",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/SCANSIONE_20190905_181129_1761179636.pdf",
+  "allegati": [
+   {
+    "titolo": "SCANSIONE_20190905_181129_1761179636.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/SCANSIONE_20190905_181129_1761179636.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cremoso-alla-soia-bianco-veggie-despar",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:56+00:00"
+ },
+ "farina-di-ceci": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-ceci/",
+  "titolo": "FARINA DI CECI",
+  "data_pubblicazione": "2019-09-11",
+  "marca": "MOLINO ZANONE",
+  "denominazione": "FARINA DI CECI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Zanone_21062020_1761179641.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO_DI_RICHIAMO_Zanone_21062020_1761179641.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO_DI_RICHIAMO_Zanone_21062020_1761179641.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-ceci",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FARINA DI CECI",
+   "operatore": "MOLINO ZANONE SRL",
+   "lotti": [
+    "FI00172.19A",
+    "B"
+   ],
+   "marchio_identificazione": "MOLINO ZANONE",
+   "produttore": "MOLINO ZANONE SRL",
+   "sede_stabilimento": "VIA PROVINCIALE CEVA 3, 12070, LISIO (CN) ITALIA",
+   "scadenza": "21-06-2020",
+   "peso_volume": "confezioni da gr. 400",
+   "motivo_esteso": "PRESENZA DI INFESTANTI",
+   "avvertenze": "METTERE SUBITO APPOSITA CARTELLONISTICA SULLO SCAFFALE PER INFORMARE IL CLIENTE. RITIRO MERCE A CARICO DELLA MOLINO ZANONE.",
+   "campi_extra": {
+    "Data": "06/09/2019 Marchio del prodotto: MOLINO ZANONE"
+   },
+   "testo": "RICHIAMO\nData: 06/09/2019 Marchio del prodotto: MOLINO ZANONE\nDenominazione di vendita:FARINA DI CECI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MOLINO ZANONE SRL\ncommercializzato:\nLotto di produzione: FI00172.19A,B\nMarchio di identificazione dello stabilimento/del produttore: MOLINO ZANONE\nNome del produttore: MOLINO ZANONE SRL\nSede dello stabilimento: VIA PROVINCIALE CEVA 3, 12070, LISIO (CN) ITALIA\nData di scadenza o termine minimo di conservazione: 21-06-2020\nDescrizione peso/volume unità di vendita: confezioni da gr. 400\nMotivo del richiamo:\nPRESENZA DI INFESTANTI\nAvvertenze:\nMETTERE SUBITO APPOSITA CARTELLONISTICA SULLO SCAFFALE PER INFORMARE IL CLIENTE.\nRITIRO MERCE A CARICO DELLA MOLINO ZANONE."
+  },
+  "prima_rilevazione": "2026-10-25T09:33:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:53+00:00"
+ },
+ "farina-di-farro-biologica": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-farro-biologica/",
+  "titolo": "FARINA DI FARRO BIOLOGICA",
+  "data_pubblicazione": "2019-09-02",
+  "marca": "LE FARINE MAGICHE LO CONTE",
+  "denominazione": "FARINA DI FARRO BIOLOGICA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Farro_1761179618.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Farro_1761179618.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Farro_1761179618.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "farina-di-farro-biologica",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:34:13+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:34:13+00:00"
+ },
+ "farina-di-farro-biologica-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-farro-biologica-0/",
+  "titolo": "FARINA DI FARRO BIOLOGICA",
+  "data_pubblicazione": "2019-09-03",
+  "marca": "CONAD SCARL",
+  "denominazione": "FARINA DI FARRO BIOLOGICA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Farro_1761179623.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Farro_1761179623.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Farro_1761179623.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-farro-biologica-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:34:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:34:05+00:00"
+ },
+ "ghiaccio-alimentare": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ghiaccio-alimentare/",
+  "titolo": "Ghiaccio Alimentare",
+  "data_pubblicazione": "2019-09-24",
+  "marca": "ICE CUBE SRL",
+  "denominazione": "Ghiaccio Alimentare",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_ICE_CUBE_LOTTO_LA16.09.21_1761180317.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_ICE_CUBE_LOTTO_LA16.09.21_1761180317.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_ICE_CUBE_LOTTO_LA16.09.21_1761180317.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ghiaccio-alimentare",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:23+00:00"
+ },
+ "ghiaccio-alimentare-cubetti": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ghiaccio-alimentare-cubetti/",
+  "titolo": "Ghiaccio alimentare a cubetti",
+  "data_pubblicazione": "2019-09-06",
+  "marca": "Polo Nord Ice Cubes S.r.l.",
+  "denominazione": "Ghiaccio alimentare a cubetti",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Scheda%20Richiamo%20_Ghiaccio_1761179632.pdf",
+  "allegati": [
+   {
+    "titolo": "Scheda Richiamo _Ghiaccio_1761179632.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Scheda%20Richiamo%20_Ghiaccio_1761179632.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ghiaccio-alimentare-cubetti",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:34:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:34:01+00:00"
+ },
+ "ghiaccio-alimentare-cubetti-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ghiaccio-alimentare-cubetti-0/",
+  "titolo": "Ghiaccio alimentare a cubetti",
+  "data_pubblicazione": "2019-09-23",
+  "marca": "ICE CUBE Srl.",
+  "denominazione": "Ghiaccio alimentare a cubetti",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ICE_CUBE_Srl_Lotto16.09.21_1761179694.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_ICE_CUBE_Srl_Lotto16.09.21_1761179694.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_ICE_CUBE_Srl_Lotto16.09.21_1761179694.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "ghiaccio-alimentare-cubetti-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:25+00:00"
+ },
+ "la-battuta-di-fassone": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-battuta-di-fassone/",
+  "titolo": "LA BATTUTA DI FASSONE",
+  "data_pubblicazione": "2019-09-13",
+  "marca": "FORMENTO",
+  "denominazione": "LA BATTUTA DI FASSONE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_La%20battuta%20di%20fassone_5439321_1761179645.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_La battuta di fassone_5439321_1761179645.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_La%20battuta%20di%20fassone_5439321_1761179645.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "la-battuta-di-fassone",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:47+00:00"
+ },
+ "la-battuta-di-fassone-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/la-battuta-di-fassone-0/",
+  "titolo": "LA BATTUTA DI FASSONE",
+  "data_pubblicazione": "2019-09-13",
+  "marca": "FORMENTO",
+  "denominazione": "LA BATTUTA DI FASSONE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_La%20battuta%20di%20fassone_5439496_1761179650.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_La battuta di fassone_5439496_1761179650.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_La%20battuta%20di%20fassone_5439496_1761179650.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "la-battuta-di-fassone-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:50+00:00"
+ },
+ "matt-non-solo-pane-le-mais-bio-galletta-di-mais-bio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/matt-non-solo-pane-le-mais-bio-galletta-di-mais-bio/",
+  "titolo": "Matt non solo pane Le Mais Bio - Galletta di Mais bio",
+  "data_pubblicazione": "2019-09-03",
+  "marca": "Matt",
+  "denominazione": "Matt non solo pane Le Mais Bio - Galletta di Mais bio",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20gallette_1761179627.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo gallette_1761179627.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo%20gallette_1761179627.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "matt-non-solo-pane-le-mais-bio-galletta-di-mais-bio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Data: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:34:10+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:34:10+00:00"
+ },
+ "mitili-e-tris-di-mare": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-e-tris-di-mare/",
+  "titolo": "Mitili e Tris di mare",
+  "data_pubblicazione": "2019-09-19",
+  "marca": "MARINSIEME M.GI.B.",
+  "denominazione": "Mitili e Tris di mare",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1__1761179669.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo_1__1761179669.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo_1__1761179669.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mitili-e-tris-di-mare",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mitili, Tris di mare",
+   "operatore": "M.Gi.B. Srl",
+   "marchio_identificazione": "IT 467 CE",
+   "produttore": "M.Gi.B. srl",
+   "sede_stabilimento": "Via Dell’Artigianato, 20 Bosco Mesola (Ferrara) Tel. 0533/795825",
+   "peso_volume": "Confezioni in rete da 1 Kg di mitili e confezioni Tris di mare da 1 Kg",
+   "motivo_esteso": "Presenza di biotossine algali (DSP)",
+   "avvertenze": "la clientela, qualora possieda i seguenti lotti è pregata di riportare le confezioni acquistate presso il punto vendita.",
+   "campi_extra": {
+    "Codice": "07/08 I",
+    "Data": "19-09-19 Marchio del prodotto: Marinsieme M.Gi.B.",
+    "commercializzato": "M.Gi.B. Srl"
+   },
+   "testo": "Tipo di\nModulo\nCOMUNICAZIONE DI documento:\nCodice: 07/08 I\nRICHIAMO\nEd. 01 Rev. 00 del 31 luglio 2019\nMODELLO DI RICHIAMO\nData: 19-09-19 Marchio del prodotto: Marinsieme M.Gi.B.\nDenominazione di vendita: Mitili, Tris di mare\nNome o ragione sociale dell’OSA\na nome del quale il prodotto è\ncommercializzato: M.Gi.B. Srl\nLotti di produzione:\nLotto Data scadenza o TMC\n59433 10/09/19\n59443, 59459 11/09/19\n59465 12/09/19\n59510 12/09/19\nMarchio di identificazione dello stabilimento: IT 467 CE\nNome del Produttore: M.Gi.B. srl\nSede dello stabilimento: Via Dell’Artigianato, 20 Bosco Mesola (Ferrara) Tel. 0533/795825\nDescrizione peso/volume unità di vendita: Confezioni in rete da 1 Kg di mitili e confezioni Tris di mare da 1 Kg\nMotivo del richiamo:\nPresenza di biotossine algali (DSP)\nAvvertenze:\nla clientela, qualora possieda i seguenti lotti è pregata di riportare le confezioni acquistate presso il punto\nvendita."
+  },
+  "prima_rilevazione": "2026-10-25T09:33:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:37+00:00"
+ },
+ "mitili-e-tris-di-mare-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-e-tris-di-mare-0/",
+  "titolo": "Mitili e Tris di mare",
+  "data_pubblicazione": "2019-09-20",
+  "marca": "Marinsieme M.GI.B.",
+  "denominazione": "Mitili e Tris di mare",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20M.%20GI.B.%20Srl_1761179674.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo M. GI.B. Srl_1761179674.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20M.%20GI.B.%20Srl_1761179674.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mitili-e-tris-di-mare-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:28+00:00"
+ },
+ "mitili-e-tris-di-mare-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-e-tris-di-mare-1/",
+  "titolo": "Mitili e Tris di mare",
+  "data_pubblicazione": "2019-09-20",
+  "marca": "Marinsieme M.Gi.B.",
+  "denominazione": "Mitili e Tris di mare",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20M.%20GI.B.%20Srl_1761179679.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo M. GI.B. Srl_1761179679.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20M.%20GI.B.%20Srl_1761179679.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mitili-e-tris-di-mare-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:30+00:00"
+ },
+ "mitili-mytilus-galloprovincialis": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-mytilus-galloprovincialis/",
+  "titolo": "MITILI (Mytilus galloprovincialis)",
+  "data_pubblicazione": "2019-09-18",
+  "marca": "COOP.MITILICOLTORI ASSOCIATI ARL \nAPPROVAL NUMBER IT 11CSM CE",
+  "denominazione": "MITILI (Mytilus galloprovincialis)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20mitili_1761179664.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo mitili_1761179664.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20mitili_1761179664.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mitili-mytilus-galloprovincialis",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:42+00:00"
+ },
+ "mitili-tris-di-mare": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mitili-tris-di-mare/",
+  "titolo": "Mitili, Tris di mare",
+  "data_pubblicazione": "2019-09-20",
+  "marca": "Marinsieme M.Gi.B.",
+  "denominazione": "Mitili, Tris di mare",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20M.Gi.B.%20Srl_1761179684.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di richiamo M.Gi.B. Srl_1761179684.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20richiamo%20M.Gi.B.%20Srl_1761179684.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mitili-tris-di-mare",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:32+00:00"
+ },
+ "olive-farcite": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/olive-farcite/",
+  "titolo": "Olive farcite",
+  "data_pubblicazione": "2019-09-20",
+  "marca": "Coop",
+  "denominazione": "Olive farcite",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20rich%20_1761179689.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo rich _1761179689.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20rich%20_1761179689.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "olive-farcite",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "OLIVE FARCITE",
+   "operatore": "COOP ITALIA",
+   "lotti": [
+    "LJ 197"
+   ],
+   "produttore": "INPA SPA",
+   "sede_stabilimento": "VIA CIAMBELLANA 2",
+   "scadenza": "LUG 2021",
+   "peso_volume": "280g peso netto 180 g peso sgocciolato",
+   "motivo_esteso": "POSSIBILE PRESENZA DI SOLFITI NON DICHIARATI IN ETICHETTA",
+   "avvertenze": "SI INVITA I CONSUMATORI ALLERGICI AI SOLFITI A NON CONSUMARE IL PRODOTTO Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "19/09/2019 Marchio del prodotto: COOP",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 19/09/2019 Marchio del prodotto: COOP\nDenominazione di vendita:OLIVE FARCITE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è COOP ITALIA\ncommercializzato:\nLotto di produzione: LJ 197\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: INPA SPA\nSede dello stabilimento: VIA CIAMBELLANA 2\nData di scadenza o termine minimo di conservazione: LUG 2021\nDescrizione peso/volume unità di vendita: 280g peso netto 180 g peso sgocciolato\nMotivo del richiamo:\nPOSSIBILE PRESENZA DI SOLFITI NON DICHIARATI IN ETICHETTA\nAvvertenze:\nSI INVITA I CONSUMATORI ALLERGICI AI SOLFITI A NON CONSUMARE IL PRODOTTO\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:33:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:35+00:00"
+ },
+ "preparato-crem-caramel": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crem-caramel/",
+  "titolo": "PREPARATO PER CREM CARAMEL",
+  "data_pubblicazione": "2019-09-26",
+  "marca": "PEDON",
+  "denominazione": "PREPARATO PER CREM CARAMEL",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_PEDON_crem_caramel_1761180318.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_PEDON_crem_caramel_1761180318.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_PEDON_crem_caramel_1761180318.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "preparato-crem-caramel",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "operatore": "PEDON S.p.A.",
+   "marchio_identificazione": "PEDON",
+   "produttore": "PEDON S.p.A.",
+   "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA RICHIAMO AI SOLI CONSUMATORI ALLERGICI AL LATTE",
+   "denominazione_vendita": "PREPARATO PER CREME CARAMEL 180720 - 080220 VIA DEL PROGRESSO 32, 36060 MOLVENA (VI) 18/07/20 - 08/02/20 130 g",
+   "motivo_esteso": "PRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - LATTE PER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437",
+   "campi_extra": {
+    "Data": "Marchio del prodotto: PEDON"
+   },
+   "testo": "Data: Marchio del prodotto: PEDON\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PEDON S.p.A.\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: PEDON\nNome del produttore: PEDON S.p.A.\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA\nRICHIAMO AI SOLI CONSUMATORI ALLERGICI AL LATTE\nDenominazione di vendita: PREPARATO PER CREME CARAMEL\n180720 - 080220\nVIA DEL PROGRESSO 32, 36060 MOLVENA (VI)\n18/07/20 - 08/02/20\n130 g\nMotivo del richiamo:\nPRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - LATTE\nPER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437"
+  },
+  "prima_rilevazione": "2026-10-25T09:33:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:21+00:00"
+ },
+ "tonno-affumicato-tranci": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/tonno-affumicato-tranci/",
+  "titolo": "Tonno affumicato tranci",
+  "data_pubblicazione": "2019-09-18",
+  "marca": "Riunione Industrie Alimentari srl",
+  "denominazione": "Tonno affumicato tranci",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20tonno%20in%20tranci%20RIA_1761179660.PDF",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO tonno in tranci RIA_1761179660.PDF",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20tonno%20in%20tranci%20RIA_1761179660.PDF"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "tonno-affumicato-tranci",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:39+00:00"
+ }
+}

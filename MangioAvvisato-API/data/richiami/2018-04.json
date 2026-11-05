@@ -1,0 +1,393 @@
+{
+ "deco-vaschetta-tiramisu": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-vaschetta-tiramisu/",
+  "titolo": "DECO' Vaschetta Tiramisu'",
+  "data_pubblicazione": "2018-04-03",
+  "marca": "DECO'",
+  "denominazione": "DECO' Vaschetta Tiramisu'",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/5_%20RICHIAMO%20Tiramisu__1761176755.pdf",
+  "allegati": [
+   {
+    "titolo": "5_ RICHIAMO Tiramisu__1761176755.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/5_%20RICHIAMO%20Tiramisu__1761176755.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "deco-vaschetta-tiramisu",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:25+00:00"
+ },
+ "deco-vaschetta-tiramisu-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/deco-vaschetta-tiramisu-0/",
+  "titolo": "DECO VASCHETTA TIRAMISU'",
+  "data_pubblicazione": "2018-04-05",
+  "marca": "DECO'",
+  "denominazione": "DECO VASCHETTA TIRAMISU'",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloRichiamorevisionato_1761176758.pdf",
+  "allegati": [
+   {
+    "titolo": "ModuloRichiamorevisionato_1761176758.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ModuloRichiamorevisionato_1761176758.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "deco-vaschetta-tiramisu-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:20+00:00"
+ },
+ "farina-di-grano-tenero-di-tipo-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-di-tipo-0/",
+  "titolo": "Farina di grano tenero di tipo \"0\"",
+  "data_pubblicazione": "2018-04-13",
+  "marca": "Consorzio Agroalimentare T. M. T. sca",
+  "denominazione": "Farina di grano tenero di tipo \"0\"",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Farina_1761176770.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_Farina_1761176770.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Farina_1761176770.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-grano-tenero-di-tipo-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:06+00:00"
+ },
+ "farina-di-grano-tenero-tipo0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-grano-tenero-tipo0/",
+  "titolo": "Farina di grano tenero tipo\"0\"",
+  "data_pubblicazione": "2018-04-18",
+  "marca": "Consorzio Agroalimentare T.M.T. sca",
+  "denominazione": "Farina di grano tenero tipo\"0\"",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Farina%20grano%20tenero_Sarti_1761176763.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo Farina grano tenero_Sarti_1761176763.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20Farina%20grano%20tenero_Sarti_1761176763.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-grano-tenero-tipo0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:01+00:00"
+ },
+ "kaminwurzen-insaccato-crudo-affumicato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kaminwurzen-insaccato-crudo-affumicato/",
+  "titolo": "Kaminwurzen insaccato crudo affumicato",
+  "data_pubblicazione": "2018-04-27",
+  "marca": "Sarnerspeck des Stauder Johann Stofnerhof",
+  "denominazione": "Kaminwurzen insaccato crudo affumicato",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salamini%20Sarner%20BZ_1761176778.pdf",
+  "allegati": [
+   {
+    "titolo": "Salamini Sarner BZ_1761176778.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Salamini%20Sarner%20BZ_1761176778.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "kaminwurzen-insaccato-crudo-affumicato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:50:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:50:54+00:00"
+ },
+ "latticino-fiocchi-e-latticino-fiocchi-senza-lattosio-base-di": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latticino-fiocchi-e-latticino-fiocchi-senza-lattosio-base-di/",
+  "titolo": "Latticino in fiocchi e Latticino in fiocchi senza lattosio, a base di formaggio fresco magro",
+  "data_pubblicazione": "2018-04-12",
+  "marca": "JOCCA; JOCCA Senza Lattosio",
+  "denominazione": "Latticino in fiocchi e Latticino in fiocchi senza lattosio, a base di formaggio fresco magro",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761176767.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo richiamo_1761176767.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20richiamo_1761176767.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "latticino-fiocchi-e-latticino-fiocchi-senza-lattosio-base-di",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:11+00:00"
+ },
+ "mix-farina-dolce-soffice-da-kg-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-farina-dolce-soffice-da-kg-1/",
+  "titolo": "Mix Farina Dolce Soffice da Kg 1",
+  "data_pubblicazione": "2018-04-23",
+  "marca": "Molini Spigadoro SpA",
+  "denominazione": "Mix Farina Dolce Soffice da Kg 1",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Molini%20Spigadoro%20SpA%20_%20Bastia%20Umbra_1761176776.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Molini Spigadoro SpA _ Bastia Umbra_1761176776.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Molini%20Spigadoro%20SpA%20_%20Bastia%20Umbra_1761176776.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mix-farina-dolce-soffice-da-kg-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:50:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:50:56+00:00"
+ },
+ "mousse-di-baccala-mantecato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mousse-di-baccala-mantecato/",
+  "titolo": "Mousse di baccala' mantecato",
+  "data_pubblicazione": "2018-04-06",
+  "marca": "Gastronomia Valdarnese",
+  "denominazione": "Mousse di baccala' mantecato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Baccala%20mantecato_1761176760.pdf",
+  "allegati": [
+   {
+    "titolo": "Baccala mantecato_1761176760.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Baccala%20mantecato_1761176760.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mousse-di-baccala-mantecato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:18+00:00"
+ },
+ "multipack-chips-6-buste-assortite": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/multipack-chips-6-buste-assortite/",
+  "titolo": "Multipack chips - 6 buste assortite",
+  "data_pubblicazione": "2018-04-11",
+  "marca": "Snack Fun",
+  "denominazione": "Multipack chips - 6 buste assortite",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/354771_CHIPS%20MULTIPACK%20180%20G_1761176765.pdf",
+  "allegati": [
+   {
+    "titolo": "354771_CHIPS MULTIPACK 180 G_1761176765.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/354771_CHIPS%20MULTIPACK%20180%20G_1761176765.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "multipack-chips-6-buste-assortite",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Multipack chips - 6 buste assortite",
+   "operatore": "ALDI S.r.l",
+   "lotti": [
+    "Tutti"
+   ],
+   "produttore": "Pata S.p.A Via Maestri del Lavoro 48, 46043 Castiglione delle Stiviere (MN)",
+   "sede_stabilimento": "Tutte Date di scadenza o termine minimo di conservazione",
+   "peso_volume": "Busta Multipack 180 g/ 6 buste assortite da 30 g ciascuna",
+   "motivo_esteso": "Possibile presenza dell’allergene latte nella varietà “Sfogliatine chips”.",
+   "avvertenze": "Il prodotto non deve essere consumato da soggetti allergici al latte e può essere restituito in qualsiasi punto vendita ALDI. Per informazioni contattare il Servizio Clienti ALDI al seguente numero verde: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00) Multipack 180 g Busta “Sfogliatine chips” 30 g",
+   "campi_extra": {
+    "Data": "05/04/2 018 Marchio del prodotto: Snack Fun"
+   },
+   "testo": "RICHIAMO AI SOLI CONSUMATORI ALLERGICI AL LATTE\nData: 05/04/2 018 Marchio del prodotto: Snack Fun\nDenominazione di vendita: Multipack chips - 6 buste assortite\nNome o ragione sociale dell’OSA ALDI S.r.l\na nome del quale il prodotto è\ncommercializzato:\nLotti di produzione: Tutti\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: Pata S.p.A\nVia Maestri del Lavoro 48, 46043 Castiglione delle Stiviere (MN)\nSede dello stabilimento:\nTutte\nDate di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: Busta Multipack 180 g/ 6 buste assortite da 30 g ciascuna\nMotivo del richiamo:\nPossibile presenza dell’allergene latte nella varietà “Sfogliatine chips”.\nAvvertenze:\nIl prodotto non deve essere consumato da soggetti allergici al latte e può essere restituito in qualsiasi\npunto vendita ALDI.\nPer informazioni contattare il Servizio Clienti ALDI al seguente numero verde:\n800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)\nMultipack 180 g Busta “Sfogliatine chips” 30 g"
+  },
+  "prima_rilevazione": "2026-10-25T09:51:13+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:13+00:00"
+ },
+ "ostriche-concave-allevate-francia-crassostrea-gigas": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/ostriche-concave-allevate-francia-crassostrea-gigas/",
+  "titolo": "OSTRICHE CONCAVE ALLEVATE FRANCIA (CRASSOSTREA GIGAS)",
+  "data_pubblicazione": "2018-04-13",
+  "marca": "GISA SRL",
+  "denominazione": "OSTRICHE CONCAVE ALLEVATE FRANCIA (CRASSOSTREA GIGAS)",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GISA%20SRL%202018_1761176768.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo GISA SRL 2018_1761176768.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20GISA%20SRL%202018_1761176768.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "ostriche-concave-allevate-francia-crassostrea-gigas",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:04+00:00"
+ },
+ "pizza-bianca-farcita-con-salsa-al-tartufo-nero-e-prosciutto-cotto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizza-bianca-farcita-con-salsa-al-tartufo-nero-e-prosciutto-cotto/",
+  "titolo": "Pizza bianca farcita con salsa al tartufo nero e prosciutto cotto",
+  "data_pubblicazione": "2018-04-10",
+  "marca": "Deluxe",
+  "denominazione": "Pizza bianca farcita con salsa al tartufo nero e prosciutto cotto",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_354704_1761176761.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello di Richiamo_354704_1761176761.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20di%20Richiamo_354704_1761176761.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pizza-bianca-farcita-con-salsa-al-tartufo-nero-e-prosciutto-cotto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n06/04/2018 Deluxe\nPizza bianca farcita con salsa al tartufo nero e prosciutto cotto\nLidl Italia Srl\n8046\nIT 1558/L CE\nItalpizza S.p.A.\nVia Gherbella, 454/A – 41126 San Donnino (MO)\n15/02/2019\n390g\nIn autocontrollo, rilevata la presenza di senape, allergene non dichiarato in etichetta.\nLidl Italia s.r.l. invita i consumatori allergici alla senape che avessero acquistato il prodotto a non consumarlo e a\nriportarlo al punto vendita per il rimborso."
+  },
+  "prima_rilevazione": "2026-10-25T09:51:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:16+00:00"
+ },
+ "salame-di-cioccolato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-di-cioccolato/",
+  "titolo": "SALAME DI CIOCCOLATO",
+  "data_pubblicazione": "2018-04-04",
+  "marca": "BOCN SRL",
+  "denominazione": "SALAME DI CIOCCOLATO",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso_same_cicc_18_37_C_1761176757.pdf",
+  "allegati": [
+   {
+    "titolo": "Avviso_same_cicc_18_37_C_1761176757.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso_same_cicc_18_37_C_1761176757.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-di-cioccolato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:23+00:00"
+ },
+ "semi-di-cumino-biologici": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/semi-di-cumino-biologici/",
+  "titolo": "Semi di cumino biologici",
+  "data_pubblicazione": "2018-04-13",
+  "marca": "Nuova Terra",
+  "denominazione": "Semi di cumino biologici",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Semi%20cumino_1761176772.pdf",
+  "allegati": [
+   {
+    "titolo": "Semi cumino_1761176772.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Semi%20cumino_1761176772.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "semi-di-cumino-biologici",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:51:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:51:09+00:00"
+ },
+ "spianata-romana": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/spianata-romana/",
+  "titolo": "SPIANATA ROMANA",
+  "data_pubblicazione": "2018-04-20",
+  "marca": "Stella 81",
+  "denominazione": "SPIANATA ROMANA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamoStella81_18_17_B_1761176774.pdf",
+  "allegati": [
+   {
+    "titolo": "modellorichiamoStella81_18_17_B_1761176774.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamoStella81_18_17_B_1761176774.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "spianata-romana",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:50:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:50:58+00:00"
+ }
+}

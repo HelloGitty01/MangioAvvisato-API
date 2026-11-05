@@ -1,0 +1,378 @@
+{
+ "acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e/",
+  "titolo": "Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+  "data_pubblicazione": "2018-09-20",
+  "marca": "Fonte Itala",
+  "denominazione": "Acqua Minerale Naturale Fonte Itala Effervescente, Chiarissima e Frizzante",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20OSA%20_%20Fonte%20Itala%20Srl_1761177750.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo OSA _ Fonte Itala Srl_1761177750.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20OSA%20_%20Fonte%20Itala%20Srl_1761177750.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "acqua-minerale-naturale-fonte-itala-effervescente-chiarissima-e",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:46:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:21+00:00"
+ },
+ "caffe-100-arabica-macinato-bio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caffe-100-arabica-macinato-bio/",
+  "titolo": "Caffè 100% ARABICA MACINATO BIO",
+  "data_pubblicazione": "2018-09-17",
+  "marca": "CORSINO CORSINI",
+  "denominazione": "Caffè 100% ARABICA MACINATO BIO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/caffe%20CORSINI_1761177748.pdf",
+  "allegati": [
+   {
+    "titolo": "caffe CORSINI_1761177748.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/caffe%20CORSINI_1761177748.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "caffe-100-arabica-macinato-bio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "' 100o/o ARABICA MACINATO BIO",
+   "operatore": "INO CORSINI SPA",
+   "lotti": [
+    "2B/O4/2OL9 S"
+   ],
+   "marchio_identificazione": "RSINO CORSINI SPA",
+   "produttore": "CORSINI SPA",
+   "sede_stabilimento": "DEL SEMBOLINO 62164 52O4L BADIA AL PINO (AR)",
+   "scadenza": "8-04-2019",
+   "peso_volume": "250 g",
+   "motivo_esteso": "Ocratossina A superiore al limite previsto dal Reg. L88L/2O06 e s.m.i.",
+   "avvertenze": "due",
+   "campi_extra": {
+    "Data": "/20L8 Marchio del prodotto: CAFFE'"
+   },
+   "testo": "Data: /20L8 Marchio del prodotto: CAFFE'\nDenominazione di vendita ' 100o/o ARABICA MACINATO BIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è INO CORSINI SPA\ncommercializzato:\nLotto di produzione: 2B/O4/2OL9 S\nMarchio di identificazione dello stabilimento/del produttore: RSINO CORSINI SPA\nNome del produttore: CORSINI SPA\nSede dello stabilimento: DEL SEMBOLINO 62164 52O4L BADIA AL PINO (AR)\nData di scadenza o termine minimo di conservazione: 8-04-2019\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nOcratossina A superiore al limite previsto dal Reg. L88L/2O06 e s.m.i.\nAvvertenze:\ndue:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:23+00:00"
+ },
+ "cous-cous-pollo-e-verdure": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-pollo-e-verdure/",
+  "titolo": "Cous Cous pollo e verdure",
+  "data_pubblicazione": "2018-09-28",
+  "marca": "Gastronomia d'Italia - SMA",
+  "denominazione": "Cous Cous pollo e verdure",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20cous%20cous%20Gastronomia%20di%20Italia_1761177752.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo cous cous Gastronomia di Italia_1761177752.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20cous%20cous%20Gastronomia%20di%20Italia_1761177752.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "cous-cous-pollo-e-verdure",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:46:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:15+00:00"
+ },
+ "cous-cous-pollo-e-verdure-200g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cous-cous-pollo-e-verdure-200g/",
+  "titolo": "COUS COUS POLLO E VERDURE 200g",
+  "data_pubblicazione": "2018-09-28",
+  "marca": "GASTRONOMIA D'ITALIA",
+  "denominazione": "COUS COUS POLLO E VERDURE 200g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cous%20cous%20pollo%20AUCHAN%20_%2027.09.18__1761177754.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo cous cous pollo AUCHAN _ 27.09.18__1761177754.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20cous%20cous%20pollo%20AUCHAN%20_%2027.09.18__1761177754.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cous-cous-pollo-e-verdure-200g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "COUS COUS POLLO E VERDURE 200 G",
+   "operatore": "SMA SPA, STRADA 8, PALAZZO N, 20089 ROZZANO (MI)",
+   "lotti": [
+    "18041"
+   ],
+   "marchio_identificazione": "BOLLO CE IT358L CE",
+   "produttore": "LA SORGENTE SRL",
+   "sede_stabilimento": "VIA ALDO MORO, 6- 20060 PESSANO CON BORNAGO (MI)",
+   "scadenza": "07-10-2018",
+   "peso_volume": "200 g",
+   "motivo_esteso": "Rischio microbiologico",
+   "avvertenze": "Non consumare il prodotto e riportarlo presso il punto vendita. Per ulteriori informazioni rivolgersi al Servizio Clienti 800896996 Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "27/09/2018 Marchio del prodotto: GASTRONOMIA D'ITALIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 27/09/2018 Marchio del prodotto: GASTRONOMIA D'ITALIA\nDenominazione di vendita:COUS COUS POLLO E VERDURE 200 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è SMA SPA, STRADA 8, PALAZZO N, 20089 ROZZANO (MI)\ncommercializzato:\nLotto di produzione: 18041\nMarchio di identificazione dello stabilimento/del produttore: BOLLO CE IT358L CE\nNome del produttore: LA SORGENTE SRL\nSede dello stabilimento: VIA ALDO MORO, 6- 20060 PESSANO CON BORNAGO (MI)\nData di scadenza o termine minimo di conservazione: 07-10-2018\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nRischio microbiologico\nAvvertenze:\nNon consumare il prodotto e riportarlo presso il punto vendita.\nPer ulteriori informazioni rivolgersi al Servizio Clienti 800896996\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:18+00:00"
+ },
+ "funghi-porcini-secchi-speciali": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-porcini-secchi-speciali/",
+  "titolo": "FUNGHI PORCINI SECCHI SPECIALI",
+  "data_pubblicazione": "2018-09-13",
+  "marca": "BARESA",
+  "denominazione": "FUNGHI PORCINI SECCHI SPECIALI",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20Modello%20di%20Richiamo%20K180047_1761177744.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato 4 _ Modello di Richiamo K180047_1761177744.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato%204%20_%20Modello%20di%20Richiamo%20K180047_1761177744.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "funghi-porcini-secchi-speciali",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "10/09/2018 BARESA\nFUNGHI PORCINI SECCHI SPECIALI\nLIDL ITALIA SRL\nAS.30.03.19\n---\nLA LINEA AZZURRA SRL\nVia Piave, 85 – 23879 Verderio (LC)\n30.03.19\n30g\nFrammento di una specie estranea a quanto dichiarato\nSi invitano i consumatori che avessero acquistato il prodotto con questo lotto e scadenza, a non consumarlo\ned a riportarlo al punto vendita per il rimborso."
+  },
+  "prima_rilevazione": "2026-10-25T09:46:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:29+00:00"
+ },
+ "funghi-porcini-speciali": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/funghi-porcini-speciali/",
+  "titolo": "Funghi porcini speciali",
+  "data_pubblicazione": "2018-09-10",
+  "marca": "BARESA",
+  "denominazione": "Funghi porcini speciali",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20funghi%20porcini%20secchi_1761177733.pdf",
+  "allegati": [
+   {
+    "titolo": "modello richiamo funghi porcini secchi_1761177733.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modello%20richiamo%20funghi%20porcini%20secchi_1761177733.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "funghi-porcini-speciali",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:46:43+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:43+00:00"
+ },
+ "uova-fresche-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-2/",
+  "titolo": "UOVA FRESCHE",
+  "data_pubblicazione": "2018-09-12",
+  "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIP",
+  "denominazione": "UOVA FRESCHE",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%201_1761177737.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca Margiotta 1_1761177737.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%201_1761177737.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE",
+   "operatore": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+   "lotti": [
+    "21-22-0718"
+   ],
+   "marchio_identificazione": "077AQ082",
+   "produttore": "MARGIOTTA MARIO",
+   "sede_stabilimento": "C.DA SAN MARTINO RAIANO AQ",
+   "scadenza": "19-08-2018",
+   "peso_volume": "21600 KG",
+   "motivo_esteso": "revoca del richiamo per scadenza del prodotto",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA MARIO\ncommercializzato:\nLotto di produzione: 21-22-0718\nMarchio di identificazione dello stabilimento/del produttore: 077AQ082\nNome del produttore: MARGIOTTA MARIO\nSede dello stabilimento: C.DA SAN MARTINO RAIANO AQ\nData di scadenza o termine minimo di conservazione: 19-08-2018\nDescrizione peso/volume unità di vendita: 21600 KG\nMotivo del richiamo:\nrevoca del richiamo per scadenza del prodotto\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:35+00:00"
+ },
+ "uova-fresche-3": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-3/",
+  "titolo": "UOVA FRESCHE",
+  "data_pubblicazione": "2018-09-12",
+  "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+  "denominazione": "UOVA FRESCHE",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%202_1761177739.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca Margiotta 2_1761177739.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%202_1761177739.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-3",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE",
+   "operatore": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+   "lotti": [
+    "19-20-0718"
+   ],
+   "marchio_identificazione": "077AQ082",
+   "produttore": "MARGIOTTA MARIO",
+   "sede_stabilimento": "C.DA SAN MARTINO RAIANO AQ",
+   "scadenza": "17-08-2018",
+   "peso_volume": "21600 KG",
+   "motivo_esteso": "revoca del richiamo per scadenza del prodotto",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA MARIO\ncommercializzato:\nLotto di produzione: 19-20-0718\nMarchio di identificazione dello stabilimento/del produttore: 077AQ082\nNome del produttore: MARGIOTTA MARIO\nSede dello stabilimento: C.DA SAN MARTINO RAIANO AQ\nData di scadenza o termine minimo di conservazione: 17-08-2018\nDescrizione peso/volume unità di vendita: 21600 KG\nMotivo del richiamo:\nrevoca del richiamo per scadenza del prodotto\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:38+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:38+00:00"
+ },
+ "uova-fresche-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-4/",
+  "titolo": "UOVA FRESCHE",
+  "data_pubblicazione": "2018-09-12",
+  "marca": "AVICOLA PELIGNA DI MARGIOTTA MARIO",
+  "denominazione": "UOVA FRESCHE",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%203_1761177742.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca Margiotta 3_1761177742.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20Margiotta%203_1761177742.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "uova-fresche-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "UOVA FRESCHE",
+   "operatore": "AVICOLA PELIGNA di MARGIOTTA MARIO",
+   "lotti": [
+    "17-18-0718"
+   ],
+   "marchio_identificazione": "077AQ082",
+   "produttore": "MARGIOTTA MARIO",
+   "sede_stabilimento": "C.DA SAN MARTINO RAIANO AQ",
+   "scadenza": "15-08-2018",
+   "peso_volume": "21600 KG",
+   "motivo_esteso": "revoca del richiamo per scadenza del prodotto",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 12/09/2018 Marchio del prodotto: AVICOLA PELIGNA di MARGIOTTA MARIO\nDenominazione di vendita:UOVA FRESCHE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è AVICOLA PELIGNA di MARGIOTTA MARIO\ncommercializzato:\nLotto di produzione: 17-18-0718\nMarchio di identificazione dello stabilimento/del produttore: 077AQ082\nNome del produttore: MARGIOTTA MARIO\nSede dello stabilimento: C.DA SAN MARTINO RAIANO AQ\nData di scadenza o termine minimo di conservazione: 15-08-2018\nDescrizione peso/volume unità di vendita: 21600 KG\nMotivo del richiamo:\nrevoca del richiamo per scadenza del prodotto\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:46:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:40+00:00"
+ },
+ "uova-fresche-guscio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio/",
+  "titolo": "Uova fresche in guscio",
+  "data_pubblicazione": "2018-09-12",
+  "marca": "Ovo Fucens Soc. sempl.",
+  "denominazione": "Uova fresche in guscio",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Digitalizzato_20180912_1761177735.pdf",
+  "allegati": [
+   {
+    "titolo": "Digitalizzato_20180912_1761177735.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Digitalizzato_20180912_1761177735.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-guscio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:46:32+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:32+00:00"
+ },
+ "uova-fresche-guscio-cat": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/uova-fresche-guscio-cat/",
+  "titolo": "Uova fresche in guscio cat. A",
+  "data_pubblicazione": "2018-09-14",
+  "marca": "Rosselline dell'Avicola Peligna",
+  "denominazione": "Uova fresche in guscio cat. A",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_1_1761177746.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO RICHIAMO_1_1761177746.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO_1_1761177746.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "uova-fresche-guscio-cat",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:46:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:46:26+00:00"
+ }
+}

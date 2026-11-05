@@ -1,0 +1,535 @@
+{
+ "brodo-vegetale-polevere-rapunzel-klare-suppe": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/brodo-vegetale-polevere-rapunzel-klare-suppe/",
+  "titolo": "Brodo vegetale in polevere - Rapunzel Klare Suppe",
+  "data_pubblicazione": "2019-10-18",
+  "marca": "Rapunzel Naturkost GmbH",
+  "denominazione": "Brodo vegetale in polevere - Rapunzel Klare Suppe",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/2019%2010%2018%20Richiamo%20Klare%20Suppe%20Rapunzel%20MHD%2018_09_2020_1761180331.PDF",
+  "allegati": [
+   {
+    "titolo": "2019 10 18 Richiamo Klare Suppe Rapunzel MHD 18_09_2020_1761180331.PDF",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/2019%2010%2018%20Richiamo%20Klare%20Suppe%20Rapunzel%20MHD%2018_09_2020_1761180331.PDF"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "brodo-vegetale-polevere-rapunzel-klare-suppe",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:32:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:49+00:00"
+ },
+ "farina-di-farro-integrale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-farro-integrale/",
+  "titolo": "FARINA DI FARRO INTEGRALE",
+  "data_pubblicazione": "2019-10-10",
+  "marca": "LO CONTE",
+  "denominazione": "FARINA DI FARRO INTEGRALE",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20farro%20lo%20conte%2018339_1761180326.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo farro lo conte 18339_1761180326.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20farro%20lo%20conte%2018339_1761180326.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-farro-integrale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "05/10/2019"
+  },
+  "prima_rilevazione": "2026-10-25T09:32:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:59+00:00"
+ },
+ "gorgonzola-e-mascarpone-duetto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-e-mascarpone-duetto/",
+  "titolo": "Gorgonzola e Mascarpone Duetto",
+  "data_pubblicazione": "2019-10-13",
+  "marca": "Emilio Mauri SpA",
+  "denominazione": "Gorgonzola e Mascarpone Duetto",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/OSA%20modulo%20di%20richiamo%20Gorgonzola%20e%20mascarpone_1761180328.pdf",
+  "allegati": [
+   {
+    "titolo": "OSA modulo di richiamo Gorgonzola e mascarpone_1761180328.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/OSA%20modulo%20di%20richiamo%20Gorgonzola%20e%20mascarpone_1761180328.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "gorgonzola-e-mascarpone-duetto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:32:56+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:56+00:00"
+ },
+ "gorgonzola-mascarpone-duetto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gorgonzola-mascarpone-duetto/",
+  "titolo": "Gorgonzola Mascarpone Duetto",
+  "data_pubblicazione": "2019-10-18",
+  "marca": "Mauri",
+  "denominazione": "Gorgonzola Mascarpone Duetto",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761180332.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca Richiamo_1761180332.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20Richiamo_1761180332.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "gorgonzola-mascarpone-duetto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Gorgonzola e Mascarpone Duetto",
+   "operatore": "Emilio Mauri SpA",
+   "lotti": [
+    "2550009"
+   ],
+   "marchio_identificazione": "IT 03 48 CE",
+   "produttore": "Emilio Mauri SpA",
+   "sede_stabilimento": "via Provinciale 11, 23818 Pasturo LC",
+   "scadenza": "10-10-2019",
+   "peso_volume": "200 g",
+   "motivo_esteso": "revoca per scadenza",
+   "avvertenze": " ",
+   "campi_extra": {
+    "Data": "18-10-2019 Marchio del prodotto: MAURI"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 18-10-2019 Marchio del prodotto: MAURI\nDenominazione di vendita:Gorgonzola e Mascarpone Duetto\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Emilio Mauri SpA\ncommercializzato:\nLotto di produzione: 2550009\nMarchio di identificazione dello stabilimento/del produttore: IT 03 48 CE\nNome del produttore: Emilio Mauri SpA\nSede dello stabilimento: via Provinciale 11, 23818 Pasturo LC\nData di scadenza o termine minimo di conservazione: 10-10-2019\nDescrizione peso/volume unità di vendita: 200 g\nMotivo del richiamo:\nrevoca per scadenza\nAvvertenze:\n "
+  },
+  "prima_rilevazione": "2026-10-25T09:32:51+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:51+00:00"
+ },
+ "mortadella-bologna-igp-100g-freschiconvenienti": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-bologna-igp-100g-freschiconvenienti/",
+  "titolo": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+  "data_pubblicazione": "2019-10-04",
+  "marca": "CONAD",
+  "denominazione": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mortadella%20conad%20modulo%20di%20richiamo%20da%20inviare%20all_AC_1761180320.pdf",
+  "allegati": [
+   {
+    "titolo": "Mortadella conad modulo di richiamo da inviare all_AC_1761180320.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mortadella%20conad%20modulo%20di%20richiamo%20da%20inviare%20all_AC_1761180320.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mortadella-bologna-igp-100g-freschiconvenienti",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+   "operatore": "CONAD",
+   "lotti": [
+    "26937039"
+   ],
+   "marchio_identificazione": "IT 848L CE",
+   "produttore": "Grandi Salumifici Italiani S.p.A.",
+   "sede_stabilimento": "Noceto(PR) Via Gandiolo 2/A",
+   "scadenza": "01-11-2019",
+   "peso_volume": "100g",
+   "motivo_esteso": "Presenza di Listeria monocytogenes",
+   "avvertenze": "Il prodotto non deve essere consumato, può essere restituito in qualsiasi punto vendita Conad Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "02/10/2019 Marchio del prodotto: CONAD",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 02/10/2019 Marchio del prodotto: CONAD\nDenominazione di vendita:Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CONAD\ncommercializzato:\nLotto di produzione: 26937039\nMarchio di identificazione dello stabilimento/del produttore: IT 848L CE\nNome del produttore: Grandi Salumifici Italiani S.p.A.\nSede dello stabilimento: Noceto(PR) Via Gandiolo 2/A\nData di scadenza o termine minimo di conservazione: 01-11-2019\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nPresenza di Listeria monocytogenes\nAvvertenze:\nIl prodotto non deve essere consumato, può essere restituito in qualsiasi punto vendita Conad\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:33:13+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:13+00:00"
+ },
+ "mortadella-bologna-igp-100g-freschiconvenienti-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mortadella-bologna-igp-100g-freschiconvenienti-0/",
+  "titolo": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+  "data_pubblicazione": "2019-10-04",
+  "marca": "CONAD",
+  "denominazione": "Mortadella Bologna IGP 100g FRESCHI&CONVENIENTI",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mortadella%20Conad%20modulo%20di%20richiamo%20nuovo_1761180321.pdf",
+  "allegati": [
+   {
+    "titolo": "Mortadella Conad modulo di richiamo nuovo_1761180321.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mortadella%20Conad%20modulo%20di%20richiamo%20nuovo_1761180321.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mortadella-bologna-igp-100g-freschiconvenienti-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:16+00:00"
+ },
+ "panna-cotta-al-creme-caramel-uht": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/panna-cotta-al-creme-caramel-uht/",
+  "titolo": "PANNA COTTA AL CREME CARAMEL UHT",
+  "data_pubblicazione": "2019-10-10",
+  "marca": "CRAI SECOM SPA",
+  "denominazione": "PANNA COTTA AL CREME CARAMEL UHT",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_%20PannaCotta_Crai_1761180327.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_Richiamo_ PannaCotta_Crai_1761180327.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_Richiamo_%20PannaCotta_Crai_1761180327.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "panna-cotta-al-creme-caramel-uht",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PANNA COTTA al creme caramel",
+   "operatore": "CRAI SECOM SpA",
+   "lotti": [
+    "Vedi date di scadenza"
+   ],
+   "marchio_identificazione": "IT 03 158 CE",
+   "produttore": "ALINOR SpA",
+   "sede_stabilimento": "RIPALTA CREMASCA (CR) – Via Vittorio Veneto 1/C",
+   "scadenza": "31/01/20 - 29/02/20 - 19/03/20",
+   "peso_volume": "200 g (2x100 g)",
+   "motivo_esteso": "Alterazione organolettica (odore acre, gusto amaro) causata da elevato tenore di carica microbica mesofila",
+   "avvertenze": "Ritirare il prodotto dallo scaffale ed affiggere la locandina allegata per informare il consumatore Immagine uno Immagine due",
+   "testo": "RICHIAMO\nData 09/10/2019 Marchio del prodotto CRAI\nDenominazione di Vendita: PANNA COTTA al creme caramel\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è CRAI SECOM SpA\ncommercializzato:\nLotto di Produzione Vedi date di scadenza\nMarchio di identificazione dello stabilimento /del produttore IT 03 158 CE\nNome del produttore: ALINOR SpA\nSede dello stabilimento: RIPALTA CREMASCA (CR) – Via Vittorio Veneto 1/C\nData di scadenza o termine minimo di conservazione: 31/01/20 - 29/02/20 - 19/03/20\nDescrizione peso/volume unità di vendita 200 g (2x100 g)\nMotivo del richiamo:\nAlterazione organolettica (odore acre, gusto amaro) causata da elevato tenore di carica microbica\nmesofila\nAvvertenze:\nRitirare il prodotto dallo scaffale ed affiggere la locandina allegata per informare il consumatore\nImmagine uno Immagine due"
+  },
+  "prima_rilevazione": "2026-10-25T09:33:01+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:01+00:00"
+ },
+ "salame-classico-il-gusto-ditalia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-classico-il-gusto-ditalia/",
+  "titolo": "Salame classico il gusto d'italia",
+  "data_pubblicazione": "2019-10-05",
+  "marca": "Cesare Fiorucci SPA",
+  "denominazione": "Salame classico il gusto d'italia",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2richiamomercatoSALAMEILGUSTODITALIA_1761180321.pdf",
+  "allegati": [
+   {
+    "titolo": "MinsaluteAllA2richiamomercatoSALAMEILGUSTODITALIA_1761180321.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2richiamomercatoSALAMEILGUSTODITALIA_1761180321.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salame-classico-il-gusto-ditalia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:08+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:08+00:00"
+ },
+ "salame-stellino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-stellino/",
+  "titolo": "SALAME STELLINO",
+  "data_pubblicazione": "2019-10-09",
+  "marca": "NATIVA 2018 SRL",
+  "denominazione": "SALAME STELLINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_43_B_20191009_MODULO%20RCHIAMO_1761180325.pdf",
+  "allegati": [
+   {
+    "titolo": "19_43_B_20191009_MODULO RCHIAMO_1761180325.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/19_43_B_20191009_MODULO%20RCHIAMO_1761180325.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-stellino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "IT 1342L CE"
+  },
+  "prima_rilevazione": "2026-10-25T09:33:04+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:04+00:00"
+ },
+ "salame-veneto-500-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-veneto-500-g/",
+  "titolo": "Salame Veneto 500 g",
+  "data_pubblicazione": "2019-10-02",
+  "marca": "Il tagliere del re",
+  "denominazione": "Salame Veneto 500 g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%2066522_1761180319.pdf",
+  "allegati": [
+   {
+    "titolo": "Manifesto 66522_1761180319.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Manifesto%2066522_1761180319.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-veneto-500-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Salame Veneto 500 g",
+   "operatore": "ALDI Srl",
+   "lotti": [
+    "1190528(indicato anche con 0528)"
+   ],
+   "marchio_identificazione": "IT 807L CE",
+   "produttore": "Becher Spa",
+   "sede_stabilimento": "Via Povegliano 46, 31050 Ponzano Veneto (TV)",
+   "scadenza": "Tutti",
+   "peso_volume": "500 g",
+   "motivo_esteso": "Riscontrata la presenza di Salmonella in alcuni campioni.",
+   "avvertenze": "Il prodotto con lotto 1190528 (indicato anche con 0528) non deve essere consumato e può essere restituito in qualsiasi punto vendita ALDI. Per informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico: 800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)",
+   "campi_extra": {
+    "Data": "24/09/2019 Marchio del prodotto: Il tagliere del re"
+   },
+   "testo": "RICHIAMO\nData: 24/09/2019 Marchio del prodotto: Il tagliere del re\nDenominazione di vendita:Salame Veneto 500 g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ALDI Srl\ncommercializzato:\nLotto di produzione: 1190528(indicato anche con 0528)\nMarchio di identificazione dello stabilimento/del produttore: IT 807L CE\nNome del produttore: Becher Spa\nSede dello stabilimento: Via Povegliano 46, 31050 Ponzano Veneto (TV)\nData di scadenza o termine minimo di conservazione: Tutti\nDescrizione peso/volume unità di vendita: 500 g\nMotivo del richiamo:\nRiscontrata la presenza di Salmonella in alcuni campioni.\nAvvertenze:\nIl prodotto con lotto 1190528 (indicato anche con 0528) non deve essere consumato e può essere\nrestituito in qualsiasi punto vendita ALDI.\nPer informazioni si prega di contattare il servizio clienti ALDI, al seguente numero telefonico:\n800 370 370 (lun-ven 08:30-17:00, sab 08:00-14:00)"
+  },
+  "prima_rilevazione": "2026-10-25T09:33:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:18+00:00"
+ },
+ "salametto": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto/",
+  "titolo": "Salametto",
+  "data_pubblicazione": "2019-10-05",
+  "marca": "Cesare Fiorucci spa",
+  "denominazione": "Salametto",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2richiamomercatoSALAMETTOFIORUCCI_1761180322.pdf",
+  "allegati": [
+   {
+    "titolo": "MinsaluteAllA2richiamomercatoSALAMETTOFIORUCCI_1761180322.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2richiamomercatoSALAMETTOFIORUCCI_1761180322.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salametto",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:11+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:11+00:00"
+ },
+ "salametto-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salametto-0/",
+  "titolo": "Salametto",
+  "data_pubblicazione": "2019-10-08",
+  "marca": "Cesare Fiorucci SPA",
+  "denominazione": "Salametto",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2_Integrazione%20RICHIAMO_1761180324.pdf",
+  "allegati": [
+   {
+    "titolo": "MinsaluteAllA2_Integrazione RICHIAMO_1761180324.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MinsaluteAllA2_Integrazione%20RICHIAMO_1761180324.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salametto-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:33:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:33:06+00:00"
+ },
+ "seppia-indopacifica-surgelata": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/seppia-indopacifica-surgelata/",
+  "titolo": "seppia indopacifica surgelata",
+  "data_pubblicazione": "2019-10-28",
+  "marca": "SEACON (SEAFOOD CONNECTION) - OLANDA",
+  "denominazione": "seppia indopacifica surgelata",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/DINGFENG%20_RICHIAMO_1761180336.pdf",
+  "allegati": [
+   {
+    "titolo": "DINGFENG _RICHIAMO_1761180336.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/DINGFENG%20_RICHIAMO_1761180336.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "seppia-indopacifica-surgelata",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SEPPIA INDOPACIFICA SURGELATO(SEPIA ACULEATA)",
+   "operatore": "DINGFENG IMPORT EXPORT VIA POLVERIERA 41 NOVATE MILANESE",
+   "lotti": [
+    "SC/PFPL/REAL-18001"
+   ],
+   "marchio_identificazione": "SEACON -SEAFOOD CONNECTION OLANDA",
+   "produttore": "SEAFOOD CONNECTION OLANDA",
+   "sede_stabilimento": "OLANDA -HET-SPIJK12, 8321 WTURK NL OLANDA",
+   "scadenza": "19-03-2021",
+   "peso_volume": "CONFEZIONI IN IQF DA 800gr seacon cuttlefish",
+   "motivo_esteso": "presenza di cadmio (Cd).",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "26-10-2019 Marchio del prodotto: SEACON (SEAFOOD CONNECTION)OLANDA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 26-10-2019 Marchio del prodotto: SEACON (SEAFOOD CONNECTION)OLANDA\nDenominazione di vendita:SEPPIA INDOPACIFICA SURGELATO(SEPIA ACULEATA)\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è DINGFENG IMPORT EXPORT VIA POLVERIERA 41 NOVATE MILANESE\ncommercializzato:\nLotto di produzione: SC/PFPL/REAL-18001\nMarchio di identificazione dello stabilimento/del produttore: SEACON -SEAFOOD CONNECTION OLANDA\nNome del produttore: SEAFOOD CONNECTION OLANDA\nSede dello stabilimento: OLANDA -HET-SPIJK12, 8321 WTURK NL OLANDA\nData di scadenza o termine minimo di conservazione: 19-03-2021\nDescrizione peso/volume unità di vendita: CONFEZIONI IN IQF DA 800gr seacon cuttlefish\nMotivo del richiamo:\npresenza di cadmio (Cd).\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:32:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:42+00:00"
+ },
+ "sfilacci-di-equino-100g-busta-atp": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sfilacci-di-equino-100g-busta-atp/",
+  "titolo": "SFILACCI DI EQUINO 100G IN BUSTA ATP",
+  "data_pubblicazione": "2019-10-31",
+  "marca": "NABA CARNI SPA",
+  "denominazione": "SFILACCI DI EQUINO 100G IN BUSTA ATP",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo%20sfilacci%20Naba%20Carni_1761180338.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo sfilacci Naba Carni_1761180338.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo%20sfilacci%20Naba%20Carni_1761180338.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "sfilacci-di-equino-100g-busta-atp",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:32:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:39+00:00"
+ },
+ "trance-di-smeriglio-cartone-8-kg-brasmar": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trance-di-smeriglio-cartone-8-kg-brasmar/",
+  "titolo": "trance di smeriglio cartone 8 kg - Brasmar",
+  "data_pubblicazione": "2019-10-16",
+  "marca": "Brasmar",
+  "denominazione": "trance di smeriglio cartone 8 kg - Brasmar",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamo_smeriglio_urbis_1761180329.pdf",
+  "allegati": [
+   {
+    "titolo": "modellorichiamo_smeriglio_urbis_1761180329.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modellorichiamo_smeriglio_urbis_1761180329.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "trance-di-smeriglio-cartone-8-kg-brasmar",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:32:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:54+00:00"
+ },
+ "trippa-precotta-tagliata-bab": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/trippa-precotta-tagliata-bab/",
+  "titolo": "Trippa precotta tagliata B.A.B.",
+  "data_pubblicazione": "2019-10-22",
+  "marca": "LA TRIPA 'D MUNCALE' SRL",
+  "denominazione": "Trippa precotta tagliata B.A.B.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Trippa%20di%20Moncalieri_1761180333.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Trippa di Moncalieri_1761180333.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Trippa%20di%20Moncalieri_1761180333.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "trippa-precotta-tagliata-bab",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:32:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:47+00:00"
+ },
+ "wicked-habanero-pepper-wing-sauce-340-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/wicked-habanero-pepper-wing-sauce-340-g/",
+  "titolo": "WICKED HABANERO PEPPER WING SAUCE 340 g",
+  "data_pubblicazione": "2019-10-24",
+  "marca": "STUBB'S",
+  "denominazione": "WICKED HABANERO PEPPER WING SAUCE 340 g",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20WICKED%20HABANERO%20PEPPER%20WING%20SAUCE%20340%20g_1761180335.pdf",
+  "allegati": [
+   {
+    "titolo": "CARTELLO RICHIAMO WICKED HABANERO PEPPER WING SAUCE 340 g_1761180335.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CARTELLO%20RICHIAMO%20WICKED%20HABANERO%20PEPPER%20WING%20SAUCE%20340%20g_1761180335.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "wicked-habanero-pepper-wing-sauce-340-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:32:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:32:44+00:00"
+ }
+}

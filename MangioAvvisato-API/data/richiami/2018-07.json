@@ -1,0 +1,1871 @@
+{
+ "4-mixed-vegetables": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/4-mixed-vegetables/",
+  "titolo": "4 MIXED VEGETABLES",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "PINGUIN",
+  "denominazione": "4 MIXED VEGETABLES",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PINGUIN_1761176893.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO PINGUIN_1761176893.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PINGUIN_1761176893.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "4-mixed-vegetables",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "4 MIXED VEGETABLES",
+   "operatore": "GREENYARD FROZEN BELGIUM",
+   "lotti": [
+    "W171583 8G"
+   ],
+   "produttore": "GREENYARD FROZEN BELGIUM N.V.",
+   "sede_stabilimento": "Nagy István utca 36, 6500 Baja, Hungary",
+   "scadenza": "06-07-2019",
+   "peso_volume": "4 MIXED VEGETABLES/ KG 2,5",
+   "motivo_esteso": "Presenza di Listeria monocytogenes in mais congelato",
+   "avvertenze": "RITIRO IMMEDIATO DEL PRODOTTO Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "09/07/2018 Marchio del prodotto: PINGUIN",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 09/07/2018 Marchio del prodotto: PINGUIN\nDenominazione di vendita:4 MIXED VEGETABLES\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GREENYARD FROZEN BELGIUM\ncommercializzato:\nLotto di produzione: W171583 8G\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: GREENYARD FROZEN BELGIUM N.V.\nSede dello stabilimento: Nagy István utca 36, 6500 Baja, Hungary\nData di scadenza o termine minimo di conservazione: 06-07-2019\nDescrizione peso/volume unità di vendita: 4 MIXED VEGETABLES/ KG 2,5\nMotivo del richiamo:\nPresenza di Listeria monocytogenes in mais congelato\nAvvertenze:\nRITIRO IMMEDIATO DEL PRODOTTO\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:49:17+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:17+00:00"
+ },
+ "bevanda-kombucha-melograno": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-melograno/",
+  "titolo": "Bevanda kombucha melograno",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "Karma",
+  "denominazione": "Bevanda kombucha melograno",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20melograno_1761176883.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO RICHIAMO KOMBUCHA melograno_1761176883.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20melograno_1761176883.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-kombucha-melograno",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda kombucha melograno",
+   "operatore": "BIOGROUPE SAS",
+   "lotti": [
+    "15-02-19"
+   ],
+   "produttore": "BIOGROUPE SAS",
+   "sede_stabilimento": "ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY",
+   "scadenza": "15-02-19",
+   "peso_volume": "500 mL",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "06/07/18 Marchio del prodotto: Karma",
+    "commercializzato": "BIOGROUPE SAS",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 06/07/18 Marchio del prodotto: Karma\nDenominazione di vendita: Bevanda kombucha melograno\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: BIOGROUPE SAS\nLotto di produzione: 15-02-19\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BIOGROUPE SAS\nSede dello stabilimento: ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY\nData di scadenza o termine minimo di conservazione: 15-02-19\nDescrizione peso/volume unità di vendita: 500 mL\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:49:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:09+00:00"
+ },
+ "bevanda-kombucha-te-verde": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-te-verde/",
+  "titolo": "Bevanda kombucha Te' verde",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "Karma",
+  "denominazione": "Bevanda kombucha Te' verde",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20TE%27%20VERDE_1761176879.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO RICHIAMO KOMBUCHA TE' VERDE_1761176879.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20TE%27%20VERDE_1761176879.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-kombucha-te-verde",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda kombucha Tè verde",
+   "operatore": "BIOGROUPE SAS",
+   "lotti": [
+    "19-02-19"
+   ],
+   "produttore": "BIOGROUPE SAS",
+   "sede_stabilimento": "ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY",
+   "scadenza": "19-02-19",
+   "peso_volume": "500 mL",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "06/07/18 Marchio del prodotto: Karma",
+    "commercializzato": "BIOGROUPE SAS",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 06/07/18 Marchio del prodotto: Karma\nDenominazione di vendita: Bevanda kombucha Tè verde\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: BIOGROUPE SAS\nLotto di produzione: 19-02-19\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BIOGROUPE SAS\nSede dello stabilimento: ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY\nData di scadenza o termine minimo di conservazione: 19-02-19\nDescrizione peso/volume unità di vendita: 500 mL\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:49:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:05+00:00"
+ },
+ "bevanda-kombucha-zenzero": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-kombucha-zenzero/",
+  "titolo": "Bevanda kombucha Zenzero",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "Karma",
+  "denominazione": "Bevanda kombucha Zenzero",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20zenzero_1761176876.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLO RICHIAMO KOMBUCHA zenzero_1761176876.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLO%20RICHIAMO%20KOMBUCHA%20zenzero_1761176876.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-kombucha-zenzero",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bevanda kombucha Zenzero",
+   "operatore": "BIOGROUPE SAS",
+   "lotti": [
+    "20-02-19"
+   ],
+   "produttore": "BIOGROUPE SAS",
+   "sede_stabilimento": "ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY",
+   "scadenza": "20-02-19",
+   "peso_volume": "500 mL",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "06/07/18 Marchio del prodotto: Karma",
+    "commercializzato": "BIOGROUPE SAS",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 06/07/18 Marchio del prodotto: Karma\nDenominazione di vendita: Bevanda kombucha Zenzero\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato: BIOGROUPE SAS\nLotto di produzione: 20-02-19\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: BIOGROUPE SAS\nSede dello stabilimento: ZA IES JEANNETTES 11 RUE ROBERT SURCOUF 22430 ERQUY\nData di scadenza o termine minimo di conservazione: 20-02-19\nDescrizione peso/volume unità di vendita: 500 mL\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:49:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:03+00:00"
+ },
+ "bevanda-vegetale-orasi-nocciola": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-vegetale-orasi-nocciola/",
+  "titolo": "Bevanda vegetale Orasì Nocciola",
+  "data_pubblicazione": "2018-07-26",
+  "marca": "Orasì",
+  "denominazione": "Bevanda vegetale Orasì Nocciola",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20nocciola%208142_1761177019.pdf",
+  "allegati": [
+   {
+    "titolo": "Orasi nocciola 8142_1761177019.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20nocciola%208142_1761177019.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-vegetale-orasi-nocciola",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:57+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:57+00:00"
+ },
+ "bevanda-vegetale-orasi-noce": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-vegetale-orasi-noce/",
+  "titolo": "Bevanda vegetale Orasì Noce",
+  "data_pubblicazione": "2018-07-26",
+  "marca": "Orasì",
+  "denominazione": "Bevanda vegetale Orasì Noce",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208019_1761176999.pdf",
+  "allegati": [
+   {
+    "titolo": "Orasi noce 8019_1761176999.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208019_1761176999.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-vegetale-orasi-noce",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:46+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:46+00:00"
+ },
+ "bevanda-vegetale-orasi-noce-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-vegetale-orasi-noce-0/",
+  "titolo": "Bevanda vegetale Orasì Noce",
+  "data_pubblicazione": "2018-07-26",
+  "marca": "Orasì",
+  "denominazione": "Bevanda vegetale Orasì Noce",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208038_1761177004.pdf",
+  "allegati": [
+   {
+    "titolo": "Orasi noce 8038_1761177004.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208038_1761177004.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-vegetale-orasi-noce-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:50+00:00"
+ },
+ "bevanda-vegetale-orasi-noce-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-vegetale-orasi-noce-1/",
+  "titolo": "Bevanda vegetale Orasì Noce",
+  "data_pubblicazione": "2018-07-26",
+  "marca": "Orasì",
+  "denominazione": "Bevanda vegetale Orasì Noce",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208050_1761177009.pdf",
+  "allegati": [
+   {
+    "titolo": "Orasi noce 8050_1761177009.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208050_1761177009.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-vegetale-orasi-noce-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:53+00:00"
+ },
+ "bevanda-vegetale-orasi-noce-2": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-vegetale-orasi-noce-2/",
+  "titolo": "Bevanda vegetale Orasì Noce",
+  "data_pubblicazione": "2018-07-26",
+  "marca": "Orasì",
+  "denominazione": "Bevanda vegetale Orasì Noce",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208072_1761177014.pdf",
+  "allegati": [
+   {
+    "titolo": "Orasi noce 8072_1761177014.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20noce%208072_1761177014.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-vegetale-orasi-noce-2",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:55+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:55+00:00"
+ },
+ "bevanda-vegetale-orasi-soia-cacao": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bevanda-vegetale-orasi-soia-cacao/",
+  "titolo": "Bevanda vegetale Orasì Soia Cacao",
+  "data_pubblicazione": "2018-07-26",
+  "marca": "Orasì",
+  "denominazione": "Bevanda vegetale Orasì Soia Cacao",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20soia%20cacao%208018_1761177024.pdf",
+  "allegati": [
+   {
+    "titolo": "Orasi soia cacao 8018_1761177024.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Orasi%20soia%20cacao%208018_1761177024.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bevanda-vegetale-orasi-soia-cacao",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:00+00:00"
+ },
+ "bocconcini-stagionati": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/bocconcini-stagionati/",
+  "titolo": "Bocconcini stagionati",
+  "data_pubblicazione": "2018-07-05",
+  "marca": "Cà del Botto srl",
+  "denominazione": "Bocconcini stagionati",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo%20ministero_1761176826.pdf",
+  "allegati": [
+   {
+    "titolo": "Avviso di richiamo ministero_1761176826.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Avviso%20di%20richiamo%20ministero_1761176826.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "bocconcini-stagionati",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Bocconcini stagionato",
+   "operatore": "Ca' del Botto srl",
+   "lotti": [
+    "14910"
+   ],
+   "marchio_identificazione": "IT 638 M CE",
+   "produttore": "Ca' del Botto srl",
+   "sede_stabilimento": "via Cunella 10 Ardesio, Bergamo",
+   "scadenza": "09-12-2018",
+   "peso_volume": "salame non confezionato , legato in file",
+   "motivo_esteso": "non conformità microbiologica",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/06/2018 Marchio del prodotto: Ca' del Botto",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nRICHIAMO\nData: 26/06/2018 Marchio del prodotto: Ca' del Botto\nDenominazione di vendita:Bocconcini stagionato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Ca' del Botto srl\ncommercializzato:\nLotto di produzione: 14910\nMarchio di identificazione dello stabilimento/del produttore: IT 638 M CE\nNome del produttore: Ca' del Botto srl\nSede dello stabilimento: via Cunella 10 Ardesio, Bergamo\nData di scadenza o termine minimo di conservazione: 09-12-2018\nDescrizione peso/volume unità di vendita: salame non confezionato , legato in file\nMotivo del richiamo:\nnon conformità microbiologica\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:50:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:50:03+00:00"
+ },
+ "caciotta-di-pecora-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora-0/",
+  "titolo": "Caciotta di pecora",
+  "data_pubblicazione": "2018-07-12",
+  "marca": "MOSERHOF",
+  "denominazione": "Caciotta di pecora",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20revoca%20richiamo%20Moserhof_1761176929.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello revoca richiamo Moserhof_1761176929.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20revoca%20richiamo%20Moserhof_1761176929.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "caciotta-di-pecora-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Caciotta",
+   "operatore": "Michael Oberhollenzer, Moserhof",
+   "lotti": [
+    "Prod. 03.05.18 - Conf. 07.05.18"
+   ],
+   "marchio_identificazione": "CE IT D7W06",
+   "produttore": "Moserhof, Michael Oberhollenzer",
+   "sede_stabilimento": "Oberdorf 17, 39030 Steinhaus/Valle Aurina",
+   "scadenza": "06.06.18",
+   "peso_volume": "ca. 190 g",
+   "motivo_esteso": "prodotto ritirato dal commercio (e scaduto)",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "09.07.2018 Marchio del prodotto: Caciotta di pecora \"Moserhof\"",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 09.07.2018 Marchio del prodotto: Caciotta di pecora \"Moserhof\"\nDenominazione di vendita:Caciotta\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Michael Oberhollenzer, Moserhof\ncommercializzato:\nLotto di produzione: Prod. 03.05.18 - Conf. 07.05.18\nMarchio di identificazione dello stabilimento/del produttore: CE IT D7W06\nNome del produttore: Moserhof, Michael Oberhollenzer\nSede dello stabilimento: Oberdorf 17, 39030 Steinhaus/Valle Aurina\nData di scadenza o termine minimo di conservazione: 06.06.18\nDescrizione peso/volume unità di vendita: ca. 190 g\nMotivo del richiamo:\nprodotto ritirato dal commercio (e scaduto)\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:36+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:36+00:00"
+ },
+ "caciotta-di-pecora-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/caciotta-di-pecora-1/",
+  "titolo": "Caciotta di pecora",
+  "data_pubblicazione": "2018-07-12",
+  "marca": "MOSERHOF",
+  "denominazione": "Caciotta di pecora",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Moserhof1_1761176933.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo Moserhof1_1761176933.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Moserhof1_1761176933.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "caciotta-di-pecora-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Caciotta",
+   "operatore": "Michael Oberhollenzer, Moserhof",
+   "lotti": [
+    "Prod. 03.05.18 - Conf. 07.05.18"
+   ],
+   "marchio_identificazione": "CE IT D7W06",
+   "produttore": "Moserhof, Michael Oberhollenzer",
+   "sede_stabilimento": "Oberdorf 17, 39030 Steinhaus, Valle Aurina",
+   "scadenza": "06.06.18",
+   "peso_volume": "ca. 190 g",
+   "motivo_esteso": "prodotto ritirato dal commercio (e scaduto)",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "12.07.2018 Marchio del prodotto: Caciotta di pecora \"Moserhof\"",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 12.07.2018 Marchio del prodotto: Caciotta di pecora \"Moserhof\"\nDenominazione di vendita:Caciotta\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Michael Oberhollenzer, Moserhof\ncommercializzato:\nLotto di produzione: Prod. 03.05.18 - Conf. 07.05.18\nMarchio di identificazione dello stabilimento/del produttore: CE IT D7W06\nNome del produttore: Moserhof, Michael Oberhollenzer\nSede dello stabilimento: Oberdorf 17, 39030 Steinhaus, Valle Aurina\nData di scadenza o termine minimo di conservazione: 06.06.18\nDescrizione peso/volume unità di vendita: ca. 190 g\nMotivo del richiamo:\nprodotto ritirato dal commercio (e scaduto)\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:39+00:00"
+ },
+ "cocco-polvere-biologico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cocco-polvere-biologico/",
+  "titolo": "COCCO IN POLVERE BIOLOGICO",
+  "data_pubblicazione": "2018-07-24",
+  "marca": "FIOR DI LOTO",
+  "denominazione": "COCCO IN POLVERE BIOLOGICO",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ASL%20Farina%20cocco%20FdL_1761176990.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo ASL Farina cocco FdL_1761176990.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ASL%20Farina%20cocco%20FdL_1761176990.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "cocco-polvere-biologico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:09+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:09+00:00"
+ },
+ "farina-di-cocco-biologica": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/farina-di-cocco-biologica/",
+  "titolo": "FARINA DI COCCO BIOLOGICA",
+  "data_pubblicazione": "2018-07-24",
+  "marca": "BAULE VOLANTE",
+  "denominazione": "FARINA DI COCCO BIOLOGICA",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod%20ASL%20Farina%20cocco%20BV_1761176985.pdf",
+  "allegati": [
+   {
+    "titolo": "Mod ASL Farina cocco BV_1761176985.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Mod%20ASL%20Farina%20cocco%20BV_1761176985.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "farina-di-cocco-biologica",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:06+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:06+00:00"
+ },
+ "fette-di-tonno-pinne-gialle-congelato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-tonno-pinne-gialle-congelato/",
+  "titolo": "Fette di tonno pinne gialle - congelato",
+  "data_pubblicazione": "2018-07-16",
+  "marca": "Nordic Seafood A/S - Melega & Prini srl",
+  "denominazione": "Fette di tonno pinne gialle - congelato",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiami_1761176954.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiami_1761176954.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiami_1761176954.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "fette-di-tonno-pinne-gialle-congelato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Fette di tonno Pinne Gialle (sottovuoto) - congelate - RETTIFICA",
+   "operatore": "MELEGA & PRINI srl, Via Macello 29, Bolzano (CE IT 1346)",
+   "lotti": [
+    "BMI 18/02 - Item No 2451410"
+   ],
+   "marchio_identificazione": "FA 071",
+   "produttore": "Central Western Pacific",
+   "sede_stabilimento": "Indonesia",
+   "scadenza": "10-11-2019",
+   "peso_volume": "175-225 g",
+   "motivo_esteso": "Livelli elevati di Istamina (3035 ppm)",
+   "avvertenze": "La ditta ha provveduto ad effettuare il richiamo presso gli unici 2 clienti all'ingrosso e per la quota venduta al dettaglio, ha apposto due cartelli nel punto vendita. Trattasi di confezioni sottovuoto, ciascuna di 2-3 fette. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "11.07.2018 Marchio del prodotto: NORDIC SEAFOOD A/S - MELEGA & PRINI srl",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 11.07.2018 Marchio del prodotto: NORDIC SEAFOOD A/S - MELEGA & PRINI srl\nDenominazione di vendita:Fette di tonno Pinne Gialle (sottovuoto) - congelate - RETTIFICA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MELEGA & PRINI srl, Via Macello 29, Bolzano (CE IT 1346)\ncommercializzato:\nLotto di produzione: BMI 18/02 - Item No 2451410\nMarchio di identificazione dello stabilimento/del produttore: FA 071\nNome del produttore: Central Western Pacific\nSede dello stabilimento: Indonesia\nData di scadenza o termine minimo di conservazione: 10-11-2019\nDescrizione peso/volume unità di vendita: 175-225 g\nMotivo del richiamo:\nLivelli elevati di Istamina (3035 ppm)\nAvvertenze:\nLa ditta ha provveduto ad effettuare il richiamo presso gli unici 2 clienti all'ingrosso e per la quota venduta\nal dettaglio, ha apposto due cartelli nel punto vendita. Trattasi di confezioni sottovuoto, ciascuna di 2-3\nfette.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:26+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:26+00:00"
+ },
+ "fette-di-tonno-pinne-gialle-surgelate": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-tonno-pinne-gialle-surgelate/",
+  "titolo": "Fette di tonno pinne gialle - surgelate",
+  "data_pubblicazione": "2018-07-11",
+  "marca": "Nordic Seafood A/S - Melega & Prini srl",
+  "denominazione": "Fette di tonno pinne gialle - surgelate",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Melega_1761176925.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo Melega_1761176925.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Melega_1761176925.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "fette-di-tonno-pinne-gialle-surgelate",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Fette di tonno Pinne Gialle (sottovuoto) - surgelate",
+   "operatore": "MELEGA & PRINI srl, Via Macello 29, Bolzano (CE IT 1346)",
+   "lotti": [
+    "BMI 18/02 - Item No 2451410"
+   ],
+   "marchio_identificazione": "FA 071",
+   "produttore": "Central Western Pacific",
+   "sede_stabilimento": "Indonesia",
+   "scadenza": "10-11-2019",
+   "peso_volume": "175-225 g",
+   "motivo_esteso": "Livelli elevati di Istamina (3035 ppm)",
+   "avvertenze": "La ditta ha provveduto ad effettuare il richiamo presso gli unici 2 clienti all'ingrosso e per la quota venduta al dettaglio, ha apposto due cartelli nel punto vendita. Trattasi di confezioni sottovuoto, ciascuna di 2-3 fette. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "11.07.2018 Marchio del prodotto: NORDIC SEAFOOD A/S - MELEGA & PRINI srl",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 11.07.2018 Marchio del prodotto: NORDIC SEAFOOD A/S - MELEGA & PRINI srl\nDenominazione di vendita:Fette di tonno Pinne Gialle (sottovuoto) - surgelate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MELEGA & PRINI srl, Via Macello 29, Bolzano (CE IT 1346)\ncommercializzato:\nLotto di produzione: BMI 18/02 - Item No 2451410\nMarchio di identificazione dello stabilimento/del produttore: FA 071\nNome del produttore: Central Western Pacific\nSede dello stabilimento: Indonesia\nData di scadenza o termine minimo di conservazione: 10-11-2019\nDescrizione peso/volume unità di vendita: 175-225 g\nMotivo del richiamo:\nLivelli elevati di Istamina (3035 ppm)\nAvvertenze:\nLa ditta ha provveduto ad effettuare il richiamo presso gli unici 2 clienti all'ingrosso e per la quota venduta\nal dettaglio, ha apposto due cartelli nel punto vendita. Trattasi di confezioni sottovuoto, ciascuna di 2-3\nfette.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:47+00:00"
+ },
+ "fette-di-tonno-pinne-gialle-surgelate-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fette-di-tonno-pinne-gialle-surgelate-0/",
+  "titolo": "Fette di tonno pinne gialle - surgelate",
+  "data_pubblicazione": "2018-07-16",
+  "marca": "Nordic Seafood A/S - Melega & Prini srl",
+  "denominazione": "Fette di tonno pinne gialle - surgelate",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20per%20rettifica_1761176958.pdf",
+  "allegati": [
+   {
+    "titolo": "Revoca richiamo per rettifica_1761176958.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Revoca%20richiamo%20per%20rettifica_1761176958.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "fette-di-tonno-pinne-gialle-surgelate-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ette di tonno Pinne Gialle (sottovuoto) - surgelate",
+   "operatore": "MELEGA & PRINI srl, Via Macello 29, Bolzano (CE IT 1346)",
+   "lotti": [
+    "BMI 18/02 - Item No 2451410"
+   ],
+   "marchio_identificazione": "FA 071",
+   "produttore": "Central Western Pacific",
+   "sede_stabilimento": "Indonesia",
+   "scadenza": "10-11-2019",
+   "peso_volume": "175-225 g",
+   "motivo_esteso": "Livelli elevati di Istamina (3035 ppm)",
+   "avvertenze": "Revoca per rettifica: si tratta di prodotto congelato e non surgelato! Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "16.07.2018 Marchio del prodotto: NORDIC SEAFOOD A/S - MELEGA & PRINI srl",
+    "Revoca per rettifica": "si tratta di prodotto congelato e non surgelato!",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "REVOCA DI RICHIAMO\nData: 16.07.2018 Marchio del prodotto: NORDIC SEAFOOD A/S - MELEGA & PRINI srl\nDenominazione di vendita:ette di tonno Pinne Gialle (sottovuoto) - surgelate\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MELEGA & PRINI srl, Via Macello 29, Bolzano (CE IT 1346)\ncommercializzato:\nLotto di produzione: BMI 18/02 - Item No 2451410\nMarchio di identificazione dello stabilimento/del produttore: FA 071\nNome del produttore: Central Western Pacific\nSede dello stabilimento: Indonesia\nData di scadenza o termine minimo di conservazione: 10-11-2019\nDescrizione peso/volume unità di vendita: 175-225 g\nMotivo del richiamo:\nLivelli elevati di Istamina (3035 ppm)\nAvvertenze:\nRevoca per rettifica: si tratta di prodotto congelato e non surgelato!\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:29+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:29+00:00"
+ },
+ "formaggio-dolomiti-aromatizzato-alle-erbe-lt": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-dolomiti-aromatizzato-alle-erbe-lt/",
+  "titolo": "FORMAGGIO DOLOMITI AROMATIZZATO ALLE ERBE L.T.",
+  "data_pubblicazione": "2018-07-31",
+  "marca": "Caseificio Sociale Comprensoriale di Primiero - CE IT 42 20",
+  "denominazione": "FORMAGGIO DOLOMITI AROMATIZZATO ALLE ERBE L.T.",
+  "motivo": "Richiamo per rischio fisico",
+  "categoria_rischio": "fisico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20scheda%20corretta_1761177700.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo prodotto scheda corretta_1761177700.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20prodotto%20scheda%20corretta_1761177700.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-dolomiti-aromatizzato-alle-erbe-lt",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:36+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:36+00:00"
+ },
+ "formaggio-fontina-dop": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formaggio-fontina-dop/",
+  "titolo": "FORMAGGIO FONTINA D.O.P.",
+  "data_pubblicazione": "2018-07-27",
+  "marca": "TERRE D'ITALIA",
+  "denominazione": "FORMAGGIO FONTINA D.O.P.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Fontina%202018.07.27_1761177696.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo Fontina 2018.07.27_1761177696.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20Fontina%202018.07.27_1761177696.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "formaggio-fontina-dop",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "FORMAGGIO FONTINA D.O.P.",
+   "operatore": "G.S. S.p.A.",
+   "lotti": [
+    "L171"
+   ],
+   "marchio_identificazione": "IT 02 2 CE",
+   "produttore": "Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.",
+   "sede_stabilimento": "Loc. La Croix-Noire - Rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)",
+   "scadenza": "19-08-2018",
+   "peso_volume": "Preimballato 250g circa (peso variabile)",
+   "motivo_esteso": "Rischio microbiologico per presenza di Escherichia coli STEC PER EVENTUALI INFORMAZIONI SI PREGA DI CONTATTARE IL PRODUTTORE AL TEL 335 1357783",
+   "avvertenze": "I consumatori che avessero acquistato il prodotto sono invitati a non consumarlo e a riportare le confezioni al presente punto vendita Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "26/07/2018 Marchio del prodotto: TERRE D'ITALIA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 26/07/2018 Marchio del prodotto: TERRE D'ITALIA\nDenominazione di vendita:FORMAGGIO FONTINA D.O.P.\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è G.S. S.p.A.\ncommercializzato:\nLotto di produzione: L171\nMarchio di identificazione dello stabilimento/del produttore: IT 02 2 CE\nNome del produttore: Cooperativa Produttori Latte e Fontina Soc. Coop. a r.l.\nSede dello stabilimento: Loc. La Croix-Noire - Rue Croix-Noire, 19 - 11020 Saint-Christophe (AO)\nData di scadenza o termine minimo di conservazione: 19-08-2018\nDescrizione peso/volume unità di vendita: Preimballato 250g circa (peso variabile)\nMotivo del richiamo:\nRischio microbiologico per presenza di Escherichia coli STEC\nPER EVENTUALI INFORMAZIONI SI PREGA DI CONTATTARE IL PRODUTTORE AL TEL 335 1357783\nAvvertenze:\nI consumatori che avessero acquistato il prodotto sono invitati a non consumarlo e a riportare le confezioni\nal presente punto vendita\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:47:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:44+00:00"
+ },
+ "kaminwurzen-insaccato-crudo-affumicato-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kaminwurzen-insaccato-crudo-affumicato-0/",
+  "titolo": "Kaminwurzen insaccato crudo affumicato",
+  "data_pubblicazione": "2018-07-30",
+  "marca": "Sarnerspeck des Stauder Johann Stofnerhof",
+  "denominazione": "Kaminwurzen insaccato crudo affumicato",
+  "motivo": "Revoca per scadenza prodotto",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20%20Kaminwurzen_1761177698.pdf",
+  "allegati": [
+   {
+    "titolo": "revoca  Kaminwurzen_1761177698.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/revoca%20%20Kaminwurzen_1761177698.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "kaminwurzen-insaccato-crudo-affumicato-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:39+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:39+00:00"
+ },
+ "mais-surgelato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-surgelato/",
+  "titolo": "MAIS SURGELATO",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "FRESHONA",
+  "denominazione": "MAIS SURGELATO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1%20CORRETTO_mais_1761176886.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato_1 CORRETTO_mais_1761176886.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1%20CORRETTO_mais_1761176886.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mais-surgelato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n05/07/2018 FRESHONA\nMAIS SURGELATO\nLIDL ITALIA SRL\nTUTTI\n---\nGREENYARD N.V.\nPRODOTTO IN BELGIO\nTUTTI\n450g\nPOSSIBILE PRESENZA DI LISTERIA MONOCYTOGENES\nIL RICHIAMO RIGUARDA SOLO ED ESCLUSIVAMENTE LA REGIONE SICILIA.\nGreenyard N.V. e Lidl Italia invitano i consumatori che avessero acquistato il prodotto a non consumarlo e restituirlo."
+  },
+  "prima_rilevazione": "2026-10-25T09:49:12+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:12+00:00"
+ },
+ "mais-surgelato-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mais-surgelato-0/",
+  "titolo": "MAIS SURGELATO",
+  "data_pubblicazione": "2018-07-12",
+  "marca": "GREEN GROCER'S/FRESHONA",
+  "denominazione": "MAIS SURGELATO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1%20aggiornato_mais_1761176937.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato_1 aggiornato_mais_1761176937.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_1%20aggiornato_mais_1761176937.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mais-surgelato-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n12/07/2018 GREEN GROCER’S / FRESHONA\nMAIS SURGELATO\nLIDL ITALIA SRL\nTUTTI\n---\nGREENYARD N.V.\nPRODOTTO IN BELGIO\nTUTTI\n450g\nPOSSIBILE PRESENZA DI LISTERIA MONOCYTOGENES\nIL RICHIAMO RIGUARDA SOLO ED ESCLUSIVAMENTE LA REGIONE SICILIA.\nGreenyard N.V. e Lidl Italia invitano i consumatori che avessero acquistato il prodotto a non consumarlo e restituirlo."
+  },
+  "prima_rilevazione": "2026-10-25T09:48:41+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:41+00:00"
+ },
+ "mettwurst-insaccato-crudo-spalmabile": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mettwurst-insaccato-crudo-spalmabile/",
+  "titolo": "METTWURST - Insaccato crudo spalmabile",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "KIEM - Kastelbell",
+  "denominazione": "METTWURST - Insaccato crudo spalmabile",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Kiem_1761176899.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello richiamo Kiem_1761176899.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello%20richiamo%20Kiem_1761176899.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "mettwurst-insaccato-crudo-spalmabile",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "METTWURST - Insaccato crudo spalmabile",
+   "operatore": "Metzgerei Kiem, Kastelbell",
+   "lotti": [
+    "25.18"
+   ],
+   "marchio_identificazione": "IT 9-567L (assente tuttavia in etichetta)",
+   "produttore": "Metzgerei KIEM GmbH",
+   "sede_stabilimento": "Strada Statale 96, Castelbello (BZ)",
+   "scadenza": "tutte fino20.8.18",
+   "peso_volume": "Insaccati da ca. 250g/pz",
+   "motivo_esteso": "Presenza di Listeria monocytogenes in 25 g (in 5 u.c.)",
+   "avvertenze": "Il prodotto in vendita è stato ritirato. Nei punti vendita sono stati esposti dei cartelli per informare i clienti ai fini del richiamo. La commercializzazione è avvenuta interamente in 3 negozi al dettaglio, per un totale di 15 kg ca. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "09.07.2018 Marchio del prodotto: Metzgerei KIEM, Kastelbell",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 09.07.2018 Marchio del prodotto: Metzgerei KIEM, Kastelbell\nDenominazione di vendita:METTWURST - Insaccato crudo spalmabile\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Metzgerei Kiem, Kastelbell\ncommercializzato:\nLotto di produzione: 25.18\nMarchio di identificazione dello stabilimento/del produttore: IT 9-567L (assente tuttavia in etichetta)\nNome del produttore: Metzgerei KIEM GmbH\nSede dello stabilimento: Strada Statale 96, Castelbello (BZ)\nData di scadenza o termine minimo di conservazione: tutte fino20.8.18\nDescrizione peso/volume unità di vendita: Insaccati da ca. 250g/pz\nMotivo del richiamo:\nPresenza di Listeria monocytogenes in 25 g (in 5 u.c.)\nAvvertenze:\nIl prodotto in vendita è stato ritirato. Nei punti vendita sono stati esposti dei cartelli per informare i clienti\nai fini del richiamo. La commercializzazione è avvenuta interamente in 3 negozi al dettaglio, per un totale\ndi 15 kg ca.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:49:20+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:20+00:00"
+ },
+ "minestrone-bonta-di-semi-600-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-bonta-di-semi-600-gr/",
+  "titolo": "Minestrone bontà di semi 600 gr",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone bontà di semi 600 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20BONTA_%20DI%20SEMI%20600GR%20LOTTO%207306_1761176832.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN BONTA_ DI SEMI 600GR LOTTO 7306_1761176832.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20BONTA_%20DI%20SEMI%20600GR%20LOTTO%207306_1761176832.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-bonta-di-semi-600-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:25+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:25+00:00"
+ },
+ "minestrone-sapori-orientali-600-gr": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600-gr/",
+  "titolo": "Minestrone sapori orientali 600 gr",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone sapori orientali 600 gr",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207257_1761176835.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN SAPORI ORIENTALI 600GR LOTTO 7257_1761176835.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207257_1761176835.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-sapori-orientali-600-gr",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:28+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:28+00:00"
+ },
+ "minestrone-sapori-orientali-600-gr-lotto-7292": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600-gr-lotto-7292/",
+  "titolo": "Minestrone sapori orientali 600 gr lotto 7292",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone sapori orientali 600 gr lotto 7292",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207292_1761176838.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN SAPORI ORIENTALI 600GR LOTTO 7292_1761176838.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207292_1761176838.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-sapori-orientali-600-gr-lotto-7292",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:30+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:30+00:00"
+ },
+ "minestrone-sapori-orientali-600-gr-lotto-7318": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600-gr-lotto-7318/",
+  "titolo": "Minestrone sapori orientali 600 gr lotto 7318",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone sapori orientali 600 gr lotto 7318",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207318_1761176841.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN SAPORI ORIENTALI 600GR LOTTO 7318_1761176841.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%207318_1761176841.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-sapori-orientali-600-gr-lotto-7318",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:33+00:00"
+ },
+ "minestrone-sapori-orientali-600gr-lotto-8011": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-sapori-orientali-600gr-lotto-8011/",
+  "titolo": "Minestrone sapori orientali 600gr lotto 8011",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone sapori orientali 600gr lotto 8011",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%208011_1761176844.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN SAPORI ORIENTALI 600GR LOTTO 8011_1761176844.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20SAPORI%20ORIENTALI%20600GR%20LOTTO%208011_1761176844.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-sapori-orientali-600gr-lotto-8011",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:35+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:35+00:00"
+ },
+ "minestrone-tradizione-1-kg-lotto-7251": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7251/",
+  "titolo": "Minestrone tradizione 1 kg lotto 7251",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 1 kg lotto 7251",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20LOTTO%207251_1761176853.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 1KG LOTTO 7251_1761176853.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20LOTTO%207251_1761176853.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-1-kg-lotto-7251",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:42+00:00"
+ },
+ "minestrone-tradizione-1-kg-lotto-7308": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7308/",
+  "titolo": "Minestrone tradizione 1 kg lotto 7308",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 1 kg lotto 7308",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201%20KG%20LOTTO%207308_1761176847.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 1 KG LOTTO 7308_1761176847.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201%20KG%20LOTTO%207308_1761176847.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-1-kg-lotto-7308",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:37+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:37+00:00"
+ },
+ "minestrone-tradizione-1-kg-lotto-7310": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7310/",
+  "titolo": "Minestrone tradizione 1 kg lotto 7310",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 1 kg lotto 7310",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201%20KG%20LOTTO%207310_1761176850.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 1 KG LOTTO 7310_1761176850.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201%20KG%20LOTTO%207310_1761176850.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-1-kg-lotto-7310",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:40+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:40+00:00"
+ },
+ "minestrone-tradizione-1-kg-lotto-7334": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-1-kg-lotto-7334/",
+  "titolo": "Minestrone tradizione 1 kg lotto 7334",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 1 kg lotto 7334",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20LOTTO%207334_1761176856.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 1KG LOTTO 7334_1761176856.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20LOTTO%207334_1761176856.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-1-kg-lotto-7334",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:44+00:00"
+ },
+ "minestrone-tradizione-400-gr-lotto-7303": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7303/",
+  "titolo": "Minestrone tradizione 400 gr lotto 7303",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 400 gr lotto 7303",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO%207303_1761176862.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 400GR LOTTO 7303_1761176862.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO%207303_1761176862.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-400-gr-lotto-7303",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:50+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:50+00:00"
+ },
+ "minestrone-tradizione-400-gr-lotto-7304": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7304/",
+  "titolo": "Minestrone tradizione 400 gr lotto 7304",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 400 gr lotto 7304",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO%207303_1761176866.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 400GR LOTTO 7303_1761176866.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO%207303_1761176866.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-400-gr-lotto-7304",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:53+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:53+00:00"
+ },
+ "minestrone-tradizione-400-gr-lotto-7326": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7326/",
+  "titolo": "Minestrone tradizione 400 gr lotto 7326",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 400 gr lotto 7326",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400%20GR%20LOTTO%207326_1761176859.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 400 GR LOTTO 7326_1761176859.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400%20GR%20LOTTO%207326_1761176859.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-400-gr-lotto-7326",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:47+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:47+00:00"
+ },
+ "minestrone-tradizione-400-gr-lotto-7327": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-400-gr-lotto-7327/",
+  "titolo": "Minestrone tradizione 400 gr lotto 7327",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione 400 gr lotto 7327",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO7327_1761176869.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 400GR LOTTO7327_1761176869.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%20400GR%20LOTTO7327_1761176869.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-400-gr-lotto-7327",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:55+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:55+00:00"
+ },
+ "minestrone-tradizione-nt-1-kg-lotto-7311": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/minestrone-tradizione-nt-1-kg-lotto-7311/",
+  "titolo": "Minestrone tradizione NT 1 kg lotto 7311",
+  "data_pubblicazione": "2018-07-08",
+  "marca": "Findus",
+  "denominazione": "Minestrone tradizione NT 1 kg lotto 7311",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20NT%20LOTTO%207311_1761176872.pdf",
+  "allegati": [
+   {
+    "titolo": "MIN TRAD 1KG NT LOTTO 7311_1761176872.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MIN%20TRAD%201KG%20NT%20LOTTO%207311_1761176872.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "minestrone-tradizione-nt-1-kg-lotto-7311",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:49:58+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:58+00:00"
+ },
+ "missoltino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/missoltino/",
+  "titolo": "MISSOLTINO",
+  "data_pubblicazione": "2018-07-23",
+  "marca": "MISULTIN STORE SRL",
+  "denominazione": "MISSOLTINO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761176980.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_1761176980.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_1761176980.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "missoltino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:13+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:13+00:00"
+ },
+ "missoltino-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/missoltino-0/",
+  "titolo": "MISSOLTINO",
+  "data_pubblicazione": "2018-07-25",
+  "marca": "MISULTIN STORE SRL",
+  "denominazione": "MISSOLTINO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%202_1761176994.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo 2_1761176994.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%202_1761176994.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "missoltino-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:03+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:03+00:00"
+ },
+ "mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais/",
+  "titolo": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "FRESHONA",
+  "denominazione": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_2%20CORRETTO_mix_1761176889.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato_2 CORRETTO_mix_1761176889.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_2%20CORRETTO_mix_1761176889.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n05/07/2018 FRESHONA\nMIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.\nLIDL ITALIA SRL\nTUTTI\n---\nGREENYARD N.V.\nPRODOTTO IN BELGIO\nTUTTI\n1000g\nPOSSIBILE PRESENZA DI LISTERIA MONOCYTOGENES.\nIL RICHIAMO RIGUARDA SOLO ED ESCLUSIVAMENTE LA REGIONE SICILIA.\nGreenyard N.V. e Lidl Italia invitano i consumatori che avessero acquistato il prodotto a non consumarlo e restituirlo."
+  },
+  "prima_rilevazione": "2026-10-25T09:49:15+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:15+00:00"
+ },
+ "mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais-0/",
+  "titolo": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS",
+  "data_pubblicazione": "2018-07-12",
+  "marca": "GREEN GROCER'S/ FRESHONA",
+  "denominazione": "MIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_2%20aggiornato_mix_verdure_1761176941.pdf",
+  "allegati": [
+   {
+    "titolo": "Allegato_2 aggiornato_mix_verdure_1761176941.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Allegato_2%20aggiornato_mix_verdure_1761176941.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "mix-di-verdure-surgelate-base-di-carote-fagiolini-piselli-mais-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "Allegato 4\n12/07/2018 GREEN GROCER’S / FRESHONA\nMIX DI VERDURE SURGELATE A BASE DI CAROTE, FAGIOLINI, PISELLI, MAIS.\nLIDL ITALIA SRL\nTUTTI\n---\nGREENYARD N.V.\nPRODOTTO IN BELGIO\nTUTTI\n1000g\nPOSSIBILE PRESENZA DI LISTERIA MONOCYTOGENES.\nIL RICHIAMO RIGUARDA SOLO ED ESCLUSIVAMENTE LA REGIONE SICILIA.\nGreenyard N.V. e Lidl Italia invitano i consumatori che avessero acquistato il prodotto a non consumarlo e restituirlo."
+  },
+  "prima_rilevazione": "2026-10-25T09:48:44+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:44+00:00"
+ },
+ "passatino-di-lenticchie": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passatino-di-lenticchie/",
+  "titolo": "Passatino di lenticchie",
+  "data_pubblicazione": "2018-07-20",
+  "marca": "Baby Kiss",
+  "denominazione": "Passatino di lenticchie",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro%20richiamo%20Ministeriale_1761176976.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo ritiro richiamo Ministeriale_1761176976.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20ritiro%20richiamo%20Ministeriale_1761176976.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "passatino-di-lenticchie",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PASSATINO DI LENTICCHIE",
+   "operatore": "ANTAAR&S S.p.A.",
+   "lotti": [
+    "L 05271"
+   ],
+   "marchio_identificazione": "ANTAAR&S S.p.A. - CE IT 2699",
+   "produttore": "ANTAAR&S S.p.A.",
+   "sede_stabilimento": "Via Aldo Moro 3, 27051 – Cava Manara (PV) - IT",
+   "scadenza": "21 02 19",
+   "peso_volume": "150g",
+   "motivo_esteso": "RITIRO / RICHIAMO CAUTELATIVO A CAUSA DI PRESENZA DI GLUTINE NON DICHIARATA",
+   "avvertenze": "Se consumato, il prodotto POTREBBE COSTITUIRE PERICOLO PER LA SALUTE DI SOGGETTI INTOLLERANTI AL GLUTINE (CELIACI). Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "19/07/2018 Marchio del prodotto: BABY KISS",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 19/07/2018 Marchio del prodotto: BABY KISS\nDenominazione di vendita:PASSATINO DI LENTICCHIE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ANTAAR&S S.p.A.\ncommercializzato:\nLotto di produzione: L 05271\nMarchio di identificazione dello stabilimento/del produttore: ANTAAR&S S.p.A. - CE IT 2699\nNome del produttore: ANTAAR&S S.p.A.\nSede dello stabilimento: Via Aldo Moro 3, 27051 – Cava Manara (PV) - IT\nData di scadenza o termine minimo di conservazione: 21 02 19\nDescrizione peso/volume unità di vendita: 150g\nMotivo del richiamo:\nRITIRO / RICHIAMO CAUTELATIVO A CAUSA DI PRESENZA DI GLUTINE NON DICHIARATA\nAvvertenze:\nSe consumato, il prodotto\nPOTREBBE COSTITUIRE PERICOLO PER LA SALUTE DI SOGGETTI INTOLLERANTI AL GLUTINE (CELIACI).\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:16+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:16+00:00"
+ },
+ "passatino-di-lenticchie-biologico": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/passatino-di-lenticchie-biologico/",
+  "titolo": "PASSATINO DI LENTICCHIE BIOLOGICO",
+  "data_pubblicazione": "2018-07-17",
+  "marca": "BABYKISS",
+  "denominazione": "PASSATINO DI LENTICCHIE BIOLOGICO",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL%203_%20AVVISO%20RICHIAMO%20PRODOTTO%20_%20Passatino%20di%20Lenticchie_1761176963.pdf",
+  "allegati": [
+   {
+    "titolo": "ALL 3_ AVVISO RICHIAMO PRODOTTO _ Passatino di Lenticchie_1761176963.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL%203_%20AVVISO%20RICHIAMO%20PRODOTTO%20_%20Passatino%20di%20Lenticchie_1761176963.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "passatino-di-lenticchie-biologico",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "lotti": [
+    "L05271 – 21 02 19 che il lotto in questione é risultato non conforme a causa di PRESENZA DI GLUTINE NON DICHIARATO . Se consumato",
+    "il prodotto POTREBBE COSTITUIRE PERICOLO PER LA SALUTE DI SOGGETTI INTOLLERANTI AL GLUTINE (CELIACI). Avendo a cuore la massima tutela dei nostri Consumatori",
+    "qualora foste esposti al rischio di cui sopra ed aveste acquistato il prodotto in questione",
+    "Vi invitiamo a non consumarlo ed a restituirlo presso il punto vendita nel quale lo avete acquistato",
+    "che espone la presente comunicazione di Tutela. Ci scusiamo per il disagio arrecato",
+    "Vi ricordiamo che il richiamo si riferisce solo ai prodotti",
+    "al"
+   ],
+   "campi_extra": {
+    "All’indirizzo": "lab@antaares.it"
+   },
+   "testo": "ANTAAR&S S.p.A. – CAVA MANARA (PV) - ITALIA\nAVVISO RICHIAMO PRODOTTO\nSi avvisano i sigg. Consumatori che hanno acquistato il prodotto\nPASSATINO DI LENTICCHIE BIOLOGICO BABYKISS\nlotto L05271 – 21 02 19\nche il lotto in questione é risultato non conforme a causa di\nPRESENZA DI GLUTINE NON DICHIARATO\n.\nSe consumato, il prodotto\nPOTREBBE COSTITUIRE PERICOLO PER LA SALUTE DI SOGGETTI INTOLLERANTI AL\nGLUTINE (CELIACI).\nAvendo a cuore la massima tutela dei nostri Consumatori, qualora foste esposti al rischio di cui\nsopra ed aveste acquistato il prodotto in questione, Vi invitiamo a non consumarlo ed a restituirlo\npresso il punto vendita nel quale lo avete acquistato e che espone la presente comunicazione di\nTutela.\nCi scusiamo per il disagio arrecato e Vi ricordiamo che il richiamo si riferisce solo ai prodotti e al\nlotto sopraindicato.\nPer eventuali ulteriori chiarimenti potrete contattarci:\nAll’indirizzo: lab@antaares.it\nO al n. 0382 554514 – Signora Giulia Besostri."
+  },
+  "prima_rilevazione": "2026-10-25T09:48:21+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:21+00:00"
+ },
+ "pecorino-toscano-dop-stagionato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pecorino-toscano-dop-stagionato/",
+  "titolo": "Pecorino Toscano DOP stagionato",
+  "data_pubblicazione": "2018-07-09",
+  "marca": "Pascoli Italiani",
+  "denominazione": "Pecorino Toscano DOP stagionato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino%20DOP_1761176902.pdf",
+  "allegati": [
+   {
+    "titolo": "Pecorino DOP_1761176902.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Pecorino%20DOP_1761176902.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "pecorino-toscano-dop-stagionato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "Marchio del prodotto:",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "Allegato 2\nMinistero della Salute\nData: Marchio del prodotto:\nDenominazione di vendita:\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore:\nSede dello stabilimento:\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita:\nMotivo del richiamo:\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:49:22+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:49:22+00:00"
+ },
+ "pesto-di-finocchietto-e-mandorle-segreti-di-sicilia": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-di-finocchietto-e-mandorle-segreti-di-sicilia/",
+  "titolo": "Pesto di finocchietto e mandorle - Segreti di Sicilia",
+  "data_pubblicazione": "2018-07-05",
+  "marca": "Frantoi Cutrera srl",
+  "denominazione": "Pesto di finocchietto e mandorle - Segreti di Sicilia",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PESTO%20FRANTOI%20CUTRERA_1761176829.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO PESTO FRANTOI CUTRERA_1761176829.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20PESTO%20FRANTOI%20CUTRERA_1761176829.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-di-finocchietto-e-mandorle-segreti-di-sicilia",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "avvertenze": "LE FOTOS I RIFERISCONAOL PRODOTTOC ONL OTTOD IVERSOR ISPETTOA L LOTTOO GGETTOD I RICHIAMOIN QUANTON ONR EPERIBILIEN AZIENDAE DAI PRIMIC ONTROLLNIE ANCHEP RESSOG LI OSA INDICATIN ELLAL ISTAD I DISTRIBUZIONEFI N QUI'CONTATTATI i' i I I , f ,_rft't'li$ ,'{T\\l }ì HAr-jx}R{-{ .IÉINIL AIiD ÀI,NÍOND PESTO .. , 4. rSr r.:.r nllo !.ri 'cElte d, olM Foilo i ' , ' ' ' ' 6 i Ì : . r. . a . d .\" :: ù * . i ' ( .t ' : ir & r , i t a x f u o . , i u , e . l l u n r B i i m ; . 2 a M d l , P t b e rlr r Md , ( nn . z p i , c d a w , d n i c l a d n ] r q , a i i s 'n p , h * È ? k p l, e d I e p o h n : À ù d . , H ( @ í h 3 ú l . . ù ; , ; ;; G f , dg ; h i , ; e s ; f f M ú f 6 f @i i ; i - -,, - :\" . 'l,.it ffi 1\"i,í*i;,**t *',\"\" l * n4.;; ,ii ,t'c'f,ir ,i =iu<.'l'r,.ui i i II I ilnserrretm maorneu no: I I I",
+   "campi_extra": {
+    "Data": "to.Àz/zot8_l Marchidoe tp rodotto: FRANTOCI UTRERAS RL",
+    "Denominaziondei vendita": "PESTOD I FINOCCHETTEO M ANDORLE-S EGRETDI I SICILIA",
+    "Lottod i produzione": "19077707",
+    "Marchiod i identificaziondee llos tabilimento/deplr oduttore": "I CUTRERAS RL",
+    "Nomed el produttore": "GIUSEPPA- LEGALER APPRESENTANTE",
+    "Seded ellos tabilimento": ".DA PIANOD ELL'ACQU7A1 - CHIARAMONTGEU LFI",
+    "Datad i scadenzao terminem inimod i conservazione": "7/2079",
+    "Descrizionpee so/volumeu nitàd i vendita": "ASETTOI gOGR-VASETT9O5 0 GR",
+    "i ' , ' ' ' ' 6 i Ì": ". r. . a . d .\" :: ù * . i ' ( .t ' : ir & r , i t a x f u o . , i u , e . l l u n r B i i m ; . 2 a M d l , P t b e rlr r Md , ( nn . z p i , c d a w , d n i c l a d n ] r q , a i i s 'n p , h * È ? k p l, e d I e p o h n : À ù d . , H ( @ í h 3 ú l . . ù ; , ; ;; G f , dg ; h i , ; e s ; f f M ú f 6 f @i i ; i - -,, - :\" .",
+    "ilnserrretm maorneu no": "I I"
+   },
+   "testo": "RICHIAMO\nData: to.Àz/zot8_l Marchidoe tp rodotto: FRANTOCI UTRERAS RL\nDenominaziondei vendita: PESTOD I FINOCCHETTEO M ANDORLE-S EGRETDI I SICILIA\nNomeo ragiones ocialed elI'OSA\na nomed el qualei l prodottoè RANTOI CUTRERAS RL\ncommercializzato:\nLottod i produzione: 19077707\nMarchiod i identificaziondee llos tabilimento/deplr oduttore: I CUTRERAS RL\nNomed el produttore: GIUSEPPA- LEGALER APPRESENTANTE\nSeded ellos tabilimento: .DA PIANOD ELL'ACQU7A1 - CHIARAMONTGEU LFI\nDatad i scadenzao terminem inimod i conservazione:7/2079\nDescrizionpee so/volumeu nitàd i vendita: ASETTOI gOGR-VASETT9O5 0 GR\nMotivod el richiamo:\nSoSPETTAIN TOSSICAZIONBEO TULINICA(E SAMIC LTNICEI DI LABORATORTINO CORSO)\nAvvertenze:\nLE FOTOS I RIFERISCONAOL PRODOTTOC ONL OTTOD IVERSOR ISPETTOA L LOTTOO GGETTOD I\nRICHIAMOIN QUANTON ONR EPERIBILIEN AZIENDAE DAI PRIMIC ONTROLLNIE ANCHEP RESSOG LI OSA\nINDICATIN ELLAL ISTAD I DISTRIBUZIONEFI N QUI'CONTATTATI\ni'\ni\nI\nI\n, f ,_rft't'li$ ,'{T\\l }ì HAr-jx}R{-{\n.IÉINIL AIiD ÀI,NÍOND PESTO\n.. , 4. rSr r.:.r nllo !.ri 'cElte d, olM Foilo\ni ' , ' ' ' ' 6 i Ì : . r. . a . d .\" :: ù * . i ' ( .t ' : ir & r , i t a x f u o . , i u , e . l l u n r B i i m ; . 2 a M d l , P t b e rlr r Md , ( nn . z p i , c d a w , d n i c l a d n ] r q , a i i s 'n p , h * È ? k p l, e d I e p o h n : À ù d . , H ( @ í h 3 ú l . . ù ; , ; ;; G f , dg ; h i , ; e s ; f f M ú f 6 f @i i ; i - -,, - :\" .\n'l,.it ffi\n:1\"i,í*i;,**t *',\"\"\nl * n4.;; ,ii ,t'c'f,ir ,i =iu<.'l'r,.ui i\ni\nII\nI\nilnserrretm maorneu no: I I\nI"
+  },
+  "prima_rilevazione": "2026-10-25T09:50:05+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:50:05+00:00"
+ },
+ "pizzette-crude-di-pasta-sfoglia-surgelate": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pizzette-crude-di-pasta-sfoglia-surgelate/",
+  "titolo": "Pizzette crude di pasta sfoglia surgelate",
+  "data_pubblicazione": "2018-07-10",
+  "marca": "Carrefour",
+  "denominazione": "Pizzette crude di pasta sfoglia surgelate",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOMINISTEROSALUTE_pizzette_1761176921.pdf",
+  "allegati": [
+   {
+    "titolo": "MODELLORICHIAMOMINISTEROSALUTE_pizzette_1761176921.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODELLORICHIAMOMINISTEROSALUTE_pizzette_1761176921.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pizzette-crude-di-pasta-sfoglia-surgelate",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:59+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:59+00:00"
+ },
+ "preparato-crostata": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata/",
+  "titolo": "PREPARATO PER CROSTATA",
+  "data_pubblicazione": "2018-07-10",
+  "marca": "PEDON",
+  "denominazione": "PREPARATO PER CROSTATA",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20131219_1761176917.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 131219_1761176917.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20131219_1761176917.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "preparato-crostata",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "PEDON",
+   "operatore": "PEDON S.p.A.",
+   "marchio_identificazione": "PEDON",
+   "produttore": "PEDON S.p.A.",
+   "sede_stabilimento": "VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)",
+   "peso_volume": "400 g",
+   "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA Data: RICHIAMO AI SOLI CONSUMATORI 02/07/2018",
+   "denominazione_vendita": "PREPARATO PER CROSTATA E COOKIES ALLERGICI AL PISTACCHIO E ANACARDO 131219 13/12/2019",
+   "motivo_esteso": "PRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\" PER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437",
+   "testo": "Marchio del prodotto: PEDON\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PEDON S.p.A.\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: PEDON\nNome del produttore: PEDON S.p.A.\nSede dello stabilimento: VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 400 g\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA\nData:\nRICHIAMO AI SOLI CONSUMATORI\n02/07/2018\nDenominazione di vendita:PREPARATO PER CROSTATA E COOKIES\nALLERGICI AL PISTACCHIO E ANACARDO\n131219\n13/12/2019\nMotivo del richiamo:\nPRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\"\nPER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:57+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:57+00:00"
+ },
+ "preparato-crostata-e-cookies": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata-e-cookies/",
+  "titolo": "PREPARATO PER CROSTATA E COOKIES",
+  "data_pubblicazione": "2018-07-05",
+  "marca": "PEDON",
+  "denominazione": "PREPARATO PER CROSTATA E COOKIES",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_63_C_Modulo%20richiamo_1761176824.pdf",
+  "allegati": [
+   {
+    "titolo": "18_63_C_Modulo richiamo_1761176824.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_63_C_Modulo%20richiamo_1761176824.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "preparato-crostata-e-cookies",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "PEDON",
+   "operatore": "PEDON S.p.A.",
+   "marchio_identificazione": "PEDON",
+   "produttore": "PEDON S.p.A.",
+   "sede_stabilimento": "VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)",
+   "peso_volume": "400 g",
+   "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA Data: RICHIAMO AI SOLI CONSUMATORI 02/07/2018",
+   "denominazione_vendita": "PREPARATO PER CROSTATA E COOKIES ALLERGICI AL PISTACCHIO E ANACARDO 131219 - 300120 13/12/2019 - 30/01/2020",
+   "motivo_esteso": "PRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\" PER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437",
+   "testo": "Marchio del prodotto: PEDON\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PEDON S.p.A.\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: PEDON\nNome del produttore: PEDON S.p.A.\nSede dello stabilimento: VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 400 g\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA\nData:\nRICHIAMO AI SOLI CONSUMATORI\n02/07/2018\nDenominazione di vendita:PREPARATO PER CROSTATA E COOKIES\nALLERGICI AL PISTACCHIO E ANACARDO\n131219 - 300120\n13/12/2019 - 30/01/2020\nMotivo del richiamo:\nPRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\"\nPER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437"
+  },
+  "prima_rilevazione": "2026-10-25T09:50:00+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:50:00+00:00"
+ },
+ "preparato-crostata-e-cookies-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata-e-cookies-0/",
+  "titolo": "PREPARATO PER CROSTATA E COOKIES",
+  "data_pubblicazione": "2018-07-10",
+  "marca": "PEDON",
+  "denominazione": "PREPARATO PER CROSTATA E COOKIES",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20121219_1761176910.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 121219_1761176910.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20121219_1761176910.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "preparato-crostata-e-cookies-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "PEDON",
+   "operatore": "PEDON S.p.A.",
+   "marchio_identificazione": "PEDON",
+   "produttore": "PEDON S.p.A.",
+   "sede_stabilimento": "VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)",
+   "peso_volume": "400 g",
+   "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA Data: RICHIAMO AI SOLI CONSUMATORI 02/07/2018",
+   "denominazione_vendita": "PREPARATO PER CROSTATA E COOKIES ALLERGICI AL PISTACCHIO E ANACARDO 121219 12/12/2019",
+   "motivo_esteso": "PRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\" PER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437",
+   "testo": "Marchio del prodotto: PEDON\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PEDON S.p.A.\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: PEDON\nNome del produttore: PEDON S.p.A.\nSede dello stabilimento: VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 400 g\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA\nData:\nRICHIAMO AI SOLI CONSUMATORI\n02/07/2018\nDenominazione di vendita:PREPARATO PER CROSTATA E COOKIES\nALLERGICI AL PISTACCHIO E ANACARDO\n121219\n12/12/2019\nMotivo del richiamo:\nPRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\"\nPER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:52+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:52+00:00"
+ },
+ "preparato-crostata-e-cookies-1": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/preparato-crostata-e-cookies-1/",
+  "titolo": "PREPARATO PER CROSTATA E COOKIES",
+  "data_pubblicazione": "2018-07-10",
+  "marca": "PEDON",
+  "denominazione": "PREPARATO PER CROSTATA E COOKIES",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20300120_1761176913.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo 300120_1761176913.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo%20300120_1761176913.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "preparato-crostata-e-cookies-1",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "marchio": "PEDON",
+   "operatore": "PEDON S.p.A.",
+   "marchio_identificazione": "PEDON",
+   "produttore": "PEDON S.p.A.",
+   "sede_stabilimento": "VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)",
+   "peso_volume": "400 g",
+   "avvertenze": "SI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA Data: RICHIAMO AI SOLI CONSUMATORI 02/07/2018",
+   "denominazione_vendita": "PREPARATO PER CROSTATA E COOKIES ALLERGICI AL PISTACCHIO E ANACARDO 300120 30/01/2020",
+   "motivo_esteso": "PRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\" PER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437",
+   "testo": "Marchio del prodotto: PEDON\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PEDON S.p.A.\ncommercializzato:\nLotto di produzione:\nMarchio di identificazione dello stabilimento/del produttore: PEDON\nNome del produttore: PEDON S.p.A.\nSede dello stabilimento: VIA DEL PROGRESSO 32, 36060 MOLVENA (VI)\nData di scadenza o termine minimo di conservazione:\nDescrizione peso/volume unità di vendita: 400 g\nAvvertenze:\nSI RICHIEDE DI RICONSEGNARE EVENTUALI CONFEZIONI ACQUISTATE AL PRESENTE PUNTO VENDITA\nData:\nRICHIAMO AI SOLI CONSUMATORI\n02/07/2018\nDenominazione di vendita:PREPARATO PER CROSTATA E COOKIES\nALLERGICI AL PISTACCHIO E ANACARDO\n300120\n30/01/2020\nMotivo del richiamo:\nPRESENZA ALLERGENI NON DICHIARATI IN ETICHETTA - \"PISTACCHIO E/O ANACARDO\"\nPER INFORMAZIONI CONTATTARE IL PRODUTTORE AL N° 800 034437"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:54+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:54+00:00"
+ },
+ "prosciutto-cotto-quanto-basta-2-persone-90g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-quanto-basta-2-persone-90g/",
+  "titolo": "Prosciutto Cotto Quanto Basta per 2 persone 90g",
+  "data_pubblicazione": "2018-07-13",
+  "marca": "CEIT272L",
+  "denominazione": "Prosciutto Cotto Quanto Basta per 2 persone 90g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ROSTELLO_1761176946.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO ROSTELLO_1761176946.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ROSTELLO_1761176946.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-quanto-basta-2-persone-90g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:31+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:31+00:00"
+ },
+ "prosciutto-cotto-quanto-basta-2-persone-90g-lotto-8278001840": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/prosciutto-cotto-quanto-basta-2-persone-90g-lotto-8278001840/",
+  "titolo": "Prosciutto Cotto Quanto Basta per 2 persone 90g lotto 8278001840",
+  "data_pubblicazione": "2018-07-13",
+  "marca": "Cesare Fiorucci CEIT272L",
+  "denominazione": "Prosciutto Cotto Quanto Basta per 2 persone 90g lotto 8278001840",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ROSTELLO_1761176950.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO ROSTELLO_1761176950.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20ROSTELLO_1761176950.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "prosciutto-cotto-quanto-basta-2-persone-90g-lotto-8278001840",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:33+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:33+00:00"
+ },
+ "salamino-di-puro-suino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-di-puro-suino/",
+  "titolo": "SALAMINO DI PURO SUINO",
+  "data_pubblicazione": "2018-07-19",
+  "marca": "CAVALLERI CARNI SRL DI CAVALLERI ANGELO E FIGLI",
+  "denominazione": "SALAMINO DI PURO SUINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20SALAMINI%20CAVALLERI%20PAITONE%20BS_1761176971.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO RICHIAMO SALAMINI CAVALLERI PAITONE BS_1761176971.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20RICHIAMO%20SALAMINI%20CAVALLERI%20PAITONE%20BS_1761176971.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salamino-di-puro-suino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:18+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:18+00:00"
+ },
+ "salamino-di-puro-suino-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salamino-di-puro-suino-0/",
+  "titolo": "SALAMINO DI PURO SUINO",
+  "data_pubblicazione": "2018-07-27",
+  "marca": "CAVALLERI CARNI DI CAVALLERI ANGELO E FIGLI",
+  "denominazione": "SALAMINO DI PURO SUINO",
+  "motivo": "Revoca per analisi di revisione favorevole",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20REVOCA%20RICHIAMO%20SALAMINI%20CAVALLERI%20PAITONE%20BS_1761177029.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULO REVOCA RICHIAMO SALAMINI CAVALLERI PAITONE BS_1761177029.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULO%20REVOCA%20RICHIAMO%20SALAMINI%20CAVALLERI%20PAITONE%20BS_1761177029.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "salamino-di-puro-suino-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:47:42+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:47:42+00:00"
+ },
+ "salsa-fegato-take-away": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsa-fegato-take-away/",
+  "titolo": "Salsa fegato Take away",
+  "data_pubblicazione": "2018-07-17",
+  "marca": "C.I.R. sas di Mecarelli C. & C",
+  "denominazione": "Salsa fegato Take away",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL.2%20RICHIAMO%20SALSA_DI_FEGATO_1761176967.pdf",
+  "allegati": [
+   {
+    "titolo": "ALL.2 RICHIAMO SALSA_DI_FEGATO_1761176967.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/ALL.2%20RICHIAMO%20SALSA_DI_FEGATO_1761176967.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsa-fegato-take-away",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-10-25T09:48:23+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:23+00:00"
+ },
+ "sugo-alle-vongole": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/sugo-alle-vongole/",
+  "titolo": "SUGO ALLE VONGOLE",
+  "data_pubblicazione": "2018-07-10",
+  "marca": "LE CONSERVE DELLA NONNA",
+  "denominazione": "SUGO ALLE VONGOLE",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20per%20richiamo%20La017_1761176906.pdf",
+  "allegati": [
+   {
+    "titolo": "modulo per richiamo La017_1761176906.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/modulo%20per%20richiamo%20La017_1761176906.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": true,
+  "id": "sugo-alle-vongole",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SOGO ALLE VONGOLE",
+   "operatore": "GRUPPO FINI SPA A SOCIO UNICO",
+   "lotti": [
+    "LA 017"
+   ],
+   "marchio_identificazione": "IT 589L CE",
+   "produttore": "GRUPPO FINI SPA",
+   "sede_stabilimento": "VIA CONFINE 1583 41017 RAVARINO -MO",
+   "scadenza": "31/07/2020",
+   "peso_volume": "190g",
+   "motivo_esteso": "SONO STATE RINVENUTE TRACCE DI PROTEINE DELLE UOVA NON PRESENTI IN LISTA INGREDIENTI",
+   "avvertenze": "SI RACCOMANDA AI CONSUMATORI ALLERGICI ALLE UOVA DI NON CONSUMARE IL PRODOTTO CON",
+   "campi_extra": {
+    "Data": "06/07/2018 Marchio del prodotto: LE CONSERVE DELLA NONNA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 06/07/2018 Marchio del prodotto: LE CONSERVE DELLA NONNA\nDenominazione di vendita:SOGO ALLE VONGOLE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è GRUPPO FINI SPA A SOCIO UNICO\ncommercializzato:\nLotto di produzione: LA 017\nMarchio di identificazione dello stabilimento/del produttore: IT 589L CE\nNome del produttore: GRUPPO FINI SPA\nSede dello stabilimento: VIA CONFINE 1583 41017 RAVARINO -MO\nData di scadenza o termine minimo di conservazione: 31/07/2020\nDescrizione peso/volume unità di vendita: 190g\nMotivo del richiamo:\nSONO STATE RINVENUTE TRACCE DI PROTEINE DELLE UOVA NON PRESENTI IN LISTA INGREDIENTI\nAvvertenze:\nSI RACCOMANDA AI CONSUMATORI ALLERGICI ALLE UOVA DI NON CONSUMARE IL PRODOTTO CON\nLOTTO INDICATO.IL PRODOTTO E' SICURO PER I CONSUMATORI NON ALLERGICI - FOTO\nESEMPLIFICATIVA DI UNA SOLA FASCIA ORARIA DI PRODUZIONE . PER INFO: cgrippo@finimodena.it\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:48:49+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:48:49+00:00"
+ },
+ "vitello-tonnato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/vitello-tonnato/",
+  "titolo": "Vitello tonnato",
+  "data_pubblicazione": "2018-07-02",
+  "marca": "Il Ceppo",
+  "denominazione": "Vitello tonnato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_30_B_Modulo_di_richiamo_prodotto_Il_Ceppo_Srl%20_1__1761176821.pdf",
+  "allegati": [
+   {
+    "titolo": "18_30_B_Modulo_di_richiamo_prodotto_Il_Ceppo_Srl _1__1761176821.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/18_30_B_Modulo_di_richiamo_prodotto_Il_Ceppo_Srl%20_1__1761176821.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "vitello-tonnato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Vitello tonnato",
+   "operatore": "Il Ceppo Srl",
+   "lotti": [
+    "181485005"
+   ],
+   "marchio_identificazione": "IT 9 114 L CE",
+   "produttore": "Il Ceppo",
+   "sede_stabilimento": "Via del Lavoro, 8/10, 36010 Monticello Conte Otto (VI)",
+   "scadenza": "08-07-2018",
+   "peso_volume": "confezione TA 200 g",
+   "motivo_esteso": "presenza di contaminazione microbica (Listeria Monocytogenes <10 u.f.c./g)",
+   "avvertenze": "Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "29/06/2018 Marchio del prodotto: Il Ceppo",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 29/06/2018 Marchio del prodotto: Il Ceppo\nDenominazione di vendita:Vitello tonnato\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Il Ceppo Srl\ncommercializzato:\nLotto di produzione: 181485005\nMarchio di identificazione dello stabilimento/del produttore: IT 9 114 L CE\nNome del produttore: Il Ceppo\nSede dello stabilimento: Via del Lavoro, 8/10, 36010 Monticello Conte Otto (VI)\nData di scadenza o termine minimo di conservazione: 08-07-2018\nDescrizione peso/volume unità di vendita: confezione TA 200 g\nMotivo del richiamo:\npresenza di contaminazione microbica (Listeria Monocytogenes <10 u.f.c./g)\nAvvertenze:\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-10-25T09:50:07+00:00",
+  "ultimo_aggiornamento": "2026-10-25T09:50:07+00:00"
+ }
+}
