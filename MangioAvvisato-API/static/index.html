@@ -3,35 +3,235 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>MangioAvvisato API</title>
+<title>MangioAvvisato – i richiami alimentari sul tuo telefono</title>
+<meta name="description" content="App gratuita per Android con i richiami di prodotti alimentari pubblicati dal Ministero della Salute: notifiche, ricerca per lotto, controllo con la fotocamera.">
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="apple-touch-icon" href="icona-192.png">
+<meta property="og:title" content="MangioAvvisato">
+<meta property="og:description" content="I richiami alimentari del Ministero della Salute, sul tuo telefono.">
+<meta property="og:image" content="icona-192.png">
 <style>
-  :root { --bg:#fbfaf7; --fg:#1d1d1b; --muted:#6b6a65; --accent:#c2410c; --card:#ffffff; --line:#e7e4dc; }
-  @media (prefers-color-scheme: dark) {
-    :root { color-scheme: dark; --bg:#161614; --fg:#ecebe6; --muted:#a3a29b; --accent:#fb923c; --card:#1f1f1c; --line:#2f2e2a; }
+  /* Carattere ospitato sul sito: nessuna richiesta a servizi esterni */
+  @font-face { font-family: "Figtree"; src: url("figtree-regular.ttf") format("truetype"); font-weight: 400; font-display: swap; }
+  @font-face { font-family: "Figtree"; src: url("figtree-semibold.ttf") format("truetype"); font-weight: 600; font-display: swap; }
+  @font-face { font-family: "Figtree"; src: url("figtree-extrabold.ttf") format("truetype"); font-weight: 800; font-display: swap; }
+
+  :root {
+    --sfondo: #FFF8EC;        /* avorio dell'icona */
+    --superficie: #FFFFFF;
+    --pesca: #FFF1E5;
+    --testo: #2A100F;
+    --tenue: #7A4A3A;
+    --linea: #EBDDD0;
+    --marchio-1: #F55A06;     /* "Mangio" */
+    --marchio-2: #D23A0C;     /* "Avvisato" */
+    --accento: #B9442A;
+    --misura: 68ch;
   }
-  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
-  main { max-width:720px; margin:0 auto; padding:3rem 1.25rem; }
-  h1 { margin:0; font-size:2rem; }
-  .payoff { color:var(--accent); font-weight:600; margin:.25rem 0 2rem; }
-  ul { padding:0; list-style:none; }
-  li { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:.75rem 1rem; margin:.5rem 0; }
-  code, a { color:var(--accent); }
-  .muted { color:var(--muted); font-size:.9rem; }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      color-scheme: dark;
+      --sfondo: #1C1412;
+      --superficie: #251B18;
+      --pesca: #2E211D;
+      --testo: #F6ECE6;
+      --tenue: #CDB3A6;
+      --linea: #3A2A25;
+      --marchio-1: #FF7A2E;
+      --marchio-2: #F0603A;
+      --accento: #F2A27C;
+    }
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--sfondo);
+    color: var(--testo);
+    font-family: "Figtree", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    font-size: 1.0625rem;
+    line-height: 1.6;
+  }
+  img { max-width: 100%; height: auto; display: block; }
+  a { color: var(--accento); text-underline-offset: .18em; }
+  a:focus-visible { outline: 3px solid var(--marchio-1); outline-offset: 3px; border-radius: 4px; }
+
+  .contenitore { width: min(1080px, 100% - 2.5rem); margin-inline: auto; }
+
+  /* ---------- apertura ---------- */
+  .apertura {
+    display: grid;
+    grid-template-columns: 1.05fr .95fr;
+    align-items: center;
+    gap: 2rem;
+    padding-block: clamp(2.5rem, 7vw, 5.5rem) clamp(2rem, 5vw, 4rem);
+  }
+  .marchio {
+    margin: 0;
+    font-weight: 800;
+    font-size: clamp(2.6rem, 7.2vw, 4.9rem);
+    line-height: 1;
+    letter-spacing: -0.035em;
+  }
+  .marchio .m1 { color: var(--marchio-1); }
+  .marchio .m2 { color: var(--marchio-2); }
+  .payoff {
+    margin: .5rem 0 0;
+    font-weight: 800;
+    font-style: italic;
+    font-size: clamp(1.15rem, 2.4vw, 1.5rem);
+    letter-spacing: -0.01em;
+  }
+  .presentazione {
+    margin: 1.5rem 0 0;
+    max-width: 36ch;
+    font-size: clamp(1.15rem, 2vw, 1.35rem);
+    line-height: 1.5;
+  }
+  .stato {
+    display: inline-block;
+    margin: 1.75rem 0 0;
+    padding: .65rem 1.1rem;
+    border-radius: 999px;
+    background: var(--pesca);
+    border: 1.5px solid var(--marchio-1);
+    font-weight: 600;
+    font-size: 1rem;
+  }
+  .personaggio { justify-self: center; width: min(100%, 470px); }
+
+  /* ---------- sezioni ---------- */
+  section { padding-block: clamp(2.5rem, 6vw, 4.5rem); border-top: 1px solid var(--linea); }
+  h2 {
+    margin: 0 0 1.75rem;
+    font-weight: 800;
+    font-size: clamp(1.6rem, 3.2vw, 2.2rem);
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    max-width: 24ch;
+  }
+  h3 { margin: 0 0 .4rem; font-weight: 800; font-size: 1.2rem; line-height: 1.3; }
+  p { margin: 0 0 1rem; max-width: var(--misura); }
+  .tenue { color: var(--tenue); }
+
+  /* funzioni: schermata e testo affiancati, a righe alterne */
+  .funzioni { display: grid; gap: clamp(2.5rem, 6vw, 4rem); max-width: 860px; }
+  .funzione {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: clamp(1.5rem, 5vw, 3.5rem);
+    align-items: center;
+  }
+  .funzione:nth-child(even) { grid-template-columns: 1fr 240px; }
+  .funzione:nth-child(even) .schermata { order: 2; }
+  .schermata {
+    border-radius: 26px;
+    border: 1px solid var(--linea);
+    background: var(--superficie);
+    overflow: hidden;
+    box-shadow: 0 18px 40px -24px rgba(42, 16, 15, .35);
+  }
+  .funzione ul { margin: .25rem 0 0; padding-left: 1.15rem; max-width: var(--misura); }
+  .funzione li { margin-bottom: .35rem; }
+  .funzione li::marker { color: var(--marchio-1); }
+
+  /* dati e privacy: due colonne di testo */
+  .affiancate { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(2rem, 5vw, 4rem); }
+  .affiancate h2 { font-size: clamp(1.4rem, 2.6vw, 1.75rem); margin-bottom: 1rem; }
+
+
+  footer { border-top: 1px solid var(--linea); padding-block: 2rem 3rem; font-size: .95rem; }
+  footer p { margin-bottom: .4rem; }
+
+  @media (max-width: 760px) {
+    .apertura { grid-template-columns: 1fr; text-align: left; }
+    .personaggio { order: -1; width: min(78%, 340px); justify-self: start; }
+    .funzione, .funzione:nth-child(even) { grid-template-columns: 1fr; }
+    .funzione:nth-child(even) .schermata { order: 0; }
+    .schermata { width: min(240px, 70%); }
+    .affiancate { grid-template-columns: 1fr; }
+  }
 </style>
 </head>
 <body>
+
+<header class="contenitore apertura">
+  <div>
+    <h1 class="marchio"><span class="m1">Mangio</span><span class="m2">Avvisato</span></h1>
+    <p class="payoff">…mezzo salvato!</p>
+    <p class="presentazione">I richiami di prodotti alimentari pubblicati dal Ministero della Salute, sul tuo telefono. Ti avvisa quando ne esce uno nuovo e ti aiuta a capire se riguarda qualcosa che hai in dispensa.</p>
+    <!-- Quando l'app sarà pubblica, sostituisci questo paragrafo con il link:
+         <a class="stato" href="https://play.google.com/store/apps/details?id=it.hellogitty.mangioavvisato">Scarica da Google Play</a> -->
+    <p class="stato">In arrivo su Google Play per Android</p>
+  </div>
+  <img class="personaggio" src="personaggio.webp" width="720" height="675"
+       alt="Il personaggio di MangioAvvisato: un omino preoccupato a tavola, con forchetta e coltello, davanti a una bomba nel piatto">
+</header>
+
 <main>
-  <h1>MangioAvvisato</h1>
-  <p class="payoff">… MezzoSalvato!</p>
-  <p>API statica dei richiami di prodotti alimentari pubblicati dal Ministero della Salute.</p>
-  <ul>
-    <li><a href="v1/ultimi.json"><code>v1/ultimi.json</code></a> – gli ultimi richiami</li>
-    <li><a href="v1/richiami.json"><code>v1/richiami.json</code></a> – l’archivio completo (sintesi)</li>
-    <li><a href="v1/revoche.json"><code>v1/revoche.json</code></a> – le revoche</li>
-    <li><code>v1/richiami/{id}.json</code> – il dettaglio di un richiamo</li>
-    <li><a href="v1/meta.json"><code>v1/meta.json</code></a> – data di aggiornamento e totali</li>
-  </ul>
-  <p class="muted">Dati non ufficiali. Fa fede esclusivamente la pubblicazione sul portale del Ministero della Salute.</p>
+  <section class="contenitore" aria-labelledby="cosa-fa">
+    <h2 id="cosa-fa">Cosa puoi fare con l'app</h2>
+    <div class="funzioni">
+      <div class="funzione">
+        <img class="schermata" src="schermata-1-elenco.webp" width="480" height="1077" loading="lazy"
+             alt="Elenco dei richiami raggruppati per giorno, con ricerca e filtri per tipo di rischio">
+        <div>
+          <h3>Sapere subito cosa è stato richiamato</h3>
+          <p>Ricevi una notifica quando il Ministero pubblica un nuovo richiamo e consulta tutti quelli dal 2017 a oggi.</p>
+          <ul>
+            <li>Cerca per prodotto, marca o lotto.</li>
+            <li>Filtra per periodo e tipo di rischio: microbiologico, allergeni, chimico, fisico.</li>
+            <li>Vedi quando un richiamo è stato revocato.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="funzione">
+        <img class="schermata" src="schermata-2-dettaglio.webp" width="480" height="1077" loading="lazy"
+             alt="Dettaglio di un richiamo con motivo, lotto, scadenza, operatore e stabilimento">
+        <div>
+          <h3>Capire di cosa si tratta</h3>
+          <p>Per ogni richiamo trovi i dati che servono per riconoscere il prodotto: lotti, scadenza, confezione, produttore e stabilimento, con il collegamento al documento ufficiale.</p>
+          <ul>
+            <li>«Di cosa si tratta?» spiega il rischio in parole semplici, con collegamenti a fonti come l'Istituto Superiore di Sanità.</li>
+            <li>Condividi un richiamo con familiari e amici.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="funzione">
+        <img class="schermata" src="schermata-3-lista.webp" width="480" height="1077" loading="lazy"
+             alt="La mia lista con un prodotto segnato come riportato al negozio">
+        <div>
+          <h3>Controllare cosa hai in casa</h3>
+          <p>Inquadra il lotto stampato sulla confezione: l'app lo confronta con i richiami e, se trova una corrispondenza, te lo dice subito.</p>
+          <ul>
+            <li>Salva i prodotti che ti riguardano nella tua lista.</li>
+            <li>Ricevi un promemoria per riportarli al punto vendita.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="contenitore affiancate">
+    <div>
+      <h2>Da dove arrivano i dati</h2>
+      <p>I richiami provengono dal portale del Ministero della Salute, nella sezione dedicata ai richiami di prodotti alimentari da parte degli operatori, e vengono aggiornati più volte al giorno.</p>
+      <p class="tenue">MangioAvvisato non è affiliata al Ministero della Salute né ad altri enti pubblici. Fa fede esclusivamente la pubblicazione sul <a href="https://www.salute.gov.it/new/it/tema/sistema-di-controllo-della-sicurezza-alimentare/richiami-osa-sistema-di-informazione-ai/">sito del Ministero</a>.</p>
+    </div>
+    <div>
+      <h2>Gratuita, senza pubblicità</h2>
+      <p>Nessuna registrazione, nessun tracciamento. La tua lista e le tue preferenze restano sul telefono, e la lettura del lotto con la fotocamera avviene interamente sul dispositivo.</p>
+      <p><a href="privacy.html">Leggi l'informativa sulla privacy</a></p>
+    </div>
+  </section>
+
 </main>
+
+<footer class="contenitore">
+  <p>MangioAvvisato è un progetto gratuito e indipendente.</p>
+  <p><a href="privacy.html">Informativa sulla privacy</a></p>
+</footer>
+
 </body>
 </html>
