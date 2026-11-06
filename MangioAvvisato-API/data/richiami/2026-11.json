@@ -1,4 +1,31 @@
 {
+ "filetti-di-tonno-surgelato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-tonno-surgelato/",
+  "titolo": ": FILETTI DI TONNO SURGELATO",
+  "data_pubblicazione": "2026-11-06",
+  "marca": "SELEZIONE PIÙ",
+  "denominazione": ": FILETTI DI TONNO SURGELATO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Filetti%20di%20Tonno%20Surgelato%20lotto%20n.%2076504_01_001%20_aggiornato%20_1__1793979220.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo Filetti di Tonno Surgelato lotto n. 76504_01_001 _aggiornato _1__1793979220.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%20Filetti%20di%20Tonno%20Surgelato%20lotto%20n.%2076504_01_001%20_aggiornato%20_1__1793979220.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "filetti-di-tonno-surgelato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-06T19:10:29+00:00",
+  "ultimo_aggiornamento": "2026-11-06T19:10:29+00:00"
+ },
  "mostarda-mostarda-di-fichi-mostarda-di-fichi-goccia-doro-mostarda": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/mostarda-mostarda-di-fichi-mostarda-di-fichi-goccia-doro-mostarda/",
   "titolo": "Mostarda-Mostarda di fichi-Mostarda di fichi goccia d'oro-Mostarda di mele campanine-Mostarda di mel",
