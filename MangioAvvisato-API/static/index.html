@@ -141,6 +141,36 @@
   .affiancate h2 { font-size: clamp(1.4rem, 2.6vw, 1.75rem); margin-bottom: 1rem; }
 
 
+
+  /* contributo volontario */
+  .contributo {
+    background: var(--pesca);
+    border: 1px solid var(--linea);
+    border-radius: 24px;
+    padding: clamp(1.75rem, 4vw, 2.75rem);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 1.5rem 2.5rem;
+    align-items: center;
+  }
+  .contributo h2 { margin-bottom: .6rem; font-size: clamp(1.4rem, 2.6vw, 1.75rem); }
+  .contributo p { margin-bottom: 0; }
+  .pulsante-caffe {
+    display: inline-block;
+    padding: .9rem 1.6rem;
+    border-radius: 16px;
+    background: var(--superficie);
+    border: 2px solid var(--marchio-1);
+    color: var(--testo);
+    font-weight: 800;
+    font-size: 1.1rem;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background-color .15s ease;
+  }
+  .pulsante-caffe:hover { background: var(--sfondo); }
+  .nota-pagamento { margin-top: .6rem; font-size: .9rem; color: var(--tenue); text-align: center; }
+
   footer { border-top: 1px solid var(--linea); padding-block: 2rem 3rem; font-size: .95rem; }
   footer p { margin-bottom: .4rem; }
 
@@ -151,6 +181,8 @@
     .funzione:nth-child(even) .schermata { order: 0; }
     .schermata { width: min(240px, 70%); }
     .affiancate { grid-template-columns: 1fr; }
+    .contributo { grid-template-columns: 1fr; }
+    .nota-pagamento { text-align: left; }
   }
 </style>
 </head>
@@ -226,6 +258,18 @@
     </div>
   </section>
 
+  <section class="contenitore" aria-labelledby="contributo">
+    <div class="contributo">
+      <div>
+        <h2 id="contributo">Ti è utile?</h2>
+        <p>MangioAvvisato è gratuita, senza pubblicità e lo resterà. Se ti è stata utile e vuoi contribuire al tempo che richiede tenerla aggiornata, puoi offrirmi un caffè.</p>
+      </div>
+      <div>
+        <a class="pulsante-caffe" href="https://donate.stripe.com/4gMeVf9jG1IO57BcboejK00" rel="noopener">☕ Offrimi un caffè</a>
+        <p class="nota-pagamento">Carta, Apple Pay, Google Pay o Satispay</p>
+      </div>
+    </div>
+  </section>
 </main>
 
 <footer class="contenitore">
