@@ -1784,6 +1784,168 @@
   "prima_rilevazione": "2026-11-09T22:01:06+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:06+00:00"
  },
+ "salsiccia-stagionata-calitrana-catenella": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-catenella/",
+  "titolo": "SALSICCIA STAGIONATA CALITRANA A CATENELLA",
+  "data_pubblicazione": "2026-11-12",
+  "marca": "SALUMIFICIO TORNILLO SRL",
+  "denominazione": "SALSICCIA STAGIONATA CALITRANA A CATENELLA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AB_26P_4_1794488575.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO_29_AB_26P_4_1794488575.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AB_26P_4_1794488575.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-calitrana-catenella",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-12T16:20:04+00:00",
+  "ultimo_aggiornamento": "2026-11-12T16:20:04+00:00"
+ },
+ "salsiccia-stagionata-calitrana-con-peperoncino-dolce": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-con-peperoncino-dolce/",
+  "titolo": "SALSICCIA STAGIONATA CALITRANA CON PEPERONCINO DOLCE",
+  "data_pubblicazione": "2026-11-12",
+  "marca": "SALUMIFICIO TORNILLO SRL",
+  "denominazione": "SALSICCIA STAGIONATA CALITRANA CON PEPERONCINO DOLCE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_ABP_26_5_1794488576.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO_29_ABP_26_5_1794488576.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_ABP_26_5_1794488576.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-calitrana-con-peperoncino-dolce",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-12T16:20:12+00:00",
+  "ultimo_aggiornamento": "2026-11-12T16:20:12+00:00"
+ },
+ "salsiccia-stagionata-calitrana-dolce": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-dolce/",
+  "titolo": "SALSICCIA STAGIONATA CALITRANA DOLCE",
+  "data_pubblicazione": "2026-11-12",
+  "marca": "SALUMIFICIO TORNILLO SRL",
+  "denominazione": "SALSICCIA STAGIONATA CALITRANA DOLCE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AB_26_2_1794488572.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO_29_AB_26_2_1794488572.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AB_26_2_1794488572.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-calitrana-dolce",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-12T16:19:46+00:00",
+  "ultimo_aggiornamento": "2026-11-12T16:19:46+00:00"
+ },
+ "salsiccia-stagionata-calitrana-dolce-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-dolce-0/",
+  "titolo": "SALSICCIA STAGIONATA CALITRANA DOLCE",
+  "data_pubblicazione": "2026-11-12",
+  "marca": "SALUMIFICIO TORNILLO SRL",
+  "denominazione": "SALSICCIA STAGIONATA CALITRANA DOLCE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AB_26_P%20MACELLERIA%20G.%20NIETTA_3_1794488573.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO_29_AB_26_P MACELLERIA G. NIETTA_3_1794488573.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AB_26_P%20MACELLERIA%20G.%20NIETTA_3_1794488573.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-calitrana-dolce-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-12T16:19:55+00:00",
+  "ultimo_aggiornamento": "2026-11-12T16:19:55+00:00"
+ },
+ "salsiccia-stagionata-calitrana-piccante": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-piccante/",
+  "titolo": "SALSICCIA STAGIONATA CALITRANA PICCANTE",
+  "data_pubblicazione": "2026-11-12",
+  "marca": "SALUMIFICIO TORNILLO SRL",
+  "denominazione": "SALSICCIA STAGIONATA CALITRANA PICCANTE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AP_26_6_1794488578.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO_29_AP_26_6_1794488578.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_AP_26_6_1794488578.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-calitrana-piccante",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-12T16:20:21+00:00",
+  "ultimo_aggiornamento": "2026-11-12T16:20:21+00:00"
+ },
+ "salsiccia-stagionata-calitrana-semipiccante": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-semipiccante/",
+  "titolo": "SALSICCIA STAGIONATA CALITRANA SEMIPICCANTE",
+  "data_pubblicazione": "2026-11-12",
+  "marca": "SALUMIFICIO TORNILLO SRL",
+  "denominazione": "SALSICCIA STAGIONATA CALITRANA SEMIPICCANTE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_A_26_1_1794488569.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO LOTTO_29_A_26_1_1794488569.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO%20LOTTO_29_A_26_1_1794488569.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-calitrana-semipiccante",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-12T16:19:38+00:00",
+  "ultimo_aggiornamento": "2026-11-12T16:19:38+00:00"
+ },
  "snack-salato-con-zucchero-ed-edulcoloranti-104g20": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-salato-con-zucchero-ed-edulcoloranti-104g20/",
   "titolo": "Snack salato con zucchero ed edulcoloranti 104g*20",
