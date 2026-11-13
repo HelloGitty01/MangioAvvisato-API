@@ -1,0 +1,57 @@
+name: Ricognizione catene
+
+# Esplora i siti delle catene di supermercati e salva le pagine dei richiami
+# (HTML, screenshot, PDF) per scrivere o correggere i connettori.
+# Da lanciare a mano. Non modifica i dati e non pubblica nulla:
+# i risultati si scaricano dal riepilogo dell'esecuzione, sezione Artifacts.
+
+on:
+  workflow_dispatch:
+    inputs:
+      catena:
+        description: "Solo una catena (coop, esselunga, carrefour, lidl, conad); vuoto = tutte"
+        type: string
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  ricognizione:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    defaults:
+      run:
+        working-directory: MangioAvvisato-API
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: MangioAvvisato-API/requirements.txt
+
+      - name: Installa dipendenze
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+          sudo apt-get install -y -qq xvfb
+
+      - name: Esplora i siti delle catene
+        env:
+          CATENA: ${{ inputs.catena }}
+          MANGIOAVVISATO_HEADED: "1"
+        run: |
+          ARGS="--out ricognizione"
+          if [ -n "$CATENA" ]; then ARGS="$ARGS --catena $CATENA"; fi
+          xvfb-run -a python -m scraper.ricognizione $ARGS
+
+      - name: Allega i risultati
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ricognizione-catene
+          path: MangioAvvisato-API/ricognizione/
+          if-no-files-found: warn
+          retention-days: 14
