@@ -860,7 +860,33 @@
    "testo": ""
   },
   "prima_rilevazione": "2026-10-24T22:02:30+00:00",
-  "ultimo_aggiornamento": "2026-10-24T22:02:30+00:00"
+  "ultimo_aggiornamento": "2026-11-13T21:17:53+00:00",
+  "fonti_dettaglio": [
+   {
+    "id": "ministero",
+    "nome": "Ministero della Salute",
+    "tipo": "ministero",
+    "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-galbanetto/",
+    "data": "2026-08-29"
+   },
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Locandina%20richiamo%20TMC%2023-24.10.2026.pdf?_u=5dd2f4aed0950227cd5bf819990456ae82660f85",
+    "data": "2026-09-01"
+   }
+  ],
+  "fonti": [
+   "ministero",
+   "conad"
+  ],
+  "catene": [
+   "Conad"
+  ],
+  "id_catene": [
+   "conad-locandina-20richiamo-20tmc-2023-24-10-2026"
+  ]
  },
  "salumificio-pignone-mortadella-nostrale": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salumificio-pignone-mortadella-nostrale/",

@@ -598,7 +598,33 @@
    "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: NOBERASCO SPA\nDenominazione di vendita:FICHI ESSICCATI BIOLOGICI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NOBERASCO SPA\ncommercializzato:\nLotto di produzione: L6075A\nMarchio di identificazione dello stabilimento/del produttore: NOBERASCO SPA\nNome del produttore: NOBERASCO SPA\nSede dello stabilimento: Loc. Paletta, 1 - 17043 Carcare (SV)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nValori di Ocratossina A oltre i limiti di legge\nAvvertenze:\nNon consumare e restituire al punto vendita\nInserire immagine uno: Inserire immagine due:"
   },
   "prima_rilevazione": "2026-10-24T22:04:47+00:00",
-  "ultimo_aggiornamento": "2026-10-24T22:04:47+00:00"
+  "ultimo_aggiornamento": "2026-11-13T21:16:37+00:00",
+  "fonti_dettaglio": [
+   {
+    "id": "ministero",
+    "nome": "Ministero della Salute",
+    "tipo": "ministero",
+    "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fichi-essicati-biologici/",
+    "data": "2026-07-29"
+   },
+   {
+    "id": "esselunga",
+    "nome": "Esselunga",
+    "tipo": "catena",
+    "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/nober-fichi-bio.pdf",
+    "data": null
+   }
+  ],
+  "fonti": [
+   "ministero",
+   "esselunga"
+  ],
+  "catene": [
+   "Esselunga"
+  ],
+  "id_catene": [
+   "esselunga-nober-fichi-bio"
+  ]
  },
  "formae-val-di-fiemme-stagionato": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/formae-val-di-fiemme-stagionato/",

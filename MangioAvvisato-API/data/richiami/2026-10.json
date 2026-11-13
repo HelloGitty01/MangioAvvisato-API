@@ -563,6 +563,169 @@
   "prima_rilevazione": "2026-10-24T19:57:29+00:00",
   "ultimo_aggiornamento": "2026-10-24T21:46:58+00:00"
  },
+ "conad-cartelli-20di-20richiamo-20salamella": {
+  "id": "conad-cartelli-20di-20richiamo-20salamella",
+  "tipo": "richiamo",
+  "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/CARTELLI%20DI%20RICHIAMO%20SALAMELLA.pdf?_u=dbfa3ff0fc79fc013247e853812db628966da0ef",
+  "titolo": "Salamella dolce",
+  "data_pubblicazione": "2026-10-15",
+  "fonte": "Conad",
+  "fonti": [
+   "conad"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/CARTELLI%20DI%20RICHIAMO%20SALAMELLA.pdf?_u=dbfa3ff0fc79fc013247e853812db628966da0ef",
+    "data": "2026-10-15"
+   }
+  ],
+  "catene": [
+   "Conad"
+  ],
+  "dettagli": {},
+  "denominazione": "Salamella dolce",
+  "marca": "FRANCHI SALUMI SRL",
+  "categoria_rischio": "altro",
+  "pdf_url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/CARTELLI%20DI%20RICHIAMO%20SALAMELLA.pdf?_u=dbfa3ff0fc79fc013247e853812db628966da0ef",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-13T21:17:46+00:00",
+  "ultimo_aggiornamento": "2026-11-13T21:17:46+00:00"
+ },
+ "conad-cartello-20di-20richiamo-20pancetta": {
+  "id": "conad-cartello-20di-20richiamo-20pancetta",
+  "tipo": "richiamo",
+  "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/CARTELLO%20DI%20RICHIAMO%20Pancetta.pdf?_u=11a1904e346a1e14e01fed3a2267321d7dfaf0f2",
+  "titolo": "Pancetta affumicata",
+  "data_pubblicazione": "2026-10-15",
+  "fonte": "Conad",
+  "fonti": [
+   "conad"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/CARTELLO%20DI%20RICHIAMO%20Pancetta.pdf?_u=11a1904e346a1e14e01fed3a2267321d7dfaf0f2",
+    "data": "2026-10-15"
+   }
+  ],
+  "catene": [
+   "Conad"
+  ],
+  "dettagli": {},
+  "denominazione": "Pancetta affumicata",
+  "marca": "SALUMIFICIO CAMPIDANESE SU SARTIZZU",
+  "categoria_rischio": "altro",
+  "pdf_url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/CARTELLO%20DI%20RICHIAMO%20Pancetta.pdf?_u=11a1904e346a1e14e01fed3a2267321d7dfaf0f2",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-13T21:17:41+00:00",
+  "ultimo_aggiornamento": "2026-11-13T21:17:41+00:00"
+ },
+ "conad-fichi-20essicati": {
+  "id": "conad-fichi-20essicati",
+  "tipo": "richiamo",
+  "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/fichi%20essicati.pdf?_u=da0d0752c8090a0f1f2d9097e53ece093d412c8a",
+  "titolo": "Fichi essiccati biologici",
+  "data_pubblicazione": "2026-10-15",
+  "fonte": "Conad",
+  "fonti": [
+   "conad"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/fichi%20essicati.pdf?_u=da0d0752c8090a0f1f2d9097e53ece093d412c8a",
+    "data": "2026-10-15"
+   }
+  ],
+  "catene": [
+   "Conad"
+  ],
+  "dettagli": {
+   "denominazione_vendita": "FICHI ESSICCATI BIOLOGICI",
+   "operatore": "NOBERASCO SPA",
+   "lotti": [
+    "L6075A"
+   ],
+   "marchio_identificazione": "NOBERASCO SPA",
+   "produttore": "NOBERASCO SPA",
+   "sede_stabilimento": "Loc. Paletta, 1 - 17043 Carcare (SV)",
+   "scadenza": "31-03-2027",
+   "peso_volume": "200g",
+   "motivo_esteso": "Valori di Ocratossina A oltre i limiti di legge",
+   "avvertenze": "Non consumare e restituire al punto vendita Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "28/07/2026 Marchio del prodotto: NOBERASCO SPA",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 28/07/2026 Marchio del prodotto: NOBERASCO SPA\nDenominazione di vendita:FICHI ESSICCATI BIOLOGICI\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è NOBERASCO SPA\ncommercializzato:\nLotto di produzione: L6075A\nMarchio di identificazione dello stabilimento/del produttore: NOBERASCO SPA\nNome del produttore: NOBERASCO SPA\nSede dello stabilimento: Loc. Paletta, 1 - 17043 Carcare (SV)\nData di scadenza o termine minimo di conservazione: 31-03-2027\nDescrizione peso/volume unità di vendita: 200g\nMotivo del richiamo:\nValori di Ocratossina A oltre i limiti di legge\nAvvertenze:\nNon consumare e restituire al punto vendita\nInserire immagine uno: Inserire immagine due:"
+  },
+  "denominazione": "FICHI ESSICCATI BIOLOGICI",
+  "marca": "NOBERASCO SPA",
+  "motivo": "Valori di Ocratossina A oltre i limiti di legge",
+  "categoria_rischio": "chimico",
+  "pdf_url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/fichi%20essicati.pdf?_u=da0d0752c8090a0f1f2d9097e53ece093d412c8a",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-13T21:17:43+00:00",
+  "ultimo_aggiornamento": "2026-11-13T21:17:43+00:00"
+ },
+ "conad-modello-20di-20richiamo-20trippa-20k155-20-20k175-20-20k176": {
+  "id": "conad-modello-20di-20richiamo-20trippa-20k155-20-20k175-20-20k176",
+  "tipo": "richiamo",
+  "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Modello%20di%20richiamo%20TRIPPA%20K155%20-%20K175%20-%20K176.pdf?_u=5374617af90eab963488c7be1e27354226357910",
+  "titolo": "Simmenthal",
+  "data_pubblicazione": "2026-10-02",
+  "fonte": "Conad",
+  "fonti": [
+   "conad"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Modello%20di%20richiamo%20TRIPPA%20K155%20-%20K175%20-%20K176.pdf?_u=5374617af90eab963488c7be1e27354226357910",
+    "data": "2026-10-02"
+   }
+  ],
+  "catene": [
+   "Conad"
+  ],
+  "dettagli": {
+   "denominazione_vendita": "Trippa preparata con sugo",
+   "operatore": "BOLTON FOOD S.P.A.",
+   "lotti": [
+    "K155",
+    "K175",
+    "K176"
+   ],
+   "marchio_identificazione": "IT 14 L UE",
+   "produttore": "BOLTON FOOD S.P.A.",
+   "sede_stabilimento": "Via Matteotti 2 Aprilia (LT)",
+   "scadenza": "30-06-2029",
+   "peso_volume": "420g",
+   "motivo_esteso": "Possibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta",
+   "avvertenze": "Si prega di non consumare il prodotto e di restituirlo al punto vendita di acquisto",
+   "campi_extra": {
+    "Data": "02/09/2026 Marchio del prodotto: SIMMENTHAL"
+   },
+   "testo": "RICHIAMO\nData: 02/09/2026 Marchio del prodotto: SIMMENTHAL\nDenominazione di vendita:Trippa preparata con sugo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BOLTON FOOD S.P.A.\ncommercializzato:\nLotto di produzione: K155 - K175 - K176\nMarchio di identificazione dello stabilimento/del produttore: IT 14 L UE\nNome del produttore: BOLTON FOOD S.P.A.\nSede dello stabilimento: Via Matteotti 2 Aprilia (LT)\nData di scadenza o termine minimo di conservazione: 30-06-2029\nDescrizione peso/volume unità di vendita: 420g\nMotivo del richiamo:\nPossibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta\nAvvertenze:\nSi prega di non consumare il prodotto e di restituirlo al punto vendita di acquisto"
+  },
+  "denominazione": "Trippa preparata con sugo",
+  "marca": "SIMMENTHAL",
+  "motivo": "Possibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta",
+  "categoria_rischio": "allergeni",
+  "pdf_url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Modello%20di%20richiamo%20TRIPPA%20K155%20-%20K175%20-%20K176.pdf?_u=5374617af90eab963488c7be1e27354226357910",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-13T21:17:48+00:00",
+  "ultimo_aggiornamento": "2026-11-13T21:17:48+00:00"
+ },
  "condiriso-e-condipasta-sottolio-250g": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/condiriso-e-condipasta-sottolio-250g/",
   "titolo": "CONDIRISO E CONDIPASTA SOTT'OLIO 250g",
@@ -661,6 +824,55 @@
   "dettagli": {},
   "prima_rilevazione": "2026-10-24T21:37:14+00:00",
   "ultimo_aggiornamento": "2026-10-24T21:37:14+00:00"
+ },
+ "esselunga-cartello-minestrone": {
+  "id": "esselunga-cartello-minestrone",
+  "tipo": "richiamo",
+  "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello_minestrone.pdf",
+  "titolo": "Minestrone - Zuppa Toscana 500 g",
+  "data_pubblicazione": "2026-10-07",
+  "fonte": "Esselunga",
+  "fonti": [
+   "esselunga"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "esselunga",
+    "nome": "Esselunga",
+    "tipo": "catena",
+    "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello_minestrone.pdf",
+    "data": null
+   }
+  ],
+  "catene": [
+   "Esselunga"
+  ],
+  "dettagli": {
+   "denominazione_vendita": "ZUPPA TOSCANA 500 G",
+   "operatore": "ORTONATURA S.A.C.A R.L.",
+   "lotti": [
+    "0510"
+   ],
+   "produttore": "ORTONATURA S.A.C.A R.L.",
+   "sede_stabilimento": "CASCINA GAITA SNC, SETTALA (MI)",
+   "scadenza": "05/10 - 11/10",
+   "peso_volume": "600 GRAMMI",
+   "motivo_esteso": "S i comunica il richiamo precauzionale del prodotto ZUPPA TOSCANA 500 G a causa di un errore di etichettatura.Per una svista in fase di confezionamento, il prodotto MINESTRONE 600 G è stato confezionato con l'etichetta della ZUPPA TOSCANA. Di conseguenza, la presenza dell'allergene SEDANO non risulta indicata sull'etichetta apposta.",
+   "avvertenze": "Si invitano i consumatori allergici o intolleranti al SEDANO a NON CONSUMARE il prodotto. Per qualsiasi chiarimento o necessità di seguito i nostri contatti: ORTONATURA S.A. C.A R.L. Tel.: +39 02 95307371 Fax :+39 02 95307382 Mail: qualita@ortonatura.org",
+   "campi_extra": {
+    "Data": "07/10/2026 Marchio del prodotto: ORTONATURA S.A.C.A R.L.",
+    "Tel.": "+39 02 95307371 Fax :+39 02 95307382 Mail: qualita@ortonatura.org"
+   },
+   "testo": "RICHIAMO\nData: 07/10/2026 Marchio del prodotto: ORTONATURA S.A.C.A R.L.\nDenominazione di vendita:ZUPPA TOSCANA 500 G\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è ORTONATURA S.A.C.A R.L.\ncommercializzato:\nLotto di produzione: 0510\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: ORTONATURA S.A.C.A R.L.\nSede dello stabilimento: CASCINA GAITA SNC, SETTALA (MI)\nData di scadenza o termine minimo di conservazione: 05/10 - 11/10\nDescrizione peso/volume unità di vendita: 600 GRAMMI\nMotivo del richiamo:\nS i comunica il richiamo precauzionale del prodotto ZUPPA TOSCANA 500 G a causa di un errore di etichettatura.Per una svista in\nfase di confezionamento, il prodotto MINESTRONE 600 G è stato confezionato con l'etichetta della ZUPPA TOSCANA. Di\nconseguenza, la presenza dell'allergene SEDANO non risulta indicata sull'etichetta apposta.\nAvvertenze:\nSi invitano i consumatori allergici o intolleranti al SEDANO a NON CONSUMARE il prodotto. Per qualsiasi chiarimento o\nnecessità di seguito i nostri contatti:\nORTONATURA S.A. C.A R.L.\nTel.: +39 02 95307371 Fax :+39 02 95307382 Mail: qualita@ortonatura.org"
+  },
+  "denominazione": "ZUPPA TOSCANA 500 G",
+  "marca": "ORTONATURA S.A.C.A R.L.",
+  "motivo": "S i comunica il richiamo precauzionale del prodotto ZUPPA TOSCANA 500 G a causa di un errore di etichettatura.Per una svista in fase di confezionamento, il p…",
+  "categoria_rischio": "allergeni",
+  "pdf_url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello_minestrone.pdf",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-13T21:16:27+00:00",
+  "ultimo_aggiornamento": "2026-11-13T21:16:27+00:00"
  },
  "fagiolini-sottolio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/fagiolini-sottolio/",
