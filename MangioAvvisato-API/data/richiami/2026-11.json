@@ -1486,6 +1486,48 @@
   "prima_rilevazione": "2026-11-09T22:01:40+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:40+00:00"
  },
+ "kg1-pistacchsgusc-spel-mc": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kg1-pistacchsgusc-spel-mc/",
+  "titolo": "KG1 PISTACCH.SGUSC SPEL MC",
+  "data_pubblicazione": "2026-11-13",
+  "marca": "Metro Chef",
+  "denominazione": "KG1 PISTACCH.SGUSC SPEL MC",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Pistacchi%20Metro%20Chef_1794574962.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di richiamo Pistacchi Metro Chef_1794574962.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20richiamo%20Pistacchi%20Metro%20Chef_1794574962.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "kg1-pistacchsgusc-spel-mc",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "KG1 PISTACCH.SGUSC SPEL MC",
+   "operatore": "MCC Trading International GmbH, 40235 Düsseldorf, Germany",
+   "lotti": [
+    "2628605033",
+    "2629905032"
+   ],
+   "produttore": "IMPORTACO CASA PONS SAU",
+   "sede_stabilimento": "Pol. Ind. Picassent, calle 2 nº 24, 46220. Picassent (Valencia), Spain",
+   "scadenza": "13-10-2027",
+   "peso_volume": "1 Kg",
+   "motivo_esteso": "Presenza di residui di Clothianidin",
+   "avvertenze": "Non consumare il prodotto, riportarlo presso il punto vendita di acquisto; ×²­»®·®» ·³³ ¹·²» «²±æ ×²­»®·®» ·³³ ¹·²» ¼«»æ",
+   "campi_extra": {
+    "Data": "09/11/2026 Marchio del prodotto: Metro Chef"
+   },
+   "testo": "RICHIAMO\nData: 09/11/2026 Marchio del prodotto: Metro Chef\nDenominazione di vendita:KG1 PISTACCH.SGUSC SPEL MC\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è MCC Trading International GmbH, 40235 Düsseldorf, Germany\ncommercializzato:\nLotto di produzione: 2628605033; 2629905032;\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: IMPORTACO CASA PONS SAU\nSede dello stabilimento: Pol. Ind. Picassent, calle 2 nº 24, 46220. Picassent (Valencia), Spain\nData di scadenza o termine minimo di conservazione: 13-10-2027\nDescrizione peso/volume unità di vendita: 1 Kg\nMotivo del richiamo:\nPresenza di residui di Clothianidin;\nAvvertenze:\nNon consumare il prodotto, riportarlo presso il punto vendita di acquisto;\n×²­»®·®» ·³³¿¹·²» «²±æ ×²­»®·®» ·³³¿¹·²» ¼«»æ"
+  },
+  "prima_rilevazione": "2026-11-13T16:04:57+00:00",
+  "ultimo_aggiornamento": "2026-11-13T16:04:57+00:00"
+ },
  "lorenzo-orlando-ortofrutticola-la-perla": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lorenzo-orlando-ortofrutticola-la-perla/",
   "titolo": "LORENZO ORLANDO - ORTOFRUTTICOLA LA PERLA",
