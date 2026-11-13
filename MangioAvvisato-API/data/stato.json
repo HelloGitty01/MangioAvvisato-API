@@ -1,11 +1,11 @@
 {
  "fonti": {
-  "ministero": "2026-11-13T21:16:10+00:00",
-  "esselunga": "2026-11-13T21:16:16+00:00",
-  "carrefour": "2026-11-13T21:17:24+00:00",
-  "conad": "2026-11-13T21:17:37+00:00"
+  "ministero": "2026-11-13T21:59:20+00:00",
+  "esselunga": "2026-11-13T21:59:23+00:00",
+  "carrefour": "2026-11-13T22:00:20+00:00",
+  "conad": "2026-11-13T22:00:29+00:00"
  },
- "ultimo_controllo_riuscito": "2026-11-13T21:16:10+00:00",
+ "ultimo_controllo_riuscito": "2026-11-13T21:59:20+00:00",
  "avvisi_iniziali": {
   "esselunga": [
    "esselunga-118072-richiamo-biffi",
@@ -179,7 +179,27 @@
    "esselunga-gran-fesa": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
    "esselunga-cartello-richiamo-salmone-norvegese-250g": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
    "esselunga-salame-felino-igp-a-meta-sottovuoto": "datato 2025-11-06, già coperto dall'archivio del Ministero",
-   "esselunga-miele-ambrosoli": "data non indicata, già presente all'attivazione del connettore"
+   "esselunga-miele-ambrosoli": "data non indicata, già presente all'attivazione del connettore",
+   "esselunga-rowenta-x-force-1460-e-x-force-1560": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-mod-01-01-20richiesta-20di-20dichiarazione": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-girau": "datato 2025-08-11, già coperto dall'archivio del Ministero",
+   "esselunga-granarolo-mozzarella": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-cartello-kioene": "datato 2025-06-30, già coperto dall'archivio del Ministero",
+   "esselunga-i-wai-food": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-wai-food": "datato 2025-05-02, già coperto dall'archivio del Ministero",
+   "esselunga-mukki": "datato 2025-04-22, già coperto dall'archivio del Ministero",
+   "esselunga-yovis": "data non indicata, già presente all'attivazione del connettore",
+   "esselunga-ostrica-sardegna": "datato 2025-03-11, già coperto dall'archivio del Ministero",
+   "esselunga-farina-gialla-di-storo-kg-1": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-cartello-richiamo-panettone-classico-senza-glutine": "datato 2024-11-14, già coperto dall'archivio del Ministero",
+   "esselunga-cartello-ceci": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-cartello-di-richiamo-acciughe": "datato 2024-10-04, già coperto dall'archivio del Ministero",
+   "esselunga-cartello-rucola-370099": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-cartello-uova-gesco": "datato 2024-08-23, già coperto dall'archivio del Ministero",
+   "esselunga-nuxe-richiamo-20prodotto": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-cheesburger": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-puccia": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-tramezzino-tofu": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)"
   },
   "carrefour": {
    "carrefour-141-cartello-richiamo-cornetto-vuoto-1782543048513": "pubblicato il 2026-06-27, già coperto dall'archivio del Ministero"
@@ -197,7 +217,10 @@
    "conad-locandina-20informativa-20per-20i-20consumatori-20-20cean-20cr-spalm-nocc-cacao-": "pubblicato il 2025-11-21, già coperto dall'archivio del Ministero",
    "conad-cartello-20richiamo-20risotto-20milanese-20knorr-20def": "pubblicato il 2025-11-12, già coperto dall'archivio del Ministero",
    "conad-comunicazione-20richiamo-20miele-20di-20fiori-20gr-20-20500": "pubblicato il 2025-10-30, già coperto dall'archivio del Ministero",
-   "conad-comunicazione-20richiamo-20miele-20di-20fiori-20gr-20250": "pubblicato il 2025-10-29, già coperto dall'archivio del Ministero"
+   "conad-comunicazione-20richiamo-20miele-20di-20fiori-20gr-20250": "pubblicato il 2025-10-29, già coperto dall'archivio del Ministero",
+   "conad-comunicazione-20richiamo-20miele-20di-20fiori-20gr-20-20100": "pubblicato il 2025-10-29, già coperto dall'archivio del Ministero",
+   "conad-cartello-20richiamo-20mais-20per-20pop-corn": "pubblicato il 2025-10-14, già coperto dall'archivio del Ministero",
+   "conad-locandina-20richiamo-20alici-20di-20sicilia": "pubblicato il 2025-10-07, già coperto dall'archivio del Ministero"
   }
  }
 }
