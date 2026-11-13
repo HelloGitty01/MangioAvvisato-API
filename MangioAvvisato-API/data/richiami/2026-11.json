@@ -1784,6 +1784,51 @@
   "prima_rilevazione": "2026-11-09T22:01:03+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:03+00:00"
  },
+ "perfetto-moka-aromatizzato-alla-nocciola-macinato-universale": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/perfetto-moka-aromatizzato-alla-nocciola-macinato-universale/",
+  "titolo": "Perfetto Moka aromatizzato alla nocciola, Macinato Universale aromatizzato alla nocciola",
+  "data_pubblicazione": "2026-11-13",
+  "marca": "Bialetti",
+  "denominazione": "Perfetto Moka aromatizzato alla nocciola, Macinato Universale aromatizzato alla nocciola",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Perfetto%20Moka%20e%20Macinato%20Universale%20nocciola_1794593365.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo richiamo Perfetto Moka e Macinato Universale nocciola_1794593365.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20richiamo%20Perfetto%20Moka%20e%20Macinato%20Universale%20nocciola_1794593365.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "perfetto-moka-aromatizzato-alla-nocciola-macinato-universale",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "Perfetto Moka e Macinato Universale aromatizzato alla nocciola",
+   "operatore": "Bialetti Industrie S.p.A. Perfetto Moka nocciola: LC5 BD160B",
+   "lotti": [
+    "Perfetto Moka nocciola: LC5 BD161B Macinato Universale nocciola: LC5 BD160B"
+   ],
+   "marchio_identificazione": "Bialetti",
+   "produttore": "Bialetti Industrie S.p.A.",
+   "sede_stabilimento": "Via Fogliano, 1 25030 Coccaglio",
+   "scadenza": "Perfetto Moka nocciola: LC5 BD160B 09/06/2027 Perfetto Moka nocciola: LC5 BD161B 10/06/2027 Macinato Universale nocciola: LC5 BD160B 09/06/2028",
+   "peso_volume": "250 g",
+   "motivo_esteso": "Livelli di ocratossina A sopra i limiti consentiti",
+   "avvertenze": "Si invitano i clienti a non consumare il prodotto e restituirlo al punto vendita Perfetto Moka nocciola: LC5 Macinato Universale BD160B 09/06/2027 nocciola: LC5 BD160B Perfetto Moka nocciola: LC5 09/06/2028 BD161B 10/06/2027",
+   "campi_extra": {
+    "Data": "13/11/2026 Marchio del prodotto: Bialetti",
+    "Perfetto Moka nocciola": "LC5 BD160B",
+    "Macinato Universale nocciola": "LC5 BD160B",
+    "nocciola": "LC5 BD160B"
+   },
+   "testo": "RICHIAMO\nData: 13/11/2026 Marchio del prodotto: Bialetti\nDenominazione di vendita: Perfetto Moka e Macinato Universale aromatizzato alla nocciola\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Bialetti Industrie S.p.A.\ncommercializzato:\nPerfetto Moka nocciola: LC5 BD160B\nLotto di produzione:\nPerfetto Moka nocciola: LC5 BD161B\nMacinato Universale nocciola: LC5 BD160B\nMarchio di identificazione dello stabilimento/del produttore: Bialetti\nNome del produttore: Bialetti Industrie S.p.A.\nSede dello stabilimento: Via Fogliano, 1 25030 Coccaglio\nData di scadenza o termine minimo di conservazione: Perfetto Moka nocciola: LC5 BD160B 09/06/2027\nPerfetto Moka nocciola: LC5 BD161B 10/06/2027\nMacinato Universale nocciola: LC5 BD160B 09/06/2028\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nLivelli di ocratossina A sopra i limiti consentiti\nAvvertenze:\nSi invitano i clienti a non consumare il prodotto e restituirlo al punto vendita\nPerfetto Moka nocciola: LC5\nMacinato Universale\nBD160B 09/06/2027\nnocciola: LC5 BD160B\nPerfetto Moka nocciola: LC5\n09/06/2028\nBD161B 10/06/2027"
+  },
+  "prima_rilevazione": "2026-11-13T20:40:41+00:00",
+  "ultimo_aggiornamento": "2026-11-13T20:40:41+00:00"
+ },
  "pesto-alla-genovese-pesto-alla-genovese-con-peperoncino-pesto-di": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-alla-genovese-pesto-alla-genovese-con-peperoncino-pesto-di/",
   "titolo": "Pesto alla genovese · Pesto alla genovese con peperoncino · Pesto di aglio orsino · Pesto di lamio..",
@@ -1825,6 +1870,33 @@
   },
   "prima_rilevazione": "2026-11-09T22:01:06+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:06+00:00"
+ },
+ "pistacchi-sgusciati-50-g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-sgusciati-50-g/",
+  "titolo": "Pistacchi sgusciati 50 g",
+  "data_pubblicazione": "2026-11-13",
+  "marca": "Ellegi Frutta secca",
+  "denominazione": "Pistacchi sgusciati 50 g",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20_%20Ellegi%20Frutta%20Secca%20sas%20_%20ROMA_1794593331.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello richiamo _ Ellegi Frutta Secca sas _ ROMA_1794593331.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello%20richiamo%20_%20Ellegi%20Frutta%20Secca%20sas%20_%20ROMA_1794593331.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pistacchi-sgusciati-50-g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": "12/11/2026 Ellegi Frutta Secca\nPistacchi Sgusciati 50g\nEllegi Frutta Secca sas\n9.25.1\nEllegi Frutta Secca sas\nVia dell’Imbrecciato, 262 Roma\n05/02/2027\nPistacchi sgusciati 50g.\nNotifica di superamento del limite di aflatossine B1\nNon consumare il prodotto e riportarlo al punto ventita di acquisto"
+  },
+  "prima_rilevazione": "2026-11-13T20:40:38+00:00",
+  "ultimo_aggiornamento": "2026-11-13T20:40:38+00:00"
  },
  "salsiccia-stagionata-calitrana-catenella": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-catenella/",
