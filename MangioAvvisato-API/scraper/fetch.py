@@ -46,6 +46,16 @@ CHALLENGE_MARKERS = (
 CHALLENGE_WAIT = 30
 
 
+def home_di(url: str) -> str:
+    """Pagina HTML da aprire per superare la verifica anti-bot del sito della risorsa."""
+    from urllib.parse import urlsplit
+
+    parti = urlsplit(url)
+    if parti.netloc.endswith("salute.gov.it"):
+        return config.BASE_URL + "/new/it/"
+    return f"{parti.scheme}://{parti.netloc}/"
+
+
 class BlockedError(RuntimeError):
     """Il sito ha rifiutato l'accesso anche passando dal browser."""
 
@@ -250,7 +260,7 @@ class Fetcher:
                         "Verifica anti-bot in corso su %s (tentativo %d, stato %s, inizio della risposta: %s)",
                         url, attempt, status, describe(body),
                     )
-                    self._page.goto(config.BASE_URL + "/new/it/", wait_until="domcontentloaded", timeout=60_000)
+                    self._page.goto(home_di(url), wait_until="domcontentloaded", timeout=60_000)
                     self._wait_challenge_cleared()
                     # Se la verifica ha testi nuovi non si riconosce la sua fine:
                     # si aspetta comunque che la pagina abbia finito di caricare.

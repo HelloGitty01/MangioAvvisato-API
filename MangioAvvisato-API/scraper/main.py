@@ -12,9 +12,10 @@ from __future__ import annotations
 import argparse
 import logging
 import sys
+import time
 from pathlib import Path
 
-from . import config
+from . import config, connettori, fusione
 from .discovery import discover, normalize_url
 from .fetch import BlockedError, Fetcher
 from .parse import extract_pdf_text, parse_detail, parse_pdf_text, parse_record
@@ -118,14 +119,47 @@ def main(argv: list[str] | None = None) -> int:
     return exit_code
 
 
+def esito_senza_dati(store: Store, adesso=None) -> int:
+    """Codice di uscita quando il portale non ha restituito l'elenco.
+
+    Un blocco isolato della protezione anti-bot è normale: se l'ultimo controllo
+    riuscito è recente, l'esecuzione termina con un avviso (nessuna email di errore).
+    Diventa un errore solo se i dati non si aggiornano da più di BLOCK_TOLERANCE_HOURS
+    ore, o se non c'è mai stato un controllo riuscito.
+    """
+    ore = store.ore_dall_ultimo_controllo(adesso)
+    if ore is not None and ore < config.BLOCK_TOLERANCE_HOURS:
+        log.warning(
+            "Portale temporaneamente non raggiungibile (ultimo controllo riuscito %.1f ore fa): riproverò alla prossima esecuzione",
+            ore,
+        )
+        return 0
+    if ore is None:
+        log.error("Nessun richiamo trovato e nessun controllo riuscito registrato: il sito potrebbe aver cambiato struttura o bloccato l'accesso")
+    else:
+        log.error("Nessun richiamo trovato da %.1f ore: il sito potrebbe aver cambiato struttura o bloccato l'accesso", ore)
+    return 3
+
+
 def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
     exit_code = 0
     try:
         urls, records = ([normalize_url(u) for u in args.url], {}) if args.url else discover(fetcher, backfill=args.backfill)
     except BlockedError as exc:
-        log.error("%s", exc)
+        log.warning("%s", exc)
         urls, records = [], {}
-        exit_code = 2
+    if not urls and not args.url:
+        # Spesso la verifica anti-bot si supera con una sessione nuova, dopo una breve attesa.
+        log.info("Portale non raggiungibile: nuovo tentativo tra %d secondi con un browser nuovo", config.BLOCK_RETRY_WAIT)
+        fetcher.reset_browser()
+        time.sleep(config.BLOCK_RETRY_WAIT)
+        try:
+            urls, records = discover(fetcher, backfill=args.backfill)
+        except BlockedError as exc:
+            log.warning("%s", exc)
+            urls, records = [], {}
+    if urls and not args.url:
+        store.segna_controllo_riuscito()
 
     todo = [u for u in urls if args.url or not store.has(recall_id(u))]
     outdated = [] if args.url else [u for u in store.outdated(config.PARSER_VERSION) if u not in todo]
@@ -134,9 +168,8 @@ def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
         len(urls), len(todo), len(outdated),
     )
     todo += outdated
-    if not urls and exit_code == 0:
-        log.error("Nessun richiamo trovato: il sito potrebbe aver cambiato struttura o bloccato l'accesso")
-        exit_code = 3
+    if not urls:
+        exit_code = esito_senza_dati(store)
 
     consecutive_failures = 0
     for n, url in enumerate(todo[: args.max_new], start=1):
@@ -147,9 +180,9 @@ def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
             # Un richiamo irraggiungibile si salta; tre di fila indicano un blocco vero.
             consecutive_failures += 1
             if consecutive_failures >= 3:
-                log.error("%s", exc)
-                log.error("Tre richiami di fila non raggiungibili: interrompo l'esecuzione")
-                exit_code = 2
+                # L'elenco è stato letto: i richiami mancanti si elaborano alla prossima esecuzione.
+                log.warning("%s", exc)
+                log.warning("Tre richiami di fila non raggiungibili: interrompo, riprenderò alla prossima esecuzione")
                 break
             log.warning("Salto %s: %s", url, exc)
             continue
@@ -157,7 +190,16 @@ def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
             log.warning("Errore su %s: %s", url, exc)
             continue
         if not store.has(item["id"]):
-            new_ids.append(item["id"])
+            # Stesso richiamo già segnalato da una catena? Si aggancia a quel record:
+            # stesso id (nessuna notifica doppia), dati ufficiali del Ministero.
+            corrispondente = fusione.trova_corrispondente(item, store.items, solo_fonte="catena")
+            if corrispondente is not None:
+                log.info("%s coincide con %s, già segnalato da %s", item["id"], corrispondente["id"], ", ".join(corrispondente.get("catene") or []))
+                item = fusione.integra_ministero(corrispondente, item)
+            else:
+                new_ids.append(item["id"])
+        else:
+            item["id"] = store.id_effettivo(item["id"])
         store.upsert(item)
         log.info("OK %s - %s (%s)", item["id"], item.get("denominazione"), item.get("tipo"))
         store.save()  # dopo ogni richiamo: un'interruzione non fa perdere il lavoro fatto
@@ -165,7 +207,39 @@ def run(fetcher: Fetcher, store: Store, args, new_ids: list[str]) -> int:
     if remaining:
         log.info("Restano %d richiami da elaborare nelle prossime esecuzioni", remaining)
 
+    if not args.url:
+        esegui_connettori(fetcher, store, new_ids)
     return exit_code
+
+
+def esegui_connettori(fetcher: Fetcher, store: Store, new_ids: list[str]) -> None:
+    """Avvisi delle catene di supermercati. Ogni connettore è indipendente:
+    un errore su una catena non ferma le altre né il Ministero."""
+    for connettore in connettori.attivi():
+        try:
+            avvisi = connettore.scopri(fetcher)
+        except Exception as exc:  # noqa: BLE001
+            log.warning("Connettore %s: avvisi non disponibili (%s)", connettore.nome, exc)
+            continue
+        store.segna_controllo_riuscito(fonte=connettore.id)
+        nuovi = [a for a in avvisi if not store.has(connettore.id_avviso(a))]
+        log.info("Connettore %s: %d avvisi, %d nuovi", connettore.nome, len(avvisi), len(nuovi))
+        for avviso in nuovi[: connettore.max_per_esecuzione]:
+            try:
+                record = connettore.elabora(fetcher, avviso)
+            except Exception as exc:  # noqa: BLE001
+                log.warning("Connettore %s: avviso %s non elaborato (%s)", connettore.nome, avviso.url, exc)
+                continue
+            esistente = fusione.trova_corrispondente(record, store.items)
+            if esistente is not None:
+                log.info("%s: aggiunto come fonte a %s", record["id"], esistente["id"])
+                store.upsert(fusione.integra_catena(esistente, record))
+            else:
+                record["versione_parser"] = config.PARSER_VERSION
+                store.upsert(record)
+                new_ids.append(record["id"])
+                log.info("OK %s - %s (%s)", record["id"], record.get("denominazione") or record.get("titolo"), connettore.nome)
+            store.save()
 
 
 if __name__ == "__main__":

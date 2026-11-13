@@ -58,3 +58,7 @@ PARSER_VERSION = 5
 LATEST_COUNT = 50
 
 SCHEMA_VERSION = 1
+
+# Blocchi temporanei della protezione anti-bot
+BLOCK_RETRY_WAIT = 120          # secondi di attesa prima del secondo tentativo, con un browser nuovo
+BLOCK_TOLERANCE_HOURS = 12      # un blocco è un errore solo se i dati non si aggiornano da più di queste ore

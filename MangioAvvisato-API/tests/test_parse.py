@@ -330,3 +330,52 @@ def test_real_content_files_are_valid():
     voci = json.loads((root / "approfondimenti.json").read_text(encoding="utf-8"))["voci"]
     assert all(v["url"].startswith("https://") and v["titolo"] and v["testo"] for v in voci)
     assert isinstance(json.loads((root / "news.json").read_text(encoding="utf-8")), list)
+
+
+# --- blocchi temporanei della protezione anti-bot ---------------------------------
+
+def test_tolleranza_ai_blocchi(tmp_path):
+    from datetime import datetime, timedelta, timezone
+    from scraper.main import esito_senza_dati
+    store = Store(tmp_path / "data")
+    # nessun controllo riuscito registrato: è un errore
+    assert esito_senza_dati(store) == 3
+    adesso = datetime(2026, 11, 9, 16, 0, tzinfo=timezone.utc)
+    store.segna_controllo_riuscito((adesso - timedelta(hours=3)).isoformat())
+    assert esito_senza_dati(store, adesso) == 0          # blocco isolato: solo un avviso
+    store.segna_controllo_riuscito((adesso - timedelta(hours=13)).isoformat())
+    assert esito_senza_dati(store, adesso) == 3          # dati fermi da troppo: errore
+
+
+def test_secondo_tentativo_dopo_un_blocco(tmp_path, monkeypatch):
+    import types
+    import scraper.main as m
+    from scraper.fetch import BlockedError
+    chiamate = []
+    def finta_scoperta(fetcher, backfill=False):
+        chiamate.append(1)
+        if len(chiamate) == 1:
+            raise BlockedError("verifica anti-bot")
+        return ["https://www.salute.gov.it/new/it/x/richiamo-uno/"], {}
+    monkeypatch.setattr(m, "discover", finta_scoperta)
+    monkeypatch.setattr(m.config, "BLOCK_RETRY_WAIT", 0)
+    monkeypatch.setattr(m, "process", lambda f, url, rec: {"id": "richiamo-uno", "url": url, "data_pubblicazione": "2026-11-09"})
+    class FintoFetcher:
+        def reset_browser(self): chiamate.append("reset")
+    store = Store(tmp_path / "data")
+    args = types.SimpleNamespace(url=None, backfill=False, max_new=40)
+    nuovi = []
+    assert m.run(FintoFetcher(), store, args, nuovi) == 0
+    assert chiamate == [1, "reset", 1] and nuovi == ["richiamo-uno"]
+    assert store.ore_dall_ultimo_controllo() is not None and store.ore_dall_ultimo_controllo() < 0.1
+
+
+def test_meta_indica_l_ultimo_controllo_riuscito(tmp_path):
+    store = Store(tmp_path / "data")
+    store.upsert({"id": "a", "url": "u/a/", "data_pubblicazione": "2026-11-01"})
+    store.save()
+    store.segna_controllo_riuscito("2026-11-09T13:20:00+00:00")
+    build_public(store, tmp_path / "public")
+    meta = json.loads((tmp_path / "public" / "v1" / "meta.json").read_text(encoding="utf-8"))
+    assert meta["generato_il"] == "2026-11-09T13:20:00+00:00"
+    assert meta["pubblicato_il"] >= "2026-11-09"
