@@ -688,6 +688,68 @@
   "prima_rilevazione": "2026-10-24T22:01:33+00:00",
   "ultimo_aggiornamento": "2026-10-24T22:01:33+00:00"
  },
+ "esselunga-trippa-simmenthal": {
+  "id": "esselunga-trippa-simmenthal",
+  "tipo": "richiamo",
+  "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/trippa-simmenthal.pdf",
+  "titolo": "Trippa Simmenthal - preparata con sugo, 420 g",
+  "data_pubblicazione": "2026-09-02",
+  "fonte": "Esselunga",
+  "fonti": [
+   "esselunga",
+   "conad"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "esselunga",
+    "nome": "Esselunga",
+    "tipo": "catena",
+    "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/trippa-simmenthal.pdf",
+    "data": null
+   },
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Modello%20di%20richiamo%20TRIPPA%20K104%20-%20K105.pdf?_u=fdcd439ee13d41e165224e761520751bc2ad3e2c",
+    "data": "2026-10-02"
+   }
+  ],
+  "catene": [
+   "Esselunga",
+   "Conad"
+  ],
+  "dettagli": {
+   "denominazione_vendita": "Trippa preparata con sugo",
+   "operatore": "BOLTON FOOD S.P.A.",
+   "lotti": [
+    "K104",
+    "K105"
+   ],
+   "marchio_identificazione": "IT 14 L UE",
+   "produttore": "BOLTON FOOD S.P.A.",
+   "sede_stabilimento": "Via Matteotti 2 Aprilia (LT)",
+   "scadenza": "30-04-2029",
+   "peso_volume": "420g",
+   "motivo_esteso": "Possibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta",
+   "avvertenze": "Si prega di non consumare il prodotto e di restituirlo al punto vendita di acquisto",
+   "campi_extra": {
+    "Data": "02/09/2026 Marchio del prodotto: SIMMENTHAL"
+   },
+   "testo": "RICHIAMO\nData: 02/09/2026 Marchio del prodotto: SIMMENTHAL\nDenominazione di vendita:Trippa preparata con sugo\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è BOLTON FOOD S.P.A.\ncommercializzato:\nLotto di produzione: K104 - K105\nMarchio di identificazione dello stabilimento/del produttore: IT 14 L UE\nNome del produttore: BOLTON FOOD S.P.A.\nSede dello stabilimento: Via Matteotti 2 Aprilia (LT)\nData di scadenza o termine minimo di conservazione: 30-04-2029\nDescrizione peso/volume unità di vendita: 420g\nMotivo del richiamo:\nPossibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta\nAvvertenze:\nSi prega di non consumare il prodotto e di restituirlo al punto vendita di acquisto"
+  },
+  "denominazione": "Trippa preparata con sugo",
+  "marca": "SIMMENTHAL",
+  "motivo": "Possibile cross contaminazione da allergeni soia e senape non dichiarata sull’etichetta",
+  "categoria_rischio": "allergeni",
+  "pdf_url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/trippa-simmenthal.pdf",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-13T21:16:35+00:00",
+  "ultimo_aggiornamento": "2026-11-13T21:17:51+00:00",
+  "id_catene": [
+   "conad-modello-20di-20richiamo-20trippa-20k104-20-20k105"
+  ]
+ },
  "filetti-di-alici-olio": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/filetti-di-alici-olio/",
   "titolo": "FILETTI DI ALICI IN OLIO",

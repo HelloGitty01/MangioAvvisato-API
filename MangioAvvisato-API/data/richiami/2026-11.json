@@ -601,6 +601,49 @@
   "prima_rilevazione": "2026-11-09T22:00:32+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:00:32+00:00"
  },
+ "conad-locandina-20richiamo-20birra-20castello-200-33x3": {
+  "id": "conad-locandina-20richiamo-20birra-20castello-200-33x3",
+  "tipo": "richiamo",
+  "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/LOCANDINA%20RICHIAMO%20BIRRA%20CASTELLO%200,33X3.pdf?_u=727e5cf0fa3cc988642e4d15dfc7a5388a532c06",
+  "titolo": "Birra Castello lager - cluster 0.33X3",
+  "data_pubblicazione": "2026-11-06",
+  "fonte": "Conad",
+  "fonti": [
+   "conad"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/LOCANDINA%20RICHIAMO%20BIRRA%20CASTELLO%200,33X3.pdf?_u=727e5cf0fa3cc988642e4d15dfc7a5388a532c06",
+    "data": "2026-11-06"
+   }
+  ],
+  "catene": [
+   "Conad"
+  ],
+  "dettagli": {
+   "lotti": [
+    "PL2116"
+   ],
+   "scadenza": "/ TMC [11/2027] FORMATO / PESO UNITÀ DI VENDITA [CLUSTER 0,33x3]",
+   "motivo_esteso": "Problema fisico di confezionamento.",
+   "avvertenze": "AI CONSUMATORI NON CONSUMARE IL PRODOTTO SOPRA IDENTIFICATO Chi fosse in possesso delle confezioni interessate è invitato a riportarle al punto vendita di acquisto. Per informazioni: [servizioconsumatori@birracastello.it] Il richiamo riguarda i prodotti identificati dai dati riportati nel presente avviso. Avviso al consumatore - da esporre in posizione ben visibile nei punti vendita interessati",
+   "campi_extra": {
+    "AVVISO AI CONSUMATORI Data": "[02/11/2026]",
+    "Per informazioni": "[servizioconsumatori@birracastello.it]"
+   },
+   "testo": "AVVISO AI CONSUMATORI Data: [02/11/2026]\nRICHIAMO DI PRODOTTO ALIMENTARE\nSi informa la clientela che, a tutela della sicurezza dei consumatori, è stato disposto il richiamo del prodotto\ndi seguito identificato.\nBIRRA\nMARCHIO/ DENOMINAZIONE DI VENDITA\nFOTOGRAFIA DEL PRODOTTO\n[Birra Castello lager – cluster 0,33x3 ]\nLOTTO DI PRODUZIONE INTERESSATO\n[PL2116]\nDATA DI SCADENZA / TMC\n[11/2027]\nFORMATO / PESO UNITÀ DI VENDITA\n[CLUSTER 0,33x3]\nMOTIVO DEL RICHIAMO\nProblema fisico di confezionamento.\nAVVERTENZE AI CONSUMATORI\nNON CONSUMARE IL PRODOTTO SOPRA IDENTIFICATO\nChi fosse in possesso delle confezioni interessate è invitato a riportarle al punto vendita di acquisto.\nPer informazioni: [servizioconsumatori@birracastello.it]\nIl richiamo riguarda i prodotti identificati dai dati riportati nel presente avviso.\nAvviso al consumatore - da esporre in posizione ben visibile nei punti vendita interessati"
+  },
+  "denominazione": "Birra Castello lager - cluster 0.33X3",
+  "motivo": "Problema fisico di confezionamento.",
+  "categoria_rischio": "fisico",
+  "pdf_url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/LOCANDINA%20RICHIAMO%20BIRRA%20CASTELLO%200,33X3.pdf?_u=727e5cf0fa3cc988642e4d15dfc7a5388a532c06",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-13T21:17:39+00:00",
+  "ultimo_aggiornamento": "2026-11-13T21:17:39+00:00"
+ },
  "confettura-100-frutta-lamponi-confettura-extra-di-frutti-di-bosco": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-100-frutta-lamponi-confettura-extra-di-frutti-di-bosco/",
   "titolo": "Confettura 100% frutta Lamponi · Confettura extra di frutti di bosco · Confettura extra di lamponi ·",
