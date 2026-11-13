@@ -39,7 +39,7 @@ def _stesso_sito(url: str, sito: str) -> bool:
 
 def collegamenti(html: str, base: str, sito: str) -> tuple[list[dict], list[str]]:
     """Collegamenti che sembrano portare ai richiami, e PDF presenti nella pagina."""
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
     pagine, pdf = [], []
     for a in soup.find_all("a", href=True):
         url = urljoin(base, a["href"]).split("#")[0]
@@ -84,7 +84,7 @@ def esplora(fetcher: Fetcher, connettore, cartella: Path) -> dict:
                 "stato": risposta.status_code,
                 "dimensione_kb": len(html.encode("utf-8")) // 1024,
                 "verifica_antibot": looks_like_challenge(html),
-                "titolo": (BeautifulSoup(html, "lxml").title.get_text(strip=True) if BeautifulSoup(html, "lxml").title else ""),
+                "titolo": (BeautifulSoup(html, "html.parser").title.get_text(strip=True) if BeautifulSoup(html, "html.parser").title else ""),
             })
             pagine, pdf = collegamenti(html, url, connettore.sito)
             voce["collegamenti_richiami"] = pagine[:30]
