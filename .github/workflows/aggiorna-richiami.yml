@@ -43,7 +43,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main   # sempre l'ultima versione, anche se l'esecuzione è rimasta in coda
-          
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
