@@ -14,5 +14,5 @@ class Lidl(Connettore):
     id = "lidl"
     nome = "Lidl Italia"
     sito = "https://www.lidl.it/"
-    pagine_note = ()
+    pagine_note = ("https://www.lidl.it/c/informazioni/s10018371", "https://www.lidl.it/c/assistenza-clienti-e-garanzie/s10018355")
     attivo = False

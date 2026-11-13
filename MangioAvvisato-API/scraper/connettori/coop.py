@@ -14,5 +14,5 @@ class Coop(Connettore):
     id = "coop"
     nome = "Coop"
     sito = "https://www.e-coop.it/"
-    pagine_note = ()
+    pagine_note = ("https://www.coop.it/", "https://www.e-coop.it/web/guest/richiami")
     attivo = False

@@ -10,6 +10,7 @@ Uso:
 from __future__ import annotations
 
 import argparse
+from datetime import date
 import logging
 import sys
 import time
@@ -20,6 +21,7 @@ from .discovery import discover, normalize_url
 from .fetch import BlockedError, Fetcher
 from .parse import extract_pdf_text, parse_detail, parse_pdf_text, parse_record
 from .store import Store, build_public, recall_id
+from .connettori.comuni import AvvisoScartato, troppo_vecchio
 
 log = logging.getLogger("mangioavvisato")
 
@@ -222,12 +224,35 @@ def esegui_connettori(fetcher: Fetcher, store: Store, new_ids: list[str]) -> Non
             log.warning("Connettore %s: avvisi non disponibili (%s)", connettore.nome, exc)
             continue
         store.segna_controllo_riuscito(fonte=connettore.id)
-        nuovi = [a for a in avvisi if not store.has(connettore.id_avviso(a))]
-        log.info("Connettore %s: %d avvisi, %d nuovi", connettore.nome, len(avvisi), len(nuovi))
+        iniziali = store.avvisi_iniziali(connettore.id)
+        if iniziali is None:   # prima esecuzione: si registra ciò che c'era già
+            iniziali = {connettore.id_avviso(a) for a in avvisi}
+            store.segna_avvisi_iniziali(connettore.id, sorted(iniziali))
+        nuovi = [a for a in avvisi
+                 if not store.has(connettore.id_avviso(a)) and not store.scartato(connettore.id, connettore.id_avviso(a))]
+        log.info("Connettore %s: %d avvisi, %d da elaborare", connettore.nome, len(avvisi), len(nuovi))
         for avviso in nuovi[: connettore.max_per_esecuzione]:
+            rid = connettore.id_avviso(avviso)
             try:
+                if troppo_vecchio(avviso.data):
+                    raise AvvisoScartato(f"pubblicato il {avviso.data}, già coperto dall'archivio del Ministero")
                 record = connettore.elabora(fetcher, avviso)
+                if troppo_vecchio(record.get("data_pubblicazione")):
+                    raise AvvisoScartato(f"datato {record.get('data_pubblicazione')}, già coperto dall'archivio del Ministero")
+                if not record.get("data_pubblicazione"):
+                    # La catena non indica la data: un avviso comparso dopo l'attivazione
+                    # è nuovo (data di oggi); uno già presente all'attivazione è vecchio.
+                    if rid in iniziali:
+                        raise AvvisoScartato("data non indicata, già presente all'attivazione del connettore")
+                    record["data_pubblicazione"] = date.today().isoformat()
+                    record["data_stimata"] = True
+            except AvvisoScartato as exc:
+                log.info("Connettore %s: avviso %s scartato (%s)", connettore.nome, rid, exc)
+                store.segna_scartato(connettore.id, rid, str(exc))
+                continue
             except Exception as exc:  # noqa: BLE001
+                if " 404 " in f" {exc} ":
+                    store.segna_scartato(connettore.id, rid, "documento non più disponibile (404)")
                 log.warning("Connettore %s: avviso %s non elaborato (%s)", connettore.nome, avviso.url, exc)
                 continue
             esistente = fusione.trova_corrispondente(record, store.items)

@@ -35,7 +35,8 @@ class FintaCatena(Connettore):
 def test_registro_connettori():
     ids = [c.id for c in TUTTI]
     assert ids == ["coop", "esselunga", "carrefour", "lidl", "conad"]
-    assert not any(c.attivo for c in TUTTI)          # in preparazione fino alla ricognizione
+    attivi = {c.id for c in TUTTI if c.attivo}
+    assert attivi == {"esselunga", "carrefour", "conad"}     # Coop e Lidl in attesa della seconda ricognizione
 
 
 def test_id_avviso_stabile():
@@ -133,7 +134,7 @@ def test_pubblicazione_fonti(tmp_path):
     fonti = json.loads((v1 / "fonti.json").read_text(encoding="utf-8"))
     assert fonti[0]["id"] == "ministero" and fonti[0]["ultimo_controllo"] == "2026-11-09T10:00:00+00:00"
     assert [f["id"] for f in fonti[1:]] == ["coop", "esselunga", "carrefour", "lidl", "conad"]
-    assert all(f["attivo"] is False for f in fonti[1:])
+    assert {f["id"]: f["attivo"] for f in fonti[1:]} == {"coop": False, "esselunga": True, "carrefour": True, "lidl": False, "conad": True}
 
 
 def test_ricognizione_trova_i_collegamenti():
