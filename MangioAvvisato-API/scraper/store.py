@@ -94,6 +94,27 @@ class Store:
         self._file_stato.parent.mkdir(parents=True, exist_ok=True)
         self._file_stato.write_text(json.dumps(stato, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
+    def scartato(self, fonte: str, rid: str) -> bool:
+        return rid in self.stato().get("scartati", {}).get(fonte, {})
+
+    def segna_scartato(self, fonte: str, rid: str, motivo: str) -> None:
+        """Avviso di una catena da non importare: si ricorda, così non si riscarica."""
+        stato = self.stato()
+        stato.setdefault("scartati", {}).setdefault(fonte, {})[rid] = motivo
+        self._file_stato.parent.mkdir(parents=True, exist_ok=True)
+        self._file_stato.write_text(json.dumps(stato, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+    def avvisi_iniziali(self, fonte: str) -> set[str] | None:
+        """Avvisi presenti sul sito quando il connettore è stato attivato (None = mai eseguito)."""
+        iniziali = self.stato().get("avvisi_iniziali", {}).get(fonte)
+        return None if iniziali is None else set(iniziali)
+
+    def segna_avvisi_iniziali(self, fonte: str, ids: list[str]) -> None:
+        stato = self.stato()
+        stato.setdefault("avvisi_iniziali", {})[fonte] = sorted(ids)
+        self._file_stato.parent.mkdir(parents=True, exist_ok=True)
+        self._file_stato.write_text(json.dumps(stato, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
     def ore_dall_ultimo_controllo(self, adesso: datetime | None = None) -> float | None:
         valore = self.stato().get("ultimo_controllo_riuscito")
         if not valore:
