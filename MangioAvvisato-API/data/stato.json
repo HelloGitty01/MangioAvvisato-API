@@ -1,11 +1,11 @@
 {
  "fonti": {
-  "ministero": "2026-11-14T09:59:39+00:00",
-  "esselunga": "2026-11-14T09:59:43+00:00",
-  "carrefour": "2026-11-14T10:00:41+00:00",
-  "conad": "2026-11-14T10:00:53+00:00"
+  "ministero": "2026-11-14T13:10:31+00:00",
+  "esselunga": "2026-11-14T13:10:39+00:00",
+  "carrefour": "2026-11-14T13:10:53+00:00",
+  "conad": "2026-11-14T13:11:05+00:00"
  },
- "ultimo_controllo_riuscito": "2026-11-14T09:59:39+00:00",
+ "ultimo_controllo_riuscito": "2026-11-14T13:10:31+00:00",
  "avvisi_iniziali": {
   "esselunga": [
    "esselunga-118072-richiamo-biffi",
@@ -279,7 +279,10 @@
    "esselunga-salviette-trudi": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
    "esselunga-coca-cola-20cl": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
    "esselunga-delizie-calabria": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
-   "esselunga-mais-cerreto": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)"
+   "esselunga-mais-cerreto": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-findus": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-stabinger": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-fila": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)"
   },
   "carrefour": {
    "carrefour-141-cartello-richiamo-cornetto-vuoto-1782543048513": "pubblicato il 2026-06-27, già coperto dall'archivio del Ministero"
