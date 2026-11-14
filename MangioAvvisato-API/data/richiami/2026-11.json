@@ -1941,6 +1941,33 @@
   "prima_rilevazione": "2026-11-13T20:40:38+00:00",
   "ultimo_aggiornamento": "2026-11-13T20:40:38+00:00"
  },
+ "pomodoro-datterino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino/",
+  "titolo": "POMODORO DATTERINO",
+  "data_pubblicazione": "2026-11-14",
+  "marca": "L'ORTOFRUTTICOLA F S.R.L. - 93015 - NISCEMI (CL)",
+  "denominazione": "POMODORO DATTERINO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Pomodorino_1794652742.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_richiamo_Pomodorino_1794652742.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_richiamo_Pomodorino_1794652742.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pomodoro-datterino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-14T13:10:34+00:00",
+  "ultimo_aggiornamento": "2026-11-14T13:10:34+00:00"
+ },
  "salsiccia-stagionata-calitrana-catenella": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-catenella/",
   "titolo": "SALSICCIA STAGIONATA CALITRANA A CATENELLA",
