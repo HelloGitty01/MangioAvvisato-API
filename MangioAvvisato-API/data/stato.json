@@ -1,11 +1,11 @@
 {
  "fonti": {
-  "ministero": "2026-11-13T22:04:16+00:00",
-  "esselunga": "2026-11-13T22:04:21+00:00",
-  "carrefour": "2026-11-13T22:05:21+00:00",
-  "conad": "2026-11-13T22:05:34+00:00"
+  "ministero": "2026-11-14T01:22:05+00:00",
+  "esselunga": "2026-11-14T01:22:08+00:00",
+  "carrefour": "2026-11-14T01:22:59+00:00",
+  "conad": "2026-11-14T01:23:07+00:00"
  },
- "ultimo_controllo_riuscito": "2026-11-13T22:04:16+00:00",
+ "ultimo_controllo_riuscito": "2026-11-14T01:22:05+00:00",
  "avvisi_iniziali": {
   "esselunga": [
    "esselunga-118072-richiamo-biffi",
@@ -219,7 +219,27 @@
    "esselunga-formaggio-longo": "datato 2023-04-13, già coperto dall'archivio del Ministero",
    "esselunga-praline-cioccolato-lindt": "datato 2023-02-17, già coperto dall'archivio del Ministero",
    "esselunga-pesto-basilico-genovese": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
-   "esselunga-riso-smart": "datato 2023-01-03, già coperto dall'archivio del Ministero"
+   "esselunga-riso-smart": "datato 2023-01-03, già coperto dall'archivio del Ministero",
+   "esselunga-strutto": "datato 2022-12-27, già coperto dall'archivio del Ministero",
+   "esselunga-humana": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-parmigiano-reggiano": "datato 2022-11-16, già coperto dall'archivio del Ministero",
+   "esselunga-wurstel": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-bevanda-di-soia": "datato 2022-08-26, già coperto dall'archivio del Ministero",
+   "esselunga-bevanda-di-riso": "datato 2022-08-26, già coperto dall'archivio del Ministero",
+   "esselunga-haagen-dazs": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-ossolano-dop": "datato 2022-08-09, già coperto dall'archivio del Ministero",
+   "esselunga-crema-cioccolato-paneangeli": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-semi-chia-pedon": "data non indicata, già presente all'attivazione del connettore",
+   "esselunga-vichy-laboratoires": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-peluche-coniglio-kinder-ferrero": "datato 2022-04-21, già coperto dall'archivio del Ministero",
+   "esselunga-richiamo-ferrero": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-polase-difesa-inverno-gsk": "data non indicata, già presente all'attivazione del connettore",
+   "esselunga-gnocchetti-sorrentina-findus": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-acutil-donna-compresse": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-taleggio-dop-mauri": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-salamino-rocchino": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-tacos-esselunga": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-burritos-esselunga": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)"
   },
   "carrefour": {
    "carrefour-141-cartello-richiamo-cornetto-vuoto-1782543048513": "pubblicato il 2026-06-27, già coperto dall'archivio del Ministero"
