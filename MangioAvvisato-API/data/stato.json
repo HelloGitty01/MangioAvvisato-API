@@ -1,11 +1,11 @@
 {
  "fonti": {
-  "ministero": "2026-11-14T04:08:05+00:00",
-  "esselunga": "2026-11-14T01:22:08+00:00",
-  "carrefour": "2026-11-14T04:11:29+00:00",
-  "conad": "2026-11-14T04:11:42+00:00"
+  "ministero": "2026-11-14T07:22:04+00:00",
+  "esselunga": "2026-11-14T07:22:07+00:00",
+  "carrefour": "2026-11-14T07:22:59+00:00",
+  "conad": "2026-11-14T07:23:07+00:00"
  },
- "ultimo_controllo_riuscito": "2026-11-14T04:08:05+00:00",
+ "ultimo_controllo_riuscito": "2026-11-14T07:22:04+00:00",
  "avvisi_iniziali": {
   "esselunga": [
    "esselunga-118072-richiamo-biffi",
@@ -239,7 +239,27 @@
    "esselunga-taleggio-dop-mauri": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
    "esselunga-salamino-rocchino": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
    "esselunga-tacos-esselunga": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
-   "esselunga-burritos-esselunga": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)"
+   "esselunga-burritos-esselunga": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-amatriciana-esselunga": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-reflumed-named": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-polase-difesa-inverno": "datato 2021-09-14, già coperto dall'archivio del Ministero",
+   "esselunga-robiola-di-monte": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)",
+   "esselunga-nuii-vaniglia-mandorle": "datato 2021-08-25, già coperto dall'archivio del Ministero",
+   "esselunga-nuii-nocciole-caffe": "datato 2021-08-25, già coperto dall'archivio del Ministero",
+   "esselunga-nuii-mini-stecchi": "datato 2021-08-25, già coperto dall'archivio del Ministero",
+   "esselunga-pinta-milka": "datato 2021-08-25, già coperto dall'archivio del Ministero",
+   "esselunga-nuii-caram-sal-macadam": "datato 2021-08-25, già coperto dall'archivio del Ministero",
+   "esselunga-milka-mini-coni": "datato 2021-08-25, già coperto dall'archivio del Ministero",
+   "esselunga-yogurt-greco-lampone": "datato 2021-08-13, già coperto dall'archivio del Ministero",
+   "esselunga-yogurt-greco-frutti-20di-20bosco": "datato 2021-08-13, già coperto dall'archivio del Ministero",
+   "esselunga-yogurt-greco-mela-cannella": "datato 2021-08-13, già coperto dall'archivio del Ministero",
+   "esselunga-alette-di-pollo-findus": "datato 2021-08-04, già coperto dall'archivio del Ministero",
+   "esselunga-yogurt-magro-fragola-esselunga": "data non indicata, già presente all'attivazione del connettore",
+   "esselunga-yogurt-magro-esselunga": "data non indicata, già presente all'attivazione del connettore",
+   "esselunga-orasi-noce": "datato 2021-07-26, già coperto dall'archivio del Ministero",
+   "esselunga-arkocapsule-bio-20curcuma": "datato 2021-06-11, già coperto dall'archivio del Ministero",
+   "esselunga-pesto-genovese-novella": "datato 2021-06-15, già coperto dall'archivio del Ministero",
+   "esselunga-bausch-lomb": "PDF senza modello di richiamo alimentare (immagine o prodotto non alimentare)"
   },
   "carrefour": {
    "carrefour-141-cartello-richiamo-cornetto-vuoto-1782543048513": "pubblicato il 2026-06-27, già coperto dall'archivio del Ministero"
