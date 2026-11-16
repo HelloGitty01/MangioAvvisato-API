@@ -13,6 +13,6 @@ from .base import Connettore
 class Coop(Connettore):
     id = "coop"
     nome = "Coop"
-    sito = "https://www.e-coop.it/"
-    pagine_note = ("https://www.coop.it/", "https://www.e-coop.it/web/guest/richiami")
+    sito = "https://www.coop.it/"
+    pagine_note = ("https://www.coop.it/richiamo-prodotti", "https://www.coop.it/node/11490")
     attivo = False
