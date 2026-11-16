@@ -1968,6 +1968,49 @@
   "prima_rilevazione": "2026-11-14T13:10:34+00:00",
   "ultimo_aggiornamento": "2026-11-14T13:10:34+00:00"
  },
+ "salmone-scozzese-affumicato-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato-0/",
+  "titolo": "SALMONE SCOZZESE AFFUMICATO",
+  "data_pubblicazione": "2026-11-16",
+  "marca": "SALMONE SCOZZESE AFFUMICATO",
+  "denominazione": "SALMONE SCOZZESE AFFUMICATO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_salm%20scozz13112026_1794825190.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_salm scozz13112026_1794825190.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_salm%20scozz13112026_1794825190.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salmone-scozzese-affumicato-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALMONE SCOZZESE AFFUMICATO",
+   "operatore": "LA NEF SPA",
+   "lotti": [
+    "170794"
+   ],
+   "marchio_identificazione": "LT 72-01 EB",
+   "produttore": "NORVELITA UAB",
+   "sede_stabilimento": "PRAMONES STR. GABSIAI VILL. RASEINIAI DISTR. LITUANIA",
+   "scadenza": "18-11-2026",
+   "peso_volume": "100 G",
+   "motivo_esteso": "POSSIBILE PRESENZA LISTERIA MONOCYTOGENES",
+   "avvertenze": "SI PREGA, IN MANIERA PRECAUZIONALE, DI NON CONSUMARE IL PRODOTTO E DI RESTITUIRLO AL PUNTO VENDITA.",
+   "campi_extra": {
+    "SEGNATURA": "0209870|13/11/2026|AST-AN|AFFGEN|A",
+    "Data": "13/11/2026 Marchio del prodotto: SALMONE SCOZZESE AFFUMICATO"
+   },
+   "testo": "SEGNATURA: 0209870|13/11/2026|AST-AN|AFFGEN|A\nRICHIAMO\nData: 13/11/2026 Marchio del prodotto: SALMONE SCOZZESE AFFUMICATO\nDenominazione di vendita:SALMONE SCOZZESE AFFUMICATO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è LA NEF SPA\ncommercializzato:\nLotto di produzione: 170794\nMarchio di identificazione dello stabilimento/del produttore: LT 72-01 EB\nNome del produttore: NORVELITA UAB\nSede dello stabilimento: PRAMONES STR. GABSIAI VILL. RASEINIAI DISTR. LITUANIA\nData di scadenza o termine minimo di conservazione: 18-11-2026\nDescrizione peso/volume unità di vendita: 100 G\nMotivo del richiamo:\nPOSSIBILE PRESENZA LISTERIA MONOCYTOGENES\nAvvertenze:\nSI PREGA, IN MANIERA PRECAUZIONALE, DI NON CONSUMARE IL PRODOTTO E DI RESTITUIRLO AL\nPUNTO VENDITA."
+  },
+  "prima_rilevazione": "2026-11-16T15:24:31+00:00",
+  "ultimo_aggiornamento": "2026-11-16T15:24:31+00:00"
+ },
  "salsiccia-stagionata-calitrana-catenella": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-catenella/",
   "titolo": "SALSICCIA STAGIONATA CALITRANA A CATENELLA",
