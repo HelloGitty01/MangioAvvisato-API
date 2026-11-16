@@ -58,6 +58,35 @@ def _nome_file(url: str) -> str:
     return re.sub(r"[^A-Za-z0-9]+", "_", url.split("//", 1)[-1])[:120]
 
 
+UA_DESKTOP = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+)
+
+
+def prova_senza_browser(url: str, destinazione: Path) -> dict:
+    """Seconda prova con una semplice richiesta HTTP, per capire se il blocco
+    riguarda il browser automatico o l'indirizzo dei server di GitHub."""
+    import requests
+
+    try:
+        r = requests.get(url, timeout=30, headers={
+            "User-Agent": UA_DESKTOP,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "it-IT,it;q=0.9,en;q=0.5",
+        })
+        destinazione.write_bytes(r.content)
+        titolo = BeautifulSoup(r.text, "html.parser").title
+        return {
+            "stato": r.status_code,
+            "dimensione_kb": len(r.content) // 1024,
+            "titolo": titolo.get_text(strip=True) if titolo else "",
+            "server": r.headers.get("Server", ""),
+        }
+    except Exception as exc:  # noqa: BLE001
+        return {"errore": str(exc).splitlines()[0]}
+
+
 def esplora(fetcher: Fetcher, connettore, cartella: Path) -> dict:
     cartella.mkdir(parents=True, exist_ok=True)
     rapporto = {"catena": connettore.nome, "sito": connettore.sito, "pagine": [], "pdf": [], "errori": []}
@@ -86,6 +115,8 @@ def esplora(fetcher: Fetcher, connettore, cartella: Path) -> dict:
                 "verifica_antibot": looks_like_challenge(html),
                 "titolo": (BeautifulSoup(html, "html.parser").title.get_text(strip=True) if BeautifulSoup(html, "html.parser").title else ""),
             })
+            if re.search(r"\b40[13]\b|forbidden|access denied", voce["titolo"], re.I) or voce["dimensione_kb"] < 2:
+                voce["prova_senza_browser"] = prova_senza_browser(url, cartella / f"{nome}_http.html")
             pagine, pdf = collegamenti(html, url, connettore.sito)
             voce["collegamenti_richiami"] = pagine[:30]
             voce["pdf"] = pdf[:30]
