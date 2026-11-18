@@ -1968,6 +1968,33 @@
   "prima_rilevazione": "2026-11-14T13:10:34+00:00",
   "ultimo_aggiornamento": "2026-11-14T13:10:34+00:00"
  },
+ "revusco-salame-del-peccato": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/revusco-salame-del-peccato/",
+  "titolo": "Revusco Salame del peccato",
+  "data_pubblicazione": "2026-11-18",
+  "marca": "Salame Revusco",
+  "denominazione": "Revusco Salame del peccato",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodiRICHIAMO_1794998349.pdf",
+  "allegati": [
+   {
+    "titolo": "CartellodiRICHIAMO_1794998349.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/CartellodiRICHIAMO_1794998349.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "revusco-salame-del-peccato",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-18T13:34:40+00:00",
+  "ultimo_aggiornamento": "2026-11-18T13:34:40+00:00"
+ },
  "salmone-scozzese-affumicato-0": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato-0/",
   "titolo": "SALMONE SCOZZESE AFFUMICATO",
