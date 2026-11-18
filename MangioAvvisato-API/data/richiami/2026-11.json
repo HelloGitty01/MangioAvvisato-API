@@ -2038,6 +2038,49 @@
   "prima_rilevazione": "2026-11-16T15:24:31+00:00",
   "ultimo_aggiornamento": "2026-11-16T15:24:31+00:00"
  },
+ "salsiccia-stagionata-6": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-6/",
+  "titolo": "SALSICCIA STAGIONATA",
+  "data_pubblicazione": "2026-11-18",
+  "marca": "POGGINO SALUMI",
+  "denominazione": "SALSICCIA STAGIONATA",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_lotto_42A26_sfuso_1795016006.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_lotto_42A26_sfuso_1795016006.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_lotto_42A26_sfuso_1795016006.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-6",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALSICCIA STAGIONATA",
+   "operatore": "POGGINO SALUMI S.R.L.",
+   "lotti": [
+    "42A26"
+   ],
+   "marchio_identificazione": "IT 1544L CE",
+   "produttore": "POGGINO SALUMI S.R.L.",
+   "sede_stabilimento": "Via Dell'Industria, 29 - 01100 Viterbo (VT)",
+   "scadenza": "29-01-2027",
+   "peso_volume": "PRODOTTO SFUSO A PESO VARIABILE",
+   "motivo_esteso": "Presenza di salmonella spp. Rilevata nel corso di analisi in autocontrollo effettuate da un cliente.",
+   "avvertenze": "Non consumare il prodotto. Chi lo avesse acquistato è invitato a riportarlo al punto vendita dove è stato acquistato. Per informazioni: Poggino Salumi S.r.l., tel. 0761 353034",
+   "campi_extra": {
+    "Data": "17/11/2026 Marchio del prodotto: POGGINO SALUMI",
+    "acquistato. Per informazioni": "Poggino Salumi S.r.l., tel. 0761 353034"
+   },
+   "testo": "RICHIAMO\nData: 17/11/2026 Marchio del prodotto: POGGINO SALUMI\nDenominazione di vendita:SALSICCIA STAGIONATA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è POGGINO SALUMI S.R.L.\ncommercializzato:\nLotto di produzione: 42A26\nMarchio di identificazione dello stabilimento/del produttore: IT 1544L CE\nNome del produttore: POGGINO SALUMI S.R.L.\nSede dello stabilimento: Via Dell'Industria, 29 - 01100 Viterbo (VT)\nData di scadenza o termine minimo di conservazione: 29-01-2027\nDescrizione peso/volume unità di vendita: PRODOTTO SFUSO A PESO VARIABILE\nMotivo del richiamo:\nPresenza di salmonella spp. Rilevata nel corso di analisi in autocontrollo effettuate da un cliente.\nAvvertenze:\nNon consumare il prodotto. Chi lo avesse acquistato è invitato a riportarlo al punto vendita dove è stato\nacquistato. Per informazioni: Poggino Salumi S.r.l., tel. 0761 353034"
+  },
+  "prima_rilevazione": "2026-11-18T19:22:36+00:00",
+  "ultimo_aggiornamento": "2026-11-18T19:22:36+00:00"
+ },
  "salsiccia-stagionata-calitrana-catenella": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-calitrana-catenella/",
   "titolo": "SALSICCIA STAGIONATA CALITRANA A CATENELLA",
@@ -2199,6 +2242,49 @@
   },
   "prima_rilevazione": "2026-11-12T16:19:38+00:00",
   "ultimo_aggiornamento": "2026-11-12T16:19:38+00:00"
+ },
+ "salsiccia-stagionata-sv": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-sv/",
+  "titolo": "SALSICCIA STAGIONATA S/V",
+  "data_pubblicazione": "2026-11-18",
+  "marca": "POGGINO SALUMI",
+  "denominazione": "SALSICCIA STAGIONATA S/V",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_lotto_42A26E_sottovuoto_1795016039.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo_richiamo_lotto_42A26E_sottovuoto_1795016039.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo_richiamo_lotto_42A26E_sottovuoto_1795016039.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-stagionata-sv",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALSICCIA STAGIONATA S/V",
+   "operatore": "POGGINO SALUMI S.R.L.",
+   "lotti": [
+    "42A26E"
+   ],
+   "marchio_identificazione": "IT 1544L CE",
+   "produttore": "POGGINO SALUMI S.R.L.",
+   "sede_stabilimento": "Via dell'Industria, 29 - 01100 Viterbo (VT)",
+   "scadenza": "30-04-2027",
+   "peso_volume": "PRODOTTO IN SOTTOVUOTO (S/V) A PESO VARIABILE",
+   "motivo_esteso": "Presenza di Salmonella spp. rilevata nel corso di analisi in autocontrollo effettuate da un cliente.",
+   "avvertenze": "Non consumare il prodotto. Chi lo avesse acquistato è invitato a riportarlo al punto vendita dove è stato acquistato. Per informazioni: Poggino Salumi S.r.l., tel. 0761 353034.",
+   "campi_extra": {
+    "Data": "17/11/2026 Marchio del prodotto: POGGINO SALUMI",
+    "stato acquistato. Per informazioni": "Poggino Salumi S.r.l., tel. 0761 353034."
+   },
+   "testo": "RICHIAMO\nData: 17/11/2026 Marchio del prodotto: POGGINO SALUMI\nDenominazione di vendita:SALSICCIA STAGIONATA S/V\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è POGGINO SALUMI S.R.L.\ncommercializzato:\nLotto di produzione: 42A26E\nMarchio di identificazione dello stabilimento/del produttore: IT 1544L CE\nNome del produttore: POGGINO SALUMI S.R.L.\nSede dello stabilimento: Via dell'Industria, 29 - 01100 Viterbo (VT)\nData di scadenza o termine minimo di conservazione: 30-04-2027\nDescrizione peso/volume unità di vendita: PRODOTTO IN SOTTOVUOTO (S/V) A PESO VARIABILE\nMotivo del richiamo:\nPresenza di Salmonella spp. rilevata nel corso di analisi in autocontrollo effettuate da un cliente.\nAvvertenze:\nNon consumare il prodotto. Chi lo avesse acquistato è invitato a riportarlo al punto vendita dove è\nstato acquistato. Per informazioni: Poggino Salumi S.r.l., tel. 0761 353034."
+  },
+  "prima_rilevazione": "2026-11-18T19:22:39+00:00",
+  "ultimo_aggiornamento": "2026-11-18T19:22:39+00:00"
  },
  "snack-salato-con-zucchero-ed-edulcoloranti-104g20": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-salato-con-zucchero-ed-edulcoloranti-104g20/",
