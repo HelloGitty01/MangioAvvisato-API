@@ -1474,6 +1474,75 @@
   "prima_rilevazione": "2026-11-09T22:01:28+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:28+00:00"
  },
+ "gelatina-al-gusto-di-uva-verde-e-gusto-di-pesca": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-al-gusto-di-uva-verde-e-gusto-di-pesca/",
+  "titolo": "GELATINA AL GUSTO DI UVA VERDE E GUSTO DI PESCA",
+  "data_pubblicazione": "2026-11-19",
+  "marca": "YANJINPUZ",
+  "denominazione": "GELATINA AL GUSTO DI UVA VERDE E GUSTO DI PESCA",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20elite_1795102409.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo elite_1795102409.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo%20elite_1795102409.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gelatina-al-gusto-di-uva-verde-e-gusto-di-pesca",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "ELATINA AL GUSTO DI UVA VERDE E GUSTO DI PESCA",
+   "operatore": "L'ELiTE ALIMENTARE di Cheng Yunping commercializzalo",
+   "lotti": [
+    "produzlone: EB2K43 / LEB2K42"
+   ],
+   "marchio_identificazione": "applicabile prodotto non di origine animale",
+   "produttore": "ANJINPUZI FOOD CO., LTD Sede dello stabillmento: Jian'an B, Zona Economica e Tecnologica, Liuyang, Changsha, Hunan (Cina)",
+   "scadenza": "minìmo di conservazionc: 78/1/27 19/7/27",
+   "peso_volume": "7259",
+   "motivo_esteso": "Presenza dell'additivo non autorizzato E425 nelle gelatine, Allerta iRASFF 887460, SARAM n. 267 del 18,11 .2026,origine Cina",
+   "avvertenze": "Non consumare il prodotto. Riconsegnare la confezione al punto vendita o al distributore. Contattare L'ELITE ALIMENTARE di Cheng Yunping per il ritiro. nserire immagine uno; nserire immagine due",
+   "campi_extra": {
+    "Data": "Wi;n%-l Marchio del prodotto: ANJIN PUZI",
+    "Sede dello stabillmento": "Jian'an B, Zona Economica e Tecnologica, Liuyang, Changsha, Hunan (Cina)"
+   },
+   "testo": "RICHIAMO\nData: Wi;n%-l Marchio del prodotto: ANJIN PUZI\nDenominazione di vendita: ELATINA AL GUSTO DI UVA VERDE E GUSTO DI PESCA\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è L'ELiTE ALIMENTARE di Cheng Yunping\ncommercializzalo:\nLotto di produzlone: EB2K43 / LEB2K42\nMarchio di identificazione dello stabilimento/del produttore: applicabile prodotto non di origine animale\nNome del produttore: ANJINPUZI FOOD CO., LTD\nSede dello stabillmento: Jian'an B, Zona Economica e Tecnologica, Liuyang, Changsha, Hunan (Cina)\nData di scadenza o termine minìmo di conservazionc: 78/1/27 19/7/27\nDescrizione peso/volume unità di vendita: 7259\nMotivo del richiamo:\nPresenza dell'additivo non autorizzato E425 nelle gelatine, Allerta iRASFF 887460, SARAM n. 267 del 18,11\n.2026,origine Cina\nAvvertenze:\nNon consumare il prodotto. Riconsegnare la confezione al punto vendita o al distributore.\nContattare L'ELITE ALIMENTARE di Cheng Yunping per il ritiro.\nnserire immagine uno; nserire immagine due:"
+  },
+  "prima_rilevazione": "2026-11-19T19:21:13+00:00",
+  "ultimo_aggiornamento": "2026-11-19T19:21:13+00:00"
+ },
+ "gelatina-alla-frutta-200g-x-24": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-alla-frutta-200g-x-24/",
+  "titolo": "GELATINA ALLA FRUTTA 200g x 24",
+  "data_pubblicazione": "2026-11-19",
+  "marca": "XI ZHI LANG",
+  "denominazione": "GELATINA ALLA FRUTTA 200g x 24",
+  "motivo": "Altro motivo di richiamo",
+  "categoria_rischio": "altro",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo%20_2__1795102476.pdf",
+  "allegati": [
+   {
+    "titolo": "cartello_richiamo _2__1795102476.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/cartello_richiamo%20_2__1795102476.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "gelatina-alla-frutta-200g-x-24",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-19T19:21:19+00:00",
+  "ultimo_aggiornamento": "2026-11-19T19:21:19+00:00"
+ },
  "gelatina-di-birra-gelatina-di-birra-chiara-gelatina-di-fiori-di": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/gelatina-di-birra-gelatina-di-birra-chiara-gelatina-di-fiori-di/",
   "titolo": "Gelatina di birra · Gelatina di birra chiara · Gelatina di fiori di sambuco · Gelatina di sambuco",
@@ -2316,6 +2385,33 @@
   },
   "prima_rilevazione": "2026-11-18T19:22:39+00:00",
   "ultimo_aggiornamento": "2026-11-18T19:22:39+00:00"
+ },
+ "salsiccia-vene-x-4": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-vene-x-4/",
+  "titolo": "SALSICCIA VENÈ X 4",
+  "data_pubblicazione": "2026-11-19",
+  "marca": "SALUMIFICIO SANT'ORSO SRL",
+  "denominazione": "SALSICCIA VENÈ X 4",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20_2__1795102441.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo _2__1795102441.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20_2__1795102441.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-vene-x-4",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-19T19:21:16+00:00",
+  "ultimo_aggiornamento": "2026-11-19T19:21:16+00:00"
  },
  "snack-salato-con-zucchero-ed-edulcoloranti-104g20": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/snack-salato-con-zucchero-ed-edulcoloranti-104g20/",
