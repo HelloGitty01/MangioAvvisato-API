@@ -644,6 +644,37 @@
   "prima_rilevazione": "2026-11-13T21:17:39+00:00",
   "ultimo_aggiornamento": "2026-11-13T21:17:39+00:00"
  },
+ "conad-poster-20ritiro-20e-20richiamo-20hkh00-20-2b-20hku00": {
+  "id": "conad-poster-20ritiro-20e-20richiamo-20hkh00-20-2b-20hku00",
+  "tipo": "richiamo",
+  "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Poster%20Ritiro%20e%20Richiamo%20HKH00%20%2B%20HKU00.pdf?_u=d042b416c382b0cf7e195ccb45ea3f083e8cccdc",
+  "titolo": "HKH00000 SHAKER MAKER- HELLO KITTY & HKU00000 SHAKER MAKER",
+  "data_pubblicazione": "2026-11-19",
+  "fonte": "Conad",
+  "fonti": [
+   "conad"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "conad",
+    "nome": "Conad",
+    "tipo": "catena",
+    "url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Poster%20Ritiro%20e%20Richiamo%20HKH00%20%2B%20HKU00.pdf?_u=d042b416c382b0cf7e195ccb45ea3f083e8cccdc",
+    "data": "2026-11-19"
+   }
+  ],
+  "catene": [
+   "Conad"
+  ],
+  "dettagli": {},
+  "denominazione": "HKH00000 SHAKER MAKER- HELLO KITTY & HKU00000 SHAKER MAKER",
+  "marca": "HELLO KITTY",
+  "categoria_rischio": "altro",
+  "pdf_url": "https://www.conad.it/assets/images/news/richiami-prodotto/idm/Poster%20Ritiro%20e%20Richiamo%20HKH00%20%2B%20HKU00.pdf?_u=d042b416c382b0cf7e195ccb45ea3f083e8cccdc",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-19T16:19:14+00:00",
+  "ultimo_aggiornamento": "2026-11-19T16:19:14+00:00"
+ },
  "confettura-100-frutta-lamponi-confettura-extra-di-frutti-di-bosco": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/confettura-100-frutta-lamponi-confettura-extra-di-frutti-di-bosco/",
   "titolo": "Confettura 100% frutta Lamponi · Confettura extra di frutti di bosco · Confettura extra di lamponi ·",
