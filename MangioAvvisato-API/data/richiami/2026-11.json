@@ -343,6 +343,36 @@
   "prima_rilevazione": "2026-11-09T22:00:29+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:00:29+00:00"
  },
+ "carrefour-276-2026-cartello-richiamo-friggitrice-aria-crf-home-1795128788029": {
+  "id": "carrefour-276-2026-cartello-richiamo-friggitrice-aria-crf-home-1795128788029",
+  "tipo": "richiamo",
+  "url": "https://www.carrefour.it/on/demandware.static/-/Library-Sites-carrefour-library-IT/default/dwfeabd674/images/istituzionale/richiamo-prodotti/2026/276-2026_cartello_RICHIAMO_friggitrice_aria_CRF_Home_1795128788029.pdf",
+  "titolo": "Friggitrice ad aria 6l Crf Home Modello Haf6l1750-26",
+  "data_pubblicazione": "2026-11-19",
+  "fonte": "Carrefour",
+  "fonti": [
+   "carrefour"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "carrefour",
+    "nome": "Carrefour",
+    "tipo": "catena",
+    "url": "https://www.carrefour.it/on/demandware.static/-/Library-Sites-carrefour-library-IT/default/dwfeabd674/images/istituzionale/richiamo-prodotti/2026/276-2026_cartello_RICHIAMO_friggitrice_aria_CRF_Home_1795128788029.pdf",
+    "data": "2026-11-19"
+   }
+  ],
+  "catene": [
+   "Carrefour"
+  ],
+  "dettagli": {},
+  "denominazione": "Friggitrice ad aria 6l Crf Home Modello Haf6l1750-26",
+  "categoria_rischio": "altro",
+  "pdf_url": "https://www.carrefour.it/on/demandware.static/-/Library-Sites-carrefour-library-IT/default/dwfeabd674/images/istituzionale/richiamo-prodotti/2026/276-2026_cartello_RICHIAMO_friggitrice_aria_CRF_Home_1795128788029.pdf",
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-20T10:23:07+00:00",
+  "ultimo_aggiornamento": "2026-11-20T10:23:07+00:00"
+ },
  "cioccorenza-cotognata-crema-di-tighe": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/cioccorenza-cotognata-crema-di-tighe/",
   "titolo": "Cioccorenza · Cotognata · Crema di tighe",
