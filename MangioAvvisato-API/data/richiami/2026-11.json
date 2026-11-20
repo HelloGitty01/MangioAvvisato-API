@@ -2071,6 +2071,33 @@
   "prima_rilevazione": "2026-11-13T20:40:38+00:00",
   "ultimo_aggiornamento": "2026-11-13T20:40:38+00:00"
  },
+ "pomodorino-datterino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodorino-datterino/",
+  "titolo": "Pomodorino Datterino",
+  "data_pubblicazione": "2026-11-20",
+  "marca": "l'Ortofrutticola F SRL",
+  "denominazione": "Pomodorino Datterino",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Ortofrutticola_confezionatore%20_2__1795188905.pdf",
+  "allegati": [
+   {
+    "titolo": "Richiamo_Ortofrutticola_confezionatore _2__1795188905.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Richiamo_Ortofrutticola_confezionatore%20_2__1795188905.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pomodorino-datterino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-20T19:18:33+00:00",
+  "ultimo_aggiornamento": "2026-11-20T19:18:33+00:00"
+ },
  "pomodoro-datterino": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino/",
   "titolo": "POMODORO DATTERINO",
@@ -2097,6 +2124,33 @@
   },
   "prima_rilevazione": "2026-11-14T13:10:34+00:00",
   "ultimo_aggiornamento": "2026-11-14T13:10:34+00:00"
+ },
+ "pomodoro-datterino-0": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pomodoro-datterino-0/",
+  "titolo": "POMODORO DATTERINO",
+  "data_pubblicazione": "2026-11-20",
+  "marca": "L'ORTOFRUTTICOLA F S.R.L",
+  "denominazione": "POMODORO DATTERINO",
+  "motivo": "Altro motivo di revoca",
+  "categoria_rischio": "altro",
+  "tipo": "revoca",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Revoca_richiamo_Pomodorino_Datterino__1795188871.pdf",
+  "allegati": [
+   {
+    "titolo": "Modello_Revoca_richiamo_Pomodorino_Datterino__1795188871.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modello_Revoca_richiamo_Pomodorino_Datterino__1795188871.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pomodoro-datterino-0",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-20T19:18:30+00:00",
+  "ultimo_aggiornamento": "2026-11-20T19:18:30+00:00"
  },
  "revusco-salame-del-peccato": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/revusco-salame-del-peccato/",
@@ -2167,6 +2221,33 @@
   },
   "prima_rilevazione": "2026-11-16T15:24:31+00:00",
   "ultimo_aggiornamento": "2026-11-16T15:24:31+00:00"
+ },
+ "salsiccia-di-suino": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-di-suino/",
+  "titolo": "Salsiccia di suino",
+  "data_pubblicazione": "2026-11-20",
+  "marca": "Salsiccia di suino",
+  "denominazione": "Salsiccia di suino",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20sals_1795188838.pdf",
+  "allegati": [
+   {
+    "titolo": "Modulo di richiamo sals_1795188838.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Modulo%20di%20richiamo%20sals_1795188838.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salsiccia-di-suino",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-20T19:18:27+00:00",
+  "ultimo_aggiornamento": "2026-11-20T19:18:27+00:00"
  },
  "salsiccia-stagionata-6": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salsiccia-stagionata-6/",
