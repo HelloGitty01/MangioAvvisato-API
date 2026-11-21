@@ -1659,6 +1659,48 @@
   "prima_rilevazione": "2026-11-09T22:01:40+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:40+00:00"
  },
+ "insalata-di-mare": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/insalata-di-mare/",
+  "titolo": "INSALATA DI MARE",
+  "data_pubblicazione": "2026-11-20",
+  "marca": "MAREVIVO",
+  "denominazione": "INSALATA DI MARE",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Comunicazione%20Ministeriale_%20ritiro%20insalata%20di%20mare_1795242795.pdf",
+  "allegati": [
+   {
+    "titolo": "Comunicazione Ministeriale_ ritiro insalata di mare_1795242795.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Comunicazione%20Ministeriale_%20ritiro%20insalata%20di%20mare_1795242795.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "insalata-di-mare",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "INSALATA DI MARE",
+   "operatore": "Marevivo S.r.l",
+   "lotti": [
+    "INSM11/11/26"
+   ],
+   "marchio_identificazione": "MAREVIVO",
+   "produttore": "MAREVIVO",
+   "sede_stabilimento": "ZONA PIP S.P. 208, 10",
+   "scadenza": "24-11-2026",
+   "peso_volume": "250 g",
+   "motivo_esteso": "Presenza di Listeria monocytogenes",
+   "avvertenze": "Si prega di non consumare il prodotto e restituirlo al punto vendita.",
+   "campi_extra": {
+    "Data": "18/11/2026 Marchio del prodotto: MAREVIVO"
+   },
+   "testo": "RICHIAMO\nData: 18/11/2026 Marchio del prodotto: MAREVIVO\nDenominazione di vendita:INSALATA DI MARE\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è Marevivo S.r.l\ncommercializzato:\nLotto di produzione: INSM11/11/26\nMarchio di identificazione dello stabilimento/del produttore: MAREVIVO\nNome del produttore: MAREVIVO\nSede dello stabilimento: ZONA PIP S.P. 208, 10\nData di scadenza o termine minimo di conservazione: 24-11-2026\nDescrizione peso/volume unità di vendita: 250 g\nMotivo del richiamo:\nPresenza di Listeria monocytogenes\nAvvertenze:\nSi prega di non consumare il prodotto e restituirlo al punto vendita."
+  },
+  "prima_rilevazione": "2026-11-21T10:03:24+00:00",
+  "ultimo_aggiornamento": "2026-11-21T10:03:24+00:00"
+ },
  "kg1-pistacchsgusc-spel-mc": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/kg1-pistacchsgusc-spel-mc/",
   "titolo": "KG1 PISTACCH.SGUSC SPEL MC",
