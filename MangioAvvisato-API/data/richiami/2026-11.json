@@ -300,6 +300,49 @@
   "prima_rilevazione": "2026-11-09T22:01:20+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:20+00:00"
  },
+ "biscotti-frolle-saraceni-66-box": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/biscotti-frolle-saraceni-66-box/",
+  "titolo": "BISCOTTI FROLLE-SARACENI 6+6 BOX",
+  "data_pubblicazione": "2026-11-23",
+  "marca": "INGLESE GLUTENFREE",
+  "denominazione": "BISCOTTI FROLLE-SARACENI 6+6 BOX",
+  "motivo": "Richiamo per rischio presenza di allergeni",
+  "categoria_rischio": "allergeni",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_INGFROSARBOX_1795438951.pdf",
+  "allegati": [
+   {
+    "titolo": "RICHIAMO_INGFROSARBOX_1795438951.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/RICHIAMO_INGFROSARBOX_1795438951.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "biscotti-frolle-saraceni-66-box",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "BISCOTTI FROLLE-SARACENI 6+6 BOX",
+   "operatore": "GAIA SRL A SOCIO UNICO",
+   "lotti": [
+    "260415010 - 260512010 - 260402010"
+   ],
+   "marchio_identificazione": "INGLESE GLUTENFREE",
+   "produttore": "GAIA SRL A SOCIO UNICO",
+   "sede_stabilimento": "VIA DEI BAGNI NUOVA 3 - 34074 MONFALCONE (GO)",
+   "scadenza": "04/2027 - 05/2027",
+   "peso_volume": "28 G",
+   "motivo_esteso": "IN FROLLE DEL NONNO CLASSICHE MONOPORZIONE L260513052 E' STATA RILEVATA LA PRESENZA DI ALLERGENE MANDORLA NON DICHIARATO IN ETICHETTA",
+   "avvertenze": "NON CONSUMARE E RIPORTARE LA CONFEZIONE IN PUNTO VENDITA Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "20/11/2026 Marchio del prodotto: INGLESE GLUTENFREE",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 20/11/2026 Marchio del prodotto: INGLESE GLUTENFREE\nDenominazione di vendita: BISCOTTI FROLLE-SARACENI 6+6 BOX\nNome o ragione sociale dell'OSA GAIA SRL A SOCIO UNICO\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: 260415010 - 260512010 - 260402010\nMarchio di identificazione dello stabilimento/del produttore: INGLESE GLUTENFREE\nNome del produttore: GAIA SRL A SOCIO UNICO\nSede dello stabilimento: VIA DEI BAGNI NUOVA 3 - 34074 MONFALCONE (GO)\nData di scadenza o termine minimo di conservazione: 04/2027 - 05/2027\nDescrizione peso/volume unità di vendita: 28 G\nMotivo del richiamo:\nIN FROLLE DEL NONNO CLASSICHE MONOPORZIONE L260513052 E' STATA RILEVATA LA PRESENZA DI\nALLERGENE MANDORLA NON DICHIARATO IN ETICHETTA\nAvvertenze:\nNON CONSUMARE E RIPORTARE LA CONFEZIONE IN PUNTO VENDITA\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-11-23T16:25:46+00:00",
+  "ultimo_aggiornamento": "2026-11-23T16:25:46+00:00"
+ },
  "carciofi-carciofi-al-rosmarino-carciofi-con-gambo-carciofi-con": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/carciofi-carciofi-al-rosmarino-carciofi-con-gambo-carciofi-con/",
   "titolo": "Carciofi · Carciofi al rosmarino · Carciofi con gambo · Carciofi con gambo alla romana",
