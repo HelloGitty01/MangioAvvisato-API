@@ -1872,6 +1872,49 @@
   "prima_rilevazione": "2026-11-13T16:04:57+00:00",
   "ultimo_aggiornamento": "2026-11-13T16:04:57+00:00"
  },
+ "latteria-villa-pinta-iemoli-formaggio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/latteria-villa-pinta-iemoli-formaggio/",
+  "titolo": "LATTERIA VILLA PINTA IEMOLI FORMAGGIO",
+  "data_pubblicazione": "2026-11-24",
+  "marca": "IPERAL",
+  "denominazione": "LATTERIA VILLA PINTA IEMOLI FORMAGGIO",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%2023_11_1795534397.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello di Richiamo 23_11_1795534397.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20di%20Richiamo%2023_11_1795534397.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "latteria-villa-pinta-iemoli-formaggio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "LATTERIA VILLA PINTA IEMOLI FORMAGGIO",
+   "operatore": "IPERAL SUPERMERCATI SPA",
+   "lotti": [
+    "616217 - 616318"
+   ],
+   "marchio_identificazione": "IT S3Y2S UE",
+   "produttore": "Soc. Agr. lEMOLl Stefano, lvan e Teodoro s.s.",
+   "sede_stabilimento": "Via Viganò, 140 20833 Giussano (MB)",
+   "scadenza": "02 e 03/12/2026",
+   "peso_volume": "ca 300g",
+   "motivo_esteso": "Presenza di Salmonella Spp",
+   "avvertenze": "Non consumare il prodotto. Riconsegnarlo al Punto Vendita dove è stato acquistato. Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "23/11/2026 Marchio del prodotto: Iperal - PIU' BASSI SEMPRE",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 23/11/2026 Marchio del prodotto: Iperal - PIU' BASSI SEMPRE\nDenominazione di vendita:LATTERIA VILLA PINTA IEMOLI FORMAGGIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è IPERAL SUPERMERCATI SPA\ncommercializzato:\nLotto di produzione: 616217 - 616318\nMarchio di identificazione dello stabilimento/del produttore: IT S3Y2S UE\nNome del produttore: Soc. Agr. lEMOLl Stefano, lvan e Teodoro s.s.\nSede dello stabilimento: Via Viganò, 140 20833 Giussano (MB)\nData di scadenza o termine minimo di conservazione: 02 e 03/12/2026\nDescrizione peso/volume unità di vendita: ca 300g\nMotivo del richiamo:\nPresenza di Salmonella Spp\nAvvertenze:\nNon consumare il prodotto. Riconsegnarlo al Punto Vendita dove è stato acquistato.\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-11-24T17:53:08+00:00",
+  "ultimo_aggiornamento": "2026-11-24T17:53:08+00:00"
+ },
  "lorenzo-orlando-ortofrutticola-la-perla": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/lorenzo-orlando-ortofrutticola-la-perla/",
   "titolo": "LORENZO ORLANDO - ORTOFRUTTICOLA LA PERLA",
@@ -2349,6 +2392,51 @@
   },
   "prima_rilevazione": "2026-11-18T13:34:40+00:00",
   "ultimo_aggiornamento": "2026-11-18T13:34:40+00:00"
+ },
+ "salame-magro-100g": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-magro-100g/",
+  "titolo": "Salame magro 100g",
+  "data_pubblicazione": "2026-11-24",
+  "marca": "Welles",
+  "denominazione": "Salame magro 100g",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20aggiornato%20Salame%20Magro%20Welless%20100g_1795525348.pdf",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo aggiornato Salame Magro Welless 100g_1795525348.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20aggiornato%20Salame%20Magro%20Welless%20100g_1795525348.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-magro-100g",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "SALAME MAGRO 100g",
+   "operatore": "PENNY MARKET Srl",
+   "lotti": [
+    "V262871-019",
+    "-020",
+    "-021"
+   ],
+   "marchio_identificazione": "IT 9 3199 L UE",
+   "produttore": "Valfiorita Salumi S.r.l.",
+   "sede_stabilimento": "Via Edison 3/7, Sandrà di Castelnuovo del Garda (VR)",
+   "scadenza": "04-01-2027",
+   "peso_volume": "100g",
+   "motivo_esteso": "Contaminazione microbiologica da Salmonella Spp",
+   "avvertenze": "Qualora acquistato il prodotto con lotti e scadenze sopraindicati, non consumarlo e riportarlo al punto vendita dove è stato acquistato. Per qualsiasi richiesta di informazioni visitare il sito www.penny.it/contattaci Inserire immagine uno: Inserire immagine due",
+   "campi_extra": {
+    "Data": "19/11/2026 Marchio del prodotto: WELLESS",
+    "Inserire immagine uno": "Inserire immagine due:"
+   },
+   "testo": "RICHIAMO\nData: 19/11/2026 Marchio del prodotto: WELLESS\nDenominazione di vendita:SALAME MAGRO 100g\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è PENNY MARKET Srl\ncommercializzato:\nLotto di produzione: V262871-019, -020, -021\nMarchio di identificazione dello stabilimento/del produttore: IT 9 3199 L UE\nNome del produttore: Valfiorita Salumi S.r.l.\nSede dello stabilimento: Via Edison 3/7, Sandrà di Castelnuovo del Garda (VR)\nData di scadenza o termine minimo di conservazione: 04-01-2027\nDescrizione peso/volume unità di vendita: 100g\nMotivo del richiamo:\nContaminazione microbiologica da Salmonella Spp\nAvvertenze:\nQualora acquistato il prodotto con lotti e scadenze sopraindicati, non consumarlo e riportarlo al punto\nvendita dove è stato acquistato.\nPer qualsiasi richiesta di informazioni visitare il sito www.penny.it/contattaci\nInserire immagine uno: Inserire immagine due:"
+  },
+  "prima_rilevazione": "2026-11-24T17:53:05+00:00",
+  "ultimo_aggiornamento": "2026-11-24T17:53:05+00:00"
  },
  "salmone-scozzese-affumicato-0": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato-0/",
