@@ -35,7 +35,7 @@ jobs:
     timeout-minutes: 150
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy_1.outputs.page_url || steps.deploy_2.outputs.page_url }}
     defaults:
       run:
         working-directory: MangioAvvisato-API
@@ -108,8 +108,22 @@ jobs:
         with:
           path: MangioAvvisato-API/public
           name: github-pages-${{ github.run_attempt }}
-      - id: deploy
+      # A volte GitHub non "vede" subito il pacchetto appena caricato:
+      # si aspetta qualche secondo e, se la pubblicazione fallisce, si riprova.
+      - name: Attesa prima della pubblicazione
         if: ${{ !cancelled() }}
+        run: sleep 20
+      - id: deploy_1
+        if: ${{ !cancelled() }}
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}
+      - name: Attesa prima del secondo tentativo
+        if: ${{ !cancelled() && steps.deploy_1.outcome == 'failure' }}
+        run: sleep 90
+      - id: deploy_2
+        if: ${{ !cancelled() && steps.deploy_1.outcome == 'failure' }}
         uses: actions/deploy-pages@v4
         with:
           artifact_name: github-pages-${{ github.run_attempt }}
