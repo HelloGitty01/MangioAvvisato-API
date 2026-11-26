@@ -1,9 +1,16 @@
 [
   {
+    "id": "novita-1-0-8-catene",
+    "data": "2026-11-26",
+    "titolo": "Novità: i richiami dei supermercati",
+    "testo": "Con questo aggiornamento MangioAvvisato non legge più solo il portale del Ministero della Salute: controlla anche le pagine dei richiami di Esselunga, Conad e Carrefour.\n\nSpesso i supermercati avvisano i clienti prima che il richiamo compaia sul sito del Ministero: così lo vedi prima anche tu. Quando un richiamo arriva solo da una catena, lo trovi segnalato con il nome della catena; quando poi lo pubblica anche il Ministero, i due avvisi vengono uniti in uno solo.\n\nLe altre novità:\n• nuova sezione Impostazioni, dove puoi scegliere da quali catene ricevere le segnalazioni;\n• filtro per fonte, per vedere solo i richiami del Ministero o di una catena;\n• icone per i tipi di rischio, nell'elenco e nei filtri;\n• un pulsante per tornare in cima all'elenco (o tocca di nuovo «Richiami»);\n• un avviso se il risparmio energetico del telefono può ritardare le notifiche;\n• nuova sezione Info, per consigliare l'app, valutarla sul Play Store e leggere l'informativa sulla privacy.\n\nAltre catene arriveranno più avanti. Fa sempre fede la pubblicazione ufficiale sul sito del Ministero della Salute.\n\nSe MangioAvvisato ti è utile, consigliala a chi conosci: più persone sono avvisate, meglio è!",
+    "link": "https://hellogitty01.github.io/MangioAvvisato-API/"
+  },
+  {
     "id": "benvenuto-mangioavvisato",
     "data": "2026-11-03",
-    "titolo": "Benvenuto in MangioAvvisato!",
+    "titolo": "Benvenuto in MangioAvvisato !",
     "testo": "MangioAvvisato ti tiene informato sui richiami di prodotti alimentari pubblicati dal Ministero della Salute: alimenti ritirati dal mercato perché potrebbero essere pericolosi, per esempio per contaminazione da batteri, allergeni non dichiarati in etichetta o corpi estranei.\n\nCosa puoi fare:\n• consultare tutti i richiami dal 2017 a oggi, cercando per prodotto, marca o lotto, e filtrandoli per periodo e tipo di rischio;\n• ricevere una notifica quando viene pubblicato un nuovo richiamo;\n• controllare un prodotto che hai in casa inquadrando il lotto con la fotocamera;\n• salvare i prodotti che ti riguardano nella tua lista, con un promemoria per riportarli al negozio;\n• capire il rischio con «Di cosa si tratta?», che rimanda a fonti come l'Istituto Superiore di Sanità;\n• condividere un richiamo con familiari e amici via WhatsApp, email o altre app.\n\nSe hai un prodotto richiamato, non consumarlo e riportalo al punto vendita: di norma hai diritto al rimborso o alla sostituzione, anche senza scontrino.\n\nI dati provengono dal portale del Ministero della Salute e vengono aggiornati più volte al giorno. Fa fede esclusivamente la pubblicazione ufficiale sul sito del Ministero.\n\nBuon appetito… e occhio a cosa mangi!",
-    "link": "https://www.salute.gov.it/new/it/tema/sistema-di-controllo-della-sicurezza-alimentare/richiami-osa-sistema-di-informazione-ai/"
+    "link": "https://hellogitty01.github.io/MangioAvvisato-API/"
   }
 ]
