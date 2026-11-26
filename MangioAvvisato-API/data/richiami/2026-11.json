@@ -1350,6 +1350,57 @@
   "prima_rilevazione": "2026-11-09T22:02:02+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:02:02+00:00"
  },
+ "esselunga-cartello-richiamo-torta-sole-elisenda": {
+  "id": "esselunga-cartello-richiamo-torta-sole-elisenda",
+  "tipo": "richiamo",
+  "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello-richiamo-torta-sole-elisenda.pdf",
+  "titolo": "Torta Sole Elisenda",
+  "data_pubblicazione": "2026-11-26",
+  "fonte": "Esselunga",
+  "fonti": [
+   "esselunga"
+  ],
+  "fonti_dettaglio": [
+   {
+    "id": "esselunga",
+    "nome": "Esselunga",
+    "tipo": "catena",
+    "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello-richiamo-torta-sole-elisenda.pdf",
+    "data": null
+   }
+  ],
+  "catene": [
+   "Esselunga"
+  ],
+  "dettagli": {
+   "denominazione_vendita": "Torta Sole",
+   "operatore": "Esselunga SpA",
+   "lotti": [
+    "Sc 26.11.26",
+    "27.11.26",
+    "28.11.26",
+    "29.11.26"
+   ],
+   "produttore": "Esselunga SpA",
+   "sede_stabilimento": "Via Giambologna 1, 20096 Limito di Pioltello, Milano",
+   "peso_volume": "Max 1,6 kg",
+   "motivo_esteso": "Rilevata presenza di un fitofarmaco (pesticida) oltre i limiti di legge su un ingrediente utilizzato per la preparazione della Torta Sole.",
+   "avvertenze": "si chiede al consumatore che abbia acquistato il prodotto in oggetto dal 23.11.26 al 26.11.26 di non consumarlo e di riportarlo a negozio per il relativo rimborso Inserire immagine due",
+   "campi_extra": {
+    "Data": "26.11.26 Marchio del prodotto: Esselunga- Elisenda"
+   },
+   "testo": "RICHIAMO\nData: 26.11.26 Marchio del prodotto: Esselunga- Elisenda\nDenominazione di vendita: Torta Sole\nNome o ragione sociale dell'OSA Esselunga SpA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: Sc 26.11.26,27.11.26,28.11.26,29.11.26\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Esselunga SpA\nSede dello stabilimento: Via Giambologna 1, 20096 Limito di Pioltello, Milano\nData di scadenza o termine minimo di conservazione: -\nDescrizione peso/volume unità di vendita: Max 1,6 kg\nMotivo del richiamo:\nRilevata presenza di un fitofarmaco (pesticida) oltre i limiti di legge su un ingrediente utilizzato per la\npreparazione della Torta Sole.\nAvvertenze:\nsi chiede al consumatore che abbia acquistato il prodotto in oggetto dal 23.11.26 al 26.11.26 di non\nconsumarlo e di riportarlo a negozio per il relativo rimborso\nInserire immagine due:"
+  },
+  "denominazione": "Torta Sole",
+  "marca": "Esselunga- Elisenda",
+  "motivo": "Rilevata presenza di un fitofarmaco (pesticida) oltre i limiti di legge su un ingrediente utilizzato per la preparazione della Torta Sole.",
+  "categoria_rischio": "chimico",
+  "pdf_url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello-richiamo-torta-sole-elisenda.pdf",
+  "data_stimata": true,
+  "versione_parser": 5,
+  "prima_rilevazione": "2026-11-26T19:05:52+00:00",
+  "ultimo_aggiornamento": "2026-11-26T19:05:52+00:00"
+ },
  "estratto-di-mela-e-carota-nettare-ace-nettare-di-albicocca-nettare": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-di-mela-e-carota-nettare-ace-nettare-di-albicocca-nettare/",
   "titolo": "Estratto di mela e carota · Nettare ACE · Nettare di albicocca · Nettare di amarene ...",
