@@ -1353,14 +1353,22 @@
  "esselunga-cartello-richiamo-torta-sole-elisenda": {
   "id": "esselunga-cartello-richiamo-torta-sole-elisenda",
   "tipo": "richiamo",
-  "url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello-richiamo-torta-sole-elisenda.pdf",
-  "titolo": "Torta Sole Elisenda",
-  "data_pubblicazione": "2026-11-26",
-  "fonte": "Esselunga",
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-sole/",
+  "titolo": "Torta Sole",
+  "data_pubblicazione": "2026-11-27",
+  "fonte": "Ministero della Salute",
   "fonti": [
+   "ministero",
    "esselunga"
   ],
   "fonti_dettaglio": [
+   {
+    "id": "ministero",
+    "nome": "Ministero della Salute",
+    "tipo": "ministero",
+    "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/torta-sole/",
+    "data": "2026-11-27"
+   },
    {
     "id": "esselunga",
     "nome": "Esselunga",
@@ -1392,14 +1400,22 @@
    "testo": "RICHIAMO\nData: 26.11.26 Marchio del prodotto: Esselunga- Elisenda\nDenominazione di vendita: Torta Sole\nNome o ragione sociale dell'OSA Esselunga SpA\na nome del quale il prodotto è\ncommercializzato:\nLotto di produzione: Sc 26.11.26,27.11.26,28.11.26,29.11.26\nMarchio di identificazione dello stabilimento/del produttore: -\nNome del produttore: Esselunga SpA\nSede dello stabilimento: Via Giambologna 1, 20096 Limito di Pioltello, Milano\nData di scadenza o termine minimo di conservazione: -\nDescrizione peso/volume unità di vendita: Max 1,6 kg\nMotivo del richiamo:\nRilevata presenza di un fitofarmaco (pesticida) oltre i limiti di legge su un ingrediente utilizzato per la\npreparazione della Torta Sole.\nAvvertenze:\nsi chiede al consumatore che abbia acquistato il prodotto in oggetto dal 23.11.26 al 26.11.26 di non\nconsumarlo e di riportarlo a negozio per il relativo rimborso\nInserire immagine due:"
   },
   "denominazione": "Torta Sole",
-  "marca": "Esselunga- Elisenda",
-  "motivo": "Rilevata presenza di un fitofarmaco (pesticida) oltre i limiti di legge su un ingrediente utilizzato per la preparazione della Torta Sole.",
+  "marca": "Elisenda Esselunga",
+  "motivo": "Richiamo per rischio chimico",
   "categoria_rischio": "chimico",
-  "pdf_url": "https://www.esselunga.it/media/footer/servizio-clienti/allerte-e-richiami/pdf/cartello-richiamo-torta-sole-elisenda.pdf",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20TORTA%20SOLE%20ELISENDA%20_%20ESSELUNGA_1795784550.pdf",
   "data_stimata": true,
   "versione_parser": 5,
   "prima_rilevazione": "2026-11-26T19:05:52+00:00",
-  "ultimo_aggiornamento": "2026-11-26T19:05:52+00:00"
+  "ultimo_aggiornamento": "2026-11-27T16:29:15+00:00",
+  "allegati": [
+   {
+    "titolo": "Cartello richiamo TORTA SOLE ELISENDA _ ESSELUNGA_1795784550.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/Cartello%20richiamo%20TORTA%20SOLE%20ELISENDA%20_%20ESSELUNGA_1795784550.pdf"
+   }
+  ],
+  "depubblicato": false,
+  "id_ministero": "torta-sole"
  },
  "estratto-di-mela-e-carota-nettare-ace-nettare-di-albicocca-nettare": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/estratto-di-mela-e-carota-nettare-ace-nettare-di-albicocca-nettare/",
@@ -2336,6 +2352,47 @@
   "prima_rilevazione": "2026-11-09T22:01:06+00:00",
   "ultimo_aggiornamento": "2026-11-09T22:01:06+00:00"
  },
+ "pesto-di-pistacchio": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pesto-di-pistacchio/",
+  "titolo": "PESTO DI PISTACCHIO",
+  "data_pubblicazione": "2026-11-27",
+  "marca": "ESSENZA-CARBONE",
+  "denominazione": "PESTO DI PISTACCHIO",
+  "motivo": "Richiamo per rischio chimico",
+  "categoria_rischio": "chimico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_Essenza%20Carbone.pdf%201_1795784548.pdf",
+  "allegati": [
+   {
+    "titolo": "richiamo_Essenza Carbone.pdf 1_1795784548.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/richiamo_Essenza%20Carbone.pdf%201_1795784548.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "pesto-di-pistacchio",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "denominazione_vendita": "PESTO DI PISTACCHIO",
+   "operatore": "I.S.A. Srl - Industria Specialità Alimentari",
+   "lotti": [
+    "LR 246"
+   ],
+   "produttore": "WORL TRADE FRUIT srl",
+   "sede_stabilimento": "Corso Alessandro Volta 462 – 80040 Terzigno (NA)",
+   "scadenza": "03-09-2028",
+   "peso_volume": "vaso vetro 570 ml",
+   "motivo_esteso": "AFLATOSSINE sopra il valore limite consentito",
+   "avvertenze": "Si raccomanda ai consumatori di non consumare il prodotto appartenente al lotto sopra indicato e di riportarlo al punto vendita presso cui è stato acquistato per la sostituzione o il rimborso.",
+   "campi_extra": {
+    "Data": "26/11/2026 Marchio del prodotto: ESSENZA - CARBONE"
+   },
+   "testo": "RICHIAMO\nData: 26/11/2026 Marchio del prodotto: ESSENZA - CARBONE\nDenominazione di vendita:PESTO DI PISTACCHIO\nNome o ragione sociale dell'OSA\na nome del quale il prodotto è I.S.A. Srl - Industria Specialità Alimentari\ncommercializzato:\nLotto di produzione: LR 246\nMarchio di identificazione dello stabilimento/del produttore:\nNome del produttore: WORL TRADE FRUIT srl\nSede dello stabilimento: Corso Alessandro Volta 462 – 80040 Terzigno (NA)\nData di scadenza o termine minimo di conservazione: 03-09-2028\nDescrizione peso/volume unità di vendita: vaso vetro 570 ml\nMotivo del richiamo:\nAFLATOSSINE sopra il valore limite consentito\nAvvertenze:\nSi raccomanda ai consumatori di non consumare il prodotto appartenente al lotto sopra indicato e di\nriportarlo al punto vendita presso cui è stato acquistato per la sostituzione o il rimborso."
+  },
+  "prima_rilevazione": "2026-11-27T16:29:12+00:00",
+  "ultimo_aggiornamento": "2026-11-27T16:29:12+00:00"
+ },
  "pistacchi-sgusciati-50-g": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/pistacchi-sgusciati-50-g/",
   "titolo": "Pistacchi sgusciati 50 g",
@@ -2515,6 +2572,33 @@
   },
   "prima_rilevazione": "2026-11-24T17:53:05+00:00",
   "ultimo_aggiornamento": "2026-11-24T17:53:05+00:00"
+ },
+ "salame-pepe-nero-di-suino-dei-nebrodi": {
+  "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salame-pepe-nero-di-suino-dei-nebrodi/",
+  "titolo": "Salame pepe nero di suino dei nebrodi",
+  "data_pubblicazione": "2026-11-27",
+  "marca": "Fattoria Borrello Soc. Semplice Agricola Borrello A&C",
+  "denominazione": "Salame pepe nero di suino dei nebrodi",
+  "motivo": "Richiamo per rischio microbiologico",
+  "categoria_rischio": "microbiologico",
+  "tipo": "richiamo",
+  "pdf_url": "https://www.salute.gov.it/new/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULODIRICHIAMOSALAME_1795775594.pdf",
+  "allegati": [
+   {
+    "titolo": "MODULODIRICHIAMOSALAME_1795775594.pdf",
+    "url": "/sites/default/files/external_data/avvisi_sicurezza_alimentare/MODULODIRICHIAMOSALAME_1795775594.pdf"
+   }
+  ],
+  "campi_pagina": {},
+  "depubblicato": false,
+  "id": "salame-pepe-nero-di-suino-dei-nebrodi",
+  "versione_parser": 5,
+  "fonte": "Ministero della Salute",
+  "dettagli": {
+   "testo": ""
+  },
+  "prima_rilevazione": "2026-11-27T16:29:08+00:00",
+  "ultimo_aggiornamento": "2026-11-27T16:29:08+00:00"
  },
  "salmone-scozzese-affumicato-0": {
   "url": "https://www.salute.gov.it/new/it/ext-avviso-sicurezza-alimentare/salmone-scozzese-affumicato-0/",
