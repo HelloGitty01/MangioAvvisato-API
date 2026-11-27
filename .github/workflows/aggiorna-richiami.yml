@@ -7,8 +7,10 @@ on:
     paths:
       - "MangioAvvisato-API/contenuti/**"
   schedule:
-    # Ogni 3 ore, al minuto 17 (evita l'ora piena, quando GitHub è più carico).
-    - cron: "17 */3 * * *"
+    # GitHub a volte salta le esecuzioni programmate: si prova ogni ora
+    # (al minuto 41, lontano dall'ora piena) e il job "serve" lascia
+    # partire il controllo solo se l'ultimo riuscito è di oltre 2 ore e mezza fa.
+    - cron: "41 * * * *"
   workflow_dispatch:
     inputs:
       backfill:
@@ -30,7 +32,29 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  serve:
+    runs-on: ubuntu-24.04
+    permissions:
+      actions: read
+    outputs:
+      esegui: ${{ steps.verifica.outputs.esegui }}
+    steps:
+      - id: verifica
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENTO: ${{ github.event_name }}
+        run: |
+          if [ "$EVENTO" != "schedule" ]; then echo "esegui=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          ULTIMO=$(gh api "repos/${{ github.repository }}/actions/workflows/aggiorna-richiami.yml/runs?status=success&per_page=10" \
+            --jq '[.workflow_runs[] | select(.event != "push")][0].run_started_at // ""')
+          if [ -z "$ULTIMO" ]; then echo "esegui=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          MINUTI=$(( ( $(date +%s) - $(date -d "$ULTIMO" +%s) ) / 60 ))
+          echo "Ultimo controllo riuscito: $ULTIMO ($MINUTI minuti fa)"
+          if [ "$MINUTI" -ge 150 ]; then echo "esegui=true" >> "$GITHUB_OUTPUT"; else echo "esegui=false" >> "$GITHUB_OUTPUT"; fi
+
   aggiorna:
+    needs: serve
+    if: ${{ needs.serve.outputs.esegui == 'true' }}
     runs-on: ubuntu-24.04
     timeout-minutes: 150
     environment:
